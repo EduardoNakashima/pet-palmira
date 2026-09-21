@@ -1,0 +1,90 @@
+/* =========================================================
+   PET SHOP PALMIRA — BASE
+   Reset, variáveis de identidade visual e tipografia.
+   ========================================================= */
+
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+html {
+  scroll-behavior: smooth;
+  font-size: 16px;
+}
+
+body {
+  font-family: 'Nunito', sans-serif;
+  color: #2d3748;
+  background: #f8fff9;
+  overflow-x: hidden;
+  line-height: 1.6;
+}
+
+a { text-decoration: none; color: inherit; }
+img { max-width: 100%; display: block; }
+ul { list-style: none; }
+button { font: inherit; cursor: pointer; }
+
+/* Foco visível para navegação por teclado */
+a:focus-visible,
+button:focus-visible {
+  outline: 3px solid var(--gb);
+  outline-offset: 2px;
+}
+
+/* Respeita preferência de movimento reduzido */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: .001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: .001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Utilitário para conteúdo só para leitores de tela */
+.sr-only {
+  position: absolute;
+  width: 1px; height: 1px;
+  padding: 0; margin: -1px;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* ---- IDENTIDADE VISUAL (paleta e escala) ---- */
+:root {
+  --gd: #1a5c2e;   /* verde escuro — marca, header, rodapé */
+  --gm: #2b8a45;   /* verde médio — destaques, títulos */
+  --gb: #4db86a;   /* verde claro — hovers, foco */
+  --gp: #e8f5ec;   /* verde muito claro — fundos, bordas suaves */
+  --gf: #f0faf3;   /* verde quase branco — fundo alternado de seção */
+  --or: #e8922a;   /* laranja — acento de calor/familiaridade */
+  --orl: #f5a84a;
+  --br: #7d4e1f;   /* marrom — logo */
+  --go: #f0c14b;   /* dourado suave — acento pontual, sem look premium */
+  --wh: #ffffff;
+  --dk: #1a2d20;   /* quase-preto esverdeado — textos fortes, rodapé */
+  --tx: #2d3748;
+  --tl: #718096;   /* texto secundário */
+  --wa: #25d366;   /* verde WhatsApp (cor de marca fixa) */
+
+  --r: 16px;
+  --rs: 8px;
+  --rl: 24px;
+  --rp: 100px;     /* pill/botões */
+
+  --maxw: 1200px;
+}
+
+/* ---- TIPOGRAFIA ---- */
+h1, h2, h3, .display {
+  font-family: 'Fredoka One', cursive;
+  color: var(--dk);
+  line-height: 1.15;
+}
+
+h1 { font-size: clamp(32px, 5vw, 54px); }
+h2 { font-size: clamp(26px, 4vw, 40px); }
+h3 { font-size: clamp(19px, 2.4vw, 22px); }
+
+p { max-width: 68ch; }

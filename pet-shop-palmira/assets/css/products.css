@@ -1,0 +1,16 @@
+/* =========================================================
+   PET SHOP PALMIRA — PRODUTOS
+   Reservado para os elementos exclusivos das páginas de
+   categoria (produtos.html, cachorros-e-gatos.html,
+   passaros.html, cavalos-e-porquinhos.html,
+   porcos-e-galinhas.html).
+
+   Regras que já existem em components.css (.category-card,
+   .btn, .section, .section-head etc.) NÃO devem ser
+   repetidas aqui — apenas o que for específico dessas
+   páginas, como o grid de produtos em cards e o cabeçalho
+   de categoria com breadcrumb.
+
+   Este arquivo fica vazio até criarmos a primeira página de
+   categoria, para não termos CSS morto no projeto.
+   ========================================================= */

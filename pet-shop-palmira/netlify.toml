@@ -1,0 +1,17 @@
+# Configuração básica de hospedagem estática no Netlify.
+# Sem build step: os arquivos já são HTML/CSS/JS prontos.
+
+[build]
+  publish = "."
+
+# Cabeçalhos de cache simples para os assets estáticos
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# Página de erro 404 (crie /404.html quando tiver conteúdo definido)
+[[redirects]]
+  from = "/*"
+  to = "/404.html"
+  status = 404
