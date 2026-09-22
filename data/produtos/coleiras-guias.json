@@ -1,0 +1,11 @@
+{
+  "id": "prod-coleiras-guias",
+  "nome": "Coleiras, Guias e Peitorais",
+  "categoria": "caes-gatos",
+  "subcategoria": "Acessórios",
+  "descricao": "Coleiras resistentes e ajustáveis para passeios diários com segurança.",
+  "imagem": "assets/images/produtos/coleira.webp",
+  "badge": "Acessórios",
+  "marca": "Acessórios",
+  "apenasCard": true
+}

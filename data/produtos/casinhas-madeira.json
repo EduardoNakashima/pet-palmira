@@ -1,0 +1,11 @@
+{
+  "id": "prod-casinhas-madeira",
+  "nome": "Casinhas de Madeira para Cães",
+  "categoria": "caes-gatos",
+  "subcategoria": "Caminhas & Casinhas",
+  "descricao": "Abrigo térmico, ventilado e resistente contra intempéries.",
+  "imagem": "assets/images/produtos/casinha.webp",
+  "badge": "Conforto",
+  "marca": "Conforto",
+  "apenasCard": true
+}

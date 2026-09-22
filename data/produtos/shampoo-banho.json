@@ -1,0 +1,11 @@
+{
+  "id": "prod-shampoo-banho",
+  "nome": "Shampoos para Cães e Gatos",
+  "categoria": "caes-gatos",
+  "subcategoria": "Higiene",
+  "descricao": "Fórmulas suaves com fragrância duradoura para o banho.",
+  "imagem": "assets/images/produtos/shampoo.webp",
+  "badge": "Higiene",
+  "marca": "Higiene",
+  "apenasCard": true
+}

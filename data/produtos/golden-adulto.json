@@ -1,0 +1,11 @@
+{
+  "id": "prod-golden-adulto",
+  "nome": "Ração Golden Formula Cães Adultos",
+  "categoria": "caes-gatos",
+  "subcategoria": "Rações",
+  "descricao": "Ração completa e balanceada para cachorros adultos.",
+  "imagem": "assets/images/produtos/golden.webp",
+  "badge": "Rações",
+  "marca": "Golden",
+  "apenasCard": true
+}

@@ -1,0 +1,11 @@
+{
+  "id": "prod-golden-filhotes",
+  "nome": "Ração Golden Cães Filhotes",
+  "categoria": "caes-gatos",
+  "subcategoria": "Rações",
+  "descricao": "Desenvolvimento e crescimento forte e saudável para filhotes.",
+  "imagem": "assets/images/produtos/goldenFilhote.webp",
+  "badge": "Rações",
+  "marca": "Golden",
+  "apenasCard": true
+}

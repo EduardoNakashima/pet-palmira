@@ -1,0 +1,11 @@
+{
+  "id": "prod-enrofloxacina",
+  "nome": "Enrofloxacina Antimicrobiano",
+  "categoria": "caes-gatos",
+  "subcategoria": "Medicamentos",
+  "descricao": "Antimicrobiano de amplo espectro para cães e gatos.",
+  "imagem": "assets/images/produtos/enrofloxacina.webp",
+  "badge": "Medicamentos",
+  "marca": "Enrofloxacina",
+  "apenasCard": true
+}

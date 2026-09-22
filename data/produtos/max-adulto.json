@@ -1,0 +1,11 @@
+{
+  "id": "prod-max-adulto",
+  "nome": "Ração Max Cães Adultos",
+  "categoria": "caes-gatos",
+  "subcategoria": "Rações",
+  "descricao": "Ração nutritiva para cachorros adultos com ingredientes selecionados.",
+  "imagem": "assets/images/produtos/max.webp",
+  "badge": "Rações",
+  "marca": "Max",
+  "apenasCard": true
+}

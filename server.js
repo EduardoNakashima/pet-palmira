@@ -10,13 +10,11 @@ const app = express();
 const PORT = 3000;
 const HOST = '0.0.0.0';
 
-const staticDir = fs.existsSync(path.join(__dirname, 'pet-shop-palmira'))
-  ? path.join(__dirname, 'pet-shop-palmira')
-  : __dirname;
+const staticDir = __dirname;
 
 // API dinâmica para ler produtos direto da pasta data/produtos/
 const getProdutosHandler = (req, res) => {
-  const produtosDir = path.join(staticDir, 'data', 'produtos');
+  const produtosDir = path.join(__dirname, 'data', 'produtos');
   const produtos = [];
 
   if (fs.existsSync(produtosDir)) {
@@ -41,7 +39,7 @@ const getProdutosHandler = (req, res) => {
 
   // Se a pasta não tiver arquivos, tenta ler do produtos.json compilado
   if (produtos.length === 0) {
-    const jsonPath = path.join(staticDir, 'data', 'produtos.json');
+    const jsonPath = path.join(__dirname, 'data', 'produtos.json');
     if (fs.existsSync(jsonPath)) {
       try {
         const raw = fs.readFileSync(jsonPath, 'utf-8');

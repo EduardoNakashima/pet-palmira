@@ -1,0 +1,11 @@
+{
+  "id": "prod-capstar",
+  "nome": "Capstar Antipulgas Comprimidos",
+  "categoria": "caes-gatos",
+  "subcategoria": "Medicamentos",
+  "descricao": "Ação rápida contra pulgas em cães e gatos em poucos minutos.",
+  "imagem": "assets/images/produtos/capstar.webp",
+  "badge": "Medicamentos",
+  "marca": "Capstar",
+  "apenasCard": true
+}

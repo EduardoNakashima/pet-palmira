@@ -1,0 +1,11 @@
+{
+  "id": "prod-colchoes-camas",
+  "nome": "Colchões e Caminhas para Cães",
+  "categoria": "caes-gatos",
+  "subcategoria": "Caminhas & Casinhas",
+  "descricao": "Colchões macios e anatômicos para um descanso relaxante.",
+  "imagem": "assets/images/produtos/colchoes.webp",
+  "badge": "Conforto",
+  "marca": "Conforto",
+  "apenasCard": true
+}

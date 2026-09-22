@@ -6,8 +6,12 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const rootDir = path.join(__dirname, '..');
 
-const produtosDir = path.join(rootDir, 'pet-shop-palmira', 'data', 'produtos');
-const outputFile = path.join(rootDir, 'pet-shop-palmira', 'data', 'produtos.json');
+const produtosDir = fs.existsSync(path.join(rootDir, 'data', 'produtos'))
+  ? path.join(rootDir, 'data', 'produtos')
+  : path.join(rootDir, 'pet-shop-palmira', 'data', 'produtos');
+
+const outputFile = path.join(rootDir, 'data', 'produtos.json');
+const legacyOutputFile = path.join(rootDir, 'pet-shop-palmira', 'data', 'produtos.json');
 
 if (!fs.existsSync(produtosDir)) {
   console.log(`[build-products] Pasta ${produtosDir} não encontrada.`);
@@ -31,4 +35,7 @@ for (const file of files) {
 }
 
 fs.writeFileSync(outputFile, JSON.stringify(produtos, null, 2), 'utf-8');
+if (fs.existsSync(path.dirname(legacyOutputFile))) {
+  fs.writeFileSync(legacyOutputFile, JSON.stringify(produtos, null, 2), 'utf-8');
+}
 console.log(`[build-products] ✅ ${produtos.length} produtos compilados com sucesso para ${outputFile}`);

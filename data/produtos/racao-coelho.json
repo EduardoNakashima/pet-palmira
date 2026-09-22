@@ -1,0 +1,11 @@
+{
+  "id": "prod-racao-coelho",
+  "nome": "Rações Criador para Coelhos e Roedores",
+  "categoria": "cavalos-porquinhos",
+  "subcategoria": "Roedores",
+  "descricao": "Ração rica em alfafa e fibras vegetais para coelhos e porquinhos-da-índia.",
+  "imagem": "assets/images/produtos/coelho.webp",
+  "badge": "Roedores",
+  "marca": "Criador",
+  "apenasCard": true
+}

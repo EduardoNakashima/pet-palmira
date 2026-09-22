@@ -1,0 +1,11 @@
+{
+  "id": "prod-caixas-transporte",
+  "nome": "Transportes para Cães e Gatos",
+  "categoria": "caes-gatos",
+  "subcategoria": "Acessórios",
+  "descricao": "Caixas de transporte seguras e confortáveis para viagens e visitas.",
+  "imagem": "assets/images/produtos/transporte.webp",
+  "badge": "Acessórios",
+  "marca": "Acessórios",
+  "apenasCard": true
+}

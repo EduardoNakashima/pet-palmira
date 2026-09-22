@@ -1,0 +1,42 @@
+=========================================================
+COMO CADASTRAR UM NOVO PRODUTO NO PET SHOP PALMIRA
+=========================================================
+
+Para cadastrar um produto novo, basta criar um arquivo com extensão .json
+dentro desta pasta (pet-shop-palmira/data/produtos/).
+
+Exemplo de nome de arquivo:
+  meu-produto.json
+  racao-premier-15kg.json
+  shampoo-filhotes.json
+
+Estrutura do arquivo .json:
+{
+  "nome": "Ração Premier Cães Adultos 15kg",
+  "categoria": "caes-gatos",
+  "subcategoria": "Rações",
+  "marca": "Premier",
+  "badge": "Mais Vendido",
+  "imagem": "assets/images/produtos/golden.webp",
+  "descricao": "Ração completa super premium com alta digestibilidade."
+}
+
+---------------------------------------------------------
+CATEGORIAS DISPONÍVEIS (escreva exatamente assim):
+---------------------------------------------------------
+- caes-gatos           -> Cães e Gatos
+- passaros             -> Pássaros
+- cavalos-porquinhos   -> Cavalos e Porquinhos-da-Índia
+- porcos-galinhas      -> Porcos e Galinhas
+
+---------------------------------------------------------
+FOTOS / IMAGEM:
+---------------------------------------------------------
+Você pode colocar a imagem na pasta 'assets/images/produtos/' e referenciar:
+"imagem": "assets/images/produtos/nome-da-sua-foto.webp"
+(ou .jpg, .png)
+
+Ou também pode colocar qualquer link de foto da internet (https://...).
+
+Ao salvar o arquivo .json nesta pasta, o site puxa e exibe o produto
+automaticamente!
