@@ -1,0 +1,6 @@
+{
+  "name": "Pet Shop Palmira",
+  "description": "Pet Shop Palmira: rações, acessórios e produtos para cães, gatos, pássaros, cavalos, porquinhos-da-índia, porcos e galinhas. Há 25 anos no Jardim Palmira, Guarulhos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

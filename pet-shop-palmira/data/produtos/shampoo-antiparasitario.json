@@ -1,0 +1,11 @@
+{
+  "id": "prod-shampoo-antiparasitario",
+  "nome": "Shampoos Antiparasitários",
+  "categoria": "caes-gatos",
+  "subcategoria": "Higiene",
+  "descricao": "Shampoo auxiliar no controle de pulgas e carrapatos.",
+  "imagem": "assets/images/produtos/antiparasitario.webp",
+  "badge": "Higiene",
+  "marca": "Higiene",
+  "apenasCard": true
+}

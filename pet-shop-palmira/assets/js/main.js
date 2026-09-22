@@ -63,4 +63,19 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
 
+  /* FAQ Accordion */
+  const faqItems = document.querySelectorAll('.faq-item');
+  faqItems.forEach((item) => {
+    const questionBtn = item.querySelector('.faq-question');
+    if (questionBtn) {
+      questionBtn.addEventListener('click', () => {
+        const isCurrentActive = item.classList.contains('active');
+        faqItems.forEach(i => i.classList.remove('active'));
+        if (!isCurrentActive) {
+          item.classList.add('active');
+        }
+      });
+    }
+  });
+
 });

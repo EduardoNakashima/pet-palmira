@@ -1,0 +1,11 @@
+{
+  "id": "prod-catchow-gatos",
+  "nome": "Ração CatChow Gatos Adultos",
+  "categoria": "caes-gatos",
+  "subcategoria": "Rações",
+  "descricao": "Ração para gatos com nutrientes balanceados e saúde do trato urinário.",
+  "imagem": "assets/images/produtos/catchow.webp",
+  "badge": "Rações",
+  "marca": "CatChow",
+  "apenasCard": true
+}

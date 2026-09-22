@@ -1,0 +1,11 @@
+{
+  "id": "prod-max-filhotes",
+  "nome": "Ração Max Cães Filhotes",
+  "categoria": "caes-gatos",
+  "subcategoria": "Rações",
+  "descricao": "Crescimento saudável e alta digestibilidade para cachorros filhotes.",
+  "imagem": "assets/images/produtos/maxFilhote.webp",
+  "badge": "Rações",
+  "marca": "Max",
+  "apenasCard": true
+}

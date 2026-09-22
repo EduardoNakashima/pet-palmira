@@ -1,0 +1,11 @@
+{
+  "id": "prod-ossos-porte-grande",
+  "nome": "Ossos Naturais Porte Grande",
+  "categoria": "caes-gatos",
+  "subcategoria": "Petiscos & Patês",
+  "descricao": "Ossos mastigáveis e recreativos para cães de grande porte.",
+  "imagem": "assets/images/produtos/ossosportegrande.webp",
+  "badge": "Petiscos",
+  "marca": "Petiscos",
+  "apenasCard": true
+}
