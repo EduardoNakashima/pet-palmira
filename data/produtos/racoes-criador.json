@@ -1,0 +1,11 @@
+{
+  "id": "prod-racoes-criador",
+  "slug": "racoes-criador",
+  "nome": "Rações Criador",
+  "categoria": "racoes",
+  "subcategoria": "Rações",
+  "badge": "Rações",
+  "descricao": "Ração para Coelhos",
+  "imagem": "assets/images/produtos/coelho.webp",
+  "apenasCard": true
+}

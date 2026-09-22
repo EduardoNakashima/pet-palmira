@@ -1,380 +1,382 @@
 /**
  * Carregador Dinâmico de Produtos — Pet Shop Palmira
  * 
- * Puxa os produtos dinamicamente dos arquivos individuais da pasta /data/produtos/
- * através da API (/api/produtos) ou do arquivo compilado (/data/produtos.json).
+ * Produtos oficiais conforme https://petshoppalmira.netlify.app/#products
+ * Puxa dinamicamente dos arquivos individuais em /data/produtos/
  */
 
 const PRODUCT_CATEGORIES = [
-  { id: 'todos', nome: 'Todos os Produtos', icon: '🐾', slug: 'produtos.html' },
-  { id: 'caes-gatos', nome: 'Cães e Gatos', icon: '🐶🐱', slug: 'cachorros-e-gatos.html' },
-  { id: 'passaros', nome: 'Pássaros', icon: '🦜', slug: 'passaros.html' },
-  { id: 'cavalos-porquinhos', nome: 'Cavalos e Porquinhos-da-Índia', icon: '🐴🐹', slug: 'cavalos-e-porquinhos.html' },
-  { id: 'porcos-galinhas', nome: 'Porcos e Galinhas', icon: '🐷🐔', slug: 'porcos-e-galinhas.html' }
+  { id: 'todos', nome: 'Todos os Produtos', icon: '🐾' },
+  { id: 'racoes', nome: 'Rações', icon: '🥣' },
+  { id: 'acessorios', nome: 'Acessórios', icon: '🎾' },
+  { id: 'caminhas', nome: 'Caminhas e Colchões', icon: '🛏️' },
+  { id: 'higiene', nome: 'Higiene', icon: '🧼' },
+  { id: 'medicamentos', nome: 'Medicamentos', icon: '💊' },
+  { id: 'petiscos', nome: 'Petiscos e Patês', icon: '🍖' }
 ];
 
 const DEFAULT_PRODUCTS_FALLBACK = [
   {
-    "id": "prod-golden-adulto",
-    "nome": "Ração Golden Formula Cães Adultos",
-    "categoria": "caes-gatos",
+    "id": "prod-golden",
+    "slug": "golden",
+    "nome": "Golden",
+    "categoria": "racoes",
     "subcategoria": "Rações",
-    "descricao": "Ração completa e balanceada para cachorros adultos.",
+    "badge": "Rações",
+    "descricao": "Ração para cachorros",
     "imagem": "assets/images/produtos/golden.webp",
-    "badge": "Rações",
-    "marca": "Golden",
     "apenasCard": true
   },
   {
-    "id": "prod-premiatta-adulto",
-    "nome": "Ração Premiatta Alta Performance",
-    "categoria": "caes-gatos",
+    "id": "prod-premiatta",
+    "slug": "premiatta",
+    "nome": "Premiatta",
+    "categoria": "racoes",
     "subcategoria": "Rações",
-    "descricao": "Ração super premium para cachorros com alto nível de exigência nutricional.",
+    "badge": "Rações",
+    "descricao": "Ração para cachorros",
     "imagem": "assets/images/produtos/premiata.webp",
-    "badge": "Rações",
-    "marca": "Premiatta",
     "apenasCard": true
   },
   {
-    "id": "prod-catchow-gatos",
-    "nome": "Ração CatChow Gatos Adultos",
-    "categoria": "caes-gatos",
+    "id": "prod-catchow",
+    "slug": "catchow",
+    "nome": "CatChow",
+    "categoria": "racoes",
     "subcategoria": "Rações",
-    "descricao": "Ração para gatos com nutrientes balanceados e saúde do trato urinário.",
+    "badge": "Rações",
+    "descricao": "Ração para gatos",
     "imagem": "assets/images/produtos/catchow.webp",
-    "badge": "Rações",
-    "marca": "CatChow",
     "apenasCard": true
   },
   {
-    "id": "prod-goldencat-gatos",
-    "nome": "Ração Golden Gatos Adultos",
-    "categoria": "caes-gatos",
+    "id": "prod-goldencat",
+    "slug": "goldencat",
+    "nome": "Golden Gatos",
+    "categoria": "racoes",
     "subcategoria": "Rações",
-    "descricao": "Ração premium especial para gatos adultos castrados e exigentes.",
+    "badge": "Rações",
+    "descricao": "Ração para gatos",
     "imagem": "assets/images/produtos/goldencat.webp",
-    "badge": "Rações",
-    "marca": "Golden",
     "apenasCard": true
   },
   {
-    "id": "prod-max-adulto",
-    "nome": "Ração Max Cães Adultos",
-    "categoria": "caes-gatos",
+    "id": "prod-max",
+    "slug": "max",
+    "nome": "Max",
+    "categoria": "racoes",
     "subcategoria": "Rações",
-    "descricao": "Ração nutritiva para cachorros adultos com ingredientes selecionados.",
+    "badge": "Rações",
+    "descricao": "Ração para cachorros",
     "imagem": "assets/images/produtos/max.webp",
-    "badge": "Rações",
-    "marca": "Max",
     "apenasCard": true
   },
   {
-    "id": "prod-whiskas-gatos",
-    "nome": "Ração Whiskas Gatos Adultos",
-    "categoria": "caes-gatos",
+    "id": "prod-whiskas",
+    "slug": "whiskas",
+    "nome": "Whiskas",
+    "categoria": "racoes",
     "subcategoria": "Rações",
-    "descricao": "Ração com nuggets crocantes e recheio cremoso irresistível.",
-    "imagem": "assets/images/produtos/whiskas.webp",
     "badge": "Rações",
-    "marca": "Whiskas",
+    "descricao": "Ração para gatos",
+    "imagem": "assets/images/produtos/whiskas.webp",
     "apenasCard": true
   },
   {
     "id": "prod-golden-filhotes",
-    "nome": "Ração Golden Cães Filhotes",
-    "categoria": "caes-gatos",
+    "slug": "golden-filhotes",
+    "nome": "Golden Filhotes",
+    "categoria": "racoes",
     "subcategoria": "Rações",
-    "descricao": "Desenvolvimento e crescimento forte e saudável para filhotes.",
-    "imagem": "assets/images/produtos/goldenFilhote.webp",
     "badge": "Rações",
-    "marca": "Golden",
+    "descricao": "Ração para cachorros filhotes",
+    "imagem": "assets/images/produtos/goldenFilhote.webp",
     "apenasCard": true
   },
   {
     "id": "prod-premiatta-filhotes",
-    "nome": "Ração Premiatta Filhotes",
-    "categoria": "caes-gatos",
+    "slug": "premiatta-filhotes",
+    "nome": "Premiatta Filhotes",
+    "categoria": "racoes",
     "subcategoria": "Rações",
-    "descricao": "Nutrição nobre e equilibrada para filhotes em crescimento.",
-    "imagem": "assets/images/produtos/premiattaFilhote.webp",
     "badge": "Rações",
-    "marca": "Premiatta",
+    "descricao": "Ração para cachorros filhotes",
+    "imagem": "assets/images/produtos/premiattaFilhote.webp",
     "apenasCard": true
   },
   {
     "id": "prod-max-filhotes",
-    "nome": "Ração Max Cães Filhotes",
-    "categoria": "caes-gatos",
+    "slug": "max-filhotes",
+    "nome": "Max Filhotes",
+    "categoria": "racoes",
     "subcategoria": "Rações",
-    "descricao": "Crescimento saudável e alta digestibilidade para cachorros filhotes.",
-    "imagem": "assets/images/produtos/maxFilhote.webp",
     "badge": "Rações",
-    "marca": "Max",
+    "descricao": "Ração para cachorros filhotes",
+    "imagem": "assets/images/produtos/maxFilhote.webp",
     "apenasCard": true
   },
   {
-    "id": "prod-ovomil-galinha",
-    "nome": "Ração Ovomil para Galinhas e Codornas",
-    "categoria": "porcos-galinhas",
-    "subcategoria": "Criação",
-    "descricao": "Ração para codornas e galinhas poedeiras de postura.",
+    "id": "prod-ovomil",
+    "slug": "ovomil",
+    "nome": "Ovomil",
+    "categoria": "racoes",
+    "subcategoria": "Rações",
+    "badge": "Rações",
+    "descricao": "Ração para Codornas e Galinhas",
     "imagem": "assets/images/produtos/galinha.webp",
-    "badge": "Criação",
-    "marca": "Ovomil",
     "apenasCard": true
   },
   {
-    "id": "prod-racao-coelho",
-    "nome": "Rações Criador para Coelhos e Roedores",
-    "categoria": "cavalos-porquinhos",
-    "subcategoria": "Roedores",
-    "descricao": "Ração rica em alfafa e fibras vegetais para coelhos e porquinhos-da-índia.",
+    "id": "prod-racoes-criador",
+    "slug": "racoes-criador",
+    "nome": "Rações Criador",
+    "categoria": "racoes",
+    "subcategoria": "Rações",
+    "badge": "Rações",
+    "descricao": "Ração para Coelhos",
     "imagem": "assets/images/produtos/coelho.webp",
-    "badge": "Roedores",
-    "marca": "Criador",
     "apenasCard": true
   },
   {
-    "id": "prod-top-horse-cavalo",
-    "nome": "Ração Top Horse para Equinos",
-    "categoria": "cavalos-porquinhos",
-    "subcategoria": "Equinos",
-    "descricao": "Ração com alta energia e minerais balanceados para cavalos.",
+    "id": "prod-top-horse",
+    "slug": "top-horse",
+    "nome": "Top Horse",
+    "categoria": "racoes",
+    "subcategoria": "Rações",
+    "badge": "Rações",
+    "descricao": "Ração para Equinos",
     "imagem": "assets/images/produtos/cavalo.webp",
-    "badge": "Equinos",
-    "marca": "Top Horse",
     "apenasCard": true
   },
   {
-    "id": "prod-sal-lage-vacas",
-    "nome": "Sal Mineral Lage para Bois e Vacas",
-    "categoria": "cavalos-porquinhos",
-    "subcategoria": "Gado e Equinos",
-    "descricao": "Suplemento mineral de alta qualidade para gado de corte e leite.",
+    "id": "prod-sal-lage",
+    "slug": "sal-lage",
+    "nome": "Sal Lage",
+    "categoria": "racoes",
+    "subcategoria": "Rações",
+    "badge": "Rações",
+    "descricao": "Sal para Bois e Vacas",
     "imagem": "assets/images/produtos/vacas.webp",
-    "badge": "Suplemento",
-    "marca": "Lage",
     "apenasCard": true
   },
   {
-    "id": "prod-alcon-basic-peixe",
-    "nome": "Ração Alcon BASIC para Peixes",
-    "categoria": "caes-gatos",
-    "subcategoria": "Aquarismo",
-    "descricao": "Alimento completo em flocos para peixes ornamentais tropicais.",
+    "id": "prod-alcon-basic",
+    "slug": "alcon-basic",
+    "nome": "Alcon BASIC",
+    "categoria": "racoes",
+    "subcategoria": "Rações",
+    "badge": "Rações",
+    "descricao": "Ração para Peixes",
     "imagem": "assets/images/produtos/peixe.webp",
-    "badge": "Aquarismo",
-    "marca": "Alcon",
     "apenasCard": true
   },
   {
-    "id": "prod-pate-pedigree",
-    "nome": "Patês Pedigree para Cães",
-    "categoria": "caes-gatos",
-    "subcategoria": "Petiscos & Patês",
-    "descricao": "Alimento úmido irresistível e suculento para cachorros.",
+    "id": "prod-pates-pedigree",
+    "slug": "pates-pedigree",
+    "nome": "Patês Pedigree",
+    "categoria": "petiscos",
+    "subcategoria": "Petiscos e Patês",
+    "badge": "Petiscos e Patês",
+    "descricao": "Petiscos diversos",
     "imagem": "assets/images/produtos/pate.webp",
-    "badge": "Petiscos",
-    "marca": "Pedigree",
     "apenasCard": true
   },
   {
     "id": "prod-saches-pedigree",
-    "nome": "Sachês Pedigree ao Molho",
-    "categoria": "caes-gatos",
-    "subcategoria": "Petiscos & Patês",
-    "descricao": "Pedaços cozidos ao vapor com molho apetitoso para cães.",
+    "slug": "saches-pedigree",
+    "nome": "Sachês Pedigree",
+    "categoria": "petiscos",
+    "subcategoria": "Petiscos e Patês",
+    "badge": "Petiscos e Patês",
+    "descricao": "Petiscos diversos",
     "imagem": "assets/images/produtos/saches.webp",
-    "badge": "Petiscos",
-    "marca": "Pedigree",
     "apenasCard": true
   },
   {
     "id": "prod-ossos-porte-grande",
-    "nome": "Ossos Naturais Porte Grande",
-    "categoria": "caes-gatos",
-    "subcategoria": "Petiscos & Patês",
-    "descricao": "Ossos mastigáveis e recreativos para cães de grande porte.",
+    "slug": "ossos-porte-grande",
+    "nome": "Ossos para porte grande",
+    "categoria": "petiscos",
+    "subcategoria": "Petiscos e Patês",
+    "badge": "Petiscos e Patês",
+    "descricao": "Petiscos diversos",
     "imagem": "assets/images/produtos/ossosportegrande.webp",
-    "badge": "Petiscos",
-    "marca": "Petiscos",
     "apenasCard": true
   },
   {
     "id": "prod-ossos-porte-pequeno",
-    "nome": "Ossos Naturais Porte Pequeno",
-    "categoria": "caes-gatos",
-    "subcategoria": "Petiscos & Patês",
-    "descricao": "Ossinhos adequados para a mordida de cães pequenos.",
+    "slug": "ossos-porte-pequeno",
+    "nome": "Ossos para porte pequeno",
+    "categoria": "petiscos",
+    "subcategoria": "Petiscos e Patês",
+    "badge": "Petiscos e Patês",
+    "descricao": "Petiscos diversos",
     "imagem": "assets/images/produtos/ossosportepequeno.webp",
-    "badge": "Petiscos",
-    "marca": "Petiscos",
     "apenasCard": true
   },
   {
     "id": "prod-casinhas-madeira",
-    "nome": "Casinhas de Madeira para Cães",
-    "categoria": "caes-gatos",
-    "subcategoria": "Caminhas & Casinhas",
-    "descricao": "Abrigo térmico, ventilado e resistente contra intempéries.",
+    "slug": "casinhas-madeira",
+    "nome": "Casinhas de Madeira",
+    "categoria": "caminhas",
+    "subcategoria": "Caminhas e Colchões",
+    "badge": "Caminhas e Colchões",
+    "descricao": "Casinhas diversas",
     "imagem": "assets/images/produtos/casinha.webp",
-    "badge": "Conforto",
-    "marca": "Conforto",
     "apenasCard": true
   },
   {
-    "id": "prod-caixas-transporte",
-    "nome": "Transportes para Cães e Gatos",
-    "categoria": "caes-gatos",
-    "subcategoria": "Acessórios",
-    "descricao": "Caixas de transporte seguras e confortáveis para viagens e visitas.",
+    "id": "prod-transportes",
+    "slug": "transportes-caes-gatos",
+    "nome": "Transportes para cães e gatos",
+    "categoria": "caminhas",
+    "subcategoria": "Caminhas e Colchões",
+    "badge": "Caminhas e Colchões",
+    "descricao": "Casinhas diversas",
     "imagem": "assets/images/produtos/transporte.webp",
-    "badge": "Acessórios",
-    "marca": "Acessórios",
     "apenasCard": true
   },
   {
-    "id": "prod-colchoes-camas",
-    "nome": "Colchões e Caminhas para Cães",
-    "categoria": "caes-gatos",
-    "subcategoria": "Caminhas & Casinhas",
-    "descricao": "Colchões macios e anatômicos para um descanso relaxante.",
+    "id": "prod-colchoes",
+    "slug": "colchoes",
+    "nome": "Colchões",
+    "categoria": "caminhas",
+    "subcategoria": "Caminhas e Colchões",
+    "badge": "Caminhas e Colchões",
+    "descricao": "Casinhas diversas",
     "imagem": "assets/images/produtos/colchoes.webp",
-    "badge": "Conforto",
-    "marca": "Conforto",
     "apenasCard": true
   },
   {
-    "id": "prod-roupinhas-pet",
-    "nome": "Roupinhas para Cachorros",
-    "categoria": "caes-gatos",
+    "id": "prod-roupinhas",
+    "slug": "roupinhas",
+    "nome": "Roupinhas",
+    "categoria": "acessorios",
     "subcategoria": "Acessórios",
-    "descricao": "Roupinhas térmicas em diversos tecidos e tamanhos.",
+    "badge": "Acessórios",
+    "descricao": "Roupinhas diversas",
     "imagem": "assets/images/produtos/roupinha.webp",
-    "badge": "Acessórios",
-    "marca": "Acessórios",
     "apenasCard": true
   },
   {
-    "id": "prod-brinquedos-mordedores",
-    "nome": "Brinquedos e Mordedores Diversos",
-    "categoria": "caes-gatos",
+    "id": "prod-brinquedos",
+    "slug": "brinquedos",
+    "nome": "Brinquedos",
+    "categoria": "acessorios",
     "subcategoria": "Acessórios",
-    "descricao": "Bolinhas, cordas e brinquedos estimulantes para pets.",
+    "badge": "Acessórios",
+    "descricao": "Brinquedos diversos",
     "imagem": "assets/images/produtos/brinquedos.webp",
-    "badge": "Acessórios",
-    "marca": "Acessórios",
     "apenasCard": true
   },
   {
-    "id": "prod-coleiras-guias",
-    "nome": "Coleiras, Guias e Peitorais",
-    "categoria": "caes-gatos",
+    "id": "prod-coleiras",
+    "slug": "coleiras",
+    "nome": "Coleiras",
+    "categoria": "acessorios",
     "subcategoria": "Acessórios",
-    "descricao": "Coleiras resistentes e ajustáveis para passeios diários com segurança.",
-    "imagem": "assets/images/produtos/coleira.webp",
     "badge": "Acessórios",
-    "marca": "Acessórios",
+    "descricao": "Coleiras diversos",
+    "imagem": "assets/images/produtos/coleira.webp",
     "apenasCard": true
   },
   {
     "id": "prod-frontline",
-    "nome": "Frontline Antipulgas e Carrapatos",
-    "categoria": "caes-gatos",
+    "slug": "frontline",
+    "nome": "Frontline",
+    "categoria": "medicamentos",
     "subcategoria": "Medicamentos",
-    "descricao": "Pipeta de aplicação tópica rápida e duradoura contra parasitas.",
-    "imagem": "assets/images/produtos/frontline.webp",
     "badge": "Medicamentos",
-    "marca": "Frontline",
+    "descricao": "Medicamentos diversos",
+    "imagem": "assets/images/produtos/frontline.webp",
     "apenasCard": true
   },
   {
     "id": "prod-otovet",
-    "nome": "Otovet Solução Otológica",
-    "categoria": "caes-gatos",
+    "slug": "otovet",
+    "nome": "Otovet",
+    "categoria": "medicamentos",
     "subcategoria": "Medicamentos",
-    "descricao": "Gotas otológicas para alívio e tratamento de otites.",
-    "imagem": "assets/images/produtos/otovet.webp",
     "badge": "Medicamentos",
-    "marca": "Otovet",
+    "descricao": "Medicamentos diversos",
+    "imagem": "assets/images/produtos/otovet.webp",
     "apenasCard": true
   },
   {
     "id": "prod-capstar",
-    "nome": "Capstar Antipulgas Comprimidos",
-    "categoria": "caes-gatos",
+    "slug": "capstar",
+    "nome": "Capstar",
+    "categoria": "medicamentos",
     "subcategoria": "Medicamentos",
-    "descricao": "Ação rápida contra pulgas em cães e gatos em poucos minutos.",
-    "imagem": "assets/images/produtos/capstar.webp",
     "badge": "Medicamentos",
-    "marca": "Capstar",
+    "descricao": "Medicamentos diversos",
+    "imagem": "assets/images/produtos/capstar.webp",
     "apenasCard": true
   },
   {
     "id": "prod-agemoxi",
-    "nome": "Agemoxi CL Antibacteriano",
-    "categoria": "caes-gatos",
+    "slug": "agemoxi",
+    "nome": "Agemoxi CL",
+    "categoria": "medicamentos",
     "subcategoria": "Medicamentos",
-    "descricao": "Antibacteriano veterinário prescrito por médicos veterinários.",
-    "imagem": "assets/images/produtos/agemoxi.webp",
     "badge": "Medicamentos",
-    "marca": "Agemoxi",
+    "descricao": "Medicamentos diversos",
+    "imagem": "assets/images/produtos/agemoxi.webp",
     "apenasCard": true
   },
   {
     "id": "prod-enrofloxacina",
-    "nome": "Enrofloxacina Antimicrobiano",
-    "categoria": "caes-gatos",
+    "slug": "enrofloxacina",
+    "nome": "Enrofloxacina",
+    "categoria": "medicamentos",
     "subcategoria": "Medicamentos",
-    "descricao": "Antimicrobiano de amplo espectro para cães e gatos.",
-    "imagem": "assets/images/produtos/enrofloxacina.webp",
     "badge": "Medicamentos",
-    "marca": "Enrofloxacina",
+    "descricao": "Medicamentos diversos",
+    "imagem": "assets/images/produtos/enrofloxacina.webp",
     "apenasCard": true
   },
   {
     "id": "prod-maxicam",
-    "nome": "Maxicam Anti-inflamatório",
-    "categoria": "caes-gatos",
+    "slug": "maxicam",
+    "nome": "Maxicam",
+    "categoria": "medicamentos",
     "subcategoria": "Medicamentos",
-    "descricao": "Anti-inflamatório veterinário para alívio da dor e inflamação.",
-    "imagem": "assets/images/produtos/maxicam.webp",
     "badge": "Medicamentos",
-    "marca": "Maxicam",
+    "descricao": "Medicamentos diversos",
+    "imagem": "assets/images/produtos/maxicam.webp",
     "apenasCard": true
   },
   {
-    "id": "prod-shampoo-banho",
-    "nome": "Shampoos para Cães e Gatos",
-    "categoria": "caes-gatos",
+    "id": "prod-shampoos",
+    "slug": "shampoos",
+    "nome": "Shampoos",
+    "categoria": "higiene",
     "subcategoria": "Higiene",
-    "descricao": "Fórmulas suaves com fragrância duradoura para o banho.",
+    "badge": "Higiene",
+    "descricao": "Produtos de Higiene",
     "imagem": "assets/images/produtos/shampoo.webp",
-    "badge": "Higiene",
-    "marca": "Higiene",
     "apenasCard": true
   },
   {
-    "id": "prod-shampoo-antiparasitario",
-    "nome": "Shampoos Antiparasitários",
-    "categoria": "caes-gatos",
+    "id": "prod-shampoos-antiparasitarios",
+    "slug": "shampoos-antiparasitarios",
+    "nome": "Shampoos antiparasitários",
+    "categoria": "higiene",
     "subcategoria": "Higiene",
-    "descricao": "Shampoo auxiliar no controle de pulgas e carrapatos.",
+    "badge": "Higiene",
+    "descricao": "Produtos de Higiene",
     "imagem": "assets/images/produtos/antiparasitario.webp",
-    "badge": "Higiene",
-    "marca": "Higiene",
     "apenasCard": true
   },
   {
-    "id": "prod-colonia-pet",
-    "nome": "Colônias e Perfumes Pet",
-    "categoria": "caes-gatos",
+    "id": "prod-colonias",
+    "slug": "colonias",
+    "nome": "Colonias",
+    "categoria": "higiene",
     "subcategoria": "Higiene",
-    "descricao": "Fragrâncias suaves sem álcool agressivo para perfumar após o banho.",
-    "imagem": "assets/images/produtos/colonia.webp",
     "badge": "Higiene",
-    "marca": "Higiene",
+    "descricao": "Produtos de Higiene",
+    "imagem": "assets/images/produtos/colonia.webp",
     "apenasCard": true
   }
 ];
@@ -383,13 +385,12 @@ const ProductManager = {
   _products: [],
   _isLoaded: false,
 
-  // Carrega produtos dinamicamente
   async loadProducts() {
     if (this._isLoaded && this._products.length > 0) {
       return this._products;
     }
 
-    // 1. Tenta carregar da API dinâmica (que lê direto da pasta data/produtos/ no servidor)
+    // 1. Tenta carregar da API interna dinâmica
     try {
       const res = await fetch('/api/produtos');
       if (res.ok) {
@@ -401,22 +402,22 @@ const ProductManager = {
         }
       }
     } catch (e) {
-      // Ignora e tenta o arquivo estático
+      console.warn('[ProductManager] Falha ao carregar /api/produtos:', e.message);
     }
 
-    // 2. Se a rota de API não existir (ex: hospedagem estática no Netlify), tenta o produtos.json
+    // 2. Tenta carregar do arquivo compilado data/produtos.json
     try {
-      const resStatic = await fetch('data/produtos.json');
-      if (resStatic.ok) {
-        const dataStatic = await resStatic.json();
-        if (Array.isArray(dataStatic) && dataStatic.length > 0) {
-          this._products = dataStatic;
+      const resJson = await fetch('data/produtos.json');
+      if (resJson.ok) {
+        const data = await resJson.json();
+        if (Array.isArray(data) && data.length > 0) {
+          this._products = data;
           this._isLoaded = true;
           return this._products;
         }
       }
     } catch (e) {
-      // Ignora e usa fallback
+      console.warn('[ProductManager] Falha ao carregar data/produtos.json:', e.message);
     }
 
     // 3. Fallback de segurança embutido
@@ -435,21 +436,21 @@ const ProductManager = {
     const catLower = category.toLowerCase().trim();
 
     return all.filter(prod => {
-      // Filtro de categoria ou subcategoria
+      // Filtro de categoria
       if (catLower !== 'todos') {
         const prodCat = (prod.categoria || '').toLowerCase();
         const prodSub = (prod.subcategoria || '').toLowerCase();
         const prodBadge = (prod.badge || '').toLowerCase();
 
         const matchCat = prodCat === catLower ||
-          prodSub.includes(catLower) ||
-          prodBadge.includes(catLower) ||
-          (catLower === 'racoes' && (prodSub.includes('ração') || prodSub.includes('racoes') || prodBadge.includes('rações'))) ||
-          (catLower === 'acessorios' && prodSub.includes('acessórios')) ||
-          (catLower === 'caminhas' && (prodSub.includes('casinhas') || prodSub.includes('conforto') || prodSub.includes('caminhas'))) ||
-          (catLower === 'medicamentos' && prodSub.includes('medicamentos')) ||
-          (catLower === 'higiene' && prodSub.includes('higiene')) ||
-          (catLower === 'petiscos' && (prodSub.includes('petiscos') || prodSub.includes('patês')));
+          prodSub.toLowerCase().includes(catLower) ||
+          prodBadge.toLowerCase().includes(catLower) ||
+          (catLower === 'racoes' && (prodCat === 'racoes' || prodSub.includes('ração') || prodBadge.includes('rações'))) ||
+          (catLower === 'acessorios' && (prodCat === 'acessorios' || prodSub.includes('acessórios'))) ||
+          (catLower === 'caminhas' && (prodCat === 'caminhas' || prodSub.includes('caminhas') || prodSub.includes('casinhas') || prodSub.includes('colchões') || prodBadge.includes('caminhas'))) ||
+          (catLower === 'medicamentos' && (prodCat === 'medicamentos' || prodSub.includes('medicamentos'))) ||
+          (catLower === 'higiene' && (prodCat === 'higiene' || prodSub.includes('higiene'))) ||
+          (catLower === 'petiscos' && (prodCat === 'petiscos' || prodSub.includes('petiscos') || prodSub.includes('patês')));
 
         if (!matchCat) return false;
       }
@@ -459,7 +460,6 @@ const ProductManager = {
       const haystack = [
         prod.nome,
         prod.descricao,
-        prod.marca,
         prod.subcategoria,
         prod.badge
       ].filter(Boolean).join(' ').toLowerCase();
@@ -470,8 +470,8 @@ const ProductManager = {
 
   getWhatsAppLink(productName) {
     const base = 'https://api.whatsapp.com/send?phone=5511946457048';
-    const text = `Olá, vim pelo site do Pet Shop Palmira e gostaria de saber sobre a disponibilidade e preço do produto: "${productName}".`;
-    return `${base}&text=${encodeURIComponent(text)}`;
+    const text = 'Olá, vim pelo site do Pet Shop Palmira e gostaria de saber sobre a disponibilidade e preço do produto: "' + productName + '".';
+    return base + '&text=' + encodeURIComponent(text);
   }
 };
 

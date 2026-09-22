@@ -1,0 +1,11 @@
+{
+  "id": "prod-pates-pedigree",
+  "slug": "pates-pedigree",
+  "nome": "Patês Pedigree",
+  "categoria": "petiscos",
+  "subcategoria": "Petiscos e Patês",
+  "badge": "Petiscos e Patês",
+  "descricao": "Petiscos diversos",
+  "imagem": "assets/images/produtos/pate.webp",
+  "apenasCard": true
+}

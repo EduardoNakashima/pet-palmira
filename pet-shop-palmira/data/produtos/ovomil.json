@@ -1,0 +1,11 @@
+{
+  "id": "prod-ovomil",
+  "slug": "ovomil",
+  "nome": "Ovomil",
+  "categoria": "racoes",
+  "subcategoria": "Rações",
+  "badge": "Rações",
+  "descricao": "Ração para Codornas e Galinhas",
+  "imagem": "assets/images/produtos/galinha.webp",
+  "apenasCard": true
+}

@@ -1,11 +1,11 @@
 {
   "id": "prod-agemoxi",
-  "nome": "Agemoxi CL Antibacteriano",
-  "categoria": "caes-gatos",
+  "slug": "agemoxi",
+  "nome": "Agemoxi CL",
+  "categoria": "medicamentos",
   "subcategoria": "Medicamentos",
-  "descricao": "Antibacteriano veterinário prescrito por médicos veterinários.",
-  "imagem": "assets/images/produtos/agemoxi.webp",
   "badge": "Medicamentos",
-  "marca": "Agemoxi",
+  "descricao": "Medicamentos diversos",
+  "imagem": "assets/images/produtos/agemoxi.webp",
   "apenasCard": true
 }

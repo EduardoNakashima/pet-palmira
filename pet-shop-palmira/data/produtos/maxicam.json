@@ -1,11 +1,11 @@
 {
   "id": "prod-maxicam",
-  "nome": "Maxicam Anti-inflamatório",
-  "categoria": "caes-gatos",
+  "slug": "maxicam",
+  "nome": "Maxicam",
+  "categoria": "medicamentos",
   "subcategoria": "Medicamentos",
-  "descricao": "Anti-inflamatório veterinário para alívio da dor e inflamação.",
-  "imagem": "assets/images/produtos/maxicam.webp",
   "badge": "Medicamentos",
-  "marca": "Maxicam",
+  "descricao": "Medicamentos diversos",
+  "imagem": "assets/images/produtos/maxicam.webp",
   "apenasCard": true
 }

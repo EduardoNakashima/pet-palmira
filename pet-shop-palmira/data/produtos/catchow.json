@@ -1,0 +1,11 @@
+{
+  "id": "prod-catchow",
+  "slug": "catchow",
+  "nome": "CatChow",
+  "categoria": "racoes",
+  "subcategoria": "Rações",
+  "badge": "Rações",
+  "descricao": "Ração para gatos",
+  "imagem": "assets/images/produtos/catchow.webp",
+  "apenasCard": true
+}

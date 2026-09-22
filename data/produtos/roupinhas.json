@@ -1,0 +1,11 @@
+{
+  "id": "prod-roupinhas",
+  "slug": "roupinhas",
+  "nome": "Roupinhas",
+  "categoria": "acessorios",
+  "subcategoria": "Acessórios",
+  "badge": "Acessórios",
+  "descricao": "Roupinhas diversas",
+  "imagem": "assets/images/produtos/roupinha.webp",
+  "apenasCard": true
+}

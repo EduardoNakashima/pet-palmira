@@ -1,0 +1,11 @@
+{
+  "id": "prod-max",
+  "slug": "max",
+  "nome": "Max",
+  "categoria": "racoes",
+  "subcategoria": "Rações",
+  "badge": "Rações",
+  "descricao": "Ração para cachorros",
+  "imagem": "assets/images/produtos/max.webp",
+  "apenasCard": true
+}

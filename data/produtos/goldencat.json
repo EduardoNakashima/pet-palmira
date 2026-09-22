@@ -1,0 +1,11 @@
+{
+  "id": "prod-goldencat",
+  "slug": "goldencat",
+  "nome": "Golden Gatos",
+  "categoria": "racoes",
+  "subcategoria": "Rações",
+  "badge": "Rações",
+  "descricao": "Ração para gatos",
+  "imagem": "assets/images/produtos/goldencat.webp",
+  "apenasCard": true
+}

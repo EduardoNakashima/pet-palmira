@@ -1,0 +1,11 @@
+{
+  "id": "prod-top-horse",
+  "slug": "top-horse",
+  "nome": "Top Horse",
+  "categoria": "racoes",
+  "subcategoria": "Rações",
+  "badge": "Rações",
+  "descricao": "Ração para Equinos",
+  "imagem": "assets/images/produtos/cavalo.webp",
+  "apenasCard": true
+}

@@ -1,11 +1,11 @@
 {
   "id": "prod-premiatta-filhotes",
-  "nome": "Ração Premiatta Filhotes",
-  "categoria": "caes-gatos",
+  "slug": "premiatta-filhotes",
+  "nome": "Premiatta Filhotes",
+  "categoria": "racoes",
   "subcategoria": "Rações",
-  "descricao": "Nutrição nobre e equilibrada para filhotes em crescimento.",
-  "imagem": "assets/images/produtos/premiattaFilhote.webp",
   "badge": "Rações",
-  "marca": "Premiatta",
+  "descricao": "Ração para cachorros filhotes",
+  "imagem": "assets/images/produtos/premiattaFilhote.webp",
   "apenasCard": true
 }

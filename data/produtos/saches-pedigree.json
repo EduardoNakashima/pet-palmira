@@ -1,11 +1,11 @@
 {
   "id": "prod-saches-pedigree",
-  "nome": "Sachês Pedigree ao Molho",
-  "categoria": "caes-gatos",
-  "subcategoria": "Petiscos & Patês",
-  "descricao": "Pedaços cozidos ao vapor com molho apetitoso para cães.",
+  "slug": "saches-pedigree",
+  "nome": "Sachês Pedigree",
+  "categoria": "petiscos",
+  "subcategoria": "Petiscos e Patês",
+  "badge": "Petiscos e Patês",
+  "descricao": "Petiscos diversos",
   "imagem": "assets/images/produtos/saches.webp",
-  "badge": "Petiscos",
-  "marca": "Pedigree",
   "apenasCard": true
 }

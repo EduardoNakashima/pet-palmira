@@ -1,0 +1,11 @@
+{
+  "id": "prod-golden",
+  "slug": "golden",
+  "nome": "Golden",
+  "categoria": "racoes",
+  "subcategoria": "Rações",
+  "badge": "Rações",
+  "descricao": "Ração para cachorros",
+  "imagem": "assets/images/produtos/golden.webp",
+  "apenasCard": true
+}

@@ -1,11 +1,11 @@
 {
   "id": "prod-otovet",
-  "nome": "Otovet Solução Otológica",
-  "categoria": "caes-gatos",
+  "slug": "otovet",
+  "nome": "Otovet",
+  "categoria": "medicamentos",
   "subcategoria": "Medicamentos",
-  "descricao": "Gotas otológicas para alívio e tratamento de otites.",
-  "imagem": "assets/images/produtos/otovet.webp",
   "badge": "Medicamentos",
-  "marca": "Otovet",
+  "descricao": "Medicamentos diversos",
+  "imagem": "assets/images/produtos/otovet.webp",
   "apenasCard": true
 }

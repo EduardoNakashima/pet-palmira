@@ -1,11 +1,11 @@
 {
   "id": "prod-frontline",
-  "nome": "Frontline Antipulgas e Carrapatos",
-  "categoria": "caes-gatos",
+  "slug": "frontline",
+  "nome": "Frontline",
+  "categoria": "medicamentos",
   "subcategoria": "Medicamentos",
-  "descricao": "Pipeta de aplicação tópica rápida e duradoura contra parasitas.",
-  "imagem": "assets/images/produtos/frontline.webp",
   "badge": "Medicamentos",
-  "marca": "Frontline",
+  "descricao": "Medicamentos diversos",
+  "imagem": "assets/images/produtos/frontline.webp",
   "apenasCard": true
 }

@@ -1,11 +1,11 @@
 {
   "id": "prod-ossos-porte-pequeno",
-  "nome": "Ossos Naturais Porte Pequeno",
-  "categoria": "caes-gatos",
-  "subcategoria": "Petiscos & Patês",
-  "descricao": "Ossinhos adequados para a mordida de cães pequenos.",
+  "slug": "ossos-porte-pequeno",
+  "nome": "Ossos para porte pequeno",
+  "categoria": "petiscos",
+  "subcategoria": "Petiscos e Patês",
+  "badge": "Petiscos e Patês",
+  "descricao": "Petiscos diversos",
   "imagem": "assets/images/produtos/ossosportepequeno.webp",
-  "badge": "Petiscos",
-  "marca": "Petiscos",
   "apenasCard": true
 }
