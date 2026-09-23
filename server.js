@@ -12,44 +12,14 @@ const HOST = '0.0.0.0';
 
 const staticDir = __dirname;
 
-// API dinâmica para ler produtos direto da pasta data/produtos/
+// Endpoint estático de produtos
 const getProdutosHandler = (req, res) => {
-  const produtosDir = path.join(__dirname, 'data', 'produtos');
-  const produtos = [];
-
-  if (fs.existsSync(produtosDir)) {
-    try {
-      const files = fs.readdirSync(produtosDir).filter(file => file.endsWith('.json'));
-      for (const file of files) {
-        try {
-          const raw = fs.readFileSync(path.join(produtosDir, file), 'utf-8');
-          const data = JSON.parse(raw);
-          if (!data.id) {
-            data.id = path.basename(file, '.json');
-          }
-          produtos.push(data);
-        } catch (err) {
-          console.warn(`[API] Erro ao processar arquivo ${file}:`, err.message);
-        }
-      }
-    } catch (err) {
-      console.warn('[API] Erro ao ler pasta de produtos:', err.message);
-    }
+  const jsonPath = path.join(__dirname, 'data', 'produtos.json');
+  if (fs.existsSync(jsonPath)) {
+    res.setHeader('Cache-Control', 'public, max-age=60');
+    return res.sendFile(jsonPath);
   }
-
-  // Se a pasta não tiver arquivos, tenta ler do produtos.json compilado
-  if (produtos.length === 0) {
-    const jsonPath = path.join(__dirname, 'data', 'produtos.json');
-    if (fs.existsSync(jsonPath)) {
-      try {
-        const raw = fs.readFileSync(jsonPath, 'utf-8');
-        return res.json(JSON.parse(raw));
-      } catch (e) {}
-    }
-  }
-
-  res.setHeader('Cache-Control', 'no-cache, no-store, must-revalidate');
-  res.json(produtos);
+  res.json([]);
 };
 
 app.get('/api/produtos', getProdutosHandler);
