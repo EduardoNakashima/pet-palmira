@@ -404,7 +404,7 @@ const ProductManager = {
   },
 
   getWhatsAppLink(productName) {
-    const base = 'https://api.whatsapp.com/send?phone=5511946457048';
+    const base = 'https://api.whatsapp.com/send?phone=5511974605359';
     const text = 'Olá, vim pelo site do Pet Shop Palmira e gostaria de saber sobre a disponibilidade e preço do produto: "' + productName + '".';
     return base + '&text=' + encodeURIComponent(text);
   }
