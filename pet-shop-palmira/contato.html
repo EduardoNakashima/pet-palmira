@@ -105,8 +105,7 @@
 
             <table class="hours-table" id="tabela-horarios">
               <caption class="sr-only">Horário de funcionamento do Pet Shop Palmira</caption>
-              <tr><th scope="row">Segunda a Sexta</th><td class="hours-open">09:00 – 18:00</td></tr>
-              <tr><th scope="row">Sábado</th><td class="hours-open">08:00 – 17:00</td></tr>
+              <tr><th scope="row">Segunda a Sábado</th><td class="hours-open">09:00 – 18:00</td></tr>
               <tr><th scope="row">Domingo e Feriados</th><td class="hours-closed">Fechado</td></tr>
             </table>
           </article>
@@ -253,8 +252,8 @@
           <li><a href="https://maps.app.goo.gl/Ej6r6QY1CVAKU7ho6" target="_blank" rel="noopener">📍 Jardim Palmira, Guarulhos</a></li>
           <li><a href="tel:1124511719">☎️ (11) 2451-1719</a></li>
           <li><a href="https://api.whatsapp.com/send?phone=5511974605359" target="_blank" rel="noopener">💬 +55 11 97460-5359</a></li>
-          <li><span>🕒 Seg–Sex: 09h às 18h</span></li>
-          <li><span>🕒 Sábado: 08h às 17h</span></li>
+          <li><span>🕒 Seg–Sáb: 09h às 18h</span></li>
+          <li><span>🕒 Domingo: Fechado</span></li>
         </ul>
       </div>
     </div>
@@ -307,14 +306,10 @@
       let isOpen = false;
       let statusText = '';
 
-      if (day >= 1 && day <= 5) {
-        // Seg - Sex: 09:00 (540) às 18:00 (1080)
+      if (day >= 1 && day <= 6) {
+        // Segunda a Sábado: 09:00 (540) às 18:00 (1080)
         isOpen = timeInMinutes >= 540 && timeInMinutes < 1080;
         statusText = isOpen ? '🟢 Aberto agora até 18:00' : '🔴 Fechado agora (abre às 09:00)';
-      } else if (day === 6) {
-        // Sábado: 08:00 (480) às 17:00 (1020)
-        isOpen = timeInMinutes >= 480 && timeInMinutes < 1020;
-        statusText = isOpen ? '🟢 Aberto agora até 17:00' : '🔴 Fechado agora (abre segunda às 09:00)';
       } else {
         // Domingo: Fechado
         isOpen = false;
@@ -324,7 +319,7 @@
       badge.textContent = statusText;
       badge.className = `status-badge ${isOpen ? 'open' : 'closed'}`;
     } catch (e) {
-      badge.textContent = '🕒 Seg–Sex 09h–18h | Sáb 08h–17h';
+      badge.textContent = '🕒 Seg–Sáb: 09h às 18h';
       badge.className = 'status-badge open';
     }
   })();

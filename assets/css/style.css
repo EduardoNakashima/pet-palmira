@@ -76,6 +76,12 @@ button:focus-visible {
   --maxw: 1200px;
 }
 
+@media (max-width: 1200px) {
+  :root {
+    --maxw: 90vw;
+  }
+}
+
 /* ---- TIPOGRAFIA ---- */
 h1, h2, h3, .display {
   font-family: 'Fredoka One', cursive;

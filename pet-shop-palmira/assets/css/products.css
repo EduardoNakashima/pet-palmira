@@ -284,3 +284,33 @@
   margin-bottom: 20px;
 }
 
+/* Responsividade de Produtos (Notebook, Tablet e Mobile) */
+@media (max-width: 1200px) {
+  .catalog-header .section-in {
+    width: 90% !important;
+    max-width: 90% !important;
+    margin: 0 auto !important;
+  }
+  .products-grid {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+}
+
+@media (max-width: 540px) {
+  .products-grid {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+  .toolbar-actions {
+    width: 100%;
+  }
+  .search-box {
+    width: 100%;
+    min-width: 100%;
+  }
+  .category-tabs {
+    justify-content: flex-start;
+  }
+}
+
