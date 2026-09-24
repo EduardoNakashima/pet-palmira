@@ -493,14 +493,57 @@
 .about-visual strong { font-family: 'Fredoka One', cursive; font-size: 22px; color: #fff; }
 .about-visual span { display: block; font-size: 14px; color: rgba(255,255,255,.82); font-weight: 600; margin-top: 6px; }
 .about-text p { color: var(--tl); font-size: 16px; line-height: 1.8; margin-bottom: 18px; }
-.values-list { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 24px; }
-.value-item {
-  display: flex; align-items: flex-start; gap: 12px; background: #fff; padding: 14px;
-  border-radius: var(--r); border-left: 3px solid var(--gm); box-shadow: 0 2px 8px rgba(26,92,46,.06);
+.values-list {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+  margin-top: 24px;
 }
-.value-ico { font-size: 18px; margin-top: 2px; }
-.value-item strong { display: block; font-size: 13px; color: var(--dk); }
-.value-item span { font-size: 12px; color: var(--tl); }
+.about-text .values-list {
+  grid-template-columns: repeat(2, 1fr);
+}
+.value-item {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  background: #fff;
+  padding: 18px 16px;
+  border-radius: var(--rl);
+  border: 1px solid rgba(43,138,69,.14);
+  border-left: 4px solid var(--gm);
+  box-shadow: 0 4px 14px rgba(26,92,46,.06);
+  transition: transform .25s ease, box-shadow .25s ease;
+}
+.value-item:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(26,92,46,.12);
+  border-color: var(--gb);
+}
+.value-head {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+}
+.value-ico {
+  font-size: 20px;
+  line-height: 1;
+  flex-shrink: 0;
+}
+.value-item strong {
+  display: block;
+  font-size: 15px;
+  font-weight: 800;
+  color: var(--dk);
+  line-height: 1.25;
+}
+.value-desc {
+  display: block;
+  font-size: 13px;
+  color: var(--tl);
+  line-height: 1.45;
+}
 
 /* ---- LOCALIZAÇÃO ---- */
 .location-grid { display: grid; grid-template-columns: 1.1fr .9fr; gap: 44px; align-items: stretch; }
@@ -736,7 +779,35 @@
   .map-embed, .map-embed iframe { min-height: 320px; }
   .footer-grid { grid-template-columns: 1fr; gap: 28px; }
   .footer-bottom { flex-direction: column; text-align: center; }
-  .values-list { grid-template-columns: 1fr; }
+
+  /* Quem somos - Valores em duas linhas e duas colunas no mobile */
+  .values-list,
+  .about-text .values-list {
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 12px !important;
+  }
+
+  /* No mobile, apenas o ícone do WhatsApp no cabeçalho (sem texto Fale Conosco) */
+  .site-header .btn-whatsapp.sm {
+    padding: 0 !important;
+    width: 42px !important;
+    height: 42px !important;
+    min-width: 42px !important;
+    border-radius: 50% !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    box-shadow: 0 4px 12px rgba(37,211,102,.35) !important;
+    flex-shrink: 0 !important;
+  }
+  .site-header .btn-whatsapp.sm svg {
+    width: 22px !important;
+    height: 22px !important;
+    margin: 0 !important;
+  }
+  .site-header .btn-whatsapp.sm .btn-wa-text {
+    display: none !important;
+  }
 }
 
 @media (max-width: 480px) {
@@ -747,6 +818,30 @@
   .hero { min-height: auto; padding-top: 100px; padding-bottom: 48px; }
   .hero-circle { width: 220px; height: 220px; }
   .btn-whatsapp.lg { font-size: 15px; padding: 14px 20px; width: 100%; }
+
+  /* Ajuste refinado dos cards 2x2 em telas menores */
+  .values-list,
+  .about-text .values-list {
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 10px !important;
+  }
+  .value-item {
+    padding: 14px 10px !important;
+    border-radius: 14px !important;
+  }
+  .value-head {
+    gap: 6px;
+  }
+  .value-head strong {
+    font-size: 13px !important;
+  }
+  .value-desc {
+    font-size: 11.5px !important;
+    line-height: 1.35 !important;
+  }
+  .value-ico {
+    font-size: 18px !important;
+  }
 }
 
 /* Menu mobile aberto */
