@@ -487,3 +487,8 @@
     max-width: 100%;
   }
 }
+
+/* Ocultar badge Netlify */
+.nl-badge {
+  display: none !important;
+}
