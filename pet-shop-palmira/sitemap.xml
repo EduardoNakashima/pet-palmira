@@ -48,4 +48,40 @@
     <loc>https://petshoppalmira.com.br/Informacoes/loja-de-racao-para-cachorro-e-gato.html</loc>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/Informacoes/comprar-racao-para-cachorro-e-gato.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/Informacoes/racao-para-cachorro-com-preco-acessivel.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/Informacoes/racao-para-gato-com-preco-acessivel.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/Informacoes/loja-de-produtos-para-caes-e-gatos.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/Informacoes/comprar-produtos-para-caes-e-gatos.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/Informacoes/loja-de-acessorios-para-cachorro-e-gato.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/Informacoes/comprar-acessorios-para-cachorro-e-gato.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/Informacoes/loja-de-brinquedos-para-caes-e-gatos.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/Informacoes/comprar-brinquedos-para-cachorro-e-gato.html</loc>
+    <priority>0.8</priority>
+  </url>
 </urlset>

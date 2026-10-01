@@ -3,172 +3,151 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Central de Informações & Guias Pet | Pet Shop Palmira Guarulhos</title>
-<meta name="description" content="Central de Guias e Informações do Pet Shop Palmira. Dicas de rações, banho e tosa, cuidados com cães, gatos, pássaros, roedores e animais de fazenda em Guarulhos.">
-<meta property="og:type" content="website">
-<meta property="og:title" content="Central de Informações & Guias Pet | Pet Shop Palmira Guarulhos">
-<meta property="og:description" content="Tudo sobre rações, saúde pet, banho e tosa e cuidados diários com cães, gatos, aves e animais do campo.">
-<meta property="og:site_name" content="Pet Shop Palmira">
+<title>Informações & Guias Pet | Pet Shop Palmira Guarulhos</title>
+<meta name="description" content="Confira todas as informações, artigos e guias especializados do Pet Shop Palmira sobre alimentação, rações, cuidados e produtos para pets em Guarulhos.">
+<link rel="canonical" href="https://petshoppalmira.com.br/Informacoes/">
+
+<!-- Google Fonts -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&family=Nunito:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+
+<!-- Estilos do Site -->
 <link rel="stylesheet" href="../assets/css/style.css">
 <link rel="stylesheet" href="../assets/css/components.css">
-<link rel="stylesheet" href="../assets/css/products.css">
-<!-- Favicon com a logo oficial do Pet Shop Palmira -->
+<link rel="stylesheet" href="../assets/css/seo-pages.css">
+
+<!-- Favicon com a logo oficial (sem a escrita Palmira) -->
 <link rel="icon" type="image/png" href="../assets/images/favicon-logo.png">
 <link rel="shortcut icon" type="image/png" href="../assets/images/favicon-logo.png">
 <link rel="apple-touch-icon" href="../assets/images/favicon-logo.png">
 
 <style>
-  .seo-hub-intro {
-    background: linear-gradient(135deg, rgba(230, 81, 0, 0.08) 0%, rgba(46, 125, 50, 0.08) 100%);
-    border-radius: 20px;
-    padding: 32px 28px;
-    margin-bottom: 40px;
-    border: 1px solid rgba(230, 81, 0, 0.15);
-  }
-  .seo-search-box {
-    margin-top: 20px;
-    display: flex;
-    gap: 12px;
-    max-width: 600px;
-  }
-  .seo-search-input {
-    flex: 1;
-    padding: 14px 18px;
-    border: 2px solid var(--bd, #e2e8f0);
-    border-radius: 12px;
-    font-size: 16px;
-    outline: none;
-    font-family: inherit;
-    transition: border-color 0.2s;
-  }
-  .seo-search-input:focus {
-    border-color: var(--pc, #e65100);
-  }
-  .cluster-card {
-    background: #fff;
-    border-radius: 16px;
-    padding: 28px;
-    margin-bottom: 32px;
-    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.04);
-    border: 1px solid #edf2f7;
-  }
-  .cluster-header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-bottom: 20px;
-    padding-bottom: 12px;
-    border-bottom: 2px solid #f1f5f9;
-  }
-  .cluster-title {
-    font-family: 'Fredoka One', cursive;
-    color: var(--pc, #e65100);
-    font-size: 24px;
-    display: flex;
-    align-items: center;
-    gap: 10px;
-  }
-  .cluster-badge {
-    background: #f1f5f9;
-    color: var(--td, #1e293b);
-    font-weight: 700;
-    font-size: 13px;
-    padding: 4px 12px;
-    border-radius: 20px;
-  }
-  .seo-topics-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-    gap: 18px;
-  }
-  .topic-item {
-    background: #f8fafc;
-    border-radius: 12px;
-    padding: 18px 20px;
-    border-left: 4px solid var(--sc, #2e7d32);
-    transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-  }
-  .topic-item:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 6px 14px rgba(0,0,0,0.06);
-    background: #ffffff;
-    border-left-color: var(--pc, #e65100);
-  }
-  .topic-number {
-    font-size: 11px;
-    font-weight: 800;
-    color: #64748b;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-    margin-bottom: 6px;
-  }
-  .topic-keyword {
-    font-size: 17px;
-    font-weight: 800;
-    color: var(--td, #1e293b);
-    margin-bottom: 6px;
-  }
-  .topic-longtail {
-    font-size: 14px;
-    color: var(--tl, #475569);
-    line-height: 1.5;
-    margin-bottom: 12px;
-  }
-  .topic-tag {
-    display: inline-block;
-    font-size: 11px;
-    font-weight: 700;
-    padding: 3px 8px;
-    background: #e2e8f0;
-    color: #334155;
-    border-radius: 6px;
-    align-self: flex-start;
-  }
-  @media (max-width: 600px) {
-    .seo-topics-grid {
-      grid-template-columns: 1fr;
-    }
-    .cluster-card {
-      padding: 20px 16px;
-    }
-  }
+.seo-list-section {
+  padding: 40px 0 80px;
+  background: #ffffff;
+}
+
+.seo-page-header {
+  margin-bottom: 36px;
+}
+
+.seo-page-header h1 {
+  font-family: 'Fredoka One', cursive;
+  font-size: 34px;
+  color: var(--dk, #1a2d20);
+  margin-bottom: 12px;
+}
+
+.seo-page-header p {
+  color: var(--tl, #718096);
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+/* Lista Vertical Limpa */
+.seo-vertical-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+}
+
+.seo-vertical-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 20px;
+  background: #f8fafc;
+  border-radius: 12px;
+  border: 1px solid #e2e8f0;
+  transition: all 0.2s ease;
+  text-decoration: none;
+  color: var(--dk, #1a2d20);
+}
+
+.seo-vertical-item:hover {
+  background: #ffffff;
+  border-color: var(--gm, #2b8a45);
+  box-shadow: 0 4px 16px rgba(43, 138, 69, 0.1);
+  transform: translateX(4px);
+}
+
+.seo-item-left {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.seo-item-num {
+  font-size: 13px;
+  font-weight: 800;
+  color: var(--gm, #2b8a45);
+  background: var(--gp, #e8f5ec);
+  padding: 4px 10px;
+  border-radius: 20px;
+  min-width: 38px;
+  text-align: center;
+}
+
+.seo-item-title {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--dk, #1a2d20);
+  transition: color 0.2s;
+}
+
+.seo-vertical-item:hover .seo-item-title {
+  color: var(--gm, #2b8a45);
+}
+
+/* Seta indicativa limpa e minimalista sem texto de status */
+.seo-item-arrow {
+  font-size: 18px;
+  color: #94a3b8;
+  font-weight: 700;
+  transition: all 0.2s ease;
+  line-height: 1;
+}
+
+.seo-vertical-item:hover .seo-item-arrow {
+  color: var(--gm, #2b8a45);
+  transform: translateX(4px);
+}
+.seo-subdivider {
+  margin: 36px 0 20px;
+  font-family: 'Fredoka One', cursive;
+  font-size: 22px;
+  color: var(--gd, #1a5c2e);
+  padding-bottom: 8px;
+  border-bottom: 2px solid var(--gp, #e8f5ec);
+}
 </style>
 
+<!-- Schema.org Estruturado -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "CollectionPage",
-  "name": "Central de Informações & Guias Pet - Pet Shop Palmira",
-  "description": "Guias completos, informações de nutrição e cuidados com animais de estimação e criação em Guarulhos.",
+  "name": "Informações & Guias Pet - Pet Shop Palmira",
+  "description": "Lista de informações, páginas SEO e artigos especializados do Pet Shop Palmira.",
   "publisher": {
     "@type": "PetStore",
     "name": "Pet Shop Palmira",
-    "telephone": "+55-11-97460-5359",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "Rua Jaime Campelo, 24",
-      "addressLocality": "Guarulhos",
-      "addressRegion": "SP",
-      "postalCode": "07075-080",
-      "addressCountry": "BR"
-    }
+    "telephone": "+5511974605359"
   }
 }
 </script>
 </head>
 <body>
 
-<a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pela%20Central%20de%20Informa%C3%A7%C3%B5es%20e%20gostaria%20de%20tirar%20uma%20d%C3%BAvida%21"
-   class="float-whatsapp" target="_blank" rel="noopener" aria-label="Chamar o Pet Shop Palmira no WhatsApp">
+<!-- Botão Flutuante do WhatsApp -->
+<a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%21%20Vim%20pela%20p%C3%A1gina%20de%20Informa%C3%A7%C3%B5es%20do%20Pet%20Shop%20Palmira%21"
+   class="float-whatsapp" target="_blank" rel="noopener" aria-label="Pedir no WhatsApp">
   <svg viewBox="0 0 24 24" fill="white" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
 </a>
 
+<!-- Header Principal -->
 <header class="site-header" id="site-header">
   <div class="hdr-in">
     <a href="../index.html" class="logo" aria-label="Ir para o início do Pet Shop Palmira">
@@ -186,7 +165,7 @@
       </ul>
     </nav>
 
-    <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pela%20Central%20de%20Informa%C3%A7%C3%B5es%20e%20gostaria%20de%20atendimento%21"
+    <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%21%20Gostaria%20de%20informa%C3%A7%C3%B5es%21"
        class="btn btn-whatsapp sm" target="_blank" rel="noopener" aria-label="Falar no WhatsApp">
       <svg class="ico-wa" viewBox="0 0 24 24" fill="currentColor" width="18" height="18" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
       <span class="btn-wa-text">Fale Conosco</span>
@@ -199,175 +178,542 @@
 </header>
 
 <main>
-  <section class="section" style="padding-top:130px">
+
+  <!-- BREADCRUMBS NO INÍCIO -->
+  <section class="seo-breadcrumbs-section" aria-label="Trilha de navegação">
+    <div class="section-in">
+      <nav class="seo-breadcrumbs">
+        <a href="../index.html">Início</a>
+        <span class="seo-breadcrumbs-sep">›</span>
+        <span class="seo-breadcrumbs-current" aria-current="page">Informações</span>
+      </nav>
+    </div>
+  </section>
+
+  <!-- LISTA VERTICAL DE PALAVRAS-CHAVE -->
+  <section class="seo-list-section">
     <div class="section-in">
       
-      <div class="seo-hub-intro">
-        <p class="section-eyebrow">Planejamento & Central de Conteúdo</p>
-        <h1 class="section-title" style="margin-bottom:12px">Central de Informações Pet Shop Palmira</h1>
-        <p style="color:var(--tl); font-size:16px; max-width:800px; line-height:1.7;">
-          Seja bem-vindo à nossa central de guias, dicas de nutrição e orientações para o bem-estar do seu pet. Aqui você encontra as <strong>50 principais áreas temáticas</strong> preparadas pela nossa equipe que está há 25 anos cuidando dos pets no Jardim Palmira, Guarulhos.
-        </p>
-
-        <div class="seo-search-box">
-          <input type="text" id="topic-search" class="seo-search-input" placeholder="🔍 Filtrar por palavra-chave (ex: Golden, Banho, Pulgas, Calopsita...)" aria-label="Filtrar tópicos">
-        </div>
+      <div class="seo-page-header">
+        <h1>Central de Informações</h1>
+        <p>Acesse nossos guias especializados e conteúdos completos sobre nutrição, produtos e cuidados para o seu pet em Guarulhos.</p>
       </div>
 
-      <!-- CLUSTERS CONTAINER -->
-      <div id="clusters-container">
-        <!-- Injetado dinamicamente via JS ou exibido com fallback estruturado -->
-      </div>
-
-      <!-- CTA FINAL -->
-      <div class="cta-final-in" style="margin-top:50px; background:var(--pc); border-radius:18px; padding:40px; text-align:center; color:#fff;">
-        <h2 style="font-family:'Fredoka One',cursive; font-size:28px; margin-bottom:12px;">Ficou com alguma dúvida específica sobre o seu pet?</h2>
-        <p style="font-size:16px; margin-bottom:24px; max-width:600px; margin-left:auto; margin-right:auto; opacity:0.95;">
-          Fale direto com a nossa equipe no balcão pelo WhatsApp. Entregamos rações e produtos em domicílio no Jardim Palmira e bairros vizinhos em Guarulhos.
-        </p>
-        <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20estou%20na%20Central%20de%20Informa%C3%A7%C3%B5es%20e%20gostaria%20de%20ajuda%20com%20meu%20pet%21"
-           class="btn btn-whatsapp" target="_blank" rel="noopener" style="background:#25d366; color:#fff; font-weight:800; font-size:16px; padding:14px 28px; border-radius:30px; display:inline-flex; align-items:center; gap:8px;">
-          <svg class="ico-wa" viewBox="0 0 24 24" fill="currentColor" width="20" height="20" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
-          Chamar no WhatsApp (11) 97460-5359
+      <!-- LISTA VERTICAL: 25 NÃO REGIONALIZADAS -->
+      <div class="seo-vertical-list">
+        
+        <!-- 1 -->
+        <a href="loja-de-racao-para-cachorro-e-gato.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">01</span>
+            <span class="seo-item-title">loja de ração para cachorro e gato</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
         </a>
+
+        <!-- 2 -->
+        <a href="comprar-racao-para-cachorro-e-gato.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">02</span>
+            <span class="seo-item-title">comprar ração para cachorro e gato</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 3 -->
+        <a href="racao-para-cachorro-com-preco-acessivel.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">03</span>
+            <span class="seo-item-title">ração para cachorro com preço acessível</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 4 -->
+        <a href="racao-para-gato-com-preco-acessivel.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">04</span>
+            <span class="seo-item-title">ração para gato com preço acessível</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 5 -->
+        <a href="loja-de-produtos-para-caes-e-gatos.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">05</span>
+            <span class="seo-item-title">loja de produtos para cães e gatos</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 6 -->
+        <a href="comprar-produtos-para-caes-e-gatos.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">06</span>
+            <span class="seo-item-title">comprar produtos para cães e gatos</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 7 -->
+        <a href="loja-de-acessorios-para-cachorro-e-gato.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">07</span>
+            <span class="seo-item-title">loja de acessórios para cachorro e gato</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 8 -->
+        <a href="comprar-acessorios-para-cachorro-e-gato.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">08</span>
+            <span class="seo-item-title">comprar acessórios para cachorro e gato</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 9 -->
+        <a href="loja-de-brinquedos-para-caes-e-gatos.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">09</span>
+            <span class="seo-item-title">loja de brinquedos para cães e gatos</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 10 -->
+        <a href="comprar-brinquedos-para-cachorro-e-gato.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">10</span>
+            <span class="seo-item-title">comprar brinquedos para cachorro e gato</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 11 -->
+        <a href="loja-de-medicamentos-para-animais.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">11</span>
+            <span class="seo-item-title">loja de medicamentos para animais</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 12 -->
+        <a href="comprar-medicamentos-veterinarios-para-animais.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">12</span>
+            <span class="seo-item-title">comprar medicamentos veterinários para animais</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 13 -->
+        <a href="loja-de-produtos-para-animais-domesticos.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">13</span>
+            <span class="seo-item-title">loja de produtos para animais domésticos</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 14 -->
+        <a href="onde-comprar-produtos-para-animais-domesticos.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">14</span>
+            <span class="seo-item-title">onde comprar produtos para animais domésticos</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 15 -->
+        <a href="loja-de-racao-para-animais-de-estimacao.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">15</span>
+            <span class="seo-item-title">loja de ração para animais de estimação</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 16 -->
+        <a href="comprar-racao-para-animais-de-estimacao.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">16</span>
+            <span class="seo-item-title">comprar ração para animais de estimação</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 17 -->
+        <a href="loja-de-racao-para-passaros-e-aves.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">17</span>
+            <span class="seo-item-title">loja de ração para pássaros e aves</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 18 -->
+        <a href="comprar-racao-para-passaros-e-aves.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">18</span>
+            <span class="seo-item-title">comprar ração para pássaros e aves</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 19 -->
+        <a href="loja-de-produtos-para-animais-de-pequeno-porte.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">19</span>
+            <span class="seo-item-title">loja de produtos para animais de pequeno porte</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 20 -->
+        <a href="pet-shop-com-variedade-de-produtos-para-animais.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">20</span>
+            <span class="seo-item-title">pet shop com variedade de produtos para animais</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 21 -->
+        <a href="pet-shop-com-racao-e-acessorios-para-animais.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">21</span>
+            <span class="seo-item-title">pet shop com ração e acessórios para animais</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 22 -->
+        <a href="pet-shop-com-produtos-para-caes-e-gatos.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">22</span>
+            <span class="seo-item-title">pet shop com produtos para cães e gatos</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 23 -->
+        <a href="pet-shop-com-entrega-de-produtos-para-animais.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">23</span>
+            <span class="seo-item-title">pet shop com entrega de produtos para animais</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 24 -->
+        <a href="comprar-produtos-para-pets-pelo-whatsapp.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">24</span>
+            <span class="seo-item-title">comprar produtos para pets pelo WhatsApp</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 25 -->
+        <a href="pedir-racao-e-produtos-para-pets-pelo-whatsapp.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">25</span>
+            <span class="seo-item-title">pedir ração e produtos para pets pelo WhatsApp</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- REGIONALIZADAS ABAIXO SEM DIVISÃO -->
+        <!-- 26 -->
+        <a href="pet-shop-jardim-palmira-guarulhos.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">26</span>
+            <span class="seo-item-title">pet shop Jardim Palmira Guarulhos</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 27 -->
+        <a href="racao-para-cachorro-jardim-palmira.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">27</span>
+            <span class="seo-item-title">ração para cachorro Jardim Palmira</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 28 -->
+        <a href="racao-para-gato-jardim-palmira.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">28</span>
+            <span class="seo-item-title">ração para gato Jardim Palmira</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 29 -->
+        <a href="produtos-para-pets-jardim-palmira.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">29</span>
+            <span class="seo-item-title">produtos para pets Jardim Palmira</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 30 -->
+        <a href="acessorios-para-pets-jardim-palmira.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">30</span>
+            <span class="seo-item-title">acessórios para pets Jardim Palmira</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 31 -->
+        <a href="pet-shop-continental-guarulhos.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">31</span>
+            <span class="seo-item-title">pet shop Continental Guarulhos</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 32 -->
+        <a href="racao-para-cachorro-continental.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">32</span>
+            <span class="seo-item-title">ração para cachorro Continental</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 33 -->
+        <a href="racao-para-gato-continental.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">33</span>
+            <span class="seo-item-title">ração para gato Continental</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 34 -->
+        <a href="produtos-para-pets-continental.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">34</span>
+            <span class="seo-item-title">produtos para pets Continental</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 35 -->
+        <a href="acessorios-para-pets-continental.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">35</span>
+            <span class="seo-item-title">acessórios para pets Continental</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 36 -->
+        <a href="pet-shop-cabucu-guarulhos.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">36</span>
+            <span class="seo-item-title">pet shop Cabuçu Guarulhos</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 37 -->
+        <a href="racao-para-cachorro-cabucu.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">37</span>
+            <span class="seo-item-title">ração para cachorro Cabuçu</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 38 -->
+        <a href="racao-para-gato-cabucu.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">38</span>
+            <span class="seo-item-title">ração para gato Cabuçu</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 39 -->
+        <a href="produtos-para-pets-cabucu.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">39</span>
+            <span class="seo-item-title">produtos para pets Cabuçu</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 40 -->
+        <a href="acessorios-para-pets-cabucu.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">40</span>
+            <span class="seo-item-title">acessórios para pets Cabuçu</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 41 -->
+        <a href="pet-shop-vila-galvao-guarulhos.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">41</span>
+            <span class="seo-item-title">pet shop Vila Galvão Guarulhos</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 42 -->
+        <a href="racao-para-cachorro-vila-galvao.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">42</span>
+            <span class="seo-item-title">ração para cachorro Vila Galvão</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 43 -->
+        <a href="racao-para-gato-vila-galvao.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">43</span>
+            <span class="seo-item-title">ração para gato Vila Galvão</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 44 -->
+        <a href="produtos-para-pets-vila-galvao.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">44</span>
+            <span class="seo-item-title">produtos para pets Vila Galvão</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 45 -->
+        <a href="acessorios-para-pets-vila-galvao.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">45</span>
+            <span class="seo-item-title">acessórios para pets Vila Galvão</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 46 -->
+        <a href="pet-shop-jardim-rosa-de-franca.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">46</span>
+            <span class="seo-item-title">pet shop Jardim Rosa de França</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 47 -->
+        <a href="racao-para-cachorro-rosa-de-franca.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">47</span>
+            <span class="seo-item-title">ração para cachorro Rosa de França</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 48 -->
+        <a href="racao-para-gato-rosa-de-franca.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">48</span>
+            <span class="seo-item-title">ração para gato Rosa de França</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 49 -->
+        <a href="produtos-para-pets-rosa-de-franca.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">49</span>
+            <span class="seo-item-title">produtos para pets Rosa de França</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
+        <!-- 50 -->
+        <a href="acessorios-para-pets-rosa-de-franca.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">50</span>
+            <span class="seo-item-title">acessórios para pets Rosa de França</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+
       </div>
 
     </div>
   </section>
+
 </main>
 
-<footer class="footer">
+<!-- Rodapé do Site -->
+<footer class="site-footer">
   <div class="footer-in">
     <div class="footer-grid">
-      <div class="footer-brand">
-        <img src="../assets/images/logopetshoppalmira.png" alt="Pet Shop Palmira" class="footer-logo">
-        <p class="footer-desc">
-          Há 25 anos cuidando com dedicação e carinho dos animais de estimação e criação no Jardim Palmira, Guarulhos.
-        </p>
+      <div>
+        <a href="../index.html" class="logo" aria-label="Pet Shop Palmira">
+          <img src="../assets/images/logopetshoppalmira.png" alt="Pet Shop Palmira" class="logo-img footer-logo-img">
+        </a>
+        <p class="footer-desc">Pet shop de bairro no Jardim Palmira, Guarulhos, há 25 anos. Aqui é tudo pensado com carinho pro seu bicho.</p>
+        <a href="https://api.whatsapp.com/send?phone=5511974605359" class="footer-social" target="_blank" rel="noopener" aria-label="Falar no WhatsApp">
+          <svg viewBox="0 0 24 24" fill="currentColor" width="18" height="18" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+        </a>
       </div>
 
       <div class="footer-col">
-        <p class="footer-heading">Navegação</p>
-        <ul class="footer-links">
+        <h4>Links Rápidos</h4>
+        <ul>
+          <li><a href="../index.html">Início</a></li>
           <li><a href="../produtos.html">Produtos</a></li>
           <li><a href="../servicos.html">Serviços</a></li>
           <li><a href="../sobre-nos.html">Sobre Nós</a></li>
-          <li><a href="../localizacao.html">Localização</a></li>
           <li><a href="../contato.html">Contato</a></li>
-          <li><a href="index.html">Central de Informações</a></li>
+          <li><a href="index.html">Informações</a></li>
         </ul>
       </div>
 
       <div class="footer-col">
-        <p class="footer-heading">Atendimento</p>
-        <p class="footer-info">
-          <strong>Horário:</strong><br>
-          Segunda a Sábado: 09h às 18h<br>
-          Domingos: Fechado
-        </p>
-        <p class="footer-info">
-          <strong>Endereço:</strong><br>
-          Rua Jaime Campelo, 24 - Jardim Palmira, Guarulhos - SP
-        </p>
+        <h4>Contato</h4>
+        <ul>
+          <li><strong>WhatsApp:</strong> (11) 97460-5359</li>
+          <li><strong>Endereço:</strong> R. Jaime Campelo, 24 - Jardim Palmira, Guarulhos - SP</li>
+          <li><strong>Atendimento:</strong> Seg a Sáb 8h às 19h | Dom 8h às 13h</li>
+        </ul>
       </div>
     </div>
 
     <div class="footer-bottom">
-      <p>&copy; 2026 Pet Shop Palmira. Todos os direitos reservados.</p>
+      <p>&copy; 2026 Pet Shop Palmira. Todos os direitos reservados. CNPJ: 00.000.000/0001-00</p>
     </div>
   </div>
 </footer>
 
 <script>
-// Carregar planejamento JSON e renderizar tópicos
-fetch('planejamento-50-paginas-seo.json')
-  .then(res => res.json())
-  .then(data => {
-    const container = document.getElementById('clusters-container');
-    const searchInput = document.getElementById('topic-search');
-
-    function renderClusters(filterText = '') {
-      container.innerHTML = '';
-      const filterLower = filterText.toLowerCase().trim();
-      let totalFound = 0;
-
-      data.clusters.forEach(cluster => {
-        const filteredPages = cluster.paginas.filter(p => 
-          !filterLower || 
-          p.palavra_forte.toLowerCase().includes(filterLower) || 
-          p.cauda_longa.toLowerCase().includes(filterLower) || 
-          cluster.nome.toLowerCase().includes(filterLower)
-        );
-
-        if (filteredPages.length > 0) {
-          totalFound += filteredPages.length;
-          const card = document.createElement('div');
-          card.className = 'cluster-card';
-
-          let pagesHtml = filteredPages.map(p => {
-            const isPublished = p.status === 'publicada';
-            const actionHtml = isPublished 
-              ? `<a href="${p.slug}" style="font-size:12px; font-weight:800; color:#1a5c2e; background:#e8f5ec; padding:4px 10px; border-radius:20px; text-decoration:none; display:inline-flex; align-items:center; gap:4px; transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">🟢 Ver Página &rarr;</a>`
-              : `<span style="font-size:12px; font-weight:700; color:#e65100;">&#8594; Planejada</span>`;
-
-            return `
-            <div class="topic-item" style="${isPublished ? 'border-left: 4px solid #2b8a45; background: #ffffff; box-shadow: 0 4px 12px rgba(43,138,69,0.08);' : ''}">
-              <div>
-                <div class="topic-number">#${String(p.numero).padStart(2, '0')} • ${p.intencao}</div>
-                <div class="topic-keyword" style="font-weight:800; font-size:16px; margin:4px 0;">${isPublished ? `<a href="${p.slug}" style="color:#1a5c2e; text-decoration:none;">📌 ${p.palavra_forte}</a>` : `📌 ${p.palavra_forte}`}</div>
-                <div class="topic-longtail" style="font-size:13px; color:#64748b; margin-bottom:8px;">🔍 <em>"${p.cauda_longa}"</em></div>
-              </div>
-              <div style="display:flex; justify-content:space-between; align-items:center; margin-top:8px; flex-wrap:wrap; gap:6px;">
-                <span class="topic-tag">${p.slug}</span>
-                ${actionHtml}
-              </div>
-            </div>
-            `;
-          }).join('');
-
-          card.innerHTML = `
-            <div class="cluster-header">
-              <h2 class="cluster-title">${cluster.nome}</h2>
-              <span class="cluster-badge">${filteredPages.length} páginas</span>
-            </div>
-            <div class="seo-topics-grid">
-              ${pagesHtml}
-            </div>
-          `;
-          container.appendChild(card);
-        }
-      });
-
-      if (totalFound === 0) {
-        container.innerHTML = `
-          <div style="background:#fff; border-radius:16px; padding:40px; text-align:center; color:var(--tl);">
-            <p style="font-size:18px;">Nenhum tópico encontrado para <strong>"${filterText}"</strong>.</p>
-            <p style="font-size:14px; margin-top:8px;">Tente pesquisar por termos como "Golden", "Banho", "Pulgas", "Filhote", "Gato" ou "Galinhas".</p>
-          </div>
-        `;
-      }
-    }
-
-    renderClusters();
-
-    if (searchInput) {
-      searchInput.addEventListener('input', (e) => {
-        renderClusters(e.target.value);
-      });
-    }
-  })
-  .catch(err => console.error('Erro ao carregar planejamento SEO:', err));
-
-// Menu Toggle Mobile
+// Menu Mobile Toggle
 const menuToggle = document.getElementById('menu-toggle');
 const mainNav = document.getElementById('main-nav');
 if (menuToggle && mainNav) {
   menuToggle.addEventListener('click', () => {
     const isExpanded = menuToggle.getAttribute('aria-expanded') === 'true';
     menuToggle.setAttribute('aria-expanded', !isExpanded);
-    mainNav.classList.toggle('open');
+    mainNav.classList.toggle('nav-open');
   });
 }
 </script>
+
 </body>
 </html>
