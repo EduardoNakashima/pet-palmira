@@ -337,7 +337,7 @@
           "slug": "pet-shop-cabucu-guarulhos.html",
           "cauda_longa": "pet shop Cabuçu Guarulhos produtos para pets e animais de sítio",
           "intencao": "Local / Comercial",
-          "status": "planejada",
+          "status": "publicada",
           "imagem_sugerida": "assets/organico/loja.jpg"
         },
         {
@@ -346,7 +346,7 @@
           "slug": "racao-para-cachorro-cabucu.html",
           "cauda_longa": "onde pedir ração para cachorro Cabuçu Guarulhos entrega rápida",
           "intencao": "Local / Transacional",
-          "status": "planejada",
+          "status": "publicada",
           "imagem_sugerida": "assets/organico/racaoparacachorro.jpg"
         },
         {
@@ -355,7 +355,7 @@
           "slug": "racao-para-gato-cabucu.html",
           "cauda_longa": "ração para gato Cabuçu Guarulhos preço justo no bairro",
           "intencao": "Local / Transacional",
-          "status": "planejada",
+          "status": "publicada",
           "imagem_sugerida": "assets/organico/pouring-pet-food-into-bowl.jpg"
         },
         {
@@ -364,7 +364,7 @@
           "slug": "produtos-para-pets-cabucu.html",
           "cauda_longa": "produtos para pets Cabuçu rações acessórios e farmácia",
           "intencao": "Local / Comercial",
-          "status": "planejada",
+          "status": "publicada",
           "imagem_sugerida": "assets/organico/loja2.jpg"
         },
         {
@@ -373,7 +373,7 @@
           "slug": "acessorios-para-pets-cabucu.html",
           "cauda_longa": "acessórios para pets Cabuçu peitorais e casinhas",
           "intencao": "Local / Comercial",
-          "status": "planejada",
+          "status": "publicada",
           "imagem_sugerida": "assets/organico/transportesecasinhas.jpg"
         },
         {
