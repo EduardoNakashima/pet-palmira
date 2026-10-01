@@ -31,10 +31,10 @@
 <link rel="stylesheet" href="../assets/css/components.css">
 <link rel="stylesheet" href="../assets/css/seo-pages.css">
 
-<!-- Favicon com a logo oficial do Pet Shop Palmira -->
-<link rel="icon" type="image/png" href="../assets/images/logopetshoppalmira.png">
-<link rel="shortcut icon" type="image/png" href="../assets/images/logopetshoppalmira.png">
-<link rel="apple-touch-icon" href="../assets/images/logopetshoppalmira.png">
+<!-- Favicon com a logo oficial do Pet Shop Palmira (SEM a escrita Palmira) -->
+<link rel="icon" type="image/png" href="../assets/images/favicon-logo.png">
+<link rel="shortcut icon" type="image/png" href="../assets/images/favicon-logo.png">
+<link rel="apple-touch-icon" href="../assets/images/favicon-logo.png">
 
 <!-- Schema.org Estruturado: Artigo e Breadcrumbs para o Google -->
 <script type="application/ld+json">
@@ -72,10 +72,10 @@
       "priceRange": "$$",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Rua Almerindo de Oliveira Chaves, 50",
+        "streetAddress": "Rua Jaime Campelo, 24",
         "addressLocality": "Guarulhos",
         "addressRegion": "SP",
-        "postalCode": "07074-060",
+        "postalCode": "07075-080",
         "addressCountry": "BR"
       }
     }
@@ -105,6 +105,7 @@
         <li><a href="../sobre-nos.html">Sobre Nós</a></li>
         <li><a href="../localizacao.html">Localização</a></li>
         <li><a href="../contato.html">Contato</a></li>
+        <li><a href="index.html" class="active">Informações</a></li>
       </ul>
     </nav>
 
@@ -138,7 +139,7 @@
   </section>
 
   <!-- ======================================================================= -->
-  <!-- 2. INTRODUÇÃO: TEXTO MÉDIO À ESQUERDA, IMAGEM QUADRADA À DIREITA         -->
+  <!-- 2. INTRODUÇÃO: TEXTO MÉDIO À ESQUERDA, CARROSSEL QUADRADO À DIREITA     -->
   <!-- E CTA COM BOTÃO ALINHADO À ESQUERDA NO FINAL                             -->
   <!-- ======================================================================= -->
   <section class="seo-intro-section" aria-labelledby="titulo-pagina-seo">
@@ -181,28 +182,92 @@
           </div>
         </div>
 
-        <!-- Bloco da Imagem Quadrada à Direita (com padronização CSS) -->
-        <div class="seo-square-container">
-          <div class="seo-square-img-wrapper">
-            <!-- ======================================================================= -->
-            <!-- ESPAÇO PARA MODIFICAR / TROCAR A IMAGEM DESTA PÁGINA                     -->
-            <!-- Opções disponíveis na pasta ../assets/organico/:                        -->
-            <!-- 1. ../assets/organico/cachorroegato.jpg (Atual)                        -->
-            <!-- 2. ../assets/organico/racaoparacachorro.jpg                             -->
-            <!-- 3. ../assets/organico/pouring-pet-food-into-bowl.jpg                    -->
-            <!-- 4. ../assets/organico/transportesecasinhas.jpg                          -->
-            <!-- 5. ../assets/organico/loja.jpg                                         -->
-            <!-- 6. ../assets/organico/loja2.jpg                                        -->
-            <!-- ======================================================================= -->
-            <img 
-              src="../assets/organico/cachorroegato.jpg" 
-              alt="Loja de ração para cachorro e gato - Pet Shop Palmira" 
-              class="seo-square-img"
-              loading="eager"
-              width="600"
-              height="600">
+        <!-- ======================================================================= -->
+        <!-- CARROSSEL DE IMAGENS QUADRADAS (PASSANDO UMA A UMA)                      -->
+        <!-- Utilizando imagens da pasta ../assets/organico/ com nomes temáticos      -->
+        <!-- ======================================================================= -->
+        <div class="seo-carousel-container" id="seo-image-carousel" aria-roledescription="carousel" aria-label="Galeria de imagens de rações e pets">
+          <div class="seo-carousel-track">
+            
+            <!-- Slide 1: Cães e Gatos -->
+            <div class="seo-carousel-slide active" data-slide="0" aria-hidden="false">
+              <img 
+                src="../assets/organico/cachorroegato.jpg" 
+                alt="Loja de ração para cachorro e gato - Alimento balanceado" 
+                class="seo-square-img"
+                loading="eager"
+                width="600"
+                height="600">
+              <span class="seo-carousel-caption">Cães &amp; Gatos</span>
+              <span class="seo-carousel-counter">1 / 5</span>
+            </div>
+
+            <!-- Slide 2: Ração para Cachorro -->
+            <div class="seo-carousel-slide" data-slide="1" aria-hidden="true">
+              <img 
+                src="../assets/organico/racaoparacachorro.jpg" 
+                alt="Rações para cachorro de diversas marcas e portes" 
+                class="seo-square-img"
+                loading="lazy"
+                width="600"
+                height="600">
+              <span class="seo-carousel-caption">Rações Caninas</span>
+              <span class="seo-carousel-counter">2 / 5</span>
+            </div>
+
+            <!-- Slide 3: Ração no Prato / Nutrição -->
+            <div class="seo-carousel-slide" data-slide="2" aria-hidden="true">
+              <img 
+                src="../assets/organico/pouring-pet-food-into-bowl.jpg" 
+                alt="Alimento nutritivo e crocante para cães e felinos" 
+                class="seo-square-img"
+                loading="lazy"
+                width="600"
+                height="600">
+              <span class="seo-carousel-caption">Nutrição Equilibrada</span>
+              <span class="seo-carousel-counter">3 / 5</span>
+            </div>
+
+            <!-- Slide 4: Fachada da Loja Pet Shop Palmira -->
+            <div class="seo-carousel-slide" data-slide="3" aria-hidden="true">
+              <img 
+                src="../assets/organico/loja.jpg" 
+                alt="Fachada e atendimento do Pet Shop Palmira no Jardim Palmira" 
+                class="seo-square-img"
+                loading="lazy"
+                width="600"
+                height="600">
+              <span class="seo-carousel-caption">Atendimento Familiar</span>
+              <span class="seo-carousel-counter">4 / 5</span>
+            </div>
+
+            <!-- Slide 5: Estoque e Prateleiras -->
+            <div class="seo-carousel-slide" data-slide="4" aria-hidden="true">
+              <img 
+                src="../assets/organico/loja2.jpg" 
+                alt="Variedade de marcas, embalagens e petiscos a pronta entrega" 
+                class="seo-square-img"
+                loading="lazy"
+                width="600"
+                height="600">
+              <span class="seo-carousel-caption">Variedade &amp; Estoque</span>
+              <span class="seo-carousel-counter">5 / 5</span>
+            </div>
+
           </div>
-          <span class="seo-image-tag-badge">Alimento Balanceado</span>
+
+          <!-- Botões de Navegação Anterior / Próximo -->
+          <button type="button" class="seo-carousel-prev" id="carousel-prev" aria-label="Imagem anterior">&#8249;</button>
+          <button type="button" class="seo-carousel-next" id="carousel-next" aria-label="Próxima imagem">&#8250;</button>
+
+          <!-- Indicadores de Pontos (Dots) -->
+          <div class="seo-carousel-dots" id="carousel-dots" role="tablist" aria-label="Navegar entre slides">
+            <button class="seo-carousel-dot active" role="tab" aria-selected="true" data-index="0" aria-label="Ver slide 1"></button>
+            <button class="seo-carousel-dot" role="tab" aria-selected="false" data-index="1" aria-label="Ver slide 2"></button>
+            <button class="seo-carousel-dot" role="tab" aria-selected="false" data-index="2" aria-label="Ver slide 3"></button>
+            <button class="seo-carousel-dot" role="tab" aria-selected="false" data-index="3" aria-label="Ver slide 4"></button>
+            <button class="seo-carousel-dot" role="tab" aria-selected="false" data-index="4" aria-label="Ver slide 5"></button>
+          </div>
         </div>
 
       </div>
@@ -211,7 +276,7 @@
 
   <!-- ======================================================================= -->
   <!-- 3. TEXTO DESCRITIVO COMPLETO (PARÂMETROS DE SEO DO YOAST)               -->
-  <!-- Sem links externos de saída, apenas navegação interna e foco temático    -->
+  <!-- Margem alinhada exatamente com a primeira seção (.section-in)           -->
   <!-- ======================================================================= -->
   <section class="seo-body-section" aria-label="Guia completo sobre ração para cães e gatos">
     <div class="section-in">
@@ -275,9 +340,9 @@
           <ul>
             <li><strong>Golden:</strong> Referência em nutrição de alta performance para cães e gatos, com formulações ricas e sabor inigualável.</li>
             <li><strong>Premier Pet:</strong> Linha Super Premium indicada para tutores exigentes que priorizam o máximo em saúde e longevidade.</li>
-            <li><strong>Cat Chow & Dog Chow:</strong> Nutrição consagrada para o dia a dia, com ingredientes integrais e fibras naturais.</li>
-            <li><strong>Whiskas & Friskies:</strong> Cardápios desenvolvidos para o paladar refinado dos gatos, com texturas crocantes e sachês suculentos.</li>
-            <li><strong>Premiatta & Max:</strong> Opções de alta absorção e preços convidativos para quem busca economia sem abrir mão da qualidade.</li>
+            <li><strong>Cat Chow &amp; Dog Chow:</strong> Nutrição consagrada para o dia a dia, com ingredientes integrais e fibras naturais.</li>
+            <li><strong>Whiskas &amp; Friskies:</strong> Cardápios desenvolvidos para o paladar refinado dos gatos, com texturas crocantes e sachês suculentos.</li>
+            <li><strong>Premiatta &amp; Max:</strong> Opções de alta absorção e preços convidativos para quem busca economia sem abrir mão da qualidade.</li>
           </ul>
 
           <h2>Por que comprar no Pet Shop Palmira?</h2>
@@ -353,7 +418,7 @@
           <li><a href="../servicos.html">Serviços</a></li>
           <li><a href="../sobre-nos.html">Sobre Nós</a></li>
           <li><a href="../contato.html">Contato</a></li>
-          <li><a href="index.html">Central de Informações</a></li>
+          <li><a href="index.html">Informações</a></li>
         </ul>
       </div>
 
@@ -361,7 +426,7 @@
         <h4>Contato</h4>
         <ul>
           <li><strong>WhatsApp:</strong> (11) 97460-5359</li>
-          <li><strong>Endereço:</strong> R. Almerindo de Oliveira Chaves, 50 - Jardim Palmira, Guarulhos - SP</li>
+          <li><strong>Endereço:</strong> R. Jaime Campelo, 24 - Jardim Palmira, Guarulhos - SP</li>
           <li><strong>Atendimento:</strong> Seg a Sáb 8h às 19h | Dom 8h às 13h</li>
         </ul>
       </div>
@@ -384,6 +449,99 @@ if (menuToggle && mainNav) {
     mainNav.classList.toggle('nav-open');
   });
 }
+
+// Carrossel de Imagens Orgânicas (passando uma a uma)
+(function() {
+  const slides = document.querySelectorAll('.seo-carousel-slide');
+  const dots = document.querySelectorAll('.seo-carousel-dot');
+  const prevBtn = document.getElementById('carousel-prev');
+  const nextBtn = document.getElementById('carousel-next');
+  const carouselContainer = document.getElementById('seo-image-carousel');
+  
+  if (!slides.length) return;
+  
+  let currentIndex = 0;
+  let autoplayTimer = null;
+  const slideDuration = 4000; // 4 segundos por imagem
+
+  function showSlide(index) {
+    if (index >= slides.length) index = 0;
+    if (index < 0) index = slides.length - 1;
+    currentIndex = index;
+
+    slides.forEach((slide, i) => {
+      const isActive = i === currentIndex;
+      slide.classList.toggle('active', isActive);
+      slide.setAttribute('aria-hidden', !isActive);
+    });
+
+    dots.forEach((dot, i) => {
+      const isActive = i === currentIndex;
+      dot.classList.toggle('active', isActive);
+      dot.setAttribute('aria-selected', isActive);
+    });
+  }
+
+  function nextSlide() {
+    showSlide(currentIndex + 1);
+  }
+
+  function prevSlide() {
+    showSlide(currentIndex - 1);
+  }
+
+  function startAutoplay() {
+    stopAutoplay();
+    autoplayTimer = setInterval(nextSlide, slideDuration);
+  }
+
+  function stopAutoplay() {
+    if (autoplayTimer) {
+      clearInterval(autoplayTimer);
+      autoplayTimer = null;
+    }
+  }
+
+  if (nextBtn) {
+    nextBtn.addEventListener('click', () => {
+      nextSlide();
+      startAutoplay();
+    });
+  }
+
+  if (prevBtn) {
+    prevBtn.addEventListener('click', () => {
+      prevSlide();
+      startAutoplay();
+    });
+  }
+
+  dots.forEach(dot => {
+    dot.addEventListener('click', () => {
+      const targetIndex = parseInt(dot.getAttribute('data-index'), 10);
+      showSlide(targetIndex);
+      startAutoplay();
+    });
+  });
+
+  if (carouselContainer) {
+    carouselContainer.addEventListener('mouseenter', stopAutoplay);
+    carouselContainer.addEventListener('mouseleave', startAutoplay);
+    carouselContainer.addEventListener('focusin', stopAutoplay);
+    carouselContainer.addEventListener('focusout', startAutoplay);
+  }
+
+  // Teclado
+  document.addEventListener('keydown', (e) => {
+    if (document.activeElement && carouselContainer && carouselContainer.contains(document.activeElement)) {
+      if (e.key === 'ArrowLeft') { prevSlide(); startAutoplay(); }
+      if (e.key === 'ArrowRight') { nextSlide(); startAutoplay(); }
+    }
+  });
+
+  // Iniciar rotação automática
+  startAutoplay();
+})();
 </script>
 
 </body>

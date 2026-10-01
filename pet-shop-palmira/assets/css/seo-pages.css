@@ -7,6 +7,8 @@
 .seo-breadcrumbs-section {
   padding-top: 100px;
   padding-bottom: 16px;
+  padding-left: 0;
+  padding-right: 0;
   background-color: var(--gf, #f0faf3);
   border-bottom: 1px solid rgba(43, 138, 69, 0.12);
 }
@@ -56,9 +58,9 @@
   }
 }
 
-/* ---- SEÇÃO HERO INTRODUTÓRIA (TEXTO À ESQUERDA, IMAGEM QUADRADA À DIREITA) ---- */
+/* ---- SEÇÃO HERO INTRODUTÓRIA (TEXTO À ESQUERDA, CARROSSEL QUADRADO À DIREITA) ---- */
 .seo-intro-section {
-  padding: 48px 24px 40px;
+  padding: 48px 0 40px;
   background: #ffffff;
 }
 
@@ -146,68 +148,167 @@
   gap: 6px;
 }
 
-/* ---- PADRONIZAÇÃO DE IMAGENS QUADRADAS (1:1) COM CSS ---- */
-.seo-square-container {
+/* ---- CARROSSEL QUADRADO (1:1) COM PASSAGEM UMA A UMA ---- */
+.seo-carousel-container {
   position: relative;
   width: 100%;
   max-width: 460px;
   margin: 0 auto;
-}
-
-.seo-square-img-wrapper {
-  width: 100%;
-  aspect-ratio: 1 / 1; /* Garante proporção 1:1 rigorosamente quadrada */
+  aspect-ratio: 1 / 1; /* Rigorosamente quadrado */
   border-radius: 20px;
   overflow: hidden;
-  box-shadow: 0 16px 36px rgba(26, 92, 46, 0.12);
+  box-shadow: 0 16px 36px rgba(26, 92, 46, 0.14);
   border: 4px solid #ffffff;
-  background: #f8fafc;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  background: #f1f5f9;
+}
+
+.seo-carousel-track {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.seo-carousel-slide {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.5s cubic-bezier(0.4, 0, 0.2, 1), visibility 0.5s ease;
+}
+
+.seo-carousel-slide.active {
+  opacity: 1;
+  visibility: visible;
+  z-index: 1;
 }
 
 .seo-square-img {
   width: 100%;
   height: 100%;
-  object-fit: cover; /* Recorta proporcionalmente sem distorcer nenhuma imagem */
+  object-fit: cover; /* Recorta proporcionalmente mantendo 1:1 sem distorção */
   object-position: center;
   display: block;
-  transition: transform 0.5s ease;
 }
 
-.seo-square-img-wrapper:hover .seo-square-img {
-  transform: scale(1.04);
-}
-
-.seo-image-tag-badge {
+.seo-carousel-caption {
   position: absolute;
-  bottom: 16px;
-  right: 16px;
+  top: 14px;
+  left: 14px;
   background: rgba(26, 92, 46, 0.9);
   backdrop-filter: blur(8px);
   color: #ffffff;
   font-size: 12px;
   font-weight: 800;
   padding: 6px 14px;
-  border-radius: 30px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  border-radius: 20px;
+  letter-spacing: 0.3px;
+  z-index: 2;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
 }
 
-/* ---- CONTEÚDO DESCRITIVO COMPLETO (PARÂMETROS YOAST SEO) ---- */
+.seo-carousel-counter {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  background: rgba(0, 0, 0, 0.65);
+  backdrop-filter: blur(6px);
+  color: #ffffff;
+  font-size: 11px;
+  font-weight: 800;
+  padding: 4px 10px;
+  border-radius: 12px;
+  z-index: 2;
+}
+
+.seo-carousel-prev,
+.seo-carousel-next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 40px;
+  height: 40px;
+  background: rgba(255, 255, 255, 0.9);
+  backdrop-filter: blur(8px);
+  color: var(--gd, #1a5c2e);
+  border: none;
+  border-radius: 50%;
+  font-size: 24px;
+  font-weight: bold;
+  cursor: pointer;
+  z-index: 5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.15);
+  transition: all 0.2s ease;
+  line-height: 1;
+}
+
+.seo-carousel-prev:hover,
+.seo-carousel-next:hover {
+  background: #ffffff;
+  color: var(--gm, #2b8a45);
+  transform: translateY(-50%) scale(1.1);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.22);
+}
+
+.seo-carousel-prev { left: 12px; }
+.seo-carousel-next { right: 12px; }
+
+.seo-carousel-dots {
+  position: absolute;
+  bottom: 14px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 8px;
+  z-index: 5;
+  background: rgba(0, 0, 0, 0.38);
+  padding: 6px 12px;
+  border-radius: 20px;
+  backdrop-filter: blur(6px);
+}
+
+.seo-carousel-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  border: none;
+  background: rgba(255, 255, 255, 0.55);
+  cursor: pointer;
+  padding: 0;
+  transition: all 0.25s ease;
+}
+
+.seo-carousel-dot:hover {
+  background: rgba(255, 255, 255, 0.85);
+}
+
+.seo-carousel-dot.active {
+  background: #ffffff;
+  width: 22px;
+  border-radius: 10px;
+}
+
+/* ---- CONTEÚDO DESCRITIVO COMPLETO (ALINHADO COM A MARGEM DA PRIMEIRA SEÇÃO) ---- */
 .seo-body-section {
-  padding: 60px 24px 80px;
+  padding: 48px 0 80px;
   background: var(--gf, #f0faf3);
 }
 
 .seo-content-card {
   background: #ffffff;
   border-radius: 24px;
-  padding: 56px 48px;
+  padding: 52px;
   box-shadow: 0 8px 30px rgba(0, 0, 0, 0.04);
   border: 1px solid rgba(43, 138, 69, 0.1);
-  max-width: 1000px;
-  margin: 0 auto;
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  margin: 0;
 }
 
 .seo-content-body {
@@ -362,11 +463,11 @@
     grid-template-columns: 1fr;
     gap: 36px;
   }
-  .seo-square-container {
+  .seo-carousel-container {
     max-width: 380px;
   }
   .seo-content-card {
-    padding: 36px 24px;
+    padding: 32px 20px;
   }
   .seo-bottom-banner {
     flex-direction: column;
@@ -382,7 +483,7 @@
   .seo-content-body h2 {
     font-size: 22px;
   }
-  .seo-square-container {
+  .seo-carousel-container {
     max-width: 100%;
   }
 }

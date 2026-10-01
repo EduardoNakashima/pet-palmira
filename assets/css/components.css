@@ -4,8 +4,16 @@
    ========================================================= */
 
 /* ---- LAYOUT BASE DE SEÇÃO ---- */
-.section { padding: 80px 24px; }
-.section-in { max-width: var(--maxw); margin: 0 auto; }
+.section { padding: 72px 0; }
+.section-in {
+  max-width: var(--maxw);
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: var(--gutter, 24px);
+  padding-right: var(--gutter, 24px);
+  width: 100%;
+  box-sizing: border-box;
+}
 .section-head { max-width: 640px; margin-bottom: 44px; }
 .section-eyebrow {
   display: inline-block;
@@ -664,8 +672,16 @@
 }
 
 /* ---- FOOTER ---- */
-.site-footer { background: var(--dk); color: #fff; padding: 56px 24px 28px; }
-.footer-in { max-width: var(--maxw); margin: 0 auto; }
+.site-footer { background: var(--dk); color: #fff; padding: 56px 0 28px; }
+.footer-in {
+  max-width: var(--maxw);
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: var(--gutter, 24px);
+  padding-right: var(--gutter, 24px);
+  width: 100%;
+  box-sizing: border-box;
+}
 .footer-grid { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 44px; padding-bottom: 44px; border-bottom: 1px solid rgba(255,255,255,.1); }
 .footer-desc { font-size: 14px; color: rgba(255,255,255,.72); line-height: 1.7; margin-top: 14px; max-width: 34ch; }
 .footer-social {

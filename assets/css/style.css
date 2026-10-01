@@ -74,11 +74,12 @@ button:focus-visible {
   --rp: 100px;     /* pill/botões */
 
   --maxw: 1200px;
+  --gutter: 24px;
 }
 
 @media (max-width: 1200px) {
   :root {
-    --maxw: 90vw;
+    --maxw: 100%;
   }
 }
 

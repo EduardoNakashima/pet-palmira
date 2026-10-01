@@ -25,12 +25,19 @@ const getProdutosHandler = (req, res) => {
 app.get('/api/produtos', getProdutosHandler);
 app.get('/pet-shop-palmira/api/produtos', getProdutosHandler);
 
-// Favicon direto com a logo do pet shop
-app.get(['/favicon.ico', '/favicon.png'], (req, res) => {
-  const logoPath = path.join(staticDir, 'assets', 'images', 'logopetshoppalmira.png');
+// Favicon direto com a logo do pet shop (sem o texto Palmira)
+app.get('/favicon.ico', (req, res) => {
+  const icoPath = path.join(staticDir, 'favicon.ico');
+  res.setHeader('Content-Type', 'image/x-icon');
+  res.setHeader('Cache-Control', 'public, max-age=86400');
+  res.sendFile(icoPath);
+});
+
+app.get(['/favicon.png', '/assets/images/favicon-logo.png'], (req, res) => {
+  const pngPath = path.join(staticDir, 'favicon.png');
   res.setHeader('Content-Type', 'image/png');
   res.setHeader('Cache-Control', 'public, max-age=86400');
-  res.sendFile(logoPath);
+  res.sendFile(pngPath);
 });
 
 // Suporte a rota /informacoes e /Informacoes
