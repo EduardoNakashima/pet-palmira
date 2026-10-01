@@ -168,7 +168,7 @@
           "slug": "comprar-racao-para-passaros-e-aves.html",
           "cauda_longa": "comprar ração para pássaros e aves calopsita e canário",
           "intencao": "Transacional",
-          "status": "planejada",
+          "status": "publicada",
           "imagem_sugerida": "assets/organico/loja2.jpg"
         },
         {
@@ -177,7 +177,7 @@
           "slug": "loja-de-produtos-para-animais-de-pequeno-porte.html",
           "cauda_longa": "loja de produtos para animais de pequeno porte roedores e aves",
           "intencao": "Comercial",
-          "status": "planejada",
+          "status": "publicada",
           "imagem_sugerida": "assets/organico/transportesecasinhas.jpg"
         },
         {
@@ -186,7 +186,7 @@
           "slug": "pet-shop-com-variedade-de-produtos-para-animais.html",
           "cauda_longa": "pet shop com variedade de produtos para animais desde cães até criação",
           "intencao": "Institucional / Comercial",
-          "status": "planejada",
+          "status": "publicada",
           "imagem_sugerida": "assets/organico/loja.jpg"
         },
         {
@@ -195,7 +195,7 @@
           "slug": "pet-shop-com-racao-e-acessorios-para-animais.html",
           "cauda_longa": "pet shop com ração e acessórios para animais tudo no mesmo lugar",
           "intencao": "Comercial",
-          "status": "planejada",
+          "status": "publicada",
           "imagem_sugerida": "assets/organico/transportesecasinhas.jpg"
         },
         {
@@ -204,7 +204,7 @@
           "slug": "pet-shop-com-produtos-para-caes-e-gatos.html",
           "cauda_longa": "pet shop com produtos para cães e gatos atendimento familiar",
           "intencao": "Institucional",
-          "status": "planejada",
+          "status": "publicada",
           "imagem_sugerida": "assets/organico/cachorroegato.jpg"
         },
         {
@@ -213,7 +213,7 @@
           "slug": "pet-shop-com-entrega-de-produtos-para-animais.html",
           "cauda_longa": "pet shop com entrega de produtos para animais delivery rápido",
           "intencao": "Transacional / Serviço",
-          "status": "planejada",
+          "status": "publicada",
           "imagem_sugerida": "assets/organico/loja2.jpg"
         },
         {
@@ -222,7 +222,7 @@
           "slug": "comprar-produtos-para-pets-pelo-whatsapp.html",
           "cauda_longa": "como comprar produtos para pets pelo WhatsApp fácil e seguro",
           "intencao": "Transacional",
-          "status": "planejada",
+          "status": "publicada",
           "imagem_sugerida": "assets/organico/loja.jpg"
         },
         {
@@ -231,7 +231,7 @@
           "slug": "pedir-racao-e-produtos-para-pets-pelo-whatsapp.html",
           "cauda_longa": "pedir ração e produtos para pets pelo WhatsApp com entrega",
           "intencao": "Transacional",
-          "status": "planejada",
+          "status": "publicada",
           "imagem_sugerida": "assets/organico/racaoparacachorro.jpg"
         }
       ]
