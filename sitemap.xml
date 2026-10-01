@@ -84,4 +84,32 @@
     <loc>https://petshoppalmira.com.br/Informacoes/comprar-brinquedos-para-cachorro-e-gato.html</loc>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/Informacoes/loja-de-medicamentos-para-animais.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/Informacoes/comprar-medicamentos-veterinarios-para-animais.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/Informacoes/loja-de-produtos-para-animais-domesticos.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/Informacoes/onde-comprar-produtos-para-animais-domesticos.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/Informacoes/loja-de-racao-para-animais-de-estimacao.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/Informacoes/comprar-racao-para-animais-de-estimacao.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/Informacoes/loja-de-racao-para-passaros-e-aves.html</loc>
+    <priority>0.8</priority>
+  </url>
 </urlset>

@@ -105,7 +105,7 @@
           "slug": "loja-de-medicamentos-para-animais.html",
           "cauda_longa": "loja de medicamentos para animais farmácia veterinária",
           "intencao": "Comercial",
-          "status": "planejada",
+          "status": "publicada",
           "imagem_sugerida": "assets/organico/loja.jpg"
         },
         {
@@ -114,7 +114,7 @@
           "slug": "comprar-medicamentos-veterinarios-para-animais.html",
           "cauda_longa": "onde comprar medicamentos veterinários para animais com orientação",
           "intencao": "Transacional",
-          "status": "planejada",
+          "status": "publicada",
           "imagem_sugerida": "assets/organico/loja2.jpg"
         },
         {
@@ -123,7 +123,7 @@
           "slug": "loja-de-produtos-para-animais-domesticos.html",
           "cauda_longa": "loja de produtos para animais domésticos de bairro",
           "intencao": "Comercial",
-          "status": "planejada",
+          "status": "publicada",
           "imagem_sugerida": "assets/organico/loja.jpg"
         },
         {
@@ -132,7 +132,7 @@
           "slug": "onde-comprar-produtos-para-animais-domesticos.html",
           "cauda_longa": "onde comprar produtos para animais domésticos perto de mim",
           "intencao": "Navegacional / Transacional",
-          "status": "planejada",
+          "status": "publicada",
           "imagem_sugerida": "assets/organico/loja2.jpg"
         },
         {
@@ -141,7 +141,7 @@
           "slug": "loja-de-racao-para-animais-de-estimacao.html",
           "cauda_longa": "loja de ração para animais de estimação variedade e preço",
           "intencao": "Comercial",
-          "status": "planejada",
+          "status": "publicada",
           "imagem_sugerida": "assets/organico/racaoparacachorro.jpg"
         },
         {
@@ -150,7 +150,7 @@
           "slug": "comprar-racao-para-animais-de-estimacao.html",
           "cauda_longa": "comprar ração para animais de estimação sacos de 15kg e 20kg",
           "intencao": "Transacional",
-          "status": "planejada",
+          "status": "publicada",
           "imagem_sugerida": "assets/organico/pouring-pet-food-into-bowl.jpg"
         },
         {
@@ -159,7 +159,7 @@
           "slug": "loja-de-racao-para-passaros-e-aves.html",
           "cauda_longa": "loja de ração para pássaros e aves sementes e misturas",
           "intencao": "Comercial",
-          "status": "planejada",
+          "status": "publicada",
           "imagem_sugerida": "assets/organico/loja.jpg"
         },
         {
