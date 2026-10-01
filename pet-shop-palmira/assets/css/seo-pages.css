@@ -1,0 +1,388 @@
+/* =========================================================
+   PET SHOP PALMIRA — ESTRUTURA PADRÃO PÁGINAS SEO
+   Estilos específicos para as 50 páginas de conteúdo orgânico.
+   ========================================================= */
+
+/* ---- BREADCRUMBS NO TOPO ---- */
+.seo-breadcrumbs-section {
+  padding-top: 100px;
+  padding-bottom: 16px;
+  background-color: var(--gf, #f0faf3);
+  border-bottom: 1px solid rgba(43, 138, 69, 0.12);
+}
+
+.seo-breadcrumbs {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+  font-size: 14px;
+  color: var(--tl, #718096);
+  font-weight: 600;
+}
+
+.seo-breadcrumbs a {
+  color: var(--gm, #2b8a45);
+  text-decoration: none;
+  transition: color 0.2s, text-decoration 0.2s;
+}
+
+.seo-breadcrumbs a:hover {
+  text-decoration: underline;
+  color: var(--gd, #1a5c2e);
+}
+
+.seo-breadcrumbs-sep {
+  color: #cbd5e1;
+  font-size: 12px;
+  user-select: none;
+}
+
+.seo-breadcrumbs-current {
+  color: var(--dk, #1a2d20);
+  font-weight: 800;
+  max-width: 650px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+@media (max-width: 768px) {
+  .seo-breadcrumbs-section {
+    padding-top: 88px;
+  }
+  .seo-breadcrumbs-current {
+    max-width: 260px;
+  }
+}
+
+/* ---- SEÇÃO HERO INTRODUTÓRIA (TEXTO À ESQUERDA, IMAGEM QUADRADA À DIREITA) ---- */
+.seo-intro-section {
+  padding: 48px 24px 40px;
+  background: #ffffff;
+}
+
+.seo-intro-grid {
+  display: grid;
+  grid-template-columns: 1.15fr 0.85fr;
+  gap: 48px;
+  align-items: center;
+}
+
+.seo-intro-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--gp, #e8f5ec);
+  color: var(--gm, #2b8a45);
+  font-size: 13px;
+  font-weight: 800;
+  padding: 6px 14px;
+  border-radius: var(--rp, 100px);
+  margin-bottom: 16px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.seo-page-title {
+  font-family: 'Fredoka One', cursive;
+  font-size: 38px;
+  line-height: 1.2;
+  color: var(--dk, #1a2d20);
+  margin-bottom: 20px;
+  letter-spacing: -0.5px;
+}
+
+.seo-page-title .acc {
+  color: var(--gm, #2b8a45);
+}
+
+.seo-intro-text {
+  font-size: 17px;
+  line-height: 1.7;
+  color: var(--tx, #2d3748);
+  margin-bottom: 28px;
+}
+
+.seo-intro-text p {
+  margin-bottom: 14px;
+}
+
+.seo-intro-cta-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.seo-cta-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  background: var(--wa, #25d366);
+  color: #ffffff;
+  font-size: 17px;
+  font-weight: 800;
+  padding: 16px 32px;
+  border-radius: var(--rp, 100px);
+  text-decoration: none;
+  box-shadow: 0 10px 24px rgba(37, 211, 102, 0.35);
+  transition: transform 0.2s, box-shadow 0.2s, background 0.2s;
+}
+
+.seo-cta-btn:hover {
+  background: #1db954;
+  transform: translateY(-3px);
+  box-shadow: 0 14px 30px rgba(37, 211, 102, 0.45);
+  color: #ffffff;
+}
+
+.seo-cta-subtext {
+  font-size: 13px;
+  color: var(--tl, #718096);
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+/* ---- PADRONIZAÇÃO DE IMAGENS QUADRADAS (1:1) COM CSS ---- */
+.seo-square-container {
+  position: relative;
+  width: 100%;
+  max-width: 460px;
+  margin: 0 auto;
+}
+
+.seo-square-img-wrapper {
+  width: 100%;
+  aspect-ratio: 1 / 1; /* Garante proporção 1:1 rigorosamente quadrada */
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 16px 36px rgba(26, 92, 46, 0.12);
+  border: 4px solid #ffffff;
+  background: #f8fafc;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.seo-square-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Recorta proporcionalmente sem distorcer nenhuma imagem */
+  object-position: center;
+  display: block;
+  transition: transform 0.5s ease;
+}
+
+.seo-square-img-wrapper:hover .seo-square-img {
+  transform: scale(1.04);
+}
+
+.seo-image-tag-badge {
+  position: absolute;
+  bottom: 16px;
+  right: 16px;
+  background: rgba(26, 92, 46, 0.9);
+  backdrop-filter: blur(8px);
+  color: #ffffff;
+  font-size: 12px;
+  font-weight: 800;
+  padding: 6px 14px;
+  border-radius: 30px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* ---- CONTEÚDO DESCRITIVO COMPLETO (PARÂMETROS YOAST SEO) ---- */
+.seo-body-section {
+  padding: 60px 24px 80px;
+  background: var(--gf, #f0faf3);
+}
+
+.seo-content-card {
+  background: #ffffff;
+  border-radius: 24px;
+  padding: 56px 48px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.04);
+  border: 1px solid rgba(43, 138, 69, 0.1);
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.seo-content-body {
+  font-size: 17px;
+  line-height: 1.8;
+  color: #334155;
+}
+
+.seo-content-body h2 {
+  font-family: 'Fredoka One', cursive;
+  font-size: 26px;
+  color: var(--gd, #1a5c2e);
+  margin-top: 40px;
+  margin-bottom: 18px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid var(--gp, #e8f5ec);
+  line-height: 1.3;
+}
+
+.seo-content-body h3 {
+  font-family: 'Nunito', sans-serif;
+  font-weight: 800;
+  font-size: 20px;
+  color: var(--gm, #2b8a45);
+  margin-top: 28px;
+  margin-bottom: 12px;
+}
+
+.seo-content-body p {
+  margin-bottom: 20px;
+}
+
+.seo-content-body ul, 
+.seo-content-body ol {
+  margin-bottom: 24px;
+  padding-left: 24px;
+}
+
+.seo-content-body li {
+  margin-bottom: 10px;
+  position: relative;
+}
+
+.seo-highlight-box {
+  background: var(--gp, #e8f5ec);
+  border-left: 5px solid var(--gm, #2b8a45);
+  border-radius: 12px;
+  padding: 24px 28px;
+  margin: 32px 0;
+}
+
+.seo-highlight-box strong {
+  color: var(--gd, #1a5c2e);
+  font-size: 18px;
+  display: block;
+  margin-bottom: 8px;
+}
+
+.seo-cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 20px;
+  margin: 28px 0;
+}
+
+.seo-mini-card {
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 16px;
+  padding: 22px;
+  transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s;
+}
+
+.seo-mini-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.06);
+  border-color: var(--gb, #4db86a);
+}
+
+.seo-mini-card h4 {
+  font-family: 'Nunito', sans-serif;
+  font-weight: 800;
+  font-size: 18px;
+  color: var(--gd, #1a5c2e);
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.seo-faq-list {
+  margin-top: 36px;
+}
+
+.seo-faq-item {
+  border: 1px solid #e2e8f0;
+  border-radius: 14px;
+  padding: 20px 24px;
+  margin-bottom: 16px;
+  background: #ffffff;
+}
+
+.seo-faq-question {
+  font-weight: 800;
+  font-size: 18px;
+  color: var(--gd, #1a5c2e);
+  margin-bottom: 10px;
+}
+
+.seo-bottom-banner {
+  background: linear-gradient(135deg, var(--gd, #1a5c2e) 0%, #2b8a45 100%);
+  color: #ffffff;
+  border-radius: 20px;
+  padding: 36px 40px;
+  margin-top: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 30px;
+  box-shadow: 0 16px 36px rgba(26, 92, 46, 0.25);
+}
+
+.seo-bottom-banner h3 {
+  font-family: 'Fredoka One', cursive;
+  font-size: 26px;
+  color: #ffffff;
+  margin: 0 0 8px;
+}
+
+.seo-bottom-banner p {
+  color: rgba(255, 255, 255, 0.9);
+  margin: 0;
+  font-size: 15px;
+}
+
+.seo-bottom-banner .seo-cta-btn {
+  background: #ffffff;
+  color: var(--gd, #1a5c2e);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+  flex-shrink: 0;
+}
+
+.seo-bottom-banner .seo-cta-btn:hover {
+  background: #f0faf3;
+  color: var(--gm, #2b8a45);
+  transform: translateY(-2px);
+}
+
+/* ---- RESPONSIVIDADE ---- */
+@media (max-width: 900px) {
+  .seo-intro-grid {
+    grid-template-columns: 1fr;
+    gap: 36px;
+  }
+  .seo-square-container {
+    max-width: 380px;
+  }
+  .seo-content-card {
+    padding: 36px 24px;
+  }
+  .seo-bottom-banner {
+    flex-direction: column;
+    text-align: center;
+    padding: 28px 20px;
+  }
+}
+
+@media (max-width: 600px) {
+  .seo-page-title {
+    font-size: 28px;
+  }
+  .seo-content-body h2 {
+    font-size: 22px;
+  }
+  .seo-square-container {
+    max-width: 100%;
+  }
+}

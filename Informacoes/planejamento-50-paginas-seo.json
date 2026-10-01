@@ -1,0 +1,472 @@
+{
+  "projeto": "Pet Shop Palmira - 50 Páginas de SEO Estratégico",
+  "diretorio_alvo": "/Informacoes/",
+  "total_paginas_planejadas": 50,
+  "data_atualizacao": "2026-09-30",
+  "clusters": [
+    {
+      "id": "gerais_alimentacao_produtos",
+      "nome": "1. Rações e Alimentos para Cães e Gatos (Não Regionalizadas)",
+      "tipo": "Não Regionalizada",
+      "paginas": [
+        {
+          "numero": 1,
+          "palavra_forte": "loja de ração para cachorro e gato",
+          "slug": "loja-de-racao-para-cachorro-e-gato.html",
+          "cauda_longa": "loja de ração para cachorro e gato com entrega rápida",
+          "intencao": "Comercial / Transacional",
+          "status": "publicada",
+          "imagem_sugerida": "assets/organico/cachorroegato.jpg"
+        },
+        {
+          "numero": 2,
+          "palavra_forte": "comprar ração para cachorro e gato",
+          "slug": "comprar-racao-para-cachorro-e-gato.html",
+          "cauda_longa": "onde comprar ração para cachorro e gato com melhor preço",
+          "intencao": "Transacional",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/pouring-pet-food-into-bowl.jpg"
+        },
+        {
+          "numero": 3,
+          "palavra_forte": "ração para cachorro com preço acessível",
+          "slug": "racao-para-cachorro-com-preco-acessivel.html",
+          "cauda_longa": "ração para cachorro com preço acessível e boa qualidade",
+          "intencao": "Comercial",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/racaoparacachorro.jpg"
+        },
+        {
+          "numero": 4,
+          "palavra_forte": "ração para gato com preço acessível",
+          "slug": "racao-para-gato-com-preco-acessivel.html",
+          "cauda_longa": "ração para gato com preço acessível para castrados",
+          "intencao": "Comercial",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/pouring-pet-food-into-bowl.jpg"
+        },
+        {
+          "numero": 5,
+          "palavra_forte": "loja de produtos para cães e gatos",
+          "slug": "loja-de-produtos-para-caes-e-gatos.html",
+          "cauda_longa": "loja de produtos para cães e gatos completa",
+          "intencao": "Comercial",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/loja.jpg"
+        },
+        {
+          "numero": 6,
+          "palavra_forte": "comprar produtos para cães e gatos",
+          "slug": "comprar-produtos-para-caes-e-gatos.html",
+          "cauda_longa": "como comprar produtos para cães e gatos direto no pet shop",
+          "intencao": "Transacional",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/loja2.jpg"
+        },
+        {
+          "numero": 7,
+          "palavra_forte": "loja de acessórios para cachorro e gato",
+          "slug": "loja-de-acessorios-para-cachorro-e-gato.html",
+          "cauda_longa": "loja de acessórios para cachorro e gato caminhas e guias",
+          "intencao": "Comercial",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/transportesecasinhas.jpg"
+        },
+        {
+          "numero": 8,
+          "palavra_forte": "comprar acessórios para cachorro e gato",
+          "slug": "comprar-acessorios-para-cachorro-e-gato.html",
+          "cauda_longa": "onde comprar acessórios para cachorro e gato de qualidade",
+          "intencao": "Transacional",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/transportesecasinhas.jpg"
+        },
+        {
+          "numero": 9,
+          "palavra_forte": "loja de brinquedos para cães e gatos",
+          "slug": "loja-de-brinquedos-para-caes-e-gatos.html",
+          "cauda_longa": "loja de brinquedos para cães e gatos interativos e resistentes",
+          "intencao": "Comercial",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/cachorroegato.jpg"
+        },
+        {
+          "numero": 10,
+          "palavra_forte": "comprar brinquedos para cachorro e gato",
+          "slug": "comprar-brinquedos-para-cachorro-e-gato.html",
+          "cauda_longa": "comprar brinquedos para cachorro e gato antiestresse",
+          "intencao": "Transacional",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/cachorroegato.jpg"
+        },
+        {
+          "numero": 11,
+          "palavra_forte": "loja de medicamentos para animais",
+          "slug": "loja-de-medicamentos-para-animais.html",
+          "cauda_longa": "loja de medicamentos para animais farmácia veterinária",
+          "intencao": "Comercial",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/loja.jpg"
+        },
+        {
+          "numero": 12,
+          "palavra_forte": "comprar medicamentos veterinários para animais",
+          "slug": "comprar-medicamentos-veterinarios-para-animais.html",
+          "cauda_longa": "onde comprar medicamentos veterinários para animais com orientação",
+          "intencao": "Transacional",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/loja2.jpg"
+        },
+        {
+          "numero": 13,
+          "palavra_forte": "loja de produtos para animais domésticos",
+          "slug": "loja-de-produtos-para-animais-domesticos.html",
+          "cauda_longa": "loja de produtos para animais domésticos de bairro",
+          "intencao": "Comercial",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/loja.jpg"
+        },
+        {
+          "numero": 14,
+          "palavra_forte": "onde comprar produtos para animais domésticos",
+          "slug": "onde-comprar-produtos-para-animais-domesticos.html",
+          "cauda_longa": "onde comprar produtos para animais domésticos perto de mim",
+          "intencao": "Navegacional / Transacional",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/loja2.jpg"
+        },
+        {
+          "numero": 15,
+          "palavra_forte": "loja de ração para animais de estimação",
+          "slug": "loja-de-racao-para-animais-de-estimacao.html",
+          "cauda_longa": "loja de ração para animais de estimação variedade e preço",
+          "intencao": "Comercial",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/racaoparacachorro.jpg"
+        },
+        {
+          "numero": 16,
+          "palavra_forte": "comprar ração para animais de estimação",
+          "slug": "comprar-racao-para-animais-de-estimacao.html",
+          "cauda_longa": "comprar ração para animais de estimação sacos de 15kg e 20kg",
+          "intencao": "Transacional",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/pouring-pet-food-into-bowl.jpg"
+        },
+        {
+          "numero": 17,
+          "palavra_forte": "loja de ração para pássaros e aves",
+          "slug": "loja-de-racao-para-passaros-e-aves.html",
+          "cauda_longa": "loja de ração para pássaros e aves sementes e misturas",
+          "intencao": "Comercial",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/loja.jpg"
+        },
+        {
+          "numero": 18,
+          "palavra_forte": "comprar ração para pássaros e aves",
+          "slug": "comprar-racao-para-passaros-e-aves.html",
+          "cauda_longa": "comprar ração para pássaros e aves calopsita e canário",
+          "intencao": "Transacional",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/loja2.jpg"
+        },
+        {
+          "numero": 19,
+          "palavra_forte": "loja de produtos para animais de pequeno porte",
+          "slug": "loja-de-produtos-para-animais-de-pequeno-porte.html",
+          "cauda_longa": "loja de produtos para animais de pequeno porte roedores e aves",
+          "intencao": "Comercial",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/transportesecasinhas.jpg"
+        },
+        {
+          "numero": 20,
+          "palavra_forte": "pet shop com variedade de produtos para animais",
+          "slug": "pet-shop-com-variedade-de-produtos-para-animais.html",
+          "cauda_longa": "pet shop com variedade de produtos para animais desde cães até criação",
+          "intencao": "Institucional / Comercial",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/loja.jpg"
+        },
+        {
+          "numero": 21,
+          "palavra_forte": "pet shop com ração e acessórios para animais",
+          "slug": "pet-shop-com-racao-e-acessorios-para-animais.html",
+          "cauda_longa": "pet shop com ração e acessórios para animais tudo no mesmo lugar",
+          "intencao": "Comercial",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/transportesecasinhas.jpg"
+        },
+        {
+          "numero": 22,
+          "palavra_forte": "pet shop com produtos para cães e gatos",
+          "slug": "pet-shop-com-produtos-para-caes-e-gatos.html",
+          "cauda_longa": "pet shop com produtos para cães e gatos atendimento familiar",
+          "intencao": "Institucional",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/cachorroegato.jpg"
+        },
+        {
+          "numero": 23,
+          "palavra_forte": "pet shop com entrega de produtos para animais",
+          "slug": "pet-shop-com-entrega-de-produtos-para-animais.html",
+          "cauda_longa": "pet shop com entrega de produtos para animais delivery rápido",
+          "intencao": "Transacional / Serviço",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/loja2.jpg"
+        },
+        {
+          "numero": 24,
+          "palavra_forte": "comprar produtos para pets pelo WhatsApp",
+          "slug": "comprar-produtos-para-pets-pelo-whatsapp.html",
+          "cauda_longa": "como comprar produtos para pets pelo WhatsApp fácil e seguro",
+          "intencao": "Transacional",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/loja.jpg"
+        },
+        {
+          "numero": 25,
+          "palavra_forte": "pedir ração e produtos para pets pelo WhatsApp",
+          "slug": "pedir-racao-e-produtos-para-pets-pelo-whatsapp.html",
+          "cauda_longa": "pedir ração e produtos para pets pelo WhatsApp com entrega",
+          "intencao": "Transacional",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/racaoparacachorro.jpg"
+        }
+      ]
+    },
+    {
+      "id": "regionalizadas_guarulhos_bairros",
+      "nome": "2. SEO Local Regionalizado (Bairros de Guarulhos)",
+      "tipo": "Regionalizada",
+      "paginas": [
+        {
+          "numero": 26,
+          "palavra_forte": "pet shop Jardim Palmira Guarulhos",
+          "slug": "pet-shop-jardim-palmira-guarulhos.html",
+          "cauda_longa": "melhor pet shop Jardim Palmira Guarulhos 25 anos de tradição",
+          "intencao": "Local / Comercial",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/loja.jpg"
+        },
+        {
+          "numero": 27,
+          "palavra_forte": "ração para cachorro Jardim Palmira",
+          "slug": "racao-para-cachorro-jardim-palmira.html",
+          "cauda_longa": "onde comprar ração para cachorro Jardim Palmira Guarulhos",
+          "intencao": "Local / Transacional",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/racaoparacachorro.jpg"
+        },
+        {
+          "numero": 28,
+          "palavra_forte": "ração para gato Jardim Palmira",
+          "slug": "racao-para-gato-jardim-palmira.html",
+          "cauda_longa": "ração para gato Jardim Palmira sachês e rações secas",
+          "intencao": "Local / Transacional",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/pouring-pet-food-into-bowl.jpg"
+        },
+        {
+          "numero": 29,
+          "palavra_forte": "produtos para pets Jardim Palmira",
+          "slug": "produtos-para-pets-jardim-palmira.html",
+          "cauda_longa": "loja de produtos para pets Jardim Palmira variedade completa",
+          "intencao": "Local / Comercial",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/loja2.jpg"
+        },
+        {
+          "numero": 30,
+          "palavra_forte": "acessórios para pets Jardim Palmira",
+          "slug": "acessorios-para-pets-jardim-palmira.html",
+          "cauda_longa": "acessórios para pets Jardim Palmira coleiras casinhas e guias",
+          "intencao": "Local / Comercial",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/transportesecasinhas.jpg"
+        },
+        {
+          "numero": 31,
+          "palavra_forte": "pet shop Continental Guarulhos",
+          "slug": "pet-shop-continental-guarulhos.html",
+          "cauda_longa": "pet shop Continental Guarulhos entrega de rações e medicamentos",
+          "intencao": "Local / Comercial",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/loja.jpg"
+        },
+        {
+          "numero": 32,
+          "palavra_forte": "ração para cachorro Continental",
+          "slug": "racao-para-cachorro-continental.html",
+          "cauda_longa": "comprar ração para cachorro Continental Guarulhos",
+          "intencao": "Local / Transacional",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/racaoparacachorro.jpg"
+        },
+        {
+          "numero": 33,
+          "palavra_forte": "ração para gato Continental",
+          "slug": "racao-para-gato-continental.html",
+          "cauda_longa": "loja de ração para gato Continental Guarulhos entrega rápida",
+          "intencao": "Local / Transacional",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/pouring-pet-food-into-bowl.jpg"
+        },
+        {
+          "numero": 34,
+          "palavra_forte": "produtos para pets Continental",
+          "slug": "produtos-para-pets-continental.html",
+          "cauda_longa": "produtos para pets Continental brinquedos e medicamentos",
+          "intencao": "Local / Comercial",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/loja2.jpg"
+        },
+        {
+          "numero": 35,
+          "palavra_forte": "acessórios para pets Continental",
+          "slug": "acessorios-para-pets-continental.html",
+          "cauda_longa": "acessórios para pets Continental caixas de transporte e caminhas",
+          "intencao": "Local / Comercial",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/transportesecasinhas.jpg"
+        },
+        {
+          "numero": 36,
+          "palavra_forte": "pet shop Cabuçu Guarulhos",
+          "slug": "pet-shop-cabucu-guarulhos.html",
+          "cauda_longa": "pet shop Cabuçu Guarulhos produtos para pets e animais de sítio",
+          "intencao": "Local / Comercial",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/loja.jpg"
+        },
+        {
+          "numero": 37,
+          "palavra_forte": "ração para cachorro Cabuçu",
+          "slug": "racao-para-cachorro-cabucu.html",
+          "cauda_longa": "onde pedir ração para cachorro Cabuçu Guarulhos entrega rápida",
+          "intencao": "Local / Transacional",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/racaoparacachorro.jpg"
+        },
+        {
+          "numero": 38,
+          "palavra_forte": "ração para gato Cabuçu",
+          "slug": "racao-para-gato-cabucu.html",
+          "cauda_longa": "ração para gato Cabuçu Guarulhos preço justo no bairro",
+          "intencao": "Local / Transacional",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/pouring-pet-food-into-bowl.jpg"
+        },
+        {
+          "numero": 39,
+          "palavra_forte": "produtos para pets Cabuçu",
+          "slug": "produtos-para-pets-cabucu.html",
+          "cauda_longa": "produtos para pets Cabuçu rações acessórios e farmácia",
+          "intencao": "Local / Comercial",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/loja2.jpg"
+        },
+        {
+          "numero": 40,
+          "palavra_forte": "acessórios para pets Cabuçu",
+          "slug": "acessorios-para-pets-cabucu.html",
+          "cauda_longa": "acessórios para pets Cabuçu peitorais e casinhas",
+          "intencao": "Local / Comercial",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/transportesecasinhas.jpg"
+        },
+        {
+          "numero": 41,
+          "palavra_forte": "pet shop Vila Galvão Guarulhos",
+          "slug": "pet-shop-vila-galvao-guarulhos.html",
+          "cauda_longa": "pet shop Vila Galvão Guarulhos tradição e entrega domiciliar",
+          "intencao": "Local / Comercial",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/loja.jpg"
+        },
+        {
+          "numero": 42,
+          "palavra_forte": "ração para cachorro Vila Galvão",
+          "slug": "racao-para-cachorro-vila-galvao.html",
+          "cauda_longa": "loja de ração para cachorro Vila Galvão marcas Premier Golden",
+          "intencao": "Local / Transacional",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/racaoparacachorro.jpg"
+        },
+        {
+          "numero": 43,
+          "palavra_forte": "ração para gato Vila Galvão",
+          "slug": "racao-para-gato-vila-galvao.html",
+          "cauda_longa": "ração para gato Vila Galvão alimentos Super Premium e sachês",
+          "intencao": "Local / Transacional",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/pouring-pet-food-into-bowl.jpg"
+        },
+        {
+          "numero": 44,
+          "palavra_forte": "produtos para pets Vila Galvão",
+          "slug": "produtos-para-pets-vila-galvao.html",
+          "cauda_longa": "produtos para pets Vila Galvão higiene brinquedos e ração",
+          "intencao": "Local / Comercial",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/loja2.jpg"
+        },
+        {
+          "numero": 45,
+          "palavra_forte": "acessórios para pets Vila Galvão",
+          "slug": "acessorios-para-pets-vila-galvao.html",
+          "cauda_longa": "acessórios para pets Vila Galvão caminhas arranhadores e caixas",
+          "intencao": "Local / Comercial",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/transportesecasinhas.jpg"
+        },
+        {
+          "numero": 46,
+          "palavra_forte": "pet shop Jardim Rosa de França",
+          "slug": "pet-shop-jardim-rosa-de-franca.html",
+          "cauda_longa": "pet shop Jardim Rosa de França atendimento no WhatsApp",
+          "intencao": "Local / Comercial",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/loja.jpg"
+        },
+        {
+          "numero": 47,
+          "palavra_forte": "ração para cachorro Rosa de França",
+          "slug": "racao-para-cachorro-rosa-de-franca.html",
+          "cauda_longa": "comprar ração para cachorro Rosa de França Guarulhos",
+          "intencao": "Local / Transacional",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/racaoparacachorro.jpg"
+        },
+        {
+          "numero": 48,
+          "palavra_forte": "ração para gato Rosa de França",
+          "slug": "racao-para-gato-rosa-de-franca.html",
+          "cauda_longa": "ração para gato Rosa de França variedade e economia",
+          "intencao": "Local / Transacional",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/pouring-pet-food-into-bowl.jpg"
+        },
+        {
+          "numero": 49,
+          "palavra_forte": "produtos para pets Rosa de França",
+          "slug": "produtos-para-pets-rosa-de-franca.html",
+          "cauda_longa": "produtos para pets Rosa de França petiscos coleiras e rações",
+          "intencao": "Local / Comercial",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/loja2.jpg"
+        },
+        {
+          "numero": 50,
+          "palavra_forte": "acessórios para pets Rosa de França",
+          "slug": "acessorios-para-pets-rosa-de-franca.html",
+          "cauda_longa": "acessórios para pets Rosa de França roupinhas e caminhas laváveis",
+          "intencao": "Local / Comercial",
+          "status": "planejada",
+          "imagem_sugerida": "assets/organico/transportesecasinhas.jpg"
+        }
+      ]
+    }
+  ]
+}

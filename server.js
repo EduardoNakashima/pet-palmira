@@ -25,6 +25,17 @@ const getProdutosHandler = (req, res) => {
 app.get('/api/produtos', getProdutosHandler);
 app.get('/pet-shop-palmira/api/produtos', getProdutosHandler);
 
+// Favicon direto com a logo do pet shop
+app.get(['/favicon.ico', '/favicon.png'], (req, res) => {
+  const logoPath = path.join(staticDir, 'assets', 'images', 'logopetshoppalmira.png');
+  res.setHeader('Content-Type', 'image/png');
+  res.setHeader('Cache-Control', 'public, max-age=86400');
+  res.sendFile(logoPath);
+});
+
+// Suporte a rota /informacoes e /Informacoes
+app.use(['/informacoes', '/Informacoes'], express.static(path.join(staticDir, 'Informacoes'), { extensions: ['html', 'htm'] }));
+
 // Serve static assets with automatic .html extension handling
 app.use(express.static(staticDir, { extensions: ['html', 'htm'] }));
 
