@@ -68,8 +68,8 @@
       "@type": "PetStore",
       "name": "Pet Shop Palmira",
       "image": "https://petshoppalmira.com.br/assets/images/logopetshoppalmira.png",
-      "telephone": "+5511974605359",
-      "priceRange": "$$",
+      "telephone": "+551124511719",
+      "priceRange": "$",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Av. Pedro de Souza Lopes, 33B",
@@ -81,7 +81,14 @@
       "openingHoursSpecification": [
         {
           "@type": "OpeningHoursSpecification",
-          "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
           "opens": "09:00",
           "closes": "18:00"
         }
@@ -92,34 +99,34 @@
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "Vocês entregam ração de gato e sachês na Vila Galvão?",
+          "name": "Posso dar ração de cão para o meu gato em caso de emergência?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Sim! Entregamos rações secas, sachês e areias higiênicas na Vila Galvão, lembrando que fazemos entrega somente combinando o local por ligação antecipadamente pelo telefone (11) 2451-1719 ou WhatsApp (11) 97460-5359."
+            "text": "Não é recomendado. Cães e gatos têm exigências metabólicas distintas; a ração canina não contém teores suficientes de taurina e vitamina A essenciais para os gatos, podendo causar cegueira e problemas cardíacos graves com o tempo."
           }
         },
         {
           "@type": "Question",
-          "name": "Qual é a ração mais indicada para gatos castrados?",
+          "name": "Qual a quantidade ideal de sachê por dia?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Recomendamos as linhas Premier Gatos Castrados e Golden Gatos Castrados, que possuem controle rigoroso do pH urinário, calorias moderadas e fibras para controle de bolas de pelo."
+            "text": "Geralmente recomenda-se oferecer de 1 a 2 sachês por dia divididos em porções, ajustando a quantidade de ração seca para manter as calorias diárias sob controle."
           }
         },
         {
           "@type": "Question",
-          "name": "Por que é importante dar sachê úmido diariamente para gatos?",
+          "name": "Vocês têm antipulgas específicos para felinos?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Gatos naturalmente bebem pouca água e os sachês úmidos possuem cerca de 80% de umidade, prevenindo a formação de cristais e cálculos na bexiga e nos rins."
+            "text": "Sim! Temos pipetas de aplicação na nuca seguras e formuladas exclusivamente para gatos (como Frontline e opções orais), lembrando que certos antipulgas de cão são altamente tóxicos para felinos."
           }
         },
         {
           "@type": "Question",
-          "name": "Vocês vendem areia sanitária e granulados higiênicos?",
+          "name": "Como funciona a entrega de ração na Vila Galvão?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Sim! Temos areias finas que formam torrões firmes, granulado de madeira atóxico e cristais de sílica para manter a caixa de areia sempre limpa e sem odores no seu imóvel."
+            "text": "Lembramos que fazemos entrega somente combinando o local por ligação antecipadamente pelo telefone fixo (11) 2451-1719 ou WhatsApp (11) 97460-5359."
           }
         }
       ]
@@ -211,16 +218,16 @@
         </div>
 
         <!-- Coluna da Direita: Carrossel Quadrado 1:1 -->
-        <div class="seo-carousel-container" aria-label="Fotos de rações para gato do Pet Shop Palmira">
+                <div class="seo-carousel-container" aria-label="Fotos de ração para gato Vila Galvão do Pet Shop Palmira">
           <div class="seo-carousel-track" id="seoCarouselTrack">
             <div class="seo-carousel-slide active" data-slide="0">
               <img src="../assets/organico/pouring-pet-food-into-bowl.jpg" 
-                   alt="Grãos crocantes de ração felina com alta concentração de proteínas" 
+                   alt="Nutrição felina especializada com equilíbrio renal" 
                    class="seo-carousel-img seo-square-img"
                    loading="eager"
                    width="600"
                    height="600">
-              <div class="seo-carousel-caption">Nutrição Equilibrada com Controle Urinário</div>
+              <div class="seo-carousel-caption">Nutrição Equilibrada com Proteção Renal</div>
             </div>
 
             <div class="seo-carousel-slide" data-slide="1">
@@ -255,8 +262,8 @@
           </div>
 
           <!-- Controles de Navegação -->
-          <button class="seo-carousel-btn prev" id="carouselPrev" aria-label="Foto anterior">‹</button>
-          <button class="seo-carousel-btn next" id="carouselNext" aria-label="Próxima foto">›</button>
+          <button class="seo-carousel-btn prev seo-carousel-prev" id="carouselPrev" aria-label="Foto anterior">‹</button>
+          <button class="seo-carousel-btn next seo-carousel-next" id="carouselNext" aria-label="Próxima foto">›</button>
 
           <!-- Indicadores de Pontos (Dots) -->
           <div class="seo-carousel-dots" id="carousel-dots" role="tablist" aria-label="Navegar entre slides">
@@ -439,13 +446,16 @@
 </main>
 
 <!-- Rodapé Oficial do Site -->
+<!-- Rodapé Oficial do Site -->
 <footer class="site-footer">
-  <div class="ftr-in">
-    <div class="ftr-grid">
+  <div class="footer-in ftr-in">
+    <div class="footer-grid ftr-grid">
       <div class="footer-col">
-        <img src="../assets/images/logopetshoppalmira.png" alt="Pet Shop Palmira" class="footer-logo">
+        <a href="../index.html" class="logo" aria-label="Ir para a página inicial">
+          <img src="../assets/images/logopetshoppalmira.png" alt="Pet Shop Palmira" class="footer-logo">
+        </a>
         <p class="footer-desc">
-          Desde 1999 cuidando com amor, respeito e dedicação dos animais de estimação no Jardim Palmira, Vila Galvão e região de Guarulhos.
+          Há 25 anos cuidando com amor, respeito e dedicação dos animais de estimação no Jardim Palmira, Continental, Cabuçu, Vila Galvão, Rosa de França e região de Guarulhos.
         </p>
       </div>
 
@@ -462,14 +472,20 @@
       </div>
 
       <div class="footer-col">
-        <h4>Contato</h4>
+        <h4>Atendimento &amp; Contato</h4>
         <ul>
-          <li><strong>WhatsApp:</strong> (11) 97460-5359</li>
-          <li><strong>Telefone Fixo:</strong> (11) 2451-1719</li>
-          <li><strong>Endereço:</strong> Av. Pedro de Souza Lopes, 33B - Jardim Palmira, Guarulhos - SP</li>
-          <li><strong>Atendimento:</strong> Seg a Sáb: 09h às 18h | Dom: Fechado</li>
+          <li><strong>WhatsApp:</strong> <a href="https://api.whatsapp.com/send?phone=5511974605359" target="_blank" rel="noopener">(11) 97460-5359</a></li>
+          <li><strong>Telefone Fixo:</strong> <a href="tel:1124511719">(11) 2451-1719</a></li>
+          <li><strong>Endereço:</strong> Av. Pedro de Souza Lopes, 33B - Jardim Palmira, Guarulhos - SP, CEP 07074-000</li>
+          <li><strong>Horário:</strong> Seg a Sáb: 09h às 18h | Dom: Fechado</li>
+          <li><strong>Entrega:</strong> Somente combinando por ligação antecipadamente</li>
         </ul>
       </div>
+    </div>
+
+    <div class="footer-bottom">
+      <span>© 2026 Pet Shop Palmira. Todos os direitos reservados.</span>
+      <span>Feito com 💚 no Jardim Palmira — Guarulhos, SP</span>
     </div>
   </div>
 </footer>
@@ -477,6 +493,7 @@
 <!-- Script do Menu Mobile e Carrossel Quadrado 1:1 -->
 <script>
 document.addEventListener('DOMContentLoaded', function() {
+  // Menu Mobile Toggle
   const toggle = document.getElementById('menu-toggle');
   const nav = document.getElementById('main-nav');
   if (toggle && nav) {
@@ -484,44 +501,95 @@ document.addEventListener('DOMContentLoaded', function() {
       const expanded = this.getAttribute('aria-expanded') === 'true';
       this.setAttribute('aria-expanded', !expanded);
       nav.classList.toggle('open');
+      nav.classList.toggle('nav-open');
     });
   }
 
-  const track = document.getElementById('seoCarouselTrack');
-  const slides = track ? track.querySelectorAll('.seo-carousel-slide') : [];
+  // Carrossel Quadrado 1:1 com Transição Suave e Suporte Mobile
+  const track = document.getElementById('seoCarouselTrack') || document.querySelector('.seo-carousel-track');
+  const slides = track ? track.querySelectorAll('.seo-carousel-slide') : document.querySelectorAll('.seo-carousel-slide');
   const dots = document.querySelectorAll('.seo-carousel-dot');
-  const prevBtn = document.getElementById('carouselPrev');
-  const nextBtn = document.getElementById('carouselNext');
-  let currentIndex = 0;
-
-  function goToSlide(index) {
-    if (!track || slides.length === 0) return;
-    if (index < 0) index = slides.length - 1;
-    if (index >= slides.length) index = 0;
-    currentIndex = index;
-    track.style.transform = 'translateX(-' + (currentIndex * 100) + '%)';
-    dots.forEach((dot, idx) => {
-      dot.classList.toggle('active', idx === currentIndex);
-    });
-  }
-
-  if (prevBtn) prevBtn.addEventListener('click', () => goToSlide(currentIndex - 1));
-  if (nextBtn) nextBtn.addEventListener('click', () => goToSlide(currentIndex + 1));
-
-  dots.forEach(dot => {
-    dot.addEventListener('click', function() {
-      const idx = parseInt(this.getAttribute('data-index'), 10);
-      goToSlide(idx);
-    });
-  });
-
-  let autoTimer = setInterval(() => goToSlide(currentIndex + 1), 6000);
+  const prevBtn = document.getElementById('carouselPrev') || document.getElementById('carousel-prev') || document.querySelector('.seo-carousel-prev');
+  const nextBtn = document.getElementById('carouselNext') || document.getElementById('carousel-next') || document.querySelector('.seo-carousel-next');
   const container = document.querySelector('.seo-carousel-container');
-  if (container) {
-    container.addEventListener('mouseenter', () => clearInterval(autoTimer));
-    container.addEventListener('mouseleave', () => {
-      autoTimer = setInterval(() => goToSlide(currentIndex + 1), 6000);
+  let currentIndex = 0;
+  let autoTimer = null;
+
+  if (slides.length > 0) {
+    function goToSlide(index) {
+      if (index < 0) index = slides.length - 1;
+      if (index >= slides.length) index = 0;
+      currentIndex = index;
+
+      slides.forEach((slide, idx) => {
+        const isActive = idx === currentIndex;
+        slide.classList.toggle('active', isActive);
+        slide.setAttribute('aria-hidden', !isActive);
+      });
+
+      dots.forEach((dot, idx) => {
+        const isActive = idx === currentIndex;
+        dot.classList.toggle('active', isActive);
+        dot.setAttribute('aria-selected', isActive ? 'true' : 'false');
+      });
+    }
+
+    function startTimer() {
+      stopTimer();
+      autoTimer = setInterval(() => goToSlide(currentIndex + 1), 5000);
+    }
+    function stopTimer() {
+      if (autoTimer) { clearInterval(autoTimer); autoTimer = null; }
+    }
+    function resetTimer() {
+      stopTimer();
+      startTimer();
+    }
+
+    if (prevBtn) {
+      prevBtn.addEventListener('click', () => { goToSlide(currentIndex - 1); resetTimer(); });
+    }
+    if (nextBtn) {
+      nextBtn.addEventListener('click', () => { goToSlide(currentIndex + 1); resetTimer(); });
+    }
+
+    dots.forEach((dot, idx) => {
+      dot.addEventListener('click', () => {
+        goToSlide(idx);
+        resetTimer();
+      });
     });
+
+    if (container) {
+      container.addEventListener('mouseenter', stopTimer);
+      container.addEventListener('mouseleave', startTimer);
+      container.addEventListener('focusin', stopTimer);
+      container.addEventListener('focusout', startTimer);
+
+      // Suporte a swipe touch em dispositivos móveis
+      let touchStartX = 0;
+      let touchEndX = 0;
+      container.addEventListener('touchstart', (e) => {
+        touchStartX = e.changedTouches[0].screenX;
+      }, { passive: true });
+      container.addEventListener('touchend', (e) => {
+        touchEndX = e.changedTouches[0].screenX;
+        if (touchStartX - touchEndX > 45) { goToSlide(currentIndex + 1); resetTimer(); }
+        else if (touchEndX - touchStartX > 45) { goToSlide(currentIndex - 1); resetTimer(); }
+      }, { passive: true });
+    }
+
+    // Navegação por teclado (acessibilidade)
+    document.addEventListener('keydown', (e) => {
+      if (container && (container.contains(document.activeElement) || document.activeElement === document.body)) {
+        if (e.key === 'ArrowLeft') { goToSlide(currentIndex - 1); resetTimer(); }
+        if (e.key === 'ArrowRight') { goToSlide(currentIndex + 1); resetTimer(); }
+      }
+    });
+
+    // Iniciar rotação
+    goToSlide(0);
+    startTimer();
   }
 });
 </script>
