@@ -293,6 +293,34 @@
   border-radius: 10px;
 }
 
+/* Badge oficial da logo/favicon no canto inferior direito do carrossel */
+.seo-carousel-favicon-badge {
+  position: absolute;
+  bottom: 12px;
+  right: 12px;
+  width: 44px;
+  height: 44px;
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.22);
+  z-index: 6;
+  pointer-events: none;
+  border: 2px solid rgba(255, 255, 255, 0.9);
+  transition: transform 0.2s ease;
+}
+
+.seo-carousel-favicon-badge img {
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
+  display: block;
+}
+
 /* ---- CONTEÚDO DESCRITIVO COMPLETO (ALINHADO COM A MARGEM DA PRIMEIRA SEÇÃO) ---- */
 .seo-body-section {
   padding: 48px 0 80px;

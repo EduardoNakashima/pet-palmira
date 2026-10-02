@@ -168,37 +168,45 @@
         <!-- Coluna da Direita: Carrossel Quadrado 1:1 -->
         <div class="seo-carousel-container" aria-label="Fotos de rações para gato do Pet Shop Palmira">
           <div class="seo-carousel-track" id="seoCarouselTrack">
-            
-            <div class="seo-carousel-slide">
-              <img src="../assets/organico/pouring-pet-food-into-bowl.jpg" 
-                   alt="Ração para gato Cabuçu - Alimentos secos de alta palatabilidade no Pet Shop Palmira" 
-                   class="seo-carousel-img"
+            <div class="seo-carousel-slide active" data-slide="0">
+              <img src="../assets/images/produtos/goldencat.webp" 
+                   alt="Rações secas balanceadas para gatos do Cabuçu" 
+                   class="seo-carousel-img seo-square-img"
                    loading="eager"
                    width="600"
                    height="600">
-              <div class="seo-carousel-caption">Nutrição de Alta Digestibilidade para Gatos</div>
+              <div class="seo-carousel-caption">Premier e Golden para Felinos do Cabuçu</div>
             </div>
 
-            <div class="seo-carousel-slide">
-              <img src="../assets/organico/cachorroegato.jpg" 
-                   alt="Variedade completa para gatos e cães no Pet Shop Palmira" 
-                   class="seo-carousel-img"
+            <div class="seo-carousel-slide" data-slide="">
+              <img src="../assets/organico/pouring-pet-food-into-bowl.jpg" 
+                   alt="Nutrição de alta digestibilidade e proteção urinária" 
+                   class="seo-carousel-img seo-square-img"
                    loading="lazy"
                    width="600"
                    height="600">
-              <div class="seo-carousel-caption">Sachês Úmidos, Petiscos e Antipulgas Felinos</div>
+              <div class="seo-carousel-caption">Digestibilidade Máxima e Controle Urinário</div>
             </div>
 
-            <div class="seo-carousel-slide">
-              <img src="../assets/organico/loja.jpg" 
-                   alt="Prateleiras abastecidas com rações para felinos na Av. Pedro de Souza Lopes, 33B" 
-                   class="seo-carousel-img"
+            <div class="seo-carousel-slide" data-slide="">
+              <img src="../assets/images/produtos/saches.webp" 
+                   alt="Sachês úmidos para gatos que vivem em chácaras" 
+                   class="seo-carousel-img seo-square-img"
                    loading="lazy"
                    width="600"
                    height="600">
-              <div class="seo-carousel-caption">Fardos de Areia Sanitária e Cuidados Diários</div>
+              <div class="seo-carousel-caption">Sachês para Hidratação Diária</div>
             </div>
 
+            <div class="seo-carousel-slide" data-slide="">
+              <img src="../assets/images/produtos/whiskas.webp" 
+                   alt="Alimentos secos e petiscos felinos saborosos" 
+                   class="seo-carousel-img seo-square-img"
+                   loading="lazy"
+                   width="600"
+                   height="600">
+              <div class="seo-carousel-caption">Variedade em Rações Secas e Úmidas</div>
+            </div>
           </div>
 
           <!-- Controles de Navegação -->
@@ -206,13 +214,18 @@
           <button class="seo-carousel-btn next" id="carouselNext" aria-label="Próxima foto">›</button>
 
           <!-- Indicadores de Pontos (Dots) -->
-          <div class="seo-carousel-dots" id="carouselDots">
-            <button class="seo-carousel-dot active" data-index="0" aria-label="Ir para imagem 1"></button>
-            <button class="seo-carousel-dot" data-index="1" aria-label="Ir para imagem 2"></button>
-            <button class="seo-carousel-dot" data-index="2" aria-label="Ir para imagem 3"></button>
+          <div class="seo-carousel-dots" id="carousel-dots" role="tablist" aria-label="Navegar entre slides">
+            <button class="seo-carousel-dot active" role="tab" aria-selected="true" data-index="0" aria-label="Ver slide 1"></button>
+            <button class="seo-carousel-dot" role="tab" aria-selected="false" data-index="1" aria-label="Ver slide 2"></button>
+            <button class="seo-carousel-dot" role="tab" aria-selected="false" data-index="2" aria-label="Ver slide 3"></button>
+            <button class="seo-carousel-dot" role="tab" aria-selected="false" data-index="3" aria-label="Ver slide 4"></button>
+          </div>
+        
+          <!-- Badge oficial com a logo/favicon no canto inferior direito -->
+          <div class="seo-carousel-favicon-badge" aria-hidden="true" title="Pet Shop Palmira">
+            <img src="../assets/images/favicon-logo.png" alt="Pet Shop Palmira" width="30" height="30">
           </div>
         </div>
-
       </div>
     </div>
   </section>

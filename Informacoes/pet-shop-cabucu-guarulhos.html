@@ -168,37 +168,55 @@
         <!-- Coluna da Direita: Carrossel Quadrado 1:1 -->
         <div class="seo-carousel-container" aria-label="Fotos do Pet Shop Palmira">
           <div class="seo-carousel-track" id="seoCarouselTrack">
-            
-            <div class="seo-carousel-slide">
+            <div class="seo-carousel-slide active" data-slide="0">
               <img src="../assets/organico/loja.jpg" 
-                   alt="Pet shop Cabuçu Guarulhos - Fachada e prateleiras da loja física Pet Shop Palmira" 
-                   class="seo-carousel-img"
+                   alt="Pet shop Cabuçu Guarulhos - Pet Shop Palmira há 25 anos" 
+                   class="seo-carousel-img seo-square-img"
                    loading="eager"
                    width="600"
                    height="600">
-              <div class="seo-carousel-caption">Pet Shop Palmira: Atendimento Familiar há 25 Anos</div>
+              <div class="seo-carousel-caption">Atendimento Familiar para a Região do Cabuçu</div>
             </div>
 
-            <div class="seo-carousel-slide">
+            <div class="seo-carousel-slide" data-slide="">
               <img src="../assets/organico/racaoparacachorro.jpg" 
-                   alt="Rações de 15kg e 20kg para cães de quintal e chácaras no Cabuçu" 
-                   class="seo-carousel-img"
+                   alt="Sacos de 15kg e 20kg para cães de quintais e chácaras" 
+                   class="seo-carousel-img seo-square-img"
                    loading="lazy"
                    width="600"
                    height="600">
               <div class="seo-carousel-caption">Sacos Econômicos de 15kg e 20kg</div>
             </div>
 
-            <div class="seo-carousel-slide">
-              <img src="../assets/organico/transportesecasinhas.jpg" 
-                   alt="Casinhas térmicas e acessórios para quintais amplos e sítios no Cabuçu" 
-                   class="seo-carousel-img"
+            <div class="seo-carousel-slide" data-slide="">
+              <img src="../assets/images/produtos/cavalo.webp" 
+                   alt="Rações balanceadas para cavalos e animais de sítio" 
+                   class="seo-carousel-img seo-square-img"
                    loading="lazy"
                    width="600"
                    height="600">
-              <div class="seo-carousel-caption">Casinhas e Caixas de Transporte Robustas</div>
+              <div class="seo-carousel-caption">Rações para Cavalos e Criação</div>
             </div>
 
+            <div class="seo-carousel-slide" data-slide="">
+              <img src="../assets/images/produtos/galinha.webp" 
+                   alt="Ração para galinhas poedeiras e criação no Cabuçu" 
+                   class="seo-carousel-img seo-square-img"
+                   loading="lazy"
+                   width="600"
+                   height="600">
+              <div class="seo-carousel-caption">Rações de Postura e Crescimento para Galinhas</div>
+            </div>
+
+            <div class="seo-carousel-slide" data-slide="">
+              <img src="../assets/organico/transportesecasinhas.jpg" 
+                   alt="Casinhas térmicas para quintais amplos no Cabuçu" 
+                   class="seo-carousel-img seo-square-img"
+                   loading="lazy"
+                   width="600"
+                   height="600">
+              <div class="seo-carousel-caption">Casinhas Térmicas Resistentes ao Frio da Serra</div>
+            </div>
           </div>
 
           <!-- Controles de Navegação -->
@@ -206,13 +224,19 @@
           <button class="seo-carousel-btn next" id="carouselNext" aria-label="Próxima foto">›</button>
 
           <!-- Indicadores de Pontos (Dots) -->
-          <div class="seo-carousel-dots" id="carouselDots">
-            <button class="seo-carousel-dot active" data-index="0" aria-label="Ir para imagem 1"></button>
-            <button class="seo-carousel-dot" data-index="1" aria-label="Ir para imagem 2"></button>
-            <button class="seo-carousel-dot" data-index="2" aria-label="Ir para imagem 3"></button>
+          <div class="seo-carousel-dots" id="carousel-dots" role="tablist" aria-label="Navegar entre slides">
+            <button class="seo-carousel-dot active" role="tab" aria-selected="true" data-index="0" aria-label="Ver slide 1"></button>
+            <button class="seo-carousel-dot" role="tab" aria-selected="false" data-index="1" aria-label="Ver slide 2"></button>
+            <button class="seo-carousel-dot" role="tab" aria-selected="false" data-index="2" aria-label="Ver slide 3"></button>
+            <button class="seo-carousel-dot" role="tab" aria-selected="false" data-index="3" aria-label="Ver slide 4"></button>
+            <button class="seo-carousel-dot" role="tab" aria-selected="false" data-index="4" aria-label="Ver slide 5"></button>
+          </div>
+        
+          <!-- Badge oficial com a logo/favicon no canto inferior direito -->
+          <div class="seo-carousel-favicon-badge" aria-hidden="true" title="Pet Shop Palmira">
+            <img src="../assets/images/favicon-logo.png" alt="Pet Shop Palmira" width="30" height="30">
           </div>
         </div>
-
       </div>
     </div>
   </section>

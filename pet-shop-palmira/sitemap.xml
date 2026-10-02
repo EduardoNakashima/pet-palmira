@@ -204,4 +204,24 @@
     <loc>https://petshoppalmira.com.br/Informacoes/acessorios-para-pets-cabucu.html</loc>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/Informacoes/pet-shop-vila-galvao-guarulhos.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/Informacoes/racao-para-cachorro-vila-galvao.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/Informacoes/racao-para-gato-vila-galvao.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/Informacoes/produtos-para-pets-vila-galvao.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/Informacoes/acessorios-para-pets-vila-galvao.html</loc>
+    <priority>0.8</priority>
+  </url>
 </urlset>

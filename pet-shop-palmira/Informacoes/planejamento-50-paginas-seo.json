@@ -382,7 +382,7 @@
           "slug": "pet-shop-vila-galvao-guarulhos.html",
           "cauda_longa": "pet shop Vila Galvão Guarulhos tradição e entrega domiciliar",
           "intencao": "Local / Comercial",
-          "status": "planejada",
+          "status": "publicada",
           "imagem_sugerida": "assets/organico/loja.jpg"
         },
         {
@@ -391,7 +391,7 @@
           "slug": "racao-para-cachorro-vila-galvao.html",
           "cauda_longa": "loja de ração para cachorro Vila Galvão marcas Premier Golden",
           "intencao": "Local / Transacional",
-          "status": "planejada",
+          "status": "publicada",
           "imagem_sugerida": "assets/organico/racaoparacachorro.jpg"
         },
         {
@@ -400,7 +400,7 @@
           "slug": "racao-para-gato-vila-galvao.html",
           "cauda_longa": "ração para gato Vila Galvão alimentos Super Premium e sachês",
           "intencao": "Local / Transacional",
-          "status": "planejada",
+          "status": "publicada",
           "imagem_sugerida": "assets/organico/pouring-pet-food-into-bowl.jpg"
         },
         {
@@ -409,7 +409,7 @@
           "slug": "produtos-para-pets-vila-galvao.html",
           "cauda_longa": "produtos para pets Vila Galvão higiene brinquedos e ração",
           "intencao": "Local / Comercial",
-          "status": "planejada",
+          "status": "publicada",
           "imagem_sugerida": "assets/organico/loja2.jpg"
         },
         {
@@ -418,7 +418,7 @@
           "slug": "acessorios-para-pets-vila-galvao.html",
           "cauda_longa": "acessórios para pets Vila Galvão caminhas arranhadores e caixas",
           "intencao": "Local / Comercial",
-          "status": "planejada",
+          "status": "publicada",
           "imagem_sugerida": "assets/organico/transportesecasinhas.jpg"
         },
         {
@@ -427,7 +427,7 @@
           "slug": "pet-shop-jardim-rosa-de-franca.html",
           "cauda_longa": "pet shop Jardim Rosa de França atendimento no WhatsApp",
           "intencao": "Local / Comercial",
-          "status": "planejada",
+          "status": "publicada",
           "imagem_sugerida": "assets/organico/loja.jpg"
         },
         {
@@ -436,7 +436,7 @@
           "slug": "racao-para-cachorro-rosa-de-franca.html",
           "cauda_longa": "comprar ração para cachorro Rosa de França Guarulhos",
           "intencao": "Local / Transacional",
-          "status": "planejada",
+          "status": "publicada",
           "imagem_sugerida": "assets/organico/racaoparacachorro.jpg"
         },
         {
@@ -445,7 +445,7 @@
           "slug": "racao-para-gato-rosa-de-franca.html",
           "cauda_longa": "ração para gato Rosa de França variedade e economia",
           "intencao": "Local / Transacional",
-          "status": "planejada",
+          "status": "publicada",
           "imagem_sugerida": "assets/organico/pouring-pet-food-into-bowl.jpg"
         },
         {
@@ -454,7 +454,7 @@
           "slug": "produtos-para-pets-rosa-de-franca.html",
           "cauda_longa": "produtos para pets Rosa de França petiscos coleiras e rações",
           "intencao": "Local / Comercial",
-          "status": "planejada",
+          "status": "publicada",
           "imagem_sugerida": "assets/organico/loja2.jpg"
         },
         {
@@ -463,7 +463,7 @@
           "slug": "acessorios-para-pets-rosa-de-franca.html",
           "cauda_longa": "acessórios para pets Rosa de França roupinhas e caminhas laváveis",
           "intencao": "Local / Comercial",
-          "status": "planejada",
+          "status": "publicada",
           "imagem_sugerida": "assets/organico/transportesecasinhas.jpg"
         }
       ]

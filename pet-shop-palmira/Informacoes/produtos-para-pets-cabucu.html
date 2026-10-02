@@ -168,37 +168,45 @@
         <!-- Coluna da Direita: Carrossel Quadrado 1:1 -->
         <div class="seo-carousel-container" aria-label="Fotos de produtos para pets do Pet Shop Palmira">
           <div class="seo-carousel-track" id="seoCarouselTrack">
-            
-            <div class="seo-carousel-slide">
+            <div class="seo-carousel-slide active" data-slide="0">
               <img src="../assets/organico/loja2.jpg" 
-                   alt="Produtos para pets Cabuçu - Farmácia veterinária, shampoos e acessórios no Pet Shop Palmira" 
-                   class="seo-carousel-img"
+                   alt="Farmácia veterinária e produtos para pets no Cabuçu" 
+                   class="seo-carousel-img seo-square-img"
                    loading="eager"
                    width="600"
                    height="600">
-              <div class="seo-carousel-caption">Farmácia Veterinária e Higiene Completa</div>
+              <div class="seo-carousel-caption">Farmácia Veterinária com Simparic e Bravecto</div>
             </div>
 
-            <div class="seo-carousel-slide">
-              <img src="../assets/organico/cachorroegato.jpg" 
-                   alt="Medicamentos, petiscos e brinquedos para cães e gatos em Guarulhos" 
-                   class="seo-carousel-img"
+            <div class="seo-carousel-slide" data-slide="">
+              <img src="../assets/images/produtos/frontline.webp" 
+                   alt="Antipulgas e carrapaticidas contra carrapatos do mato" 
+                   class="seo-carousel-img seo-square-img"
                    loading="lazy"
                    width="600"
                    height="600">
-              <div class="seo-carousel-caption">Linha Completa para Cães e Gatos</div>
+              <div class="seo-carousel-caption">Proteção Rigorosa Contra Carrapatos da Mata</div>
             </div>
 
-            <div class="seo-carousel-slide">
+            <div class="seo-carousel-slide" data-slide="">
+              <img src="../assets/images/produtos/shampoo.webp" 
+                   alt="Shampoos neutros e medicinais para cães de quintal" 
+                   class="seo-carousel-img seo-square-img"
+                   loading="lazy"
+                   width="600"
+                   height="600">
+              <div class="seo-carousel-caption">Shampoos Neutros e Medicinais de Alto Rendimento</div>
+            </div>
+
+            <div class="seo-carousel-slide" data-slide="">
               <img src="../assets/organico/transportesecasinhas.jpg" 
-                   alt="Casinhas plásticas e caixas de transporte resistentes para chácaras do Cabuçu" 
-                   class="seo-carousel-img"
+                   alt="Acessórios duráveis para casas e chácaras no Cabuçu" 
+                   class="seo-carousel-img seo-square-img"
                    loading="lazy"
                    width="600"
                    height="600">
-              <div class="seo-carousel-caption">Acessórios Resistentes para Áreas Externas</div>
+              <div class="seo-carousel-caption">Casinhas, Bebedouros Pesados e Acessórios</div>
             </div>
-
           </div>
 
           <!-- Controles de Navegação -->
@@ -206,13 +214,18 @@
           <button class="seo-carousel-btn next" id="carouselNext" aria-label="Próxima foto">›</button>
 
           <!-- Indicadores de Pontos (Dots) -->
-          <div class="seo-carousel-dots" id="carouselDots">
-            <button class="seo-carousel-dot active" data-index="0" aria-label="Ir para imagem 1"></button>
-            <button class="seo-carousel-dot" data-index="1" aria-label="Ir para imagem 2"></button>
-            <button class="seo-carousel-dot" data-index="2" aria-label="Ir para imagem 3"></button>
+          <div class="seo-carousel-dots" id="carousel-dots" role="tablist" aria-label="Navegar entre slides">
+            <button class="seo-carousel-dot active" role="tab" aria-selected="true" data-index="0" aria-label="Ver slide 1"></button>
+            <button class="seo-carousel-dot" role="tab" aria-selected="false" data-index="1" aria-label="Ver slide 2"></button>
+            <button class="seo-carousel-dot" role="tab" aria-selected="false" data-index="2" aria-label="Ver slide 3"></button>
+            <button class="seo-carousel-dot" role="tab" aria-selected="false" data-index="3" aria-label="Ver slide 4"></button>
+          </div>
+        
+          <!-- Badge oficial com a logo/favicon no canto inferior direito -->
+          <div class="seo-carousel-favicon-badge" aria-hidden="true" title="Pet Shop Palmira">
+            <img src="../assets/images/favicon-logo.png" alt="Pet Shop Palmira" width="30" height="30">
           </div>
         </div>
-
       </div>
     </div>
   </section>

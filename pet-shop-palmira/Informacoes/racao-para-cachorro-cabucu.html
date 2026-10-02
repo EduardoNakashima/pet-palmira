@@ -206,13 +206,17 @@
           <button class="seo-carousel-btn next" id="carouselNext" aria-label="Próxima foto">›</button>
 
           <!-- Indicadores de Pontos (Dots) -->
-          <div class="seo-carousel-dots" id="carouselDots">
-            <button class="seo-carousel-dot active" data-index="0" aria-label="Ir para imagem 1"></button>
-            <button class="seo-carousel-dot" data-index="1" aria-label="Ir para imagem 2"></button>
-            <button class="seo-carousel-dot" data-index="2" aria-label="Ir para imagem 3"></button>
+          <div class="seo-carousel-dots" id="carousel-dots" role="tablist" aria-label="Navegar entre slides">
+            <button class="seo-carousel-dot active" role="tab" aria-selected="true" data-index="0" aria-label="Ver slide 1"></button>
+            <button class="seo-carousel-dot" role="tab" aria-selected="false" data-index="1" aria-label="Ver slide 2"></button>
+            <button class="seo-carousel-dot" role="tab" aria-selected="false" data-index="2" aria-label="Ver slide 3"></button>
+          </div>
+        
+          <!-- Badge oficial com a logo/favicon no canto inferior direito -->
+          <div class="seo-carousel-favicon-badge" aria-hidden="true" title="Pet Shop Palmira">
+            <img src="../assets/images/favicon-logo.png" alt="Pet Shop Palmira" width="30" height="30">
           </div>
         </div>
-
       </div>
     </div>
   </section>
