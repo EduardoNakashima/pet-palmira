@@ -38,6 +38,25 @@ function initProductCatalog() {
   const countBadge = document.getElementById('product-count');
   const activeFiltersBar = document.getElementById('active-filters-bar');
   const clearAllBtn = document.getElementById('btn-clear-all-filters');
+  const toggleBtn = document.getElementById('btn-toggle-filters');
+  const filtersWrapper = document.getElementById('filters-wrapper');
+  const filterBadgeCount = document.getElementById('filter-badge-count');
+
+  if (toggleBtn && filtersWrapper) {
+    toggleBtn.addEventListener('click', (e) => {
+      e.preventDefault();
+      const isOpen = filtersWrapper.classList.toggle('is-open');
+      toggleBtn.classList.toggle('is-open', isOpen);
+      toggleBtn.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+    });
+
+    // Se já veio com algum filtro via parâmetro na URL, abre o painel automaticamente
+    if (paramPet || paramCat) {
+      filtersWrapper.classList.add('is-open');
+      toggleBtn.classList.add('is-open');
+      toggleBtn.setAttribute('aria-expanded', 'true');
+    }
+  }
 
   if (searchInput && currentSearch) {
     searchInput.value = currentSearch;
@@ -182,6 +201,23 @@ function initProductCatalog() {
 
       const queryLabel = currentSearch ? ` com termo "${currentSearch}"` : '';
       countBadge.innerHTML = `<strong>${visibleCount}</strong> produto${visibleCount === 1 ? '' : 's'} encontrado${visibleCount === 1 ? '' : 's'}${petLabel}${catLabel}${queryLabel}`;
+    }
+
+    // Atualiza contagem no badge do botão de abrir filtros
+    let activeFilterCount = 0;
+    if (currentPet !== 'todos' && !['caes-gatos', 'passaros', 'cavalos-porquinhos', 'porcos-galinhas'].includes(pageContextCategory)) {
+      activeFilterCount++;
+    }
+    if (currentCategory !== 'todos') {
+      activeFilterCount++;
+    }
+    if (filterBadgeCount) {
+      if (activeFilterCount > 0) {
+        filterBadgeCount.textContent = activeFilterCount;
+        filterBadgeCount.style.display = 'inline-flex';
+      } else {
+        filterBadgeCount.style.display = 'none';
+      }
     }
 
     // Exibe ou oculta barra de filtros ativos

@@ -19,15 +19,100 @@
   margin-bottom: 24px;
 }
 
-.filters-wrapper {
-  display: flex;
-  flex-direction: column;
-  gap: 14px;
+/* Botão de Abrir/Fechar Filtros */
+.btn-toggle-filters {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 9px 18px;
+  border-radius: 9999px;
+  border: 1.5px solid var(--gp, #d4ebd9);
   background: #ffffff;
-  padding: 18px 20px;
-  border-radius: var(--r);
-  border: 1px solid var(--gp);
-  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.03);
+  color: var(--gd, #123b27);
+  font-family: 'Nunito', sans-serif;
+  font-size: 14px;
+  font-weight: 800;
+  cursor: pointer;
+  transition: all .2s ease;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+  white-space: nowrap;
+  user-select: none;
+}
+
+.btn-toggle-filters:hover {
+  background: var(--gf, #f0faf3);
+  border-color: var(--gm, #2b8a45);
+  color: var(--gm, #2b8a45);
+  transform: translateY(-1px);
+}
+
+.btn-toggle-filters.is-open {
+  background: var(--gm, #2b8a45);
+  border-color: var(--gm, #2b8a45);
+  color: #ffffff;
+  box-shadow: 0 4px 14px rgba(43, 138, 69, 0.25);
+}
+
+.btn-toggle-filters .filter-icon-svg {
+  width: 17px;
+  height: 17px;
+  fill: currentColor;
+  flex-shrink: 0;
+}
+
+.btn-toggle-filters .toggle-chevron {
+  width: 14px;
+  height: 14px;
+  fill: currentColor;
+  transition: transform 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  flex-shrink: 0;
+}
+
+.btn-toggle-filters.is-open .toggle-chevron {
+  transform: rotate(180deg);
+}
+
+.filter-badge-count {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 20px;
+  height: 20px;
+  padding: 0 6px;
+  border-radius: 9999px;
+  background: var(--or, #ff5722);
+  color: #ffffff;
+  font-size: 11px;
+  font-weight: 900;
+  line-height: 1;
+}
+
+/* Painel Expansível de Filtros */
+.filters-wrapper {
+  display: none;
+  flex-direction: column;
+  gap: 16px;
+  background: #ffffff;
+  padding: 20px 22px;
+  border-radius: var(--r, 16px);
+  border: 1.5px solid var(--gp, #d4ebd9);
+  box-shadow: 0 8px 24px rgba(18, 59, 39, 0.06);
+  animation: filterDrawerOpen 0.25s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.filters-wrapper.is-open {
+  display: flex;
+}
+
+@keyframes filterDrawerOpen {
+  from {
+    opacity: 0;
+    transform: translateY(-8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 .filter-row {
