@@ -1,0 +1,881 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Apresentação Comercial & Proposta de Transformação Digital | Clínica Veterinária PinkVet</title>
+  <meta name="description" content="Proposta Comercial para desenvolvimento do novo portal e estratégia digital da Clínica Veterinária PinkVet, com parceria estratégica Pet Shop Palmira.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@0,600;0,700;1,600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --primary: #be185d;
+      --primary-light: #fdf2f8;
+      --primary-border: #fbcfe8;
+      --primary-hover: #9d174d;
+      --secondary: #0f172a;
+      --slate-800: #1e293b;
+      --slate-600: #475569;
+      --slate-500: #64748b;
+      --slate-100: #f1f5f9;
+      --slate-50: #f8fafc;
+      --green-600: #16a34a;
+      --green-50: #f0fdf4;
+      --green-border: #bbf7d0;
+      --teal-600: #0d9488;
+      --card-shadow: 0 10px 25px -5px rgba(190, 24, 93, 0.08), 0 8px 10px -6px rgba(0, 0, 0, 0.04);
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+      background-color: #f8fafc;
+      color: var(--slate-800);
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* Top Floating Action Bar */
+    .action-bar {
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+      background: rgba(255, 255, 255, 0.96);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid #e2e8f0;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+      padding: 12px 24px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+
+    .brand-pill {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .brand-logo {
+      width: 38px;
+      height: 38px;
+      background: linear-gradient(135deg, #ec4899, #be185d);
+      border-radius: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      font-weight: 800;
+      font-size: 1.1rem;
+      box-shadow: 0 4px 10px rgba(190, 24, 93, 0.3);
+    }
+
+    .brand-info h1 {
+      font-size: 1rem;
+      font-weight: 800;
+      color: var(--secondary);
+      line-height: 1.2;
+    }
+
+    .brand-info span {
+      font-size: 0.75rem;
+      color: var(--slate-500);
+      font-weight: 500;
+    }
+
+    .btn-group {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 10px 18px;
+      border-radius: 10px;
+      font-size: 0.85rem;
+      font-weight: 700;
+      text-decoration: none;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      border: none;
+    }
+
+    .btn-primary {
+      background: var(--primary);
+      color: white;
+      box-shadow: 0 4px 14px rgba(190, 24, 93, 0.35);
+    }
+
+    .btn-primary:hover {
+      background: var(--primary-hover);
+      transform: translateY(-1px);
+    }
+
+    .btn-outline {
+      background: white;
+      color: var(--slate-800);
+      border: 1px solid #cbd5e1;
+    }
+
+    .btn-outline:hover {
+      background: var(--slate-50);
+      border-color: var(--primary);
+      color: var(--primary);
+    }
+
+    .btn-success {
+      background: #22c55e;
+      color: white;
+    }
+
+    .btn-success:hover {
+      background: #16a34a;
+    }
+
+    /* Container */
+    .deck-container {
+      max-width: 960px;
+      margin: 40px auto 80px;
+      padding: 0 20px;
+    }
+
+    /* Slide Card */
+    .slide-card {
+      background: white;
+      border-radius: 20px;
+      border: 1px solid #e2e8f0;
+      box-shadow: var(--card-shadow);
+      padding: 48px;
+      margin-bottom: 40px;
+      position: relative;
+      overflow: hidden;
+      page-break-after: always;
+      break-after: page;
+    }
+
+    .slide-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 6px;
+      background: linear-gradient(90deg, #ec4899, #be185d, #0f172a);
+    }
+
+    .slide-tag {
+      display: inline-block;
+      font-size: 0.75rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--primary);
+      background: var(--primary-light);
+      border: 1px solid var(--primary-border);
+      padding: 4px 12px;
+      border-radius: 999px;
+      margin-bottom: 12px;
+    }
+
+    .slide-title {
+      font-size: 1.85rem;
+      font-weight: 800;
+      color: var(--secondary);
+      line-height: 1.25;
+      margin-bottom: 16px;
+      letter-spacing: -0.02em;
+    }
+
+    .slide-subtitle {
+      font-size: 1.05rem;
+      color: var(--slate-600);
+      margin-bottom: 32px;
+      line-height: 1.5;
+    }
+
+    /* Grid Layouts */
+    .grid-2 {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 20px;
+    }
+
+    .grid-3 {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 16px;
+    }
+
+    /* Feature Box */
+    .feature-box {
+      background: var(--slate-50);
+      border: 1px solid #e2e8f0;
+      border-radius: 14px;
+      padding: 24px;
+      transition: all 0.2s ease;
+    }
+
+    .feature-box:hover {
+      border-color: var(--primary-border);
+      box-shadow: 0 4px 12px rgba(190, 24, 93, 0.06);
+    }
+
+    .feature-icon {
+      width: 42px;
+      height: 42px;
+      border-radius: 10px;
+      background: var(--primary-light);
+      color: var(--primary);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.3rem;
+      margin-bottom: 14px;
+      font-weight: 700;
+    }
+
+    .feature-box h4 {
+      font-size: 1.05rem;
+      font-weight: 700;
+      color: var(--secondary);
+      margin-bottom: 8px;
+    }
+
+    .feature-box p {
+      font-size: 0.9rem;
+      color: var(--slate-600);
+      line-height: 1.5;
+    }
+
+    /* Sinergy Banner */
+    .sinergy-card {
+      background: linear-gradient(135deg, #0f172a, #1e293b);
+      color: white;
+      border-radius: 16px;
+      padding: 32px;
+      margin-top: 24px;
+      position: relative;
+    }
+
+    .sinergy-card h3 {
+      color: #f472b6;
+      font-size: 1.25rem;
+      font-weight: 800;
+      margin-bottom: 12px;
+    }
+
+    .sinergy-card p {
+      color: #cbd5e1;
+      font-size: 0.95rem;
+      line-height: 1.6;
+    }
+
+    /* SEO Pilot Card Highlight */
+    .seo-highlight-card {
+      background: linear-gradient(135deg, #fdf2f8, #fce7f3);
+      border: 2px dashed #f472b6;
+      border-radius: 16px;
+      padding: 32px;
+      margin-bottom: 24px;
+    }
+
+    .badge-free {
+      background: #16a34a;
+      color: white;
+      font-size: 0.8rem;
+      font-weight: 800;
+      padding: 4px 12px;
+      border-radius: 999px;
+      display: inline-block;
+      margin-bottom: 12px;
+      letter-spacing: 0.05em;
+    }
+
+    .seo-highlight-card h3 {
+      font-size: 1.35rem;
+      font-weight: 800;
+      color: var(--primary);
+      margin-bottom: 10px;
+    }
+
+    .seo-highlight-card p {
+      font-size: 0.95rem;
+      color: #831843;
+      line-height: 1.6;
+      margin-bottom: 16px;
+    }
+
+    /* Timeline */
+    .timeline {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+      margin-top: 20px;
+    }
+
+    .timeline-step {
+      display: flex;
+      gap: 20px;
+      background: white;
+      border: 1px solid #e2e8f0;
+      border-radius: 12px;
+      padding: 20px;
+    }
+
+    .step-badge {
+      min-width: 90px;
+      height: 32px;
+      background: var(--secondary);
+      color: white;
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.75rem;
+      font-weight: 800;
+      letter-spacing: 0.05em;
+    }
+
+    .step-content h4 {
+      font-size: 1.05rem;
+      font-weight: 700;
+      color: var(--secondary);
+      margin-bottom: 6px;
+    }
+
+    .step-content p {
+      font-size: 0.88rem;
+      color: var(--slate-600);
+      line-height: 1.5;
+    }
+
+    /* Pricing Table */
+    .pricing-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 24px;
+      background: white;
+      border-radius: 14px;
+      overflow: hidden;
+      border: 1px solid #e2e8f0;
+    }
+
+    .pricing-table th {
+      background: var(--secondary);
+      color: white;
+      text-align: left;
+      padding: 16px 20px;
+      font-size: 0.85rem;
+      font-weight: 700;
+      letter-spacing: 0.05em;
+    }
+
+    .pricing-table td {
+      padding: 18px 20px;
+      border-bottom: 1px solid #f1f5f9;
+      font-size: 0.92rem;
+    }
+
+    .pricing-table tr:last-child td {
+      border-bottom: none;
+      background: var(--slate-50);
+      font-weight: 800;
+      font-size: 1.1rem;
+    }
+
+    .original-price {
+      text-decoration: line-through;
+      color: var(--slate-500);
+      margin-right: 8px;
+      font-size: 0.9rem;
+    }
+
+    .special-price {
+      color: var(--primary);
+      font-weight: 800;
+    }
+
+    .free-pill {
+      background: #16a34a;
+      color: white;
+      font-size: 0.75rem;
+      padding: 3px 10px;
+      border-radius: 999px;
+      font-weight: 800;
+    }
+
+    /* Signatures Section */
+    .signatures {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 40px;
+      margin-top: 48px;
+      padding-top: 24px;
+    }
+
+    .signature-box {
+      border-top: 1px solid #94a3b8;
+      padding-top: 14px;
+      text-align: center;
+    }
+
+    .signature-box strong {
+      display: block;
+      font-size: 0.95rem;
+      color: var(--secondary);
+    }
+
+    .signature-box span {
+      font-size: 0.82rem;
+      color: var(--slate-500);
+    }
+
+    /* Toast Notification */
+    .toast {
+      position: fixed;
+      bottom: 24px;
+      right: 24px;
+      background: var(--secondary);
+      color: white;
+      padding: 12px 24px;
+      border-radius: 10px;
+      font-size: 0.9rem;
+      font-weight: 600;
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+      transform: translateY(100px);
+      opacity: 0;
+      transition: all 0.3s ease;
+      z-index: 2000;
+    }
+
+    .toast.show {
+      transform: translateY(0);
+      opacity: 1;
+    }
+
+    /* Print Styles */
+    @media print {
+      body {
+        background: white;
+      }
+      .action-bar {
+        display: none !important;
+      }
+      .deck-container {
+        max-width: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      .slide-card {
+        border: none;
+        box-shadow: none;
+        padding: 24px 0;
+        margin-bottom: 0;
+        page-break-after: always;
+        break-after: page;
+      }
+      .slide-card::before {
+        display: none;
+      }
+      .feature-box, .timeline-step, .pricing-table {
+        border: 1px solid #ccc !important;
+      }
+      @page {
+        size: A4;
+        margin: 15mm 15mm 15mm 15mm;
+      }
+    }
+
+    @media (max-width: 768px) {
+      .action-bar {
+        flex-direction: column;
+        align-items: stretch;
+      }
+      .slide-card {
+        padding: 24px;
+      }
+      .grid-2, .grid-3, .signatures {
+        grid-template-columns: 1fr;
+        gap: 16px;
+      }
+      .slide-title {
+        font-size: 1.45rem;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Top Action Bar -->
+  <header class="action-bar">
+    <div class="brand-pill">
+      <div class="brand-logo">PV</div>
+      <div class="brand-info">
+        <h1>Clínica Veterinária PinkVet</h1>
+        <span>Proposta Comercial & Projeto de Transformação Digital</span>
+      </div>
+    </div>
+    <div class="btn-group">
+      <a href="/Apresentacao_Proposta_PinkVet.pdf" download="Apresentacao_Proposta_PinkVet.pdf" class="btn btn-primary" title="Baixar PDF gerado">
+        <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"/></svg>
+        Baixar PDF Oficial
+      </a>
+      <button onclick="window.print()" class="btn btn-outline" title="Imprimir ou Salvar via Navegador">
+        <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 17h2a2 2 0 002-2v-4a2 2 0 00-2-2H5a2 2 0 00-2 2v4a2 2 0 002 2h2m2 4h6a2 2 0 002-2v-4a2 2 0 00-2-2H9a2 2 0 00-2 2v4a2 2 0 002 2zm8-12V5a2 2 0 00-2-2H9a2 2 0 00-2 2v4h10z"/></svg>
+        Imprimir / PDF A4
+      </button>
+      <button onclick="copyWhatsAppProposal()" class="btn btn-success" title="Copiar texto para enviar no WhatsApp">
+        <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3"/></svg>
+        Copiar Mensagem WhatsApp
+      </button>
+    </div>
+  </header>
+
+  <main class="deck-container" id="presentation-deck">
+
+    <!-- SLIDE 1: CAPA EXECUTIVA -->
+    <section class="slide-card">
+      <div class="slide-tag">Proposta Comercial • Outubro 2026</div>
+      <h2 class="slide-title" style="font-size: 2.2rem; color: var(--secondary);">
+        Transformação Digital & Presença Web de Alta Conversão
+      </h2>
+      <p class="slide-subtitle" style="font-size: 1.15rem; color: var(--primary); font-weight: 700;">
+        Clínica Veterinária PinkVet — Da excelência médica presencial à liderança em agendamentos em Guarulhos.
+      </p>
+
+      <div class="grid-2" style="margin-top: 32px;">
+        <div class="feature-box" style="background: #fff; border-color: #fce7f3;">
+          <div class="feature-icon">🏥</div>
+          <h4>Para a PinkVet</h4>
+          <p>Um portal médico acolhedor, rápido e profissional que posiciona a clínica como referência máxima em saúde animal no bairro e arredores.</p>
+        </div>
+        <div class="feature-box" style="background: #fff; border-color: #e0f2fe;">
+          <div class="feature-icon" style="background: #e0f2fe; color: #0284c7;">🤝</div>
+          <h4>Parceria Pet Shop Palmira</h4>
+          <p>Conexão natural com a base sólida de clientes que compram rações e remédios há 25 anos na região, gerando indicações diárias.</p>
+        </div>
+      </div>
+
+      <div style="margin-top: 36px; padding: 20px; background: var(--primary-light); border: 1px solid var(--primary-border); border-radius: 12px; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 16px; font-size: 0.88rem;">
+        <div>
+          <span style="color: var(--slate-500); display: block;">Cliente Responsável:</span>
+          <strong style="color: var(--secondary);">Clínica Veterinária PinkVet (Dra. Responsável)</strong>
+        </div>
+        <div>
+          <span style="color: var(--slate-500); display: block;">Parceria Estratégica:</span>
+          <strong style="color: var(--secondary);">Pet Shop Palmira & Equipe Digital</strong>
+        </div>
+        <div>
+          <span style="color: var(--slate-500); display: block;">Vigência da Proposta:</span>
+          <strong style="color: var(--green-600);">15 Dias (Condições Especiais de Lançamento)</strong>
+        </div>
+      </div>
+    </section>
+
+    <!-- SLIDE 2: DIAGNÓSTICO & OPORTUNIDADE -->
+    <section class="slide-card">
+      <div class="slide-tag">01. Cenário Atual & Oportunidade</div>
+      <h2 class="slide-title">Por que uma presença digital forte é indispensável hoje?</h2>
+      <p class="slide-subtitle">
+        Mais de 87% dos tutores recorrem ao Google e ao WhatsApp no exato momento em que seu pet apresenta sintomas ou necessita de cuidados preventivos.
+      </p>
+
+      <div class="grid-2">
+        <div class="feature-box" style="background: #fff1f2; border-color: #fecdd3;">
+          <h4 style="color: #be123c;">⚠️ Desafios Comuns no Mercado</h4>
+          <ul style="list-style: none; margin-top: 12px; font-size: 0.9rem; color: #4c0519; display: flex; flex-direction: column; gap: 8px;">
+            <li>❌ Depender apenas do boca a boca limita o crescimento do faturamento.</li>
+            <li>❌ Redes sociais (Instagram) não atendem quem pesquisa na hora da dor ou urgência no Google.</li>
+            <li>❌ Falta de botão direto de WhatsApp faz o tutor desistir e ir para outra clínica vizinha.</li>
+            <li>❌ Clínicas distantes anunciando na região e atraindo tutores locais.</li>
+          </ul>
+        </div>
+
+        <div class="feature-box" style="background: #f0fdf4; border-color: #bbf7d0;">
+          <h4 style="color: #15803d;">🚀 A Solução PinkVet</h4>
+          <ul style="list-style: none; margin-top: 12px; font-size: 0.9rem; color: #14532d; display: flex; flex-direction: column; gap: 8px;">
+            <li>✅ Página médica estruturada com registro CRMV, autoridade e acolhimento.</li>
+            <li>✅ Agendamento de consultas e triagem no WhatsApp com 1 clique.</li>
+            <li>✅ Indicação recíproca integrada ao portal do Pet Shop Palmira.</li>
+            <li>✅ Carregamento instantâneo em qualquer celular (menos de 1 segundo).</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="sinergy-card">
+        <h3>Sinergia Estratégica com o Pet Shop Palmira</h3>
+        <p>
+          O Pet Shop Palmira atende centenas de tutores diariamente na Av. Pedro de Souza Lopes, comercializando rações e farmácia veterinária. <strong>Todo tutor que compra ração ou remédio tem demanda por consulta clínica, vacinas periódicas, exames e castrações.</strong> A criação do portal PinkVet permite integrar os dois públicos, garantindo que os clientes do pet shop tenham a PinkVet como sua clínica de primeira escolha.
+        </p>
+      </div>
+    </section>
+
+    <!-- SLIDE 3: O QUE VAMOS CONSTRUIR -->
+    <section class="slide-card">
+      <div class="slide-tag">02. Escopo do Projeto</div>
+      <h2 class="slide-title">O que estamos propondo para a PinkVet?</h2>
+      <p class="slide-subtitle">
+        Toda a tecnologia de alta performance testada no Pet Shop Palmira, adaptada com sensibilidade e elegância para o universo clínico-veterinário:
+      </p>
+
+      <div class="grid-3">
+        <div class="feature-box">
+          <div class="feature-icon">✨</div>
+          <h4>Identidade PinkVet</h4>
+          <p>Design moderno na paleta rosa/magenta suave, transmitindo carinho, assepsia médica e alta tecnologia.</p>
+        </div>
+
+        <div class="feature-box">
+          <div class="feature-icon">📱</div>
+          <h4>Triagem via WhatsApp</h4>
+          <p>Botões personalizados com mensagens pré-formatadas para Consultas, Vacinas, Cirurgias ou Urgências.</p>
+        </div>
+
+        <div class="feature-box">
+          <div class="feature-icon">🩺</div>
+          <h4>Vitrine de Serviços</h4>
+          <p>Apresentação detalhada: Consultas Clínicas, Vacinação Ética, Cirurgias, Castração, Exames e Odontologia Pet.</p>
+        </div>
+
+        <div class="feature-box">
+          <div class="feature-icon">⚡</div>
+          <h4>Velocidade Extrema</h4>
+          <p>Site ultrarrápido (< 1s), responsivo e leve, que funciona com perfeição até em redes móveis 4G/5G oscilantes.</p>
+        </div>
+
+        <div class="feature-box">
+          <div class="feature-icon">📍</div>
+          <h4>Rota GPS em 1 Toque</h4>
+          <p>Integração com Google Maps e Waze para tutores traçarem a rota da clínica sem precisar digitar o endereço.</p>
+        </div>
+
+        <div class="feature-box">
+          <div class="feature-icon">🔗</div>
+          <h4>OpenGraph & Redes</h4>
+          <p>Ao compartilhar o link da clínica no WhatsApp, o card com foto, logo e chamada profissional aparece automaticamente.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- SLIDE 4: PILOTO DE SEO GRATUITO -->
+    <section class="slide-card">
+      <div class="slide-tag">03. O Grande Diferencial Estratégico</div>
+      <h2 class="slide-title">Módulo de SEO Local no Google: Piloto Bonificado</h2>
+      
+      <div class="seo-highlight-card">
+        <span class="badge-free">BÔNUS EXCLUSIVO DE LANÇAMENTO • R$ 0,00</span>
+        <h3>Projeto Piloto Experimental sem Custo Inicial</h3>
+        <p>
+          Como você é uma parceira de extrema confiança e vizinha do Pet Shop Palmira, todo o trabalho avançado de <strong>SEO Local (Otimização para o Google)</strong> será entregue como um <strong>Projeto Piloto Experimental 100% Gratuito no início</strong>.
+        </p>
+        <p style="margin-bottom: 0;">
+          Você não paga nada pela implementação do SEO nesta fase. O objetivo é testar e comprovar o aumento de tutores encontrando a PinkVet na região de Guarulhos antes de pensar em qualquer plano futuro.
+        </p>
+      </div>
+
+      <h3 style="font-size: 1.15rem; font-weight: 700; color: var(--secondary); margin-bottom: 16px;">O que faremos nos bastidores no Google?</h3>
+
+      <div class="grid-2">
+        <div class="feature-box">
+          <h4>Google Search Console Oficial</h4>
+          <p>Submissão do sitemap oficial para garantir que o Google rastreie, reconheça e indexe o site da PinkVet com prioridade.</p>
+        </div>
+        <div class="feature-box">
+          <h4>Dados Estruturados Schema.org</h4>
+          <p>Configuração do código oficial de <code>VeterinaryCare</code> e <code>MedicalBusiness</code>, ensinando os robôs do Google os horários, endereço e CRMV.</p>
+        </div>
+        <div class="feature-box">
+          <h4>Mapeamento de Buscas Locais</h4>
+          <p>Otimização voltada para termos de alta conversão: "veterinário palmira", "clínica veterinária guarulhos", "vacina cachorro guarulhos", "castração perto de mim".</p>
+        </div>
+        <div class="feature-box">
+          <h4>Perguntas Frequentes Ricas (FAQ)</h4>
+          <p>Respostas diretas a dúvidas frequentes de tutores para aumentar a chance de destaque nos snippets e pesquisas do Google.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- SLIDE 5: CRONOGRAMA DE IMPLANTAÇÃO -->
+    <section class="slide-card">
+      <div class="slide-tag">04. Cronograma & Praticidade</div>
+      <h2 class="slide-title">Entrega Ágil em 14 Dias (Sem Tomar Seu Tempo)</h2>
+      <p class="slide-subtitle">
+        Sabemos da rotina corrida entre consultas e cirurgias. Cuidaremos de 100% da parte técnica, precisando apenas de informações básicas:
+      </p>
+
+      <div class="timeline">
+        <div class="timeline-step">
+          <div class="step-badge">DIAS 1 - 3</div>
+          <div class="step-content">
+            <h4>Etapa 1: Alinhamento Inicial & Coleta de Dados Básicos</h4>
+            <p>Envio de formulário rápido pelo WhatsApp: logo PinkVet, fotos do espaço/consultórios, lista de especialidades, horários de atendimento e CRMV.</p>
+          </div>
+        </div>
+
+        <div class="timeline-step">
+          <div class="step-badge">DIAS 4 - 9</div>
+          <div class="step-content">
+            <h4>Etapa 2: Desenvolvimento da Engenharia & Design Médico</h4>
+            <p>Construção do portal moderno, configuração dos canais inteligentes de WhatsApp, integração com GPS e dados estruturados Schema.org.</p>
+          </div>
+        </div>
+
+        <div class="timeline-step">
+          <div class="step-badge">DIAS 10 - 12</div>
+          <div class="step-content">
+            <h4>Etapa 3: Homologação no seu Celular & Ajustes Finos</h4>
+            <p>Envio de link seguro para a Dra. e equipe testarem em seus próprios celulares, aprovando textos, fotos e detalhes visuais.</p>
+          </div>
+        </div>
+
+        <div class="timeline-step">
+          <div class="step-badge">DIAS 13 - 14</div>
+          <div class="step-content">
+            <h4>Etapa 4: Publicação Oficial & Ativação do Piloto no Google</h4>
+            <p>Lançamento oficial no ar, vinculação com o Google Search Console, testes de conversão e link de indicação mútua com o Pet Shop Palmira.</p>
+          </div>
+        </div>
+      </div>
+
+      <div style="margin-top: 24px; padding: 18px 24px; background: #f0fdf4; border: 1px solid #bbf7d0; border-radius: 12px; display: flex; align-items: center; gap: 14px;">
+        <span style="font-size: 1.5rem;">🛡️</span>
+        <div>
+          <strong style="color: #15803d; font-size: 0.95rem;">Garantia Técnica & Suporte por 30 Dias Inclusos</strong>
+          <p style="color: #166534; font-size: 0.85rem; margin: 0;">Quaisquer pequenas alterações de horário, médicos plantonistas ou serviços nos primeiros 30 dias são realizadas sem nenhum custo adicional.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- SLIDE 6: PROPOSTA FINANCEIRA -->
+    <section class="slide-card">
+      <div class="slide-tag">05. Investimento & Condições Comerciais</div>
+      <h2 class="slide-title">Investimento Acessível & Parceria Especial</h2>
+      <p class="slide-subtitle">
+        Valores especiais formatados exclusivamente para a parceria PinkVet + Pet Shop Palmira:
+      </p>
+
+      <table class="pricing-table">
+        <thead>
+          <tr>
+            <th>ESCOPO / ENTREGÁVEL</th>
+            <th>VALOR DE MERCADO</th>
+            <th>CONDIÇÃO PARCERIA PINKVET</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              <strong>Novo Portal Médico PinkVet (Design + Mobile-First)</strong><br>
+              <span style="color: var(--slate-500); font-size: 0.8rem;">Engenharia completa, triagem WhatsApp, GPS, Vitrine de Serviços, OpenGraph e 30 dias de suporte.</span>
+            </td>
+            <td><span class="original-price">R$ 2.800,00</span></td>
+            <td><span class="special-price">R$ 1.850,00</span></td>
+          </tr>
+          <tr style="background: #fdf2f8;">
+            <td>
+              <strong>Módulo SEO Local Avançado & Google Search Console</strong><br>
+              <span style="color: var(--primary); font-size: 0.8rem; font-weight: 600;">Indexação prioritária no Google, Schema.org VeterinaryCare e FAQ rica.</span>
+            </td>
+            <td><span class="original-price">R$ 1.500,00</span></td>
+            <td><span class="free-pill">R$ 0,00 (PILOTO EXPERIMENTAL)</span></td>
+          </tr>
+          <tr>
+            <td>
+              <strong>Sinergia com Pet Shop Palmira (Links de Indicação)</strong><br>
+              <span style="color: var(--slate-500); font-size: 0.8rem;">Recomendação mútua no ecossistema digital do bairro.</span>
+            </td>
+            <td><span class="original-price">R$ 500,00</span></td>
+            <td><span class="free-pill">INCLUSO NA PARCERIA</span></td>
+          </tr>
+          <tr>
+            <td>TOTAL DO PROJETO COMPLETO:</td>
+            <td><span class="original-price">R$ 4.800,00</span></td>
+            <td><span class="special-price" style="font-size: 1.4rem;">R$ 1.850,00*</span></td>
+          </tr>
+        </tbody>
+      </table>
+
+      <div style="margin-top: 24px; padding: 20px; background: var(--slate-50); border: 1px solid #e2e8f0; border-radius: 12px;">
+        <h4 style="font-size: 1rem; font-weight: 700; color: var(--secondary); margin-bottom: 8px;">💳 Facilidades de Pagamento:</h4>
+        <div style="font-size: 0.9rem; color: var(--slate-600); display: flex; flex-direction: column; gap: 6px;">
+          <div>• <strong>À vista com desconto:</strong> R$ 1.650,00 via Pix no início do projeto.</div>
+          <div>• <strong>Entrada + Entrega:</strong> 50% no início (R$ 925,00) e 50% após aprovação final e publicação oficial.</div>
+          <div>• <strong>Parcelado:</strong> Em até 3x de R$ 640,00 sem juros (ou no cartão em até 10x com pequena taxa da operadora).</div>
+        </div>
+      </div>
+      <p style="font-size: 0.8rem; color: var(--slate-500); margin-top: 12px; font-style: italic;">
+        * Domínio próprio (ex: clinicapinkvet.com.br ~R$ 40/ano) e hospedagem de alta velocidade são orientados no suporte inicial com custo mínimo.
+      </p>
+    </section>
+
+    <!-- SLIDE 7: PRÓXIMOS PASSOS & ACEITE -->
+    <section class="slide-card">
+      <div class="slide-tag">06. Formalização & Início</div>
+      <h2 class="slide-title">Próximos Passos para Tirar do Papel</h2>
+      <p class="slide-subtitle">
+        Para iniciarmos o desenvolvimento sem complicações:
+      </p>
+
+      <ol style="margin-left: 20px; color: var(--slate-800); font-size: 0.95rem; line-height: 1.8; margin-bottom: 32px;">
+        <li><strong>Aprovação da proposta:</strong> Escolha da melhor forma de pagamento (À vista com desconto, Entrada+Entrega ou Parcelado).</li>
+        <li><strong>Envio de material básico:</strong> Logomarca, fotos do local e lista de serviços via WhatsApp.</li>
+        <li><strong>Apresentação do primeiro rascunho visual:</strong> Em até 7 dias úteis para você ver como está ficando.</li>
+      </ol>
+
+      <div style="background: var(--slate-50); border: 1px solid #cbd5e1; border-radius: 16px; padding: 32px;">
+        <h4 style="font-size: 1.1rem; font-weight: 800; color: var(--secondary); text-align: center; margin-bottom: 12px;">TERMO DE ACEITE & COMPROMISSO DE PARCERIA</h4>
+        <p style="font-size: 0.88rem; color: var(--slate-600); text-align: center; max-width: 650px; margin: 0 auto 36px; line-height: 1.6;">
+          As partes acordam o desenvolvimento do portal e ecossistema digital para a <strong>Clínica Veterinária PinkVet</strong> com prazo de implantação de 14 dias úteis, incluindo o <strong>Módulo de SEO Local em formato Piloto Experimental sem cobrança inicial</strong>.
+        </p>
+
+        <div class="signatures">
+          <div class="signature-box">
+            <strong>CLÍNICA VETERINÁRIA PINKVET</strong>
+            <span>Dra. Responsável / Contratante</span>
+          </div>
+          <div class="signature-box">
+            <strong>RESPONSÁVEL TÉCNICO & PROJETO</strong>
+            <span>Parceria Digital Pet Shop Palmira</span>
+          </div>
+        </div>
+      </div>
+
+      <div style="text-align: center; margin-top: 40px;">
+        <a href="/Apresentacao_Proposta_PinkVet.pdf" download="Apresentacao_Proposta_PinkVet.pdf" class="btn btn-primary" style="padding: 14px 28px; font-size: 1rem;">
+          <svg width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"/></svg>
+          Baixar Proposta Comercial em PDF
+        </a>
+      </div>
+    </section>
+
+  </main>
+
+  <div id="toast" class="toast">Mensagem para WhatsApp copiada com sucesso!</div>
+
+  <script>
+    function copyWhatsAppProposal() {
+      const message = `Olá, Dra.! Tudo bem? 🐶🐱\n\nConforme conversamos, estruturei com muito carinho a apresentação da proposta para o novo projeto digital da *PinkVet*!\n\nA ideia é aplicar toda a engenharia de alta performance que desenvolvemos para o *Pet Shop Palmira* (site ultrarrápido, botões inteligentes de triagem no WhatsApp, vitrine de especialidades e integração de localização por GPS).\n\n⭐ *O grande diferencial que preparei para você:* como temos uma relação de confiança e parceria de bairro, incluí o módulo completo de *SEO Estratégico no Google como um Projeto Piloto Experimental GRATUITO no início* (sem nenhuma taxa de implementação ou mensalidade nessa largada), para testarmos e comprovarmos juntos o volume de tutores buscando a PinkVet na região.\n\nVocê pode conferir a proposta completa e baixar o PDF em:\nhttps://${window.location.host}/proposta-pinkvet\n\nOu baixar o PDF direto pelo link:\nhttps://${window.location.host}/Apresentacao_Proposta_PinkVet.pdf\n\nPodemos marcar uns 15 minutinhos essa semana para eu te mostrar e tirar qualquer dúvida? Um abraço!`;
+      
+      navigator.clipboard.writeText(message).then(() => {
+        const toast = document.getElementById('toast');
+        toast.classList.add('show');
+        setTimeout(() => toast.classList.remove('show'), 3500);
+      }).catch(err => {
+        alert('Texto pronto para envio copiado!');
+      });
+    }
+  </script>
+</body>
+</html>

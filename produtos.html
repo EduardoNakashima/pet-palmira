@@ -68,199 +68,214 @@
         <p class="section-sub">Uma seleção de produtos disponíveis a pronta entrega no bairro. Escolha a categoria abaixo ou consulte diretamente no WhatsApp.</p>
       </div>
 
-      <!-- Barra de Controle (Abas de Categorias + Busca + Botão Cadastrar) -->
+            <!-- Barra de Controle com Filtro Duplo (Pet + Categoria + Busca) -->
       <div class="catalog-toolbar" id="catalog-toolbar">
-        <div class="category-tabs" role="tablist" aria-label="Categorias de produtos">
-          <button type="button" class="category-tab-btn active" data-cat="todos" id="tab-todos">
-            🐾 Ver todos os produtos
-          </button>
-          <button type="button" class="category-tab-btn" data-cat="racoes" id="tab-racoes">
-            🥣 Rações
-          </button>
-          <button type="button" class="category-tab-btn" data-cat="acessorios" id="tab-acessorios">
-            🎾 Acessórios
-          </button>
-          <button type="button" class="category-tab-btn" data-cat="caminhas" id="tab-caminhas">
-            🛏️ Caminhas e Colchões
-          </button>
-          <button type="button" class="category-tab-btn" data-cat="higiene" id="tab-higiene">
-            🧼 Higiene
-          </button>
-          <button type="button" class="category-tab-btn" data-cat="medicamentos" id="tab-medicamentos">
-            💊 Medicamentos
-          </button>
-          <button type="button" class="category-tab-btn" data-cat="petiscos" id="tab-petiscos">
-            🍖 Petiscos e Patês
-          </button>
+        <div class="filters-wrapper">
+          <!-- Filtro 1: Tipo de Animal / Pet -->
+          <div class="filter-row">
+            <span class="filter-row-label">🐾 Filtrar por Pet:</span>
+            <div class="filter-tabs" role="tablist" aria-label="Filtrar por tipo de animal">
+              <button type="button" class="filter-tab-btn active" data-pet-btn="todos">🐾 Todos os Bichos</button>
+              <button type="button" class="filter-tab-btn" data-pet-btn="caes">🐶 Cães</button>
+              <button type="button" class="filter-tab-btn" data-pet-btn="gatos">🐱 Gatos</button>
+              <button type="button" class="filter-tab-btn" data-pet-btn="passaros">🦜 Pássaros & Aves</button>
+              <button type="button" class="filter-tab-btn" data-pet-btn="cavalos-porquinhos">🐴🐹 Cavalos & Roedores</button>
+              <button type="button" class="filter-tab-btn" data-pet-btn="porcos-galinhas">🐷🐔 Criação & Gado</button>
+            </div>
+          </div>
+
+          <!-- Filtro 2: Categoria do Produto -->
+          <div class="filter-row">
+            <span class="filter-row-label">✨ Categoria:</span>
+            <div class="filter-tabs" role="tablist" aria-label="Filtrar por categoria de produto">
+              <button type="button" class="filter-tab-btn active" data-cat-btn="todos">✨ Todas as Categorias</button>
+              <button type="button" class="filter-tab-btn" data-cat-btn="racoes">🥣 Rações</button>
+              <button type="button" class="filter-tab-btn" data-cat-btn="petiscos">🍖 Petiscos e Patês</button>
+              <button type="button" class="filter-tab-btn" data-cat-btn="medicamentos">💊 Medicamentos & Antipulgas</button>
+              <button type="button" class="filter-tab-btn" data-cat-btn="higiene">🧼 Higiene & Banho</button>
+              <button type="button" class="filter-tab-btn" data-cat-btn="caminhas">🛏️ Caminhas & Transporte</button>
+              <button type="button" class="filter-tab-btn" data-cat-btn="acessorios">🎾 Acessórios & Brinquedos</button>
+            </div>
+          </div>
         </div>
 
-        <div class="toolbar-actions">
-          <div class="search-box">
-            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg>
-            <input type="text" id="product-search" placeholder="Buscar por ração, marca ou pet..." aria-label="Buscar produtos">
+        <!-- Barra de Ações: Busca Rápida e Info -->
+        <div class="toolbar-actions-bar">
+          <div class="toolbar-actions">
+            <div class="search-box">
+              <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg>
+              <input type="text" id="product-search" placeholder="Buscar por ração, antipulga, medicamento, marca ou pet..." aria-label="Buscar produtos">
+              <button type="button" id="btn-clear-search" class="search-clear-btn" title="Limpar busca" aria-label="Limpar busca">✕</button>
+            </div>
           </div>
+          <span style="font-size:12.5px; color:var(--tl)">💡 Dúvidas sobre preços? Clique em <strong>Consultar</strong> para chamar no WhatsApp</span>
         </div>
       </div>
 
+      <!-- Barra de Filtros Ativos -->
+      <div id="active-filters-bar" class="active-filters-bar">
+        <span id="active-filters-desc">Filtros personalizados ativos</span>
+        <button type="button" id="btn-clear-all-filters" class="btn-reset-filters">✕ Limpar filtros</button>
+      </div>
+
       <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:16px">
-        <span style="font-size:13px; font-weight:800; color:var(--tl)" id="product-count">Carregando produtos...</span>
-        <span style="font-size:12px; color:var(--tl)">💡 Dúvidas sobre preços? Clique em <strong>Consultar</strong> para chamar no WhatsApp</span>
+        <span style="font-size:13.5px; font-weight:700; color:var(--gd)" id="product-count">Carregando catálogo...</span>
       </div>
 
       <!-- GRID PRINCIPAL DE PRODUTOS -->
       <div class="products-grid" id="products-container" data-category="todos">
-        <article class="product-card" id="prod-golden-cao" data-category="racoes" data-pet-types="caes,caes-gatos" data-keywords="golden ração para cachorros rações">
+        <article class="product-card" id="prod-golden-cao" data-category="racoes" data-pet-types="caes,caes-gatos" data-keywords="Golden Formula Adultos Ração Premium Especial sabor Frango e Arroz para cães adultos de todos os portes. Rações golden formula adultos cao caes cachorro cachorros racao racoes frango arroz premium especial premier">
           <div class="product-card-img-wrap">
-            <span class="product-badge">Rações</span>
+            <span class="product-badge">Cães Adultos</span>
             <img src="assets/images/produtos/golden.webp" 
-                 alt="Golden - Ração para cachorros" 
+                 alt="Golden Formula Adultos - Ração Premium Especial sabor Frango e Arroz para cães adultos de todos os portes." 
                  class="product-card-img" 
                  loading="lazy" 
                  onerror="if (!this.dataset.fallbackTried) { this.dataset.fallbackTried = '1'; this.src = 'https://petshoppalmira.netlify.app/assets/img/produtos/golden.webp'; }">
           </div>
           <div class="product-card-body">
             <span class="product-category-chip">Rações</span>
-            <h3 class="product-title">Golden</h3>
-            <p class="product-desc">Ração para cachorros</p>
+            <h3 class="product-title">Golden Formula Adultos</h3>
+            <p class="product-desc">Ração Premium Especial sabor Frango e Arroz para cães adultos de todos os portes.</p>
             <div class="product-card-footer">
-              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20Golden%20(Ra%C3%A7%C3%A3o%20para%20cachorros)." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Golden no WhatsApp">
+              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20%22Golden%20Formula%20Adultos%22." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Golden Formula Adultos no WhatsApp">
                 <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
                 Consultar
               </a>
             </div>
           </div>
         </article>
-        <article class="product-card" id="prod-premiatta-cao" data-category="racoes" data-pet-types="caes,caes-gatos" data-keywords="premiatta ração para cachorros rações">
+        <article class="product-card" id="prod-premiatta-cao" data-category="racoes" data-pet-types="caes,caes-gatos" data-keywords="Premiatta Classic Cães Ração Super Premium de alta digestibilidade e saúde articular para cães adultos. Rações premiatta classic cao caes cachorro cachorros racao racoes super premium alta digestibilidade">
           <div class="product-card-img-wrap">
-            <span class="product-badge">Rações</span>
+            <span class="product-badge">Super Premium</span>
             <img src="assets/images/produtos/premiata.webp" 
-                 alt="Premiatta - Ração para cachorros" 
+                 alt="Premiatta Classic Cães - Ração Super Premium de alta digestibilidade e saúde articular para cães adultos." 
                  class="product-card-img" 
                  loading="lazy" 
                  onerror="if (!this.dataset.fallbackTried) { this.dataset.fallbackTried = '1'; this.src = 'https://petshoppalmira.netlify.app/assets/img/produtos/premiata.webp'; }">
           </div>
           <div class="product-card-body">
             <span class="product-category-chip">Rações</span>
-            <h3 class="product-title">Premiatta</h3>
-            <p class="product-desc">Ração para cachorros</p>
+            <h3 class="product-title">Premiatta Classic Cães</h3>
+            <p class="product-desc">Ração Super Premium de alta digestibilidade e saúde articular para cães adultos.</p>
             <div class="product-card-footer">
-              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20Premiatta%20(Ra%C3%A7%C3%A3o%20para%20cachorros)." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Premiatta no WhatsApp">
+              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20%22Premiatta%20Classic%20C%C3%A3es%22." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Premiatta Classic Cães no WhatsApp">
                 <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
                 Consultar
               </a>
             </div>
           </div>
         </article>
-        <article class="product-card" id="prod-catchow" data-category="racoes" data-pet-types="gatos,caes-gatos" data-keywords="catchow ração para gatos rações">
+        <article class="product-card" id="prod-catchow" data-category="racoes" data-pet-types="gatos,caes-gatos" data-keywords="CatChow Peixe e Frango Ração completa para gatos adultos com Defense Plus e controle de bolas de pelo. Rações catchow purina cat chow gato gatos felino felinos racao racoes peixe frango defense plus bola pelo">
           <div class="product-card-img-wrap">
-            <span class="product-badge">Rações</span>
+            <span class="product-badge">Gatos Adultos</span>
             <img src="assets/images/produtos/catchow.webp" 
-                 alt="CatChow - Ração para gatos" 
+                 alt="CatChow Peixe e Frango - Ração completa para gatos adultos com Defense Plus e controle de bolas de pelo." 
                  class="product-card-img" 
                  loading="lazy" 
                  onerror="if (!this.dataset.fallbackTried) { this.dataset.fallbackTried = '1'; this.src = 'https://petshoppalmira.netlify.app/assets/img/produtos/catchow.webp'; }">
           </div>
           <div class="product-card-body">
             <span class="product-category-chip">Rações</span>
-            <h3 class="product-title">CatChow</h3>
-            <p class="product-desc">Ração para gatos</p>
+            <h3 class="product-title">CatChow Peixe e Frango</h3>
+            <p class="product-desc">Ração completa para gatos adultos com Defense Plus e controle de bolas de pelo.</p>
             <div class="product-card-footer">
-              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20CatChow%20(Ra%C3%A7%C3%A3o%20para%20gatos)." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar CatChow no WhatsApp">
+              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20%22CatChow%20Peixe%20e%20Frango%22." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar CatChow Peixe e Frango no WhatsApp">
                 <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
                 Consultar
               </a>
             </div>
           </div>
         </article>
-        <article class="product-card" id="prod-golden-gato" data-category="racoes" data-pet-types="gatos,caes-gatos" data-keywords="golden ração para gatos rações">
+        <article class="product-card" id="prod-golden-gato" data-category="racoes" data-pet-types="gatos,caes-gatos" data-keywords="Golden Gatos Salmão Ração Premium Especial rica em ômegas para pelagem brilhante e trato urinário saudável. Rações golden gatos salmao salmão gato felino felinos racao racoes premium especial trato urinario pelagem">
           <div class="product-card-img-wrap">
-            <span class="product-badge">Rações</span>
+            <span class="product-badge">Gatos Adultos</span>
             <img src="assets/images/produtos/goldencat.webp" 
-                 alt="Golden - Ração para gatos" 
+                 alt="Golden Gatos Salmão - Ração Premium Especial rica em ômegas para pelagem brilhante e trato urinário saudável." 
                  class="product-card-img" 
                  loading="lazy" 
                  onerror="if (!this.dataset.fallbackTried) { this.dataset.fallbackTried = '1'; this.src = 'https://petshoppalmira.netlify.app/assets/img/produtos/goldencat.webp'; }">
           </div>
           <div class="product-card-body">
             <span class="product-category-chip">Rações</span>
-            <h3 class="product-title">Golden</h3>
-            <p class="product-desc">Ração para gatos</p>
+            <h3 class="product-title">Golden Gatos Salmão</h3>
+            <p class="product-desc">Ração Premium Especial rica em ômegas para pelagem brilhante e trato urinário saudável.</p>
             <div class="product-card-footer">
-              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20Golden%20(Ra%C3%A7%C3%A3o%20para%20gatos)." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Golden no WhatsApp">
+              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20%22Golden%20Gatos%20Salm%C3%A3o%22." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Golden Gatos Salmão no WhatsApp">
                 <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
                 Consultar
               </a>
             </div>
           </div>
         </article>
-        <article class="product-card" id="prod-max-cao" data-category="racoes" data-pet-types="caes,caes-gatos" data-keywords="max ração para cachorros rações">
+        <article class="product-card" id="prod-max-cao" data-category="racoes" data-pet-types="caes,caes-gatos" data-keywords="Max Professional Line Ração nutritiva para cães adultos com proteínas selecionadas e livre de corantes artificiais. Rações max professional line total alimentos cao caes cachorro cachorros racao racoes sem corantes adulto">
           <div class="product-card-img-wrap">
-            <span class="product-badge">Rações</span>
+            <span class="product-badge">Cães Adultos</span>
             <img src="assets/images/produtos/max.webp" 
-                 alt="Max - Ração para cachorros" 
+                 alt="Max Professional Line - Ração nutritiva para cães adultos com proteínas selecionadas e livre de corantes artificiais." 
                  class="product-card-img" 
                  loading="lazy" 
                  onerror="if (!this.dataset.fallbackTried) { this.dataset.fallbackTried = '1'; this.src = 'https://petshoppalmira.netlify.app/assets/img/produtos/max.webp'; }">
           </div>
           <div class="product-card-body">
             <span class="product-category-chip">Rações</span>
-            <h3 class="product-title">Max</h3>
-            <p class="product-desc">Ração para cachorros</p>
+            <h3 class="product-title">Max Professional Line</h3>
+            <p class="product-desc">Ração nutritiva para cães adultos com proteínas selecionadas e livre de corantes artificiais.</p>
             <div class="product-card-footer">
-              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20Max%20(Ra%C3%A7%C3%A3o%20para%20cachorros)." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Max no WhatsApp">
+              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20%22Max%20Professional%20Line%22." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Max Professional Line no WhatsApp">
                 <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
                 Consultar
               </a>
             </div>
           </div>
         </article>
-        <article class="product-card" id="prod-whiskas" data-category="racoes" data-pet-types="gatos,caes-gatos" data-keywords="whiskas ração para gatos rações">
+        <article class="product-card" id="prod-whiskas" data-category="racoes" data-pet-types="gatos,caes-gatos" data-keywords="Whiskas Carne e Peixe Ração saborosa com pedaços crocantes e recheados de alta aceitação para gatos adultos. Rações whiskas carne peixe gato gatos felino felinos racao racoes crocante recheado wiskas">
           <div class="product-card-img-wrap">
-            <span class="product-badge">Rações</span>
+            <span class="product-badge">Gatos Adultos</span>
             <img src="assets/images/produtos/whiskas.webp" 
-                 alt="Whiskas - Ração para gatos" 
+                 alt="Whiskas Carne e Peixe - Ração saborosa com pedaços crocantes e recheados de alta aceitação para gatos adultos." 
                  class="product-card-img" 
                  loading="lazy" 
                  onerror="if (!this.dataset.fallbackTried) { this.dataset.fallbackTried = '1'; this.src = 'https://petshoppalmira.netlify.app/assets/img/produtos/whiskas.webp'; }">
           </div>
           <div class="product-card-body">
             <span class="product-category-chip">Rações</span>
-            <h3 class="product-title">Whiskas</h3>
-            <p class="product-desc">Ração para gatos</p>
+            <h3 class="product-title">Whiskas Carne e Peixe</h3>
+            <p class="product-desc">Ração saborosa com pedaços crocantes e recheados de alta aceitação para gatos adultos.</p>
             <div class="product-card-footer">
-              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20Whiskas%20(Ra%C3%A7%C3%A3o%20para%20gatos)." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Whiskas no WhatsApp">
+              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20%22Whiskas%20Carne%20e%20Peixe%22." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Whiskas Carne e Peixe no WhatsApp">
                 <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
                 Consultar
               </a>
             </div>
           </div>
         </article>
-        <article class="product-card" id="prod-golden-filhotes" data-category="racoes" data-pet-types="caes,caes-gatos" data-keywords="golden filhotes ração para cachorros filhotes rações">
+        <article class="product-card" id="prod-golden-filhotes" data-category="racoes" data-pet-types="caes,caes-gatos" data-keywords="Golden Filhotes Frango Ração Premium Especial desenvolvida para o crescimento forte e saudável de cães filhotes. Rações golden filhotes frango cao caes cachorro cachorros filhote filhotinho racao racoes crescimento premier">
           <div class="product-card-img-wrap">
-            <span class="product-badge">Rações</span>
+            <span class="product-badge">Cães Filhotes</span>
             <img src="assets/images/produtos/goldenFilhote.webp" 
-                 alt="Golden Filhotes - Ração para cachorros filhotes" 
+                 alt="Golden Filhotes Frango - Ração Premium Especial desenvolvida para o crescimento forte e saudável de cães filhotes." 
                  class="product-card-img" 
                  loading="lazy" 
                  onerror="if (!this.dataset.fallbackTried) { this.dataset.fallbackTried = '1'; this.src = 'https://petshoppalmira.netlify.app/assets/img/produtos/goldenFilhote.webp'; }">
           </div>
           <div class="product-card-body">
             <span class="product-category-chip">Rações</span>
-            <h3 class="product-title">Golden Filhotes</h3>
-            <p class="product-desc">Ração para cachorros filhotes</p>
+            <h3 class="product-title">Golden Filhotes Frango</h3>
+            <p class="product-desc">Ração Premium Especial desenvolvida para o crescimento forte e saudável de cães filhotes.</p>
             <div class="product-card-footer">
-              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20Golden%20Filhotes%20(Ra%C3%A7%C3%A3o%20para%20cachorros%20filhotes)." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Golden Filhotes no WhatsApp">
+              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20%22Golden%20Filhotes%20Frango%22." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Golden Filhotes Frango no WhatsApp">
                 <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
                 Consultar
               </a>
             </div>
           </div>
         </article>
-        <article class="product-card" id="prod-premiatta-filhotes" data-category="racoes" data-pet-types="caes,caes-gatos" data-keywords="premiatta filhotes ração para cachorros filhotes rações">
+        <article class="product-card" id="prod-premiatta-filhotes" data-category="racoes" data-pet-types="caes,caes-gatos" data-keywords="Premiatta Filhotes Ração Super Premium com DHA para o desenvolvimento cerebral e ósseo ideal de filhotes. Rações premiatta filhotes cao caes cachorro cachorros filhote super premium dha osseo crescimento">
           <div class="product-card-img-wrap">
-            <span class="product-badge">Rações</span>
+            <span class="product-badge">Cães Filhotes</span>
             <img src="assets/images/produtos/premiattaFilhote.webp" 
-                 alt="Premiatta Filhotes - Ração para cachorros filhotes" 
+                 alt="Premiatta Filhotes - Ração Super Premium com DHA para o desenvolvimento cerebral e ósseo ideal de filhotes." 
                  class="product-card-img" 
                  loading="lazy" 
                  onerror="if (!this.dataset.fallbackTried) { this.dataset.fallbackTried = '1'; this.src = 'https://petshoppalmira.netlify.app/assets/img/produtos/premiattaFilhote.webp'; }">
@@ -268,534 +283,534 @@
           <div class="product-card-body">
             <span class="product-category-chip">Rações</span>
             <h3 class="product-title">Premiatta Filhotes</h3>
-            <p class="product-desc">Ração para cachorros filhotes</p>
+            <p class="product-desc">Ração Super Premium com DHA para o desenvolvimento cerebral e ósseo ideal de filhotes.</p>
             <div class="product-card-footer">
-              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20Premiatta%20Filhotes%20(Ra%C3%A7%C3%A3o%20para%20cachorros%20filhotes)." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Premiatta Filhotes no WhatsApp">
+              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20%22Premiatta%20Filhotes%22." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Premiatta Filhotes no WhatsApp">
                 <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
                 Consultar
               </a>
             </div>
           </div>
         </article>
-        <article class="product-card" id="prod-max-filhotes" data-category="racoes" data-pet-types="caes,caes-gatos" data-keywords="max filhotes ração para cachorros filhotes rações">
+        <article class="product-card" id="prod-max-filhotes" data-category="racoes" data-pet-types="caes,caes-gatos" data-keywords="Max Filhotes Crescimento Ração completa com cálcio e proteínas de alta qualidade para cães filhotes no pós-desmame. Rações max filhotes cao caes cachorro cachorros filhote filhotinho leite calcio crescimento racao">
           <div class="product-card-img-wrap">
-            <span class="product-badge">Rações</span>
+            <span class="product-badge">Cães Filhotes</span>
             <img src="assets/images/produtos/maxFilhote.webp" 
-                 alt="Max Filhotes - Ração para cachorros filhotes" 
+                 alt="Max Filhotes Crescimento - Ração completa com cálcio e proteínas de alta qualidade para cães filhotes no pós-desmame." 
                  class="product-card-img" 
                  loading="lazy" 
                  onerror="if (!this.dataset.fallbackTried) { this.dataset.fallbackTried = '1'; this.src = 'https://petshoppalmira.netlify.app/assets/img/produtos/maxFilhote.webp'; }">
           </div>
           <div class="product-card-body">
             <span class="product-category-chip">Rações</span>
-            <h3 class="product-title">Max Filhotes</h3>
-            <p class="product-desc">Ração para cachorros filhotes</p>
+            <h3 class="product-title">Max Filhotes Crescimento</h3>
+            <p class="product-desc">Ração completa com cálcio e proteínas de alta qualidade para cães filhotes no pós-desmame.</p>
             <div class="product-card-footer">
-              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20Max%20Filhotes%20(Ra%C3%A7%C3%A3o%20para%20cachorros%20filhotes)." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Max Filhotes no WhatsApp">
+              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20%22Max%20Filhotes%20Crescimento%22." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Max Filhotes Crescimento no WhatsApp">
                 <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
                 Consultar
               </a>
             </div>
           </div>
         </article>
-        <article class="product-card" id="prod-ovomil" data-category="racoes" data-pet-types="aves,galinhas,porcos-galinhas" data-keywords="ovomil ração para codornas e galinhas rações">
+        <article class="product-card" id="prod-ovomil" data-category="racoes" data-pet-types="galinhas,porcos-galinhas,criacao,aves,passaros" data-keywords="Ovomil Postura & Criação Ração balanceada com cálcio e minerais para galinhas poedeiras, codornas e aves de criação. Rações ovomil postura galinha galinhas codorna codornas aves frango pintinho criacao ovos postura racao granja ave passaro">
           <div class="product-card-img-wrap">
-            <span class="product-badge">Rações</span>
+            <span class="product-badge">Galinhas & Codornas</span>
             <img src="assets/images/produtos/galinha.webp" 
-                 alt="Ovomil - Ração para Codornas e Galinhas" 
+                 alt="Ovomil Postura & Criação - Ração balanceada com cálcio e minerais para galinhas poedeiras, codornas e aves de criação." 
                  class="product-card-img" 
                  loading="lazy" 
                  onerror="if (!this.dataset.fallbackTried) { this.dataset.fallbackTried = '1'; this.src = 'https://petshoppalmira.netlify.app/assets/img/produtos/galinha.webp'; }">
           </div>
           <div class="product-card-body">
             <span class="product-category-chip">Rações</span>
-            <h3 class="product-title">Ovomil</h3>
-            <p class="product-desc">Ração para Codornas e Galinhas</p>
+            <h3 class="product-title">Ovomil Postura & Criação</h3>
+            <p class="product-desc">Ração balanceada com cálcio e minerais para galinhas poedeiras, codornas e aves de criação.</p>
             <div class="product-card-footer">
-              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20Ovomil%20(Ra%C3%A7%C3%A3o%20para%20Codornas%20e%20Galinhas)." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Ovomil no WhatsApp">
+              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20%22Ovomil%20Postura%20%26%20Cria%C3%A7%C3%A3o%22." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Ovomil Postura & Criação no WhatsApp">
                 <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
                 Consultar
               </a>
             </div>
           </div>
         </article>
-        <article class="product-card" id="prod-racoes-criador" data-category="racoes" data-pet-types="coelhos,roedores,cavalos-porquinhos" data-keywords="rações criador ração para coelhos rações">
+        <article class="product-card" id="prod-racoes-criador" data-category="racoes" data-pet-types="coelhos,roedores,cavalos-porquinhos" data-keywords="Ração Criador para Coelhos Ração peletizada rica em fibras e alfafa para coelhos, porquinhos-da-índia e roedores. Rações criador racoes coelho coelhos porquinho porquinhos da india roedor roedores alfafa peletizada fibra chinchila hamster">
           <div class="product-card-img-wrap">
-            <span class="product-badge">Rações</span>
+            <span class="product-badge">Coelhos & Roedores</span>
             <img src="assets/images/produtos/coelho.webp" 
-                 alt="Rações Criador - Ração para Coelhos" 
+                 alt="Ração Criador para Coelhos - Ração peletizada rica em fibras e alfafa para coelhos, porquinhos-da-índia e roedores." 
                  class="product-card-img" 
                  loading="lazy" 
                  onerror="if (!this.dataset.fallbackTried) { this.dataset.fallbackTried = '1'; this.src = 'https://petshoppalmira.netlify.app/assets/img/produtos/coelho.webp'; }">
           </div>
           <div class="product-card-body">
             <span class="product-category-chip">Rações</span>
-            <h3 class="product-title">Rações Criador</h3>
-            <p class="product-desc">Ração para Coelhos</p>
+            <h3 class="product-title">Ração Criador para Coelhos</h3>
+            <p class="product-desc">Ração peletizada rica em fibras e alfafa para coelhos, porquinhos-da-índia e roedores.</p>
             <div class="product-card-footer">
-              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20Ra%C3%A7%C3%B5es%20Criador%20(Ra%C3%A7%C3%A3o%20para%20Coelhos)." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Rações Criador no WhatsApp">
+              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20%22Ra%C3%A7%C3%A3o%20Criador%20para%20Coelhos%22." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Ração Criador para Coelhos no WhatsApp">
                 <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
                 Consultar
               </a>
             </div>
           </div>
         </article>
-        <article class="product-card" id="prod-top-horse" data-category="racoes" data-pet-types="equinos,cavalos,cavalos-porquinhos" data-keywords="top horse ração para equinos rações">
+        <article class="product-card" id="prod-top-horse" data-category="racoes" data-pet-types="cavalos,equinos,cavalos-porquinhos" data-keywords="Top Horse Equinos Ração energética de alta digestibilidade e nutrientes para cavalos de passeio e trabalho. Rações top horse cavalo cavalos equino equinos egua potro racao trabalho forca energia equestre montaria">
           <div class="product-card-img-wrap">
-            <span class="product-badge">Rações</span>
+            <span class="product-badge">Cavalos & Equinos</span>
             <img src="assets/images/produtos/cavalo.webp" 
-                 alt="Top Horse - Ração para Equinos" 
+                 alt="Top Horse Equinos - Ração energética de alta digestibilidade e nutrientes para cavalos de passeio e trabalho." 
                  class="product-card-img" 
                  loading="lazy" 
                  onerror="if (!this.dataset.fallbackTried) { this.dataset.fallbackTried = '1'; this.src = 'https://petshoppalmira.netlify.app/assets/img/produtos/cavalo.webp'; }">
           </div>
           <div class="product-card-body">
             <span class="product-category-chip">Rações</span>
-            <h3 class="product-title">Top Horse</h3>
-            <p class="product-desc">Ração para Equinos</p>
+            <h3 class="product-title">Top Horse Equinos</h3>
+            <p class="product-desc">Ração energética de alta digestibilidade e nutrientes para cavalos de passeio e trabalho.</p>
             <div class="product-card-footer">
-              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20Top%20Horse%20(Ra%C3%A7%C3%A3o%20para%20Equinos)." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Top Horse no WhatsApp">
+              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20%22Top%20Horse%20Equinos%22." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Top Horse Equinos no WhatsApp">
                 <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
                 Consultar
               </a>
             </div>
           </div>
         </article>
-        <article class="product-card" id="prod-sal-lage" data-category="racoes" data-pet-types="gado,equinos,cavalos-porquinhos,porcos-galinhas" data-keywords="sal lage sal para bois e vacas rações">
+        <article class="product-card" id="prod-sal-lage" data-category="racoes" data-pet-types="gado,equinos,cavalos-porquinhos,porcos-galinhas,criacao" data-keywords="Sal Lage Mineral Sal mineralizado com fósforo e micronutrientes para gado, vacas, bois e animais de pasto. Rações sal lage mineral gado boi bois vaca vacas bezerro bovino pasto corte leite mineralizado cocho criacao">
           <div class="product-card-img-wrap">
-            <span class="product-badge">Rações</span>
+            <span class="product-badge">Gado & Bovinos</span>
             <img src="assets/images/produtos/vacas.webp" 
-                 alt="Sal Lage - Sal para Bois e Vacas" 
+                 alt="Sal Lage Mineral - Sal mineralizado com fósforo e micronutrientes para gado, vacas, bois e animais de pasto." 
                  class="product-card-img" 
                  loading="lazy" 
                  onerror="if (!this.dataset.fallbackTried) { this.dataset.fallbackTried = '1'; this.src = 'https://petshoppalmira.netlify.app/assets/img/produtos/vacas.webp'; }">
           </div>
           <div class="product-card-body">
             <span class="product-category-chip">Rações</span>
-            <h3 class="product-title">Sal Lage</h3>
-            <p class="product-desc">Sal para Bois e Vacas</p>
+            <h3 class="product-title">Sal Lage Mineral</h3>
+            <p class="product-desc">Sal mineralizado com fósforo e micronutrientes para gado, vacas, bois e animais de pasto.</p>
             <div class="product-card-footer">
-              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20Sal%20Lage%20(Sal%20para%20Bois%20e%20Vacas)." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Sal Lage no WhatsApp">
+              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20%22Sal%20Lage%20Mineral%22." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Sal Lage Mineral no WhatsApp">
                 <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
                 Consultar
               </a>
             </div>
           </div>
         </article>
-        <article class="product-card" id="prod-alcon-basic" data-category="racoes" data-pet-types="peixes,outros" data-keywords="alcon basic ração para peixes rações">
+        <article class="product-card" id="prod-alcon-basic" data-category="racoes" data-pet-types="peixes,outros" data-keywords="Alcon BASIC Peixes Alimento completo em flocos enriquecido com vitaminas para peixes de aquário e água doce. Rações alcon basic peixe peixes aquario aquarismo flocos racao alimento bettas kinguios agua doce outros">
           <div class="product-card-img-wrap">
-            <span class="product-badge">Rações</span>
+            <span class="product-badge">Peixes & Aquário</span>
             <img src="assets/images/produtos/peixe.webp" 
-                 alt="Alcon BASIC - Ração para Peixes" 
+                 alt="Alcon BASIC Peixes - Alimento completo em flocos enriquecido com vitaminas para peixes de aquário e água doce." 
                  class="product-card-img" 
                  loading="lazy" 
                  onerror="if (!this.dataset.fallbackTried) { this.dataset.fallbackTried = '1'; this.src = 'https://petshoppalmira.netlify.app/assets/img/produtos/peixe.webp'; }">
           </div>
           <div class="product-card-body">
             <span class="product-category-chip">Rações</span>
-            <h3 class="product-title">Alcon BASIC</h3>
-            <p class="product-desc">Ração para Peixes</p>
+            <h3 class="product-title">Alcon BASIC Peixes</h3>
+            <p class="product-desc">Alimento completo em flocos enriquecido com vitaminas para peixes de aquário e água doce.</p>
             <div class="product-card-footer">
-              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20Alcon%20BASIC%20(Ra%C3%A7%C3%A3o%20para%20Peixes)." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Alcon BASIC no WhatsApp">
+              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20%22Alcon%20BASIC%20Peixes%22." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Alcon BASIC Peixes no WhatsApp">
                 <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
                 Consultar
               </a>
             </div>
           </div>
         </article>
-        <article class="product-card" id="prod-pates-pedigree" data-category="petiscos" data-pet-types="caes,caes-gatos" data-keywords="patês pedigree petiscos diversos petiscos e patês">
+        <article class="product-card" id="prod-pates-pedigree" data-category="petiscos" data-pet-types="caes,caes-gatos" data-keywords="Patê Pedigree Cães Alimento úmido completo e saboroso com pedaços cozidos no vapor para cães adultos. Petiscos e Patês pate pates pedigree lata comida umida cao caes cachorro cachorros carne frango petisco vapor pedrigree">
           <div class="product-card-img-wrap">
-            <span class="product-badge">Petiscos e Patês</span>
+            <span class="product-badge">Patês & Úmidos</span>
             <img src="assets/images/produtos/pate.webp" 
-                 alt="Patês Pedigree - Petiscos diversos" 
+                 alt="Patê Pedigree Cães - Alimento úmido completo e saboroso com pedaços cozidos no vapor para cães adultos." 
                  class="product-card-img" 
                  loading="lazy" 
                  onerror="if (!this.dataset.fallbackTried) { this.dataset.fallbackTried = '1'; this.src = 'https://petshoppalmira.netlify.app/assets/img/produtos/pate.webp'; }">
           </div>
           <div class="product-card-body">
             <span class="product-category-chip">Petiscos e Patês</span>
-            <h3 class="product-title">Patês Pedigree</h3>
-            <p class="product-desc">Petiscos diversos</p>
+            <h3 class="product-title">Patê Pedigree Cães</h3>
+            <p class="product-desc">Alimento úmido completo e saboroso com pedaços cozidos no vapor para cães adultos.</p>
             <div class="product-card-footer">
-              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20Pat%C3%AAs%20Pedigree%20(Petiscos%20diversos)." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Patês Pedigree no WhatsApp">
+              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20%22Pat%C3%AA%20Pedigree%20C%C3%A3es%22." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Patê Pedigree Cães no WhatsApp">
                 <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
                 Consultar
               </a>
             </div>
           </div>
         </article>
-        <article class="product-card" id="prod-saches-pedigree" data-category="petiscos" data-pet-types="caes,caes-gatos" data-keywords="sachês pedigree petiscos diversos petiscos e patês">
+        <article class="product-card" id="prod-saches-pedigree" data-category="petiscos" data-pet-types="caes,caes-gatos" data-keywords="Sachê Pedigree ao Molho Refeição úmida balanceada em sachê com pedaços macios e caldo suculento para cães. Petiscos e Patês sache saches pedigree molho carne frango cordeiro cao caes cachorro cachorros sachê petisco pedrigree">
           <div class="product-card-img-wrap">
-            <span class="product-badge">Petiscos e Patês</span>
+            <span class="product-badge">Sachês Suculentos</span>
             <img src="assets/images/produtos/saches.webp" 
-                 alt="Sachês Pedigree - Petiscos diversos" 
+                 alt="Sachê Pedigree ao Molho - Refeição úmida balanceada em sachê com pedaços macios e caldo suculento para cães." 
                  class="product-card-img" 
                  loading="lazy" 
                  onerror="if (!this.dataset.fallbackTried) { this.dataset.fallbackTried = '1'; this.src = 'https://petshoppalmira.netlify.app/assets/img/produtos/saches.webp'; }">
           </div>
           <div class="product-card-body">
             <span class="product-category-chip">Petiscos e Patês</span>
-            <h3 class="product-title">Sachês Pedigree</h3>
-            <p class="product-desc">Petiscos diversos</p>
+            <h3 class="product-title">Sachê Pedigree ao Molho</h3>
+            <p class="product-desc">Refeição úmida balanceada em sachê com pedaços macios e caldo suculento para cães.</p>
             <div class="product-card-footer">
-              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20Sach%C3%AAs%20Pedigree%20(Petiscos%20diversos)." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Sachês Pedigree no WhatsApp">
+              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20%22Sach%C3%AA%20Pedigree%20ao%20Molho%22." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Sachê Pedigree ao Molho no WhatsApp">
                 <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
                 Consultar
               </a>
             </div>
           </div>
         </article>
-        <article class="product-card" id="prod-ossos-porte-grande" data-category="petiscos" data-pet-types="caes,caes-gatos" data-keywords="ossos para porte grande petiscos diversos petiscos e patês">
+        <article class="product-card" id="prod-ossos-porte-grande" data-category="petiscos" data-pet-types="caes,caes-gatos" data-keywords="Osso Mastigável Porte Grande Osso natural e resistente para fortalecimento dos dentes e alívio do estresse de cães médios e grandes. Petiscos e Patês osso ossos mastigavel natural grande porte medio grande cao caes cachorro cachorros dente tartaro mordedor petisco">
           <div class="product-card-img-wrap">
-            <span class="product-badge">Petiscos e Patês</span>
+            <span class="product-badge">Ossos Mastigáveis</span>
             <img src="assets/images/produtos/ossosportegrande.webp" 
-                 alt="Ossos para porte grande - Petiscos diversos" 
+                 alt="Osso Mastigável Porte Grande - Osso natural e resistente para fortalecimento dos dentes e alívio do estresse de cães médios e grandes." 
                  class="product-card-img" 
                  loading="lazy" 
                  onerror="if (!this.dataset.fallbackTried) { this.dataset.fallbackTried = '1'; this.src = 'https://petshoppalmira.netlify.app/assets/img/produtos/ossosportegrande.webp'; }">
           </div>
           <div class="product-card-body">
             <span class="product-category-chip">Petiscos e Patês</span>
-            <h3 class="product-title">Ossos para porte grande</h3>
-            <p class="product-desc">Petiscos diversos</p>
+            <h3 class="product-title">Osso Mastigável Porte Grande</h3>
+            <p class="product-desc">Osso natural e resistente para fortalecimento dos dentes e alívio do estresse de cães médios e grandes.</p>
             <div class="product-card-footer">
-              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20Ossos%20para%20porte%20grande%20(Petiscos%20diversos)." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Ossos para porte grande no WhatsApp">
+              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20%22Osso%20Mastig%C3%A1vel%20Porte%20Grande%22." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Osso Mastigável Porte Grande no WhatsApp">
                 <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
                 Consultar
               </a>
             </div>
           </div>
         </article>
-        <article class="product-card" id="prod-ossos-porte-pequeno" data-category="petiscos" data-pet-types="caes,caes-gatos" data-keywords="ossos para porte pequeno petiscos diversos petiscos e patês">
+        <article class="product-card" id="prod-ossos-porte-pequeno" data-category="petiscos" data-pet-types="caes,caes-gatos" data-keywords="Osso Mastigável Porte Pequeno Petisco mastigável para higiene bucal, palatável e seguro para cães de pequeno porte e filhotes. Petiscos e Patês osso ossos mastigavel pequeno porte mini filhote cao caes cachorro cachorros dental dentes petisco palito">
           <div class="product-card-img-wrap">
-            <span class="product-badge">Petiscos e Patês</span>
+            <span class="product-badge">Ossos Mastigáveis</span>
             <img src="assets/images/produtos/ossosportepequeno.webp" 
-                 alt="Ossos para porte pequeno - Petiscos diversos" 
+                 alt="Osso Mastigável Porte Pequeno - Petisco mastigável para higiene bucal, palatável e seguro para cães de pequeno porte e filhotes." 
                  class="product-card-img" 
                  loading="lazy" 
                  onerror="if (!this.dataset.fallbackTried) { this.dataset.fallbackTried = '1'; this.src = 'https://petshoppalmira.netlify.app/assets/img/produtos/ossosportepequeno.webp'; }">
           </div>
           <div class="product-card-body">
             <span class="product-category-chip">Petiscos e Patês</span>
-            <h3 class="product-title">Ossos para porte pequeno</h3>
-            <p class="product-desc">Petiscos diversos</p>
+            <h3 class="product-title">Osso Mastigável Porte Pequeno</h3>
+            <p class="product-desc">Petisco mastigável para higiene bucal, palatável e seguro para cães de pequeno porte e filhotes.</p>
             <div class="product-card-footer">
-              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20Ossos%20para%20porte%20pequeno%20(Petiscos%20diversos)." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Ossos para porte pequeno no WhatsApp">
+              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20%22Osso%20Mastig%C3%A1vel%20Porte%20Pequeno%22." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Osso Mastigável Porte Pequeno no WhatsApp">
                 <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
                 Consultar
               </a>
             </div>
           </div>
         </article>
-        <article class="product-card" id="prod-casinhas-de-madeira" data-category="caminhas" data-pet-types="caes,caes-gatos" data-keywords="casinhas de madeira casinhas diversas caminhas e colchões">
+        <article class="product-card" id="prod-casinhas-de-madeira" data-category="caminhas" data-pet-types="caes,caes-gatos" data-keywords="Casinha de Madeira Tratada Casa resistente às intempéries, com teto térmico e isolamento do solo para cães no quintal. Caminhas e Colchões casinha casinhas madeira tratada teto quintal abrigo conforto cao caes cachorro cachorros canil casa abrigo">
           <div class="product-card-img-wrap">
-            <span class="product-badge">Caminhas e Colchões</span>
+            <span class="product-badge">Casinhas & Abrigo</span>
             <img src="assets/images/produtos/casinha.webp" 
-                 alt="Casinhas de Madeira - Casinhas diversas" 
+                 alt="Casinha de Madeira Tratada - Casa resistente às intempéries, com teto térmico e isolamento do solo para cães no quintal." 
                  class="product-card-img" 
                  loading="lazy" 
                  onerror="if (!this.dataset.fallbackTried) { this.dataset.fallbackTried = '1'; this.src = 'https://petshoppalmira.netlify.app/assets/img/produtos/casinha.webp'; }">
           </div>
           <div class="product-card-body">
             <span class="product-category-chip">Caminhas e Colchões</span>
-            <h3 class="product-title">Casinhas de Madeira</h3>
-            <p class="product-desc">Casinhas diversas</p>
+            <h3 class="product-title">Casinha de Madeira Tratada</h3>
+            <p class="product-desc">Casa resistente às intempéries, com teto térmico e isolamento do solo para cães no quintal.</p>
             <div class="product-card-footer">
-              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20Casinhas%20de%20Madeira%20(Casinhas%20diversas)." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Casinhas de Madeira no WhatsApp">
+              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20%22Casinha%20de%20Madeira%20Tratada%22." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Casinha de Madeira Tratada no WhatsApp">
                 <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
                 Consultar
               </a>
             </div>
           </div>
         </article>
-        <article class="product-card" id="prod-transportes-caes-gatos" data-category="caminhas" data-pet-types="caes,gatos,caes-gatos" data-keywords="transportes para cães e gatos casinhas diversas caminhas e colchões">
+        <article class="product-card" id="prod-transportes-caes-gatos" data-category="caminhas" data-pet-types="caes,gatos,caes-gatos" data-keywords="Caixa de Transporte SafeTrip Caixa plástica reforçada com porta de ferro e ventilação para viagens seguras de cães e gatos. Caminhas e Colchões caixa transporte caixas transportes viagem passeio veterinario carro aviao cao caes cachorro gato gatos caixa de transporte">
           <div class="product-card-img-wrap">
-            <span class="product-badge">Caminhas e Colchões</span>
+            <span class="product-badge">Transporte Seguro</span>
             <img src="assets/images/produtos/transporte.webp" 
-                 alt="Transportes para cães e gatos - Casinhas diversas" 
+                 alt="Caixa de Transporte SafeTrip - Caixa plástica reforçada com porta de ferro e ventilação para viagens seguras de cães e gatos." 
                  class="product-card-img" 
                  loading="lazy" 
                  onerror="if (!this.dataset.fallbackTried) { this.dataset.fallbackTried = '1'; this.src = 'https://petshoppalmira.netlify.app/assets/img/produtos/transporte.webp'; }">
           </div>
           <div class="product-card-body">
             <span class="product-category-chip">Caminhas e Colchões</span>
-            <h3 class="product-title">Transportes para cães e gatos</h3>
-            <p class="product-desc">Casinhas diversas</p>
+            <h3 class="product-title">Caixa de Transporte SafeTrip</h3>
+            <p class="product-desc">Caixa plástica reforçada com porta de ferro e ventilação para viagens seguras de cães e gatos.</p>
             <div class="product-card-footer">
-              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20Transportes%20para%20c%C3%A3es%20e%20gatos%20(Casinhas%20diversas)." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Transportes para cães e gatos no WhatsApp">
+              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20%22Caixa%20de%20Transporte%20SafeTrip%22." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Caixa de Transporte SafeTrip no WhatsApp">
                 <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
                 Consultar
               </a>
             </div>
           </div>
         </article>
-        <article class="product-card" id="prod-colchoes" data-category="caminhas" data-pet-types="caes,caes-gatos" data-keywords="colchões casinhas diversas caminhas e colchões">
+        <article class="product-card" id="prod-colchoes" data-category="caminhas" data-pet-types="caes,gatos,caes-gatos" data-keywords="Colchões & Caminhas Almofadadas Colchonete confortável com tecido impermeável e lavável para sono tranquilo e acolhedor do pet. Caminhas e Colchões colchao colchoes caminha caminhas almofada colchonete sono descanso impermeavel cao cachorro gato conforto">
           <div class="product-card-img-wrap">
-            <span class="product-badge">Caminhas e Colchões</span>
+            <span class="product-badge">Conforto Térmico</span>
             <img src="assets/images/produtos/colchoes.webp" 
-                 alt="Colchões - Casinhas diversas" 
+                 alt="Colchões & Caminhas Almofadadas - Colchonete confortável com tecido impermeável e lavável para sono tranquilo e acolhedor do pet." 
                  class="product-card-img" 
                  loading="lazy" 
                  onerror="if (!this.dataset.fallbackTried) { this.dataset.fallbackTried = '1'; this.src = 'https://petshoppalmira.netlify.app/assets/img/produtos/colchoes.webp'; }">
           </div>
           <div class="product-card-body">
             <span class="product-category-chip">Caminhas e Colchões</span>
-            <h3 class="product-title">Colchões</h3>
-            <p class="product-desc">Casinhas diversas</p>
+            <h3 class="product-title">Colchões & Caminhas Almofadadas</h3>
+            <p class="product-desc">Colchonete confortável com tecido impermeável e lavável para sono tranquilo e acolhedor do pet.</p>
             <div class="product-card-footer">
-              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20Colch%C3%B5es%20(Casinhas%20diversas)." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Colchões no WhatsApp">
+              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20%22Colch%C3%B5es%20%26%20Caminhas%20Almofadadas%22." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Colchões & Caminhas Almofadadas no WhatsApp">
                 <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
                 Consultar
               </a>
             </div>
           </div>
         </article>
-        <article class="product-card" id="prod-roupinhas" data-category="acessorios" data-pet-types="caes,gatos,caes-gatos" data-keywords="roupinhas roupinhas diversas acessórios">
+        <article class="product-card" id="prod-roupinhas" data-category="acessorios" data-pet-types="caes,gatos,caes-gatos" data-keywords="Roupinhas Térmicas & Capinhas Roupas de frio macias e confortáveis em diversos tamanhos para aquecer cães e gatos no inverno. Acessórios roupinha roupinhas capa capinha sueter casaco inverno frio la tecido cao cachorro gato felino moda pet">
           <div class="product-card-img-wrap">
-            <span class="product-badge">Acessórios</span>
+            <span class="product-badge">Moda Pet</span>
             <img src="assets/images/produtos/roupinha.webp" 
-                 alt="Roupinhas - Roupinhas diversas" 
+                 alt="Roupinhas Térmicas & Capinhas - Roupas de frio macias e confortáveis em diversos tamanhos para aquecer cães e gatos no inverno." 
                  class="product-card-img" 
                  loading="lazy" 
                  onerror="if (!this.dataset.fallbackTried) { this.dataset.fallbackTried = '1'; this.src = 'https://petshoppalmira.netlify.app/assets/img/produtos/roupinha.webp'; }">
           </div>
           <div class="product-card-body">
             <span class="product-category-chip">Acessórios</span>
-            <h3 class="product-title">Roupinhas</h3>
-            <p class="product-desc">Roupinhas diversas</p>
+            <h3 class="product-title">Roupinhas Térmicas & Capinhas</h3>
+            <p class="product-desc">Roupas de frio macias e confortáveis em diversos tamanhos para aquecer cães e gatos no inverno.</p>
             <div class="product-card-footer">
-              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20Roupinhas%20(Roupinhas%20diversas)." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Roupinhas no WhatsApp">
+              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20%22Roupinhas%20T%C3%A9rmicas%20%26%20Capinhas%22." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Roupinhas Térmicas & Capinhas no WhatsApp">
                 <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
                 Consultar
               </a>
             </div>
           </div>
         </article>
-        <article class="product-card" id="prod-brinquedos" data-category="acessorios" data-pet-types="caes,gatos,caes-gatos,passaros" data-keywords="brinquedos brinquedos diversos acessórios">
+        <article class="product-card" id="prod-brinquedos" data-category="acessorios" data-pet-types="caes,gatos,caes-gatos,passaros,aves" data-keywords="Brinquedos Interativos & Mordedores Bolinhas, cordas com nós, mordedores resistentes e brinquedos com guizo para cães, gatos e pássaros. Acessórios brinquedo brinquedos bolinha corda no mordedor borracha guizo sino passaro ave calopsita gato cao cachorro mordedor">
           <div class="product-card-img-wrap">
-            <span class="product-badge">Acessórios</span>
+            <span class="product-badge">Diversão & Estímulo</span>
             <img src="assets/images/produtos/brinquedos.webp" 
-                 alt="Brinquedos - Brinquedos diversos" 
+                 alt="Brinquedos Interativos & Mordedores - Bolinhas, cordas com nós, mordedores resistentes e brinquedos com guizo para cães, gatos e pássaros." 
                  class="product-card-img" 
                  loading="lazy" 
                  onerror="if (!this.dataset.fallbackTried) { this.dataset.fallbackTried = '1'; this.src = 'https://petshoppalmira.netlify.app/assets/img/produtos/brinquedos.webp'; }">
           </div>
           <div class="product-card-body">
             <span class="product-category-chip">Acessórios</span>
-            <h3 class="product-title">Brinquedos</h3>
-            <p class="product-desc">Brinquedos diversos</p>
+            <h3 class="product-title">Brinquedos Interativos & Mordedores</h3>
+            <p class="product-desc">Bolinhas, cordas com nós, mordedores resistentes e brinquedos com guizo para cães, gatos e pássaros.</p>
             <div class="product-card-footer">
-              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20Brinquedos%20(Brinquedos%20diversos)." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Brinquedos no WhatsApp">
+              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20%22Brinquedos%20Interativos%20%26%20Mordedores%22." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Brinquedos Interativos & Mordedores no WhatsApp">
                 <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
                 Consultar
               </a>
             </div>
           </div>
         </article>
-        <article class="product-card" id="prod-coleiras" data-category="acessorios" data-pet-types="caes,gatos,caes-gatos" data-keywords="coleiras coleiras diversos acessórios">
+        <article class="product-card" id="prod-coleiras" data-category="acessorios" data-pet-types="caes,gatos,caes-gatos" data-keywords="Coleiras, Guias & Peitorais Conjuntos de passeio com fecho seguro e regulagem para caminhadas tranquilas no bairro. Acessórios coleira coleiras guia guias peitoral peitorais enforcador passeio seguranca fecho cao cachorro gato peitoral">
           <div class="product-card-img-wrap">
-            <span class="product-badge">Acessórios</span>
+            <span class="product-badge">Passeio & Segurança</span>
             <img src="assets/images/produtos/coleira.webp" 
-                 alt="Coleiras - Coleiras diversos" 
+                 alt="Coleiras, Guias & Peitorais - Conjuntos de passeio com fecho seguro e regulagem para caminhadas tranquilas no bairro." 
                  class="product-card-img" 
                  loading="lazy" 
                  onerror="if (!this.dataset.fallbackTried) { this.dataset.fallbackTried = '1'; this.src = 'https://petshoppalmira.netlify.app/assets/img/produtos/coleira.webp'; }">
           </div>
           <div class="product-card-body">
             <span class="product-category-chip">Acessórios</span>
-            <h3 class="product-title">Coleiras</h3>
-            <p class="product-desc">Coleiras diversos</p>
+            <h3 class="product-title">Coleiras, Guias & Peitorais</h3>
+            <p class="product-desc">Conjuntos de passeio com fecho seguro e regulagem para caminhadas tranquilas no bairro.</p>
             <div class="product-card-footer">
-              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20Coleiras%20(Coleiras%20diversos)." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Coleiras no WhatsApp">
+              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20%22Coleiras%2C%20Guias%20%26%20Peitorais%22." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Coleiras, Guias & Peitorais no WhatsApp">
                 <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
                 Consultar
               </a>
             </div>
           </div>
         </article>
-        <article class="product-card" id="prod-frontline" data-category="medicamentos" data-pet-types="caes,gatos,caes-gatos" data-keywords="frontline medicamentos diversos medicamentos">
+        <article class="product-card" id="prod-frontline" data-category="medicamentos" data-pet-types="caes,gatos,caes-gatos" data-keywords="Frontline Plus Antipulgas Pipeta de aplicação tópica contra pulgas, carrapatos e piolhos mastigadores em cães e gatos. Medicamentos frontline plus pipeta antipulgas anti pulgas carrapatos carrapato piolho protecao cao cachorro gato remedio medicamento antipulga">
           <div class="product-card-img-wrap">
-            <span class="product-badge">Medicamentos</span>
+            <span class="product-badge">Antipulgas & Carrapatos</span>
             <img src="assets/images/produtos/frontline.webp" 
-                 alt="Frontline - Medicamentos diversos" 
+                 alt="Frontline Plus Antipulgas - Pipeta de aplicação tópica contra pulgas, carrapatos e piolhos mastigadores em cães e gatos." 
                  class="product-card-img" 
                  loading="lazy" 
                  onerror="if (!this.dataset.fallbackTried) { this.dataset.fallbackTried = '1'; this.src = 'https://petshoppalmira.netlify.app/assets/img/produtos/frontline.webp'; }">
           </div>
           <div class="product-card-body">
             <span class="product-category-chip">Medicamentos</span>
-            <h3 class="product-title">Frontline</h3>
-            <p class="product-desc">Medicamentos diversos</p>
+            <h3 class="product-title">Frontline Plus Antipulgas</h3>
+            <p class="product-desc">Pipeta de aplicação tópica contra pulgas, carrapatos e piolhos mastigadores em cães e gatos.</p>
             <div class="product-card-footer">
-              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20Frontline%20(Medicamentos%20diversos)." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Frontline no WhatsApp">
+              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20%22Frontline%20Plus%20Antipulgas%22." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Frontline Plus Antipulgas no WhatsApp">
                 <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
                 Consultar
               </a>
             </div>
           </div>
         </article>
-        <article class="product-card" id="prod-otovet" data-category="medicamentos" data-pet-types="caes,gatos,caes-gatos" data-keywords="otovet medicamentos diversos medicamentos">
+        <article class="product-card" id="prod-otovet" data-category="medicamentos" data-pet-types="caes,gatos,caes-gatos" data-keywords="Otovet Solução Otológica Gotas auriculares com ação antibacteriana, antifúngica e anti-inflamatória para otites em cães e gatos. Medicamentos otovet gotas ouvido orelha otite infeccao bacteriana fungo antiinflamatorio cao cachorro gato remedio medicamento dor coceira">
           <div class="product-card-img-wrap">
-            <span class="product-badge">Medicamentos</span>
+            <span class="product-badge">Saúde Auricular</span>
             <img src="assets/images/produtos/otovet.webp" 
-                 alt="Otovet - Medicamentos diversos" 
+                 alt="Otovet Solução Otológica - Gotas auriculares com ação antibacteriana, antifúngica e anti-inflamatória para otites em cães e gatos." 
                  class="product-card-img" 
                  loading="lazy" 
                  onerror="if (!this.dataset.fallbackTried) { this.dataset.fallbackTried = '1'; this.src = 'https://petshoppalmira.netlify.app/assets/img/produtos/otovet.webp'; }">
           </div>
           <div class="product-card-body">
             <span class="product-category-chip">Medicamentos</span>
-            <h3 class="product-title">Otovet</h3>
-            <p class="product-desc">Medicamentos diversos</p>
+            <h3 class="product-title">Otovet Solução Otológica</h3>
+            <p class="product-desc">Gotas auriculares com ação antibacteriana, antifúngica e anti-inflamatória para otites em cães e gatos.</p>
             <div class="product-card-footer">
-              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20Otovet%20(Medicamentos%20diversos)." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Otovet no WhatsApp">
+              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20%22Otovet%20Solu%C3%A7%C3%A3o%20Otol%C3%B3gica%22." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Otovet Solução Otológica no WhatsApp">
                 <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
                 Consultar
               </a>
             </div>
           </div>
         </article>
-        <article class="product-card" id="prod-capstar" data-category="medicamentos" data-pet-types="caes,gatos,caes-gatos" data-keywords="capstar medicamentos diversos medicamentos">
+        <article class="product-card" id="prod-capstar" data-category="medicamentos" data-pet-types="caes,gatos,caes-gatos" data-keywords="Capstar Comprimidos Comprimido oral de ação ultrarrápida que elimina pulgas adultas a partir de 15 minutos em cães e gatos. Medicamentos capstar comprimido pulga pulgas oral rapido 15 minutos coceira cao cachorro gato novartis elanco remedio medicamento antipulgas">
           <div class="product-card-img-wrap">
-            <span class="product-badge">Medicamentos</span>
+            <span class="product-badge">Ação Rápida</span>
             <img src="assets/images/produtos/capstar.webp" 
-                 alt="Capstar - Medicamentos diversos" 
+                 alt="Capstar Comprimidos - Comprimido oral de ação ultrarrápida que elimina pulgas adultas a partir de 15 minutos em cães e gatos." 
                  class="product-card-img" 
                  loading="lazy" 
                  onerror="if (!this.dataset.fallbackTried) { this.dataset.fallbackTried = '1'; this.src = 'https://petshoppalmira.netlify.app/assets/img/produtos/capstar.webp'; }">
           </div>
           <div class="product-card-body">
             <span class="product-category-chip">Medicamentos</span>
-            <h3 class="product-title">Capstar</h3>
-            <p class="product-desc">Medicamentos diversos</p>
+            <h3 class="product-title">Capstar Comprimidos</h3>
+            <p class="product-desc">Comprimido oral de ação ultrarrápida que elimina pulgas adultas a partir de 15 minutos em cães e gatos.</p>
             <div class="product-card-footer">
-              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20Capstar%20(Medicamentos%20diversos)." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Capstar no WhatsApp">
+              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20%22Capstar%20Comprimidos%22." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Capstar Comprimidos no WhatsApp">
                 <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
                 Consultar
               </a>
             </div>
           </div>
         </article>
-        <article class="product-card" id="prod-agemoxi-cl" data-category="medicamentos" data-pet-types="caes,gatos,caes-gatos" data-keywords="agemoxi cl medicamentos diversos medicamentos">
+        <article class="product-card" id="prod-agemoxi-cl" data-category="medicamentos" data-pet-types="caes,gatos,caes-gatos" data-keywords="Agemoxi CL Comprimidos Antibiótico potente à base de amoxicilina e ácido clavulânico para infecções em cães e gatos. Medicamentos agemoxi cl amoxicilina clavulanato antibiotico infeccao bacteriana pele respiratoria ferida cao cachorro gato remedio medicamento">
           <div class="product-card-img-wrap">
-            <span class="product-badge">Medicamentos</span>
+            <span class="product-badge">Antibiótico</span>
             <img src="assets/images/produtos/agemoxi.webp" 
-                 alt="Agemoxi CL - Medicamentos diversos" 
+                 alt="Agemoxi CL Comprimidos - Antibiótico potente à base de amoxicilina e ácido clavulânico para infecções em cães e gatos." 
                  class="product-card-img" 
                  loading="lazy" 
                  onerror="if (!this.dataset.fallbackTried) { this.dataset.fallbackTried = '1'; this.src = 'https://petshoppalmira.netlify.app/assets/img/produtos/agemoxi.webp'; }">
           </div>
           <div class="product-card-body">
             <span class="product-category-chip">Medicamentos</span>
-            <h3 class="product-title">Agemoxi CL</h3>
-            <p class="product-desc">Medicamentos diversos</p>
+            <h3 class="product-title">Agemoxi CL Comprimidos</h3>
+            <p class="product-desc">Antibiótico potente à base de amoxicilina e ácido clavulânico para infecções em cães e gatos.</p>
             <div class="product-card-footer">
-              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20Agemoxi%20CL%20(Medicamentos%20diversos)." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Agemoxi CL no WhatsApp">
+              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20%22Agemoxi%20CL%20Comprimidos%22." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Agemoxi CL Comprimidos no WhatsApp">
                 <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
                 Consultar
               </a>
             </div>
           </div>
         </article>
-        <article class="product-card" id="prod-enrofloxacina" data-category="medicamentos" data-pet-types="caes,gatos,caes-gatos,aves,passaros" data-keywords="enrofloxacina medicamentos diversos medicamentos">
+        <article class="product-card" id="prod-enrofloxacina" data-category="medicamentos" data-pet-types="caes,gatos,caes-gatos,passaros,aves" data-keywords="Enrofloxacina 50mg Antimicrobiano de amplo espectro para infecções bacterianas em cães, gatos e aves ornamentais. Medicamentos enrofloxacina enrofloxacino antimicrobiano antibiotico bacterias trato respiratorio urinario digestivo cao cachorro gato passaro ave aves remedio medicamento">
           <div class="product-card-img-wrap">
-            <span class="product-badge">Medicamentos</span>
+            <span class="product-badge">Amplo Espectro</span>
             <img src="assets/images/produtos/enrofloxacina.webp" 
-                 alt="Enrofloxacina - Medicamentos diversos" 
+                 alt="Enrofloxacina 50mg - Antimicrobiano de amplo espectro para infecções bacterianas em cães, gatos e aves ornamentais." 
                  class="product-card-img" 
                  loading="lazy" 
                  onerror="if (!this.dataset.fallbackTried) { this.dataset.fallbackTried = '1'; this.src = 'https://petshoppalmira.netlify.app/assets/img/produtos/enrofloxacina.webp'; }">
           </div>
           <div class="product-card-body">
             <span class="product-category-chip">Medicamentos</span>
-            <h3 class="product-title">Enrofloxacina</h3>
-            <p class="product-desc">Medicamentos diversos</p>
+            <h3 class="product-title">Enrofloxacina 50mg</h3>
+            <p class="product-desc">Antimicrobiano de amplo espectro para infecções bacterianas em cães, gatos e aves ornamentais.</p>
             <div class="product-card-footer">
-              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20Enrofloxacina%20(Medicamentos%20diversos)." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Enrofloxacina no WhatsApp">
+              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20%22Enrofloxacina%2050mg%22." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Enrofloxacina 50mg no WhatsApp">
                 <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
                 Consultar
               </a>
             </div>
           </div>
         </article>
-        <article class="product-card" id="prod-maxicam" data-category="medicamentos" data-pet-types="caes,gatos,caes-gatos" data-keywords="maxicam medicamentos diversos medicamentos">
+        <article class="product-card" id="prod-maxicam" data-category="medicamentos" data-pet-types="caes,gatos,caes-gatos" data-keywords="Maxicam Anti-inflamatório Meloxicam em comprimidos para alívio de dores inflamatórias, pós-operatório e problemas articulares. Medicamentos maxicam meloxicam antiinflamatorio dor analgesico articulacao pos operatorio trauma cao cachorro gato ourofino remedio medicamento">
           <div class="product-card-img-wrap">
-            <span class="product-badge">Medicamentos</span>
+            <span class="product-badge">Anti-inflamatório</span>
             <img src="assets/images/produtos/maxicam.webp" 
-                 alt="Maxicam - Medicamentos diversos" 
+                 alt="Maxicam Anti-inflamatório - Meloxicam em comprimidos para alívio de dores inflamatórias, pós-operatório e problemas articulares." 
                  class="product-card-img" 
                  loading="lazy" 
                  onerror="if (!this.dataset.fallbackTried) { this.dataset.fallbackTried = '1'; this.src = 'https://petshoppalmira.netlify.app/assets/img/produtos/maxicam.webp'; }">
           </div>
           <div class="product-card-body">
             <span class="product-category-chip">Medicamentos</span>
-            <h3 class="product-title">Maxicam</h3>
-            <p class="product-desc">Medicamentos diversos</p>
+            <h3 class="product-title">Maxicam Anti-inflamatório</h3>
+            <p class="product-desc">Meloxicam em comprimidos para alívio de dores inflamatórias, pós-operatório e problemas articulares.</p>
             <div class="product-card-footer">
-              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20Maxicam%20(Medicamentos%20diversos)." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Maxicam no WhatsApp">
+              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20%22Maxicam%20Anti-inflamat%C3%B3rio%22." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Maxicam Anti-inflamatório no WhatsApp">
                 <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
                 Consultar
               </a>
             </div>
           </div>
         </article>
-        <article class="product-card" id="prod-shampoos" data-category="higiene" data-pet-types="caes,gatos,caes-gatos" data-keywords="shampoos produtos de higiene higiene">
+        <article class="product-card" id="prod-shampoos" data-category="higiene" data-pet-types="caes,gatos,caes-gatos" data-keywords="Shampoo & Condicionador Pet Fórmula neutra e suave para limpeza profunda, hidratação e desembaraço de pelos de cães e gatos. Higiene shampoo xampu condicionador banho higiene pelo pelos pelagem brilho maciez desembaraço cao cachorro gato filhote">
           <div class="product-card-img-wrap">
-            <span class="product-badge">Higiene</span>
+            <span class="product-badge">Banho & Pelagem</span>
             <img src="assets/images/produtos/shampoo.webp" 
-                 alt="Shampoos - Produtos de Higiene" 
+                 alt="Shampoo & Condicionador Pet - Fórmula neutra e suave para limpeza profunda, hidratação e desembaraço de pelos de cães e gatos." 
                  class="product-card-img" 
                  loading="lazy" 
                  onerror="if (!this.dataset.fallbackTried) { this.dataset.fallbackTried = '1'; this.src = 'https://petshoppalmira.netlify.app/assets/img/produtos/shampoo.webp'; }">
           </div>
           <div class="product-card-body">
             <span class="product-category-chip">Higiene</span>
-            <h3 class="product-title">Shampoos</h3>
-            <p class="product-desc">Produtos de Higiene</p>
+            <h3 class="product-title">Shampoo & Condicionador Pet</h3>
+            <p class="product-desc">Fórmula neutra e suave para limpeza profunda, hidratação e desembaraço de pelos de cães e gatos.</p>
             <div class="product-card-footer">
-              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20Shampoos%20(Produtos%20de%20Higiene)." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Shampoos no WhatsApp">
+              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20%22Shampoo%20%26%20Condicionador%20Pet%22." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Shampoo & Condicionador Pet no WhatsApp">
                 <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
                 Consultar
               </a>
             </div>
           </div>
         </article>
-        <article class="product-card" id="prod-shampoos-antiparasitarios" data-category="higiene" data-pet-types="caes,gatos,caes-gatos" data-keywords="shampoos antiparasitários produtos de higiene higiene">
+        <article class="product-card" id="prod-shampoos-antiparasitarios" data-category="higiene" data-pet-types="caes,gatos,caes-gatos" data-keywords="Shampoo Antiparasitário Shampoo medicinal para controle e prevenção de pulgas, carrapatos e sarnas durante o banho. Higiene shampoo xampu antiparasitario medicinal pulga pulgas carrapato carrapatos sarna banho medicado tratamento cao cachorro gato antipulga">
           <div class="product-card-img-wrap">
-            <span class="product-badge">Higiene</span>
+            <span class="product-badge">Banho Medicinal</span>
             <img src="assets/images/produtos/antiparasitario.webp" 
-                 alt="Shampoos antiparasitários - Produtos de Higiene" 
+                 alt="Shampoo Antiparasitário - Shampoo medicinal para controle e prevenção de pulgas, carrapatos e sarnas durante o banho." 
                  class="product-card-img" 
                  loading="lazy" 
                  onerror="if (!this.dataset.fallbackTried) { this.dataset.fallbackTried = '1'; this.src = 'https://petshoppalmira.netlify.app/assets/img/produtos/antiparasitario.webp'; }">
           </div>
           <div class="product-card-body">
             <span class="product-category-chip">Higiene</span>
-            <h3 class="product-title">Shampoos antiparasitários</h3>
-            <p class="product-desc">Produtos de Higiene</p>
+            <h3 class="product-title">Shampoo Antiparasitário</h3>
+            <p class="product-desc">Shampoo medicinal para controle e prevenção de pulgas, carrapatos e sarnas durante o banho.</p>
             <div class="product-card-footer">
-              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20Shampoos%20antiparasit%C3%A1rios%20(Produtos%20de%20Higiene)." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Shampoos antiparasitários no WhatsApp">
+              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20%22Shampoo%20Antiparasit%C3%A1rio%22." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Shampoo Antiparasitário no WhatsApp">
                 <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
                 Consultar
               </a>
             </div>
           </div>
         </article>
-        <article class="product-card" id="prod-colonias" data-category="higiene" data-pet-types="caes,gatos,caes-gatos" data-keywords="colonias produtos de higiene higiene">
+        <article class="product-card" id="prod-colonias" data-category="higiene" data-pet-types="caes,gatos,caes-gatos" data-keywords="Colônia & Perfume Pet Fragrância suave e fixação duradoura que elimina odores sem agredir o olfato sensível do pet. Higiene colonia perfume fragrancia cheiro bom banho e tosa desodorante sem alcool cao cachorro gato filhote cheirinho">
           <div class="product-card-img-wrap">
-            <span class="product-badge">Higiene</span>
+            <span class="product-badge">Perfumaria Pet</span>
             <img src="assets/images/produtos/colonia.webp" 
-                 alt="Colonias - Produtos de Higiene" 
+                 alt="Colônia & Perfume Pet - Fragrância suave e fixação duradoura que elimina odores sem agredir o olfato sensível do pet." 
                  class="product-card-img" 
                  loading="lazy" 
                  onerror="if (!this.dataset.fallbackTried) { this.dataset.fallbackTried = '1'; this.src = 'https://petshoppalmira.netlify.app/assets/img/produtos/colonia.webp'; }">
           </div>
           <div class="product-card-body">
             <span class="product-category-chip">Higiene</span>
-            <h3 class="product-title">Colonias</h3>
-            <p class="product-desc">Produtos de Higiene</p>
+            <h3 class="product-title">Colônia & Perfume Pet</h3>
+            <p class="product-desc">Fragrância suave e fixação duradoura que elimina odores sem agredir o olfato sensível do pet.</p>
             <div class="product-card-footer">
-              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20Colonias%20(Produtos%20de%20Higiene)." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Colonias no WhatsApp">
+              <a href="https://api.whatsapp.com/send?phone=5511974605359&text=Ol%C3%A1%2C%20vim%20pelo%20site%20do%20Pet%20Shop%20Palmira%20e%20gostaria%20de%20consultar%20a%20disponibilidade%20e%20o%20valor%20do%20produto%3A%20%22Col%C3%B4nia%20%26%20Perfume%20Pet%22." class="btn-product-wa" target="_blank" rel="noopener" aria-label="Consultar Colônia & Perfume Pet no WhatsApp">
                 <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
                 Consultar
               </a>

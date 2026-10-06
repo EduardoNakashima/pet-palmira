@@ -40,6 +40,17 @@ app.get(['/favicon.png', '/assets/images/favicon-logo.png'], (req, res) => {
   res.sendFile(pngPath);
 });
 
+// Suporte a download da Proposta PinkVet em PDF
+app.get(['/Apresentacao_Proposta_PinkVet.pdf', '/proposta-pinkvet.pdf', '/pinkvet.pdf'], (req, res) => {
+  const pdfPath = path.join(staticDir, 'Apresentacao_Proposta_PinkVet.pdf');
+  if (fs.existsSync(pdfPath)) {
+    res.setHeader('Content-Type', 'application/pdf');
+    res.setHeader('Content-Disposition', 'inline; filename="Apresentacao_Proposta_PinkVet.pdf"');
+    return res.sendFile(pdfPath);
+  }
+  res.status(404).send('PDF não encontrado');
+});
+
 // Suporte a rota /informacoes e /Informacoes
 app.use(['/informacoes', '/Informacoes'], express.static(path.join(staticDir, 'Informacoes'), { extensions: ['html', 'htm'] }));
 
