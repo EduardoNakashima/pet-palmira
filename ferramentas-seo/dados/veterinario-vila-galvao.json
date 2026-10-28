@@ -1,0 +1,97 @@
+{
+ "slug": "veterinario-vila-galvao",
+ "keyword": "veterinário Vila Galvão",
+ "slides": [],
+ "title": "Veterinário Perto da Vila Galvão, Guarulhos | Pink Vet parceira",
+ "description": "Veterinário a 2,1 km da Vila Galvão: Pink Vet, na Av. Pedro de Souza Lopes, 33. Carrapato, pata machucada e calor depois do passeio.",
+ "ogDescription": "Veterinário a 2,1 km da Vila Galvão: Pink Vet, na Av. Pedro de Souza Lopes, 33. Carrapato, pata machucada e calor depois do passeio.",
+ "badge": "Depois do passeio",
+ "h1": "Veterinário perto da <span class=\"acc\">Vila Galvão</span>",
+ "intro": [
+  "Passeio no Lago dos Patos faz bem para o cachorro e para o tutor. Mas às vezes ele volta com um carrapato, uma pata machucada ou cansado demais no calor. Saber quando é caso de veterinário evita susto.",
+  "O Pet Shop Palmira não é clínica. Para consulta, vacinas e check-up, indicamos a Pink Vet Consultório Veterinário, nossa parceira, a 2,1 km da Vila Galvão."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Pink Vet"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Av. Pedro de Souza Lopes, 33, Jardim Palmira, na mesma avenida da nossa loja.",
+    "Consulta, vacinas e check-up.",
+    "Segunda a sexta, das 9h às 17h. Sábado, das 9h às 16h.",
+    "Nota 5,0 no Google.",
+    "Agendamento pelo WhatsApp (11) 93317-1589, no botão desta página."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Carrapato"
+  },
+  {
+   "type": "p",
+   "html": "Achou um carrapato? Retire com pinça, puxando firme e reto, rente à pele. Não queime e não passe produto em cima antes. Observe o cachorro nas semanas seguintes. Se ele ficar apático, sem apetite, com febre ou com manchas roxas na pele, procure a veterinária. Carrapato transmite doenças sérias para cães."
+  },
+  {
+   "type": "h2",
+   "text": "Pata machucada"
+  },
+  {
+   "type": "p",
+   "html": "Corte pequeno na almofada pode ser lavado com água e soro e observado. Corte fundo, que sangra muito, ou cachorro que não apoia a pata precisa de consulta. Mancar por mais de um dia também."
+  },
+  {
+   "type": "h2",
+   "text": "Calor demais"
+  },
+  {
+   "type": "p",
+   "html": "Em dia quente, alguns cães passam do limite. Sinais de alerta:"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Respiração muito ofegante que não melhora no descanso.",
+    "Língua muito vermelha ou arroxeada.",
+    "Baba grossa, vômito ou desequilíbrio."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Leve para a sombra, molhe o corpo com água fresca, sem gelo, e procure atendimento na hora. Fora do horário da Pink Vet, vá a um hospital veterinário 24 horas."
+  },
+  {
+   "type": "h2",
+   "text": "Prevenção"
+  },
+  {
+   "type": "p",
+   "html": "Antipulgas e carrapaticida em dia, passeio fora do horário mais quente e água sempre por perto. Na farmácia da loja, no número 33B, temos Frontline Plus, Capstar e outros produtos, conforme o estoque."
+  },
+  {
+   "type": "h2",
+   "text": "Vacinas"
+  },
+  {
+   "type": "p",
+   "html": "Cachorro que passeia em parque convive com outros cães. Vacinas em dia protegem contra doenças que passam de um para outro. A Pink Vet orienta o calendário."
+  }
+ ],
+ "faq": [
+  {
+   "q": "O Pet Shop Palmira atende consulta?",
+   "a": "Não. A loja não é clínica. Indicamos a Pink Vet."
+  },
+  {
+   "q": "Como tiro o carrapato?",
+   "a": "Com pinça, puxando firme e reto, rente à pele. Depois observe o cão e, se ele ficar abatido, procure a veterinária."
+  },
+  {
+   "q": "Qual o horário da Pink Vet?",
+   "a": "Segunda a sexta, das 9h às 17h, e sábado, das 9h às 16h."
+  }
+ ],
+ "humanizado": true
+}

@@ -1,0 +1,118 @@
+{
+ "slug": "pet-shop-tranquilidade",
+ "keyword": "pet shop Tranquilidade",
+ "slides": [],
+ "title": "Pet Shop Perto do Tranquilidade, Guarulhos | Pet Shop Palmira",
+ "description": "Pet shop a 3,9 km do Tranquilidade, Guarulhos: higiene, eliminador de odor, shampoo e tapete para a casa com pet ficar cheirosa.",
+ "ogDescription": "Pet shop a 3,9 km do Tranquilidade, Guarulhos: higiene, eliminador de odor, shampoo e tapete para a casa com pet ficar cheirosa.",
+ "badge": "Casa cheirosa",
+ "h1": "Pet shop perto do <span class=\"acc\">Tranquilidade</span>",
+ "intro": [
+  "Quem tem cachorro ou gato conhece o desafio: a casa fica com cheiro de bicho. Visita chega e você já fica sem graça. Dá para resolver boa parte disso com rotina e os produtos certos.",
+  "O Pet Shop Palmira fica a 3,9 km do Tranquilidade em linha reta, na Av. Pedro de Souza Lopes, 33B, no Jardim Palmira, e tem uma prateleira inteira de higiene."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "De onde vem o cheiro"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Xixi fora do lugar, mesmo que já limpo, se o produto não tirou o odor.",
+    "Caminha e cobertor sem lavar.",
+    "Caixa de areia com limpeza atrasada.",
+    "Pelo e pele: cachorro sujo ou com problema de pele cheira mais.",
+    "Ouvido e boca: otite e tártaro dão cheiro forte."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Limpeza do xixi"
+  },
+  {
+   "type": "p",
+   "html": "Use produto sem amônia. A amônia tem cheiro parecido com urina, e o cão volta a marcar o mesmo lugar. Eliminadores de odor próprios para pets quebram o cheiro em vez de só cobrir. Consulte pelo WhatsApp as opções que temos no momento."
+  },
+  {
+   "type": "h2",
+   "text": "Rotina que funciona"
+  },
+  {
+   "type": "table",
+   "head": [
+    "O quê",
+    "Com que frequência"
+   ],
+   "rows": [
+    [
+     "Caixa de areia",
+     "Retirar a sujeira todo dia"
+    ],
+    [
+     "Tapete higiênico",
+     "Trocar assim que sujar"
+    ],
+    [
+     "Caminha e mantas",
+     "Lavar a cada uma ou duas semanas"
+    ],
+    [
+     "Comedouros",
+     "Lavar todo dia"
+    ],
+    [
+     "Banho do cão",
+     "Conforme o pelo e a rotina dele"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Banho e tosa"
+  },
+  {
+   "type": "p",
+   "html": "Fazemos banho e tosa só em cães, com tosa na máquina, por horário marcado pelo WhatsApp (11) 97460-5359. Você traz e busca o cachorro, porque não temos táxi dog. Banho demais resseca a pele, então siga um intervalo de semanas."
+  },
+  {
+   "type": "h2",
+   "text": "Colônia"
+  },
+  {
+   "type": "p",
+   "html": "Colônia própria para pets deixa o cão cheiroso depois do banho. Não use perfume de gente, que pode irritar a pele e o focinho."
+  },
+  {
+   "type": "h2",
+   "text": "Quando o cheiro é sinal de doença"
+  },
+  {
+   "type": "p",
+   "html": "Ouvido com cheiro forte, mau hálito intenso, pele com odor mesmo depois do banho. Nesses casos, o problema não é higiene. Procure a veterinária. Indicamos a Pink Vet, na mesma avenida, no número 33."
+  },
+  {
+   "type": "h2",
+   "text": "O que mais tem na loja"
+  },
+  {
+   "type": "p",
+   "html": "Ração para cães, gatos, pássaros, roedores e criação. Farmácia veterinária e acessórios. Funcionamos de segunda a sábado, das 9h às 18h, com Pix, débito, crédito ou dinheiro, sem taxa extra no cartão. Entrega no Tranquilidade combinada por ligação antes."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Que produto tira cheiro de xixi?",
+   "a": "Eliminadores de odor próprios para pets, sem amônia. Consulte as opções pelo WhatsApp."
+  },
+  {
+   "q": "Posso passar perfume no cachorro?",
+   "a": "Use colônia própria para pets. Perfume de gente pode irritar."
+  },
+  {
+   "q": "Entregam no Tranquilidade?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "humanizado": true
+}

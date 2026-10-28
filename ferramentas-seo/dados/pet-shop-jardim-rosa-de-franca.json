@@ -1,0 +1,142 @@
+{
+ "slug": "pet-shop-jardim-rosa-de-franca",
+ "keyword": "pet shop Jardim Rosa de França",
+ "numero": 71,
+ "cluster": "regionalizadas_fase_1",
+ "source": "site",
+ "title": "Pet Shop Perto do Jardim Rosa de França, Guarulhos | Pet Shop Palmira",
+ "description": "Pet shop a 1,8 km do Jardim Rosa de França: tudo para a casa com cachorro e gato juntos. Ração, farmácia veterinária, acessórios e banho para cães.",
+ "ogDescription": "Pet shop a 1,8 km do Jardim Rosa de França: tudo para a casa com cachorro e gato juntos. Ração, farmácia veterinária, acessórios e banho para cães.",
+ "faq": [
+  {
+   "q": "Posso usar o antipulgas do cachorro no gato?",
+   "a": "Não. Alguns produtos de cachorro são tóxicos para gatos. Use sempre o produto próprio da espécie."
+  },
+  {
+   "q": "O cachorro come a ração do gato. O que faço?",
+   "a": "Coloque a comida do gato em um lugar alto, onde o cão não alcança."
+  },
+  {
+   "q": "Entregam no Jardim Rosa de França?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/loja.jpg",
+   "alt": "Atendimento acolhedor e tradição de 25 anos no Pet Shop Palmira",
+   "caption": "Tradição de 25 Anos na Região",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/racaoparacachorro.jpg",
+   "alt": "Sacos de rações Super Premium e Premium Especial com lote fresco",
+   "caption": "Grandes Marcas de Ração Canina e Felina",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/transportesecasinhas.jpg",
+   "alt": "Casinhas plásticas térmicas, caminhas e caixas de transporte",
+   "caption": "Acessórios, Casinhas e Caixas de Transporte",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/loja2.jpg",
+   "alt": "Corredores com farmácia veterinária, antipulgas e artigos de higiene",
+   "caption": "Farmácia Veterinária e Higiene Completa",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Cão e gato na mesma casa",
+ "h1": "Pet shop perto do <span class=\"acc\">Jardim Rosa de França</span>",
+ "intro": [
+  "Do Jardim Rosa de França até o Pet Shop Palmira são 1,8 km em linha reta. Muita família do bairro tem cachorro e gato na mesma casa, e isso pede alguns cuidados que a gente explica no balcão.",
+  "Estamos na Av. Pedro de Souza Lopes, 33B, no Jardim Palmira, há 25 anos."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Cada um com a sua comida"
+  },
+  {
+   "type": "p",
+   "html": "Cachorro adora ração de gato, porque ela tem mais proteína e gordura. Só que ela não foi feita para ele, e o cão pode engordar ou ter diarreia. Gato que come ração de cachorro fica sem nutrientes que só a ração felina tem."
+  },
+  {
+   "type": "p",
+   "html": "A solução é simples: coloque a comida do gato no alto, em um lugar onde o cachorro não alcança. Gato pula, cachorro não."
+  },
+  {
+   "type": "h2",
+   "text": "A caixa de areia longe do cachorro"
+  },
+  {
+   "type": "p",
+   "html": "Muito cachorro come fezes da caixa de areia. É nojento, mas é comum. Caixa com tampa, ou em um cômodo com portinhola que só o gato passa, resolve."
+  },
+  {
+   "type": "h2",
+   "text": "Antipulgas para todos"
+  },
+  {
+   "type": "p",
+   "html": "Se um tem pulga, todos têm. Trate cão e gato no mesmo dia. Atenção: alguns antipulgas de cachorro são perigosos para gatos. Nunca use o produto do cão no gato. Leia a embalagem e, na dúvida, pergunte."
+  },
+  {
+   "type": "h2",
+   "text": "O que tem na loja"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Ração",
+     "text": "Para cães e gatos, além de pássaros, roedores e criação."
+    },
+    {
+     "title": "Farmácia",
+     "text": "Antipulgas próprios para cada espécie, vermífugos e remédios com receita."
+    },
+    {
+     "title": "Acessórios",
+     "text": "Comedouros, caixas de areia, caminhas e caixas de transporte."
+    },
+    {
+     "title": "Banho e tosa",
+     "text": "Só para cães, com tosa na máquina."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Banho e tosa"
+  },
+  {
+   "type": "p",
+   "html": "Marque pelo WhatsApp (11) 97460-5359. Você traz e busca o cachorro na loja, porque não temos táxi dog."
+  },
+  {
+   "type": "h2",
+   "text": "Horário, pagamento e entrega"
+  },
+  {
+   "type": "p",
+   "html": "Segunda a sábado, das 9h às 18h. Domingo e feriado fechado. Pix, débito, crédito ou dinheiro, sem taxa extra no cartão. Entrega no Jardim Rosa de França combinada por ligação antes."
+  },
+  {
+   "type": "h2",
+   "text": "Veterinária"
+  },
+  {
+   "type": "p",
+   "html": "A loja não é clínica. Para consulta, vacinas e check-up, indicamos a Pink Vet, na mesma avenida, no número 33."
+  }
+ ],
+ "humanizado": true
+}

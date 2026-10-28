@@ -1,0 +1,154 @@
+{
+ "slug": "racao-para-gato-cabucu",
+ "keyword": "ração para gato Cabuçu",
+ "numero": 63,
+ "cluster": "regionalizadas_fase_1",
+ "source": "site",
+ "title": "Ração para Gato no Cabuçu, Guarulhos | Pet Shop Palmira",
+ "description": "Ração para gato que sai de casa no Cabuçu: alimentação, antipulgas, vermífugo e cuidados para o gato que passeia no quintal e na rua.",
+ "ogDescription": "Ração para gato que sai de casa no Cabuçu: alimentação, antipulgas, vermífugo e cuidados para o gato que passeia no quintal e na rua.",
+ "faq": [
+  {
+   "q": "Gato que caça precisa de ração?",
+   "a": "Precisa. A caça não alimenta direito e pode trazer verme."
+  },
+  {
+   "q": "Gato que sai precisa de vermífugo com mais frequência?",
+   "a": "Muitas vezes, sim. A veterinária define o intervalo."
+  },
+  {
+   "q": "Entregam no Cabuçu?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/pouring-pet-food-into-bowl.jpg",
+   "alt": "Nutrição felina especializada com equilíbrio renal",
+   "caption": "Nutrição Equilibrada com Proteção Renal",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/goldencat.webp",
+   "alt": "Ração Golden Gatos Castrados sabor frango e salmão",
+   "caption": "Golden Gatos: Especial para Castrados",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/whiskas.webp",
+   "alt": "Ração Whiskas com recheio crocante e alta aceitação",
+   "caption": "Whiskas Crocante e Saboroso",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/saches.webp",
+   "alt": "Sachês úmidos para hidratação diária do trato renal dos felinos",
+   "caption": "Sachês Úmidos: Hidratação Renal Obrigatória",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Gato que passeia",
+ "h1": "Ração para gato no <span class=\"acc\">Cabuçu</span>",
+ "intro": [
+  "Em casa com quintal grande, muitos gatos entram e saem quando querem. Sobem no muro, caçam lagartixa, somem por algumas horas. Esse gato tem uma vida diferente do gato de apartamento, e os cuidados também mudam.",
+  "O Pet Shop Palmira fica a 3,8 km do Cabuçu e tem ração e farmácia para gatos."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Comida em casa, sempre"
+  },
+  {
+   "type": "p",
+   "html": "Gato que caça ainda precisa de ração completa em casa. A caça não alimenta direito e pode trazer verme. Ofereça a ração em horários fixos, assim ele aprende a voltar para comer. Temos Golden Gatos, CatChow, Whiskas e Royal Canin, conforme o estoque."
+  },
+  {
+   "type": "h2",
+   "text": "Gasta mais energia"
+  },
+  {
+   "type": "p",
+   "html": "Gato que passeia costuma gastar mais do que o de apartamento. Use a tabela da embalagem e observe o corpo. Se ele estiver emagrecendo, aumente um pouco a porção."
+  },
+  {
+   "type": "h2",
+   "text": "Antipulgas e vermífugo"
+  },
+  {
+   "type": "p",
+   "html": "Gato que sai convive com pulga, carrapato e verme com mais frequência. Mantenha a proteção em dia, sempre com produto próprio para gatos. Alguns produtos de cachorro são tóxicos para eles. A frequência certa é a veterinária quem define."
+  },
+  {
+   "type": "h2",
+   "text": "Castração"
+  },
+  {
+   "type": "p",
+   "html": "Gato não castrado que sai de casa briga mais, foge mais e pode passar doenças por mordida e cruza. Converse com a veterinária sobre castração. Depois dela, ajuste a ração, porque o gasto de energia cai."
+  },
+  {
+   "type": "h2",
+   "text": "Identificação"
+  },
+  {
+   "type": "p",
+   "html": "Coleira própria para gatos, com fecho que abre se enganchar, e plaquinha com telefone. Ajuda se ele for parar no quintal do vizinho."
+  },
+  {
+   "type": "h2",
+   "text": "Sinais para ficar atento"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Sinal",
+    "Pode ser"
+   ],
+   "rows": [
+    [
+     "Ferida que não cicatriza",
+     "Briga ou mordida infeccionada"
+    ],
+    [
+     "Mancando",
+     "Queda ou machucado"
+    ],
+    [
+     "Sumiu por mais de um dia e voltou abatido",
+     "Pode estar doente"
+    ],
+    [
+     "Emagrecendo",
+     "Verme ou outra doença"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Para consulta, indicamos a Pink Vet, nossa parceira, na Av. Pedro de Souza Lopes, 33."
+  },
+  {
+   "type": "h2",
+   "text": "Água"
+  },
+  {
+   "type": "p",
+   "html": "Gato que passeia pode beber em poça e vaso de planta. Ofereça água limpa em casa, em mais de um lugar."
+  },
+  {
+   "type": "h2",
+   "text": "Compra e entrega"
+  },
+  {
+   "type": "p",
+   "html": "Segunda a sábado, das 9h às 18h, na Av. Pedro de Souza Lopes, 33B. Pedido pelo WhatsApp (11) 97460-5359. Entrega no Cabuçu combinada por ligação antes."
+  }
+ ],
+ "humanizado": true
+}

@@ -1,0 +1,98 @@
+{
+ "slug": "onde-comprar-produtos-para-animais-domesticos",
+ "keyword": "onde comprar produtos para animais domésticos",
+ "numero": 14,
+ "cluster": "nao_regionalizadas_fase_1",
+ "source": "site",
+ "title": "Onde Comprar Produtos para Animais Domésticos | Pet Shop Palmira",
+ "description": "Onde comprar produtos para animais domésticos em Guarulhos? No Pet Shop Palmira, Av. Pedro de Souza Lopes, 33B, Jardim Palmira, há 25 anos.",
+ "ogDescription": "Onde comprar produtos para animais domésticos em Guarulhos? No Pet Shop Palmira, Av. Pedro de Souza Lopes, 33B, Jardim Palmira, há 25 anos.",
+ "faq": [
+  {
+   "q": "Onde fica a loja?",
+   "a": "Na Av. Pedro de Souza Lopes, 33B, Jardim Palmira, Guarulhos, CEP 07074-000."
+  },
+  {
+   "q": "Vocês entregam em outros bairros?",
+   "a": "Entregamos no Jardim Palmira e em bairros num raio de uns 10 km, sempre combinando o local por ligação antes."
+  },
+  {
+   "q": "Como tiro dúvida sobre o produto certo para o meu pet?",
+   "a": "Mande uma mensagem no WhatsApp (11) 97460-5359 com a espécie, a idade e o peso dele."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/loja2.jpg",
+   "alt": "Variedade completa em produtos para cães e gatos no Pet Shop Palmira",
+   "caption": "Sortimento Completo em Produtos Pet",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/shampoo.webp",
+   "alt": "Shampoos hipoalergênicos e sabonetes dermatológicos",
+   "caption": "Shampoos e Higiene Especializada",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/brinquedos.webp",
+   "alt": "Brinquedos mordedores resistentes e cordas para recreação",
+   "caption": "Brinquedos Duráveis e Mordedores",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/capstar.webp",
+   "alt": "Farmácia veterinária preventiva, antipulgas e vermífugos",
+   "caption": "Farmácia e Proteção Antipulgas",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Jardim Palmira",
+ "h1": "Onde comprar produtos para <span class=\"acc\">animais domésticos</span> em Guarulhos",
+ "intro": [
+  "Se você mora perto do Jardim Palmira, a resposta pode estar no caminho de casa: Av. Pedro de Souza Lopes, 33B. O Pet Shop Palmira está aí há 25 anos.",
+  "Atendemos de segunda a sábado, das 9h às 18h. Domingo e feriado a loja fica fechada."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Por que tanta gente compra aqui"
+  },
+  {
+   "type": "p",
+   "html": "É uma loja de bairro, familiar. A gente conhece muitos clientes pelo nome e lembra qual ração o cachorro de cada um come."
+  },
+  {
+   "type": "p",
+   "html": "Isso parece pouco, mas poupa tempo. Você não precisa explicar tudo de novo a cada compra."
+  },
+  {
+   "type": "h2",
+   "text": "O que você encontra"
+  },
+  {
+   "type": "p",
+   "html": "Ração e petisco para cães e gatos, farmácia veterinária, areia, tapete higiênico, shampoo, caminha, casinha, caixa de transporte, coleira e brinquedo. Para outros bichos, tem semente e ração de pássaro, ração de coelho e roedor, feno, alfafa e ração para galinha, porco e peixe."
+  },
+  {
+   "type": "h2",
+   "text": "Para economizar"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Prefira embalagens maiores dos itens que você usa sempre, como ração e areia.",
+    "Siga a quantidade indicada na embalagem para não desperdiçar.",
+    "Pergunte pelas marcas com bom custo-benefício antes de decidir.",
+    "Encomende o que faltar em vez de comprar uma marca qualquer."
+   ]
+  }
+ ],
+ "humanizado": true
+}

@@ -1,0 +1,88 @@
+{
+ "slug": "vermifugos-e-vitaminas-para-cachorro-e-gato",
+ "keyword": "vermífugos e vitaminas para cachorro e gato",
+ "numero": 36,
+ "cluster": "nao_regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Vermífugos e Vitaminas para Cachorro e Gato | Pet Shop Palmira",
+ "description": "Vermífugos e vitaminas para cachorro e gato em Guarulhos. Como acertar a dose pelo peso e quando suplementar. Farmácia veterinária no Jardim Palmira.",
+ "ogDescription": "Vermífugos e vitaminas para cachorro e gato em Guarulhos. Como acertar a dose pelo peso e quando suplementar. Farmácia veterinária no Jardim Palmira.",
+ "faq": [
+  {
+   "q": "Posso dar vermífugo de cachorro no gato?",
+   "a": "Não sem orientação. Alguns princípios ativos e doses são diferentes para cada espécie."
+  },
+  {
+   "q": "Como sei o peso do meu pet?",
+   "a": "Pese você no colo com o pet e depois sozinho, e faça a diferença."
+  },
+  {
+   "q": "Vitamina em excesso faz mal?",
+   "a": "Faz. Só dê suplemento com indicação do veterinário."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/images/produtos/antiparasitario.webp",
+   "alt": "Vermífugos e antiparasitários para cães e gatos no Pet Shop Palmira",
+   "caption": "Antiparasitários e Vermífugos de Amplo Espectro",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/agemoxi.webp",
+   "alt": "Medicamentos e antibióticos para pets na farmácia veterinária",
+   "caption": "Farmácia Veterinária: Linha de Tratamento e Cuidados",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/maxicam.webp",
+   "alt": "Suplementação e cuidados para saúde animal no Pet Shop Palmira",
+   "caption": "Suporte à Saúde, Articulações e Recuperação",
+   "ok": true
+  }
+ ],
+ "badge": "Prevenção",
+ "h1": "Vermífugos e vitaminas para <span class=\"acc\">cachorro e gato</span>",
+ "intro": [
+  "Verme nem sempre dá sinal. O pet pode estar com verme e parecer bem. Por isso o vermífugo é preventivo, dado num intervalo que o veterinário define."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Por que vermifugar"
+  },
+  {
+   "type": "p",
+   "html": "Filhotes, pets que passeiam na rua e animais com pulga têm mais risco. Alguns vermes também passam para pessoas, principalmente crianças."
+  },
+  {
+   "type": "h2",
+   "text": "A dose depende do peso"
+  },
+  {
+   "type": "p",
+   "html": "O vermífugo é dosado pelo peso do animal. Antes de comprar, pese o pet ou informe o peso aproximado para a gente indicar o comprimido certo."
+  },
+  {
+   "type": "h2",
+   "text": "E as vitaminas?"
+  },
+  {
+   "type": "p",
+   "html": "Pet que come uma ração completa geralmente não precisa de vitamina extra. Suplemento é para casos específicos, como filhote debilitado ou idoso, e quem indica é o veterinário."
+  },
+  {
+   "type": "p",
+   "html": "Vitamina em excesso também faz mal."
+  },
+  {
+   "type": "h2",
+   "text": "Como dar o comprimido"
+  },
+  {
+   "type": "p",
+   "html": "Esconda num petisco ou num pouco de patê. Para gato, coloque no fundo da boca e ofereça um sachê logo em seguida."
+  }
+ ],
+ "humanizado": true
+}

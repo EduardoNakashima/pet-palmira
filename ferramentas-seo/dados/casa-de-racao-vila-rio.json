@@ -1,0 +1,111 @@
+{
+ "slug": "casa-de-racao-vila-rio",
+ "keyword": "casa de ração Vila Rio",
+ "slides": [],
+ "title": "Casa de Ração Perto da Vila Rio, Guarulhos | Pet Shop Palmira",
+ "description": "Casa de ração a 3,2 km da Vila Rio: petiscos, ossinhos e bifinhos para cães e gatos, como escolher e quanto dar. Ração para todos os bichos.",
+ "ogDescription": "Casa de ração a 3,2 km da Vila Rio: petiscos, ossinhos e bifinhos para cães e gatos, como escolher e quanto dar. Ração para todos os bichos.",
+ "badge": "Petiscos e ossinhos",
+ "h1": "Casa de ração perto da <span class=\"acc\">Vila Rio</span>",
+ "intro": [
+  "Na casa de ração, o saco de ração é o principal. Mas o que o cachorro mais espera é o que vem no pacotinho: o ossinho, o bifinho, o biscoito. O Pet Shop Palmira, a 3,2 km da Vila Rio, tem petiscos para cães e gatos, junto com a ração de sempre."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Tipos de petisco"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Tipo",
+    "Para que serve"
+   ],
+   "rows": [
+    [
+     "Ossinho de couro ou mastigável",
+     "Distrair e gastar a vontade de roer"
+    ],
+    [
+     "Bifinho",
+     "Recompensa no adestramento"
+    ],
+    [
+     "Biscoito",
+     "Agrado do dia a dia"
+    ],
+    [
+     "Sachê e patê",
+     "Refeição especial, com água"
+    ],
+    [
+     "Petisco para gato",
+     "Recompensa e vínculo"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Do tamanho do cachorro"
+  },
+  {
+   "type": "p",
+   "html": "Ossinho pequeno para cão grande pode ser engolido inteiro e engasgar. Ossinho grande demais para cão pequeno não serve. Temos ossinhos para porte pequeno e para porte grande, conforme o estoque. Fique por perto enquanto ele rói, principalmente nas primeiras vezes."
+  },
+  {
+   "type": "h2",
+   "text": "Quanto dar"
+  },
+  {
+   "type": "p",
+   "html": "Petisco é extra. Uma regra comum é não passar de cerca de 10% das calorias do dia. Veja a quantidade indicada na embalagem e desconte da ração. Petisco demais é um dos motivos mais comuns de cão acima do peso."
+  },
+  {
+   "type": "h2",
+   "text": "Osso de verdade?"
+  },
+  {
+   "type": "p",
+   "html": "Osso cozido lasca e pode furar o intestino. Osso de frango é o pior. Prefira petiscos e ossinhos próprios para cães."
+  },
+  {
+   "type": "h2",
+   "text": "Petisco para treinar"
+  },
+  {
+   "type": "p",
+   "html": "Para adestrar, use petiscos pequenos, do tamanho de uma ervilha. O cachorro aprende pelo número de recompensas, não pelo tamanho. Grãos da própria ração também funcionam com muitos cães."
+  },
+  {
+   "type": "h2",
+   "text": "A ração continua a base"
+  },
+  {
+   "type": "p",
+   "html": "Para cães, Golden, Premier, Special Dog, Pedigree, Magnus, Premiatta, Max e Royal Canin. Para gatos, Golden Gatos, CatChow, Whiskas e Royal Canin. Também temos ração para pássaros, roedores e criação, conforme o estoque."
+  },
+  {
+   "type": "h2",
+   "text": "Compra e entrega"
+  },
+  {
+   "type": "p",
+   "html": "Loja aberta de segunda a sábado, das 9h às 18h, na Av. Pedro de Souza Lopes, 33B. Pedido pelo WhatsApp (11) 97460-5359. Entrega na Vila Rio combinada por ligação antes. Pix, débito, crédito ou dinheiro, sem taxa extra no cartão."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Posso dar osso de churrasco para o cachorro?",
+   "a": "Não. Osso cozido lasca e pode machucar. Use ossinhos próprios para cães."
+  },
+  {
+   "q": "Quantos petiscos por dia?",
+   "a": "Siga a embalagem e desconte da ração. Petisco é extra."
+  },
+  {
+   "q": "Entregam na Vila Rio?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "humanizado": true
+}

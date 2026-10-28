@@ -1,0 +1,92 @@
+{
+ "slug": "racao-para-cachorro-com-preco-acessivel",
+ "keyword": "ração para cachorro com preço acessível",
+ "numero": 3,
+ "cluster": "nao_regionalizadas_fase_1",
+ "source": "site",
+ "title": "Ração para Cachorro com Preço Acessível | Pet Shop Palmira",
+ "description": "Ração para cachorro com preço acessível no Jardim Palmira, Guarulhos. Dicas para economizar sem perder qualidade e marcas como Max, Special Dog e Pedigree.",
+ "ogDescription": "Ração para cachorro com preço acessível no Jardim Palmira, Guarulhos. Dicas para economizar sem perder qualidade e marcas como Max, Special Dog e Pedigree.",
+ "faq": [
+  {
+   "q": "Ração mais barata tem os nutrientes que o cachorro precisa?",
+   "a": "As rações completas trazem o básico. As linhas mais caras costumam ter melhor aproveitamento, então o cachorro come menos. Para cães com problema de saúde, siga a indicação do veterinário."
+  },
+  {
+   "q": "Quais formas de pagamento vocês aceitam?",
+   "a": "Pix, cartão de débito e crédito e dinheiro, sem taxa extra no cartão."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/racaoparacachorro.jpg",
+   "alt": "Sacos de 15kg e 20kg das melhores marcas de ração canina",
+   "caption": "Sacos de 15kg e 20kg em Estoque",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/golden.webp",
+   "alt": "Ração Golden Fórmula para cães adultos e filhotes",
+   "caption": "Golden Fórmula: Sabor e Custo-Benefício",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/premiata.webp",
+   "alt": "Linha Super Premium com nutrientes funcionais e condroitina",
+   "caption": "Super Premium para Saúde Articular",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/pouring-pet-food-into-bowl.jpg",
+   "alt": "Nutrição equilibrada com grãos crocantes servidos na tigela",
+   "caption": "Digestibilidade Máxima e Fezes Menores",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Economia sem susto",
+ "h1": "Ração para cachorro com <span class=\"acc\">preço acessível</span>",
+ "intro": [
+  "Ração boa e barata existe, mas precisa escolher com atenção. Aqui no Pet Shop Palmira a gente ajuda a achar a opção que cabe no seu bolso sem deixar o cachorro mal alimentado."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Onde dá para economizar"
+  },
+  {
+   "type": "p",
+   "html": "O jeito mais simples é o tamanho do saco. Para cão médio ou grande, os sacos de 15 e 20 kg costumam sair mais em conta por quilo do que os pacotes pequenos."
+  },
+  {
+   "type": "p",
+   "html": "Outro ponto é a quantidade. Muita gente coloca ração demais no pote. Seguir a tabela da embalagem pelo peso do cachorro evita desperdício e sobrepeso."
+  },
+  {
+   "type": "h2",
+   "text": "Marcas com bom custo-benefício"
+  },
+  {
+   "type": "p",
+   "html": "Max Professional Line, Special Dog e Pedigree costumam atender bem quem quer gastar menos. Se der para subir um pouco, Golden Formula e Premiatta entregam mais nutrientes por porção."
+  },
+  {
+   "type": "p",
+   "html": "Qual vale mais a pena depende do seu cachorro. Pergunte pra gente pelo WhatsApp, com a raça, o peso e a idade dele."
+  },
+  {
+   "type": "h2",
+   "text": "Saco grande pede cuidado"
+  },
+  {
+   "type": "p",
+   "html": "Ração aberta perde aroma com o ar e pode pegar umidade. Feche bem o saco depois de cada uso ou passe para um pote com tampa, longe do sol e do chão frio."
+  }
+ ],
+ "humanizado": true
+}

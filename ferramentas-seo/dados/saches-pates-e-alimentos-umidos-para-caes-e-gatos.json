@@ -1,0 +1,100 @@
+{
+ "slug": "saches-pates-e-alimentos-umidos-para-caes-e-gatos",
+ "keyword": "sachês patês e alimentos úmidos para cães e gatos",
+ "numero": 32,
+ "cluster": "nao_regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Sachês, Patês e Alimentos Úmidos para Cães e Gatos | Pet Shop Palmira",
+ "description": "Sachês, patês e alimentos úmidos para cães e gatos em Guarulhos. Pedigree, Whiskas, Golden e mais, em unidade avulsa ou caixa sob consulta.",
+ "ogDescription": "Sachês, patês e alimentos úmidos para cães e gatos em Guarulhos. Pedigree, Whiskas, Golden e mais, em unidade avulsa ou caixa sob consulta.",
+ "faq": [
+  {
+   "q": "Dar sachê todo dia faz mal?",
+   "a": "Não, desde que você diminua a ração seca na mesma proporção."
+  },
+  {
+   "q": "Como guardar o sachê depois de aberto?",
+   "a": "Na geladeira, fechado, e use em até um dia. Não deixe na tigela por muito tempo em dia quente."
+  },
+  {
+   "q": "Vocês vendem caixa fechada?",
+   "a": "Consulte pelo WhatsApp a disponibilidade de caixas fechadas."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/images/produtos/saches.webp",
+   "alt": "Sachês de alimentos úmidos com pedaços suculentos ao molho para gatos e cães",
+   "caption": "Sachês Úmidos: Hidratação Diária Essencial",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/pate.webp",
+   "alt": "Latas de patê super premium com textura aveludada e alta palatabilidade",
+   "caption": "Patês Especiais: Nutrição Completa e Sabor",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/whiskas.webp",
+   "alt": "Sachês Whiskas molho suculento de peixe e carne para felinos",
+   "caption": "Whiskas Sachê: O Favorito dos Bichanos",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/goldencat.webp",
+   "alt": "Alimentação mista saudável com ração seca e úmida combinadas",
+   "caption": "Mix Feeding: Crocância com Suculência",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Alimento úmido",
+ "h1": "Sachês, patês e alimentos úmidos para <span class=\"acc\">cães e gatos</span>",
+ "intro": [
+  "Sachê não é só um agrado. Para gatos, que bebem pouca água, é uma das formas mais fáceis de aumentar a hidratação."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Por que oferecer alimento úmido"
+  },
+  {
+   "type": "p",
+   "html": "O sachê e o patê têm bastante água na composição. Isso ajuda os rins e o trato urinário, principalmente dos gatos."
+  },
+  {
+   "type": "p",
+   "html": "Também ajuda com o cão ou gato que anda enjoado da ração, e com o idoso que tem dificuldade para mastigar."
+  },
+  {
+   "type": "h2",
+   "text": "Sachê ou patê em lata?"
+  },
+  {
+   "type": "p",
+   "html": "O sachê costuma vir em pedaços com molho, em porção individual. O patê tem textura mais lisa e às vezes vem em lata maior. O formato é questão de gosto do pet."
+  },
+  {
+   "type": "h2",
+   "text": "Como começar"
+  },
+  {
+   "type": "p",
+   "html": "Ofereça uma pequena quantidade junto com a ração seca e desconte da porção do dia. Troca brusca pode soltar o intestino."
+  },
+  {
+   "type": "h2",
+   "text": "O que você encontra"
+  },
+  {
+   "type": "p",
+   "html": "Patê Pedigree, Sachê Pedigree ao Molho, sachês Whiskas e outras opções, em unidade avulsa. Caixa fechada você consulta pelo WhatsApp."
+  }
+ ],
+ "humanizado": true
+}

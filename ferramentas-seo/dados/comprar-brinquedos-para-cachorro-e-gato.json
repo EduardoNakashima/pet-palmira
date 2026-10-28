@@ -1,0 +1,90 @@
+{
+ "slug": "comprar-brinquedos-para-cachorro-e-gato",
+ "keyword": "comprar brinquedos para cachorro e gato",
+ "numero": 10,
+ "cluster": "nao_regionalizadas_fase_1",
+ "source": "site",
+ "title": "Comprar Brinquedos para Cachorro e Gato | Pet Shop Palmira",
+ "description": "Comprar brinquedos para cachorro e gato em Guarulhos com ajuda para escolher pelo porte e pela idade. Consulte os modelos pelo WhatsApp.",
+ "ogDescription": "Comprar brinquedos para cachorro e gato em Guarulhos com ajuda para escolher pelo porte e pela idade. Consulte os modelos pelo WhatsApp.",
+ "faq": [
+  {
+   "q": "Dá para lavar os brinquedos?",
+   "a": "Os de borracha e plástico, sim, com água e sabão neutro. Os de pano, na máquina, se a etiqueta permitir."
+  },
+  {
+   "q": "Meu pet não liga para brinquedo novo. O que fazer?",
+   "a": "Brinque junto nos primeiros dias. Esconder um petisco dentro do brinquedo também desperta o interesse."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/pouring-pet-food-into-bowl.jpg",
+   "alt": "Nutrição felina especializada com equilíbrio renal",
+   "caption": "Nutrição Equilibrada com Proteção Renal",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/goldencat.webp",
+   "alt": "Ração Golden Gatos Castrados sabor frango e salmão",
+   "caption": "Golden Gatos: Especial para Castrados",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/whiskas.webp",
+   "alt": "Ração Whiskas com recheio crocante e alta aceitação",
+   "caption": "Whiskas Crocante e Saboroso",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/saches.webp",
+   "alt": "Sachês úmidos para hidratação diária do trato renal dos felinos",
+   "caption": "Sachês Úmidos: Hidratação Renal Obrigatória",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Brinquedo certo",
+ "h1": "Comprar brinquedos para <span class=\"acc\">cachorro e gato</span>",
+ "intro": [
+  "Antes de comprar um brinquedo, pense em como o seu pet brinca. Tem cachorro que destrói tudo em minutos e tem gato que só quer correr atrás de alguma coisa.",
+  "Mande pelo WhatsApp a raça, a idade e o jeito do seu pet, que a gente indica os modelos disponíveis."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Segurança primeiro"
+  },
+  {
+   "type": "p",
+   "html": "Evite brinquedo com peça pequena que solta, como olhinho colado. E fique de olho no desgaste: quando o mordedor fica pequeno ou rachado, é hora de trocar."
+  },
+  {
+   "type": "h2",
+   "text": "Por perfil de pet"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Cão que fica sozinho: brinquedo recheável com petisco ou ração úmida.",
+    "Filhote trocando os dentes: mordedor mais macio.",
+    "Cão grande e forte: mordedor de material resistente, do tamanho da boca dele.",
+    "Gato: varinha, bolinha e brinquedo que se mexe."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Revezar ajuda"
+  },
+  {
+   "type": "p",
+   "html": "Deixar todos os brinquedos sempre à vista faz o pet perder o interesse. Guarde alguns e troque a cada poucos dias."
+  }
+ ],
+ "humanizado": true
+}

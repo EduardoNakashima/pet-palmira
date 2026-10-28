@@ -1,0 +1,98 @@
+{
+ "slug": "antipulgas-e-carrapatos-para-caes-e-gatos",
+ "keyword": "antipulgas e carrapatos para cães e gatos",
+ "numero": 35,
+ "cluster": "nao_regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Antipulgas e Carrapatos para Cães e Gatos | Pet Shop Palmira",
+ "description": "Antipulgas e carrapatos para cães e gatos em Guarulhos: Frontline Plus, Capstar e shampoo antiparasitário. Farmácia veterinária no Jardim Palmira.",
+ "ogDescription": "Antipulgas e carrapatos para cães e gatos em Guarulhos: Frontline Plus, Capstar e shampoo antiparasitário. Farmácia veterinária no Jardim Palmira.",
+ "faq": [
+  {
+   "q": "Qual a diferença entre pipeta e comprimido?",
+   "a": "A pipeta age por fora e protege por semanas. O comprimido de ação rápida mata as pulgas adultas em pouco tempo, mas por menos tempo."
+  },
+  {
+   "q": "Posso usar antipulgas de cachorro no gato?",
+   "a": "Não. Alguns são tóxicos para gatos. Use sempre o produto para a espécie e o peso certos."
+  },
+  {
+   "q": "Por que as pulgas voltam mesmo depois do remédio?",
+   "a": "Porque ovos e larvas continuam no ambiente. É preciso tratar a casa e todos os animais."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/images/produtos/frontline.webp",
+   "alt": "Pipetas Frontline para controle de pulgas e carrapatos em cães e gatos",
+   "caption": "Frontline Pipeta: Ação Rápida por Contato",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/capstar.webp",
+   "alt": "Capstar comprimidos efeito choque contra pulgas em cães e gatos",
+   "caption": "Capstar Comprimido: Eliminação em Poucas Horas",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/antiparasitario.webp",
+   "alt": "Medicamentos antiparasitários completos da farmácia veterinária do Pet Shop Palmira",
+   "caption": "Farmácia Veterinária com Soluções Completas",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/shampoo.webp",
+   "alt": "Shampoos antiparasitários e higiênicos para alívio imediato da coceira",
+   "caption": "Higiene e Alívio da Coceira e Dermatites",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Farmácia veterinária",
+ "h1": "Antipulgas e carrapatos para <span class=\"acc\">cães e gatos</span>",
+ "intro": [
+  "Pulga e carrapato não são só coceira. Carrapato transmite doenças sérias para o cachorro, e pulga pode trazer verme.",
+  "Na nossa farmácia você encontra Frontline Plus, Capstar e shampoo antiparasitário."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Pipeta, comprimido ou shampoo"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Pipeta, como a Frontline Plus: aplicada na nuca, protege por algumas semanas.",
+    "Comprimido de ação rápida, como o Capstar: mata as pulgas adultas em pouco tempo, mas não protege por muito tempo.",
+    "Shampoo antiparasitário: ajuda no banho, mas sozinho não resolve a infestação.",
+    "Coleira repelente: proteção contínua, quando indicada."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Por que as pulgas voltam"
+  },
+  {
+   "type": "p",
+   "html": "A maior parte da infestação está no ambiente, não no animal. Ovos e larvas ficam no chão, no sofá e na caminha."
+  },
+  {
+   "type": "p",
+   "html": "Para acabar com a infestação, trate todos os animais da casa no mesmo dia, lave a caminha em água quente e aspire bem o ambiente."
+  },
+  {
+   "type": "h2",
+   "text": "Cuidado com o gato"
+  },
+  {
+   "type": "p",
+   "html": "Alguns antipulgas de cachorro são tóxicos para gato. Nunca use produto de cão no gato."
+  }
+ ],
+ "humanizado": true
+}

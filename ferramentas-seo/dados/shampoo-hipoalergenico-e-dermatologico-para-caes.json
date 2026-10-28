@@ -1,0 +1,84 @@
+{
+ "slug": "shampoo-hipoalergenico-e-dermatologico-para-caes",
+ "keyword": "shampoo hipoalergênico e dermatológico para cães",
+ "numero": 38,
+ "cluster": "nao_regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Shampoo Hipoalergênico e Dermatológico para Cães | Pet Shop Palmira",
+ "description": "Shampoo hipoalergênico e dermatológico para cães em Guarulhos. Como usar o shampoo terapêutico e por que não usar shampoo de gente no cachorro.",
+ "ogDescription": "Shampoo hipoalergênico e dermatológico para cães em Guarulhos. Como usar o shampoo terapêutico e por que não usar shampoo de gente no cachorro.",
+ "faq": [
+  {
+   "q": "Posso usar shampoo dermatológico em filhote?",
+   "a": "Só com indicação do veterinário. Alguns ativos não são para filhotes."
+  },
+  {
+   "q": "O shampoo dermatológico tira pulgas?",
+   "a": "Não necessariamente. Para pulgas, use um antipulgas ou o shampoo antiparasitário."
+  },
+  {
+   "q": "Vocês entregam shampoo?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/images/produtos/shampoo.webp",
+   "alt": "Shampoo dermatológico hipoalergênico para cães com pele sensível",
+   "caption": "Shampoos Hipoalergênicos e Terapêuticos",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/colonia.webp",
+   "alt": "Colônias suaves e cosméticos veterinários hipoalergênicos",
+   "caption": "Higiene e Finalização Suave sem Irritações",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/roupinha.webp",
+   "alt": "Cuidados e proteção para cães alérgicos e pós-banho",
+   "caption": "Conforto Térmico e Proteção da Pele",
+   "ok": true
+  }
+ ],
+ "badge": "Higiene",
+ "h1": "Shampoo hipoalergênico e <span class=\"acc\">dermatológico</span> para cães",
+ "intro": [
+  "Cachorro com coceira, pele vermelha ou cheiro forte mesmo depois do banho pode precisar de um shampoo específico. Mas o primeiro passo é descobrir a causa com o veterinário."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Quando usar"
+  },
+  {
+   "type": "p",
+   "html": "O shampoo hipoalergênico é para pele sensível, que irrita com produtos comuns. O dermatológico tem ativos para problemas de pele e costuma ser indicado pelo veterinário como parte do tratamento."
+  },
+  {
+   "type": "h2",
+   "text": "Como aplicar"
+  },
+  {
+   "type": "p",
+   "html": "Molhe bem o pelo, aplique o shampoo e deixe agir pelo tempo indicado no rótulo, geralmente alguns minutos. Enxágue muito bem, porque resíduo de shampoo também irrita."
+  },
+  {
+   "type": "h2",
+   "text": "Shampoo de gente não serve"
+  },
+  {
+   "type": "p",
+   "html": "A pele do cachorro tem pH diferente da nossa. Shampoo humano e sabão de coco podem ressecar e piorar a coceira."
+  },
+  {
+   "type": "h2",
+   "text": "O que tem na loja"
+  },
+  {
+   "type": "p",
+   "html": "Shampoo e condicionador pet, shampoo antiparasitário e colônia. Para fórmulas dermatológicas específicas, consulte pelo WhatsApp."
+  }
+ ],
+ "humanizado": true
+}

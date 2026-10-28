@@ -1,0 +1,129 @@
+{
+ "slug": "pet-shop-gopouva",
+ "keyword": "pet shop Gopoúva",
+ "slides": [],
+ "title": "Pet Shop Perto do Gopoúva, Guarulhos | Pet Shop Palmira",
+ "description": "Pet shop a 4,1 km do Gopoúva, Guarulhos: brinquedos para cães e gatos, mordedores, bolinhas e ideias contra o tédio. Ração, farmácia e banho.",
+ "ogDescription": "Pet shop a 4,1 km do Gopoúva, Guarulhos: brinquedos para cães e gatos, mordedores, bolinhas e ideias contra o tédio. Ração, farmácia e banho.",
+ "badge": "Brinquedos e diversão",
+ "h1": "Pet shop perto do <span class=\"acc\">Gopoúva</span>",
+ "intro": [
+  "Cachorro que destrói o sofá e gato que derruba tudo da estante quase sempre têm a mesma coisa em comum: tédio. Brinquedo certo e um pouco de rotina resolvem muito.",
+  "O Pet Shop Palmira fica a 4,1 km do Gopoúva em linha reta, na Av. Pedro de Souza Lopes, 33B, no Jardim Palmira, e tem brinquedos para cães e gatos."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Para o cachorro"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Mordedores",
+     "text": "Para cão que precisa roer, principalmente filhote trocando dente."
+    },
+    {
+     "title": "Bolinhas",
+     "text": "Para buscar e gastar energia."
+    },
+    {
+     "title": "Brinquedos recheáveis",
+     "text": "Coloque ração ou petisco dentro e o cão trabalha para tirar."
+    },
+    {
+     "title": "Cordas",
+     "text": "Para brincar de puxar com o tutor."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Para o gato"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Varinhas",
+     "text": "Imitam presa e fazem o gato caçar."
+    },
+    {
+     "title": "Bolinhas e ratinhos",
+     "text": "Para brincar sozinho."
+    },
+    {
+     "title": "Brinquedos com petisco",
+     "text": "Fazem o gato procurar a comida."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Tudo conforme o estoque. Consulte os modelos pelo WhatsApp (11) 97460-5359."
+  },
+  {
+   "type": "h2",
+   "text": "Tamanho e resistência"
+  },
+  {
+   "type": "p",
+   "html": "Brinquedo pequeno demais para cão grande pode ser engolido. Brinquedo frágil para cão que destrói vira pedaço no estômago. Escolha pelo porte e pela força da mordida, e fique de olho nas primeiras vezes. Brinquedo rasgado vai para o lixo."
+  },
+  {
+   "type": "h2",
+   "text": "Rodízio"
+  },
+  {
+   "type": "p",
+   "html": "Deixe só alguns brinquedos disponíveis e troque a cada poucos dias. Brinquedo que volta depois de uma semana guardado parece novo para o animal."
+  },
+  {
+   "type": "h2",
+   "text": "Brincar junto"
+  },
+  {
+   "type": "p",
+   "html": "Nenhum brinquedo substitui o tutor. Dez minutos de bolinha com o cachorro, ou de varinha com o gato, todo dia, mudam o comportamento. Animal cansado dorme, e animal que dorme não destrói."
+  },
+  {
+   "type": "h2",
+   "text": "O que mais tem na loja"
+  },
+  {
+   "type": "p",
+   "html": "Ração para cães, gatos, pássaros, roedores e criação. Farmácia veterinária com antipulgas e vermífugos. Banho e tosa só para cães, com tosa na máquina, por horário marcado. Você traz e busca o cachorro, porque não temos táxi dog."
+  },
+  {
+   "type": "h2",
+   "text": "Horário e pagamento"
+  },
+  {
+   "type": "p",
+   "html": "De segunda a sábado, das 9h às 18h. Domingo e feriado fechado. Pix, débito, crédito ou dinheiro, sem taxa extra no cartão. Para o Gopoúva, a entrega é combinada por ligação antes."
+  },
+  {
+   "type": "h2",
+   "text": "Quando o problema não é tédio"
+  },
+  {
+   "type": "p",
+   "html": "Cachorro que destrói só quando fica sozinho, que late e chora sem parar, pode ter ansiedade de separação. Gato que muda de comportamento de repente pode estar com dor. Converse com a veterinária. Indicamos a Pink Vet, na mesma avenida, no número 33. A loja não é clínica."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Qual brinquedo é bom para cão que destrói tudo?",
+   "a": "Mordedores resistentes, do tamanho do porte dele. A gente ajuda a escolher."
+  },
+  {
+   "q": "Gato brinca sozinho?",
+   "a": "Brinca um pouco, mas a brincadeira com o tutor, com varinha, gasta mais energia."
+  },
+  {
+   "q": "Entregam no Gopoúva?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "humanizado": true
+}

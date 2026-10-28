@@ -1,0 +1,90 @@
+{
+ "slug": "veterinario-gopouva",
+ "keyword": "veterinário Gopoúva",
+ "slides": [],
+ "title": "Veterinário Perto do Gopoúva, Guarulhos | Pink Vet parceira",
+ "description": "Veterinário a 4,1 km do Gopoúva: Pink Vet, na Av. Pedro de Souza Lopes, 33. Por que não dar remédio por conta própria para cão e gato.",
+ "ogDescription": "Veterinário a 4,1 km do Gopoúva: Pink Vet, na Av. Pedro de Souza Lopes, 33. Por que não dar remédio por conta própria para cão e gato.",
+ "badge": "Sem automedicação",
+ "h1": "Veterinário perto do <span class=\"acc\">Gopoúva</span>",
+ "intro": [
+  "O cachorro está mancando, alguém sugere dar meio comprimido de um remédio de dor de casa. O gato está espirrando, alguém tem um antibiótico sobrando na gaveta. Essas histórias aparecem no nosso balcão, e é por isso que esta página existe.",
+  "Remédio para animal é com receita de veterinária. Para quem mora no Gopoúva, indicamos a Pink Vet Consultório Veterinário, nossa parceira, a 4,1 km, na Av. Pedro de Souza Lopes, 33, no Jardim Palmira."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "O Pet Shop Palmira não é clínica"
+  },
+  {
+   "type": "p",
+   "html": "A gente tem farmácia veterinária, mas não indica remédio nem dose. Isso exige exame. A Pink Vet faz consulta, vacinas e check-up, atende de segunda a sexta, das 9h às 17h, e sábado, das 9h às 16h, e tem nota 5,0 no Google. Agende pelo WhatsApp (11) 93317-1589, no botão desta página."
+  },
+  {
+   "type": "h2",
+   "text": "Por que remédio de gente é perigoso"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Cães e gatos metabolizam remédios de outro jeito.",
+    "Alguns analgésicos comuns em casa são tóxicos para cães e, principalmente, para gatos, mesmo em dose pequena.",
+    "A dose de gente não serve para o peso do animal.",
+    "O remédio pode esconder sintomas e atrasar o diagnóstico."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Remédio de outro animal também não"
+  },
+  {
+   "type": "p",
+   "html": "O antibiótico que funcionou para o cachorro do vizinho foi escolhido para aquele cão, aquela doença e aquele peso. No seu animal, pode não funcionar ou fazer mal. Antipulgas de cachorro em gato pode intoxicar."
+  },
+  {
+   "type": "h2",
+   "text": "O que fazer em vez disso"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Observe e anote os sinais: desde quando, com que frequência.",
+    "Marque a consulta.",
+    "Siga a receita até o fim, mesmo que ele melhore antes.",
+    "Não aumente nem diminua a dose por conta própria.",
+    "Se tiver reação, fale com a veterinária."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Se ele tomou algo por engano"
+  },
+  {
+   "type": "p",
+   "html": "Procure atendimento na hora e leve a embalagem do remédio. Fora do horário da Pink Vet, vá a um hospital veterinário 24 horas."
+  },
+  {
+   "type": "h2",
+   "text": "Com a receita na mão"
+  },
+  {
+   "type": "p",
+   "html": "Na farmácia da loja, no número 33B da mesma avenida, temos antipulgas, vermífugos e medicamentos como Otovet, Agemoxi, Maxicam e enrofloxacina, conforme o estoque. Mande a foto da receita pelo WhatsApp (11) 97460-5359 e a gente confere."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Posso dar remédio de dor de gente para o cachorro?",
+   "a": "Não. Vários são tóxicos para cães e gatos. Fale com a veterinária."
+  },
+  {
+   "q": "O Pet Shop Palmira indica remédio?",
+   "a": "Não. A loja não é clínica. Vendemos o que a veterinária receitou."
+  },
+  {
+   "q": "Como marco na Pink Vet?",
+   "a": "Pelo WhatsApp (11) 93317-1589, no botão desta página."
+  }
+ ],
+ "humanizado": true
+}

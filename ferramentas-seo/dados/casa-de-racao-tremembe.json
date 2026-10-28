@@ -1,0 +1,126 @@
+{
+ "slug": "casa-de-racao-tremembe",
+ "keyword": "casa de ração Tremembé",
+ "slides": [],
+ "title": "Casa de Ração Perto do Tremembé, São Paulo | Pet Shop Palmira",
+ "description": "Casa de ração a 4,1 km do Tremembé: como pedir a ração certa pelo WhatsApp, com marca, linha, fase e tamanho. Entrega combinada por ligação.",
+ "ogDescription": "Casa de ração a 4,1 km do Tremembé: como pedir a ração certa pelo WhatsApp, com marca, linha, fase e tamanho. Entrega combinada por ligação.",
+ "badge": "Pedido certo",
+ "h1": "Casa de ração perto do <span class=\"acc\">Tremembé</span>",
+ "intro": [
+  "Quem mora mais longe da loja não quer receber a ração errada. A entrega chega, o saco é de filhote em vez de adulto, ou de raça grande em vez de pequena, e começa a troca. Dá para evitar isso com um pedido bem feito.",
+  "O Pet Shop Palmira fica a 4,1 km do Tremembé. Aqui vai o que escrever no pedido."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Os cinco dados da ração"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Marca. Exemplo: Golden.",
+    "Linha. Muitas marcas têm várias, com nomes parecidos.",
+    "Espécie e fase: cão filhote, cão adulto, gato castrado, cão sênior.",
+    "Porte, para cães: pequeno, médio ou grande.",
+    "Tamanho do saco, em quilos."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "O jeito mais fácil: tire uma foto da frente do saco vazio e mande pelo WhatsApp (11) 97460-5359."
+  },
+  {
+   "type": "h2",
+   "text": "Para outros bichos"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Animal",
+    "O que informar"
+   ],
+   "rows": [
+    [
+     "Pássaros",
+     "Espécie, como calopsita, periquito ou canário"
+    ],
+    [
+     "Roedores",
+     "Espécie, se quer feno junto"
+    ],
+    [
+     "Galinha",
+     "Fase: pintinho, crescimento ou postura"
+    ],
+    [
+     "Porco",
+     "Fase do animal"
+    ],
+    [
+     "Cavalo",
+     "Tipo de ração e quantidade"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Remédio"
+  },
+  {
+   "type": "p",
+   "html": "Para medicamento, mande a foto da receita. A gente confere a apresentação e a dosagem. Se a receita pede comprimido e só temos outra forma, ou outra concentração, avisamos antes, para você confirmar com a veterinária. Não trocamos remédio por conta própria."
+  },
+  {
+   "type": "h2",
+   "text": "Antes de mandar"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Confira quanto ainda tem em casa. Peça com alguns dias de folga.",
+    "Junte tudo em um pedido só: ração, areia, antipulgas, petisco.",
+    "Diga se prefere retirar ou receber."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Depois do pedido"
+  },
+  {
+   "type": "p",
+   "html": "A gente responde com o valor e o que tem no estoque. Se faltar algo, avisamos na hora e mostramos uma alternativa, se houver. Para entrega no Tremembé, a gente liga para combinar o local e o horário. Sem essa ligação, o pedido não sai."
+  },
+  {
+   "type": "h2",
+   "text": "Pagamento"
+  },
+  {
+   "type": "p",
+   "html": "Pix, débito, crédito ou dinheiro, sem taxa extra no cartão. Combine a forma na ligação."
+  },
+  {
+   "type": "h2",
+   "text": "A loja"
+  },
+  {
+   "type": "p",
+   "html": "Av. Pedro de Souza Lopes, 33B, Jardim Palmira, Guarulhos. Segunda a sábado, das 9h às 18h. Ração para cães, gatos, pássaros, roedores e criação há 25 anos."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Posso mandar só a foto do saco?",
+   "a": "Pode, e ajuda muito. Mande a frente do saco, onde aparece a linha."
+  },
+  {
+   "q": "E se não tiver a ração que eu uso?",
+   "a": "A gente avisa na hora e mostra alternativas, se houver."
+  },
+  {
+   "q": "Entregam no Tremembé?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "humanizado": true
+}

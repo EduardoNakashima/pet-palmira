@@ -1,0 +1,85 @@
+{
+ "slug": "farmacia-veterinaria-com-receita-pelo-whatsapp",
+ "keyword": "farmácia veterinária com receita pelo WhatsApp",
+ "numero": 37,
+ "cluster": "nao_regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Farmácia Veterinária com Receita pelo WhatsApp | Pet Shop Palmira",
+ "description": "Farmácia veterinária com receita pelo WhatsApp em Guarulhos. Envie a foto da receita para (11) 97460-5359 e retire na loja ou combine a entrega.",
+ "ogDescription": "Farmácia veterinária com receita pelo WhatsApp em Guarulhos. Envie a foto da receita para (11) 97460-5359 e retire na loja ou combine a entrega.",
+ "faq": [
+  {
+   "q": "Posso comprar antibiótico veterinário sem receita?",
+   "a": "Antibiótico deve ser usado só com prescrição do veterinário."
+  },
+  {
+   "q": "Qual o horário de atendimento pelo WhatsApp?",
+   "a": "Segunda a sábado, das 9h às 18h."
+  },
+  {
+   "q": "Vocês têm ração medicamentosa?",
+   "a": "Consulte pelo WhatsApp. Se não tivermos, verificamos se dá para encomendar."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/images/produtos/enrofloxacina.webp",
+   "alt": "Antibióticos e quimioterápicos veterinários disponíveis no Pet Shop Palmira",
+   "caption": "Antibióticos e Antimicrobianos Veterinários",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/otovet.webp",
+   "alt": "Soluções otológicas e tratamentos dermatológicos para cães e gatos",
+   "caption": "Gotas Otológicas, Colírios e Tratamento Tópico",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/maxicam.webp",
+   "alt": "Anti-inflamatórios e analgésicos veterinários no Pet Shop Palmira",
+   "caption": "Anti-inflamatórios e Cuidados Especiais",
+   "ok": true
+  }
+ ],
+ "badge": "Receita pelo WhatsApp",
+ "h1": "Farmácia veterinária com <span class=\"acc\">receita pelo WhatsApp</span>",
+ "intro": [
+  "Saiu do veterinário com a receita na mão? Tire uma foto e mande para (11) 97460-5359. A gente confere se tem o medicamento e já deixa separado."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Como funciona"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Fotografe a receita com boa luz, mostrando o nome do remédio e a dose.",
+    "Envie pelo WhatsApp.",
+    "A equipe confirma estoque, apresentação e valor.",
+    "Você retira na loja ou combina a entrega por ligação."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "O que tem na farmácia"
+  },
+  {
+   "type": "p",
+   "html": "Antipulgas como Frontline Plus e Capstar, vermífugos, a solução otológica Otovet, os antibióticos Agemoxi e Enrofloxacina e o anti-inflamatório Maxicam, entre outros."
+  },
+  {
+   "type": "h2",
+   "text": "Não medique sem orientação"
+  },
+  {
+   "type": "p",
+   "html": "Remédio de gente pode envenenar cão e gato. E dose de pet varia com o peso. O que o veterinário receitou é o que vale."
+  },
+  {
+   "type": "p",
+   "html": "Se você não tem veterinário, a gente indica profissionais parceiros de confiança em Guarulhos."
+  }
+ ],
+ "humanizado": true
+}

@@ -1,0 +1,108 @@
+{
+ "slug": "casa-de-racao-vila-galvao",
+ "keyword": "casa de ração Vila Galvão",
+ "slides": [],
+ "title": "Casa de Ração Perto da Vila Galvão, Guarulhos | Pet Shop Palmira",
+ "description": "Casa de ração a 2,1 km da Vila Galvão: para quem cuida de muitos animais, como organizar a compra do mês. Ração para cães, gatos e criação.",
+ "ogDescription": "Casa de ração a 2,1 km da Vila Galvão: para quem cuida de muitos animais, como organizar a compra do mês. Ração para cães, gatos e criação.",
+ "badge": "Muitos animais em casa",
+ "h1": "Casa de ração perto da <span class=\"acc\">Vila Galvão</span>",
+ "intro": [
+  "Tem casa com um cachorro só. E tem casa com quatro cães, seis gatos e um grupo de animais resgatados esperando adoção. Para quem cuida de muitos bichos, a ração vira a maior conta do mês.",
+  "O Pet Shop Palmira fica a 2,1 km da Vila Galvão e atende muita gente nessa situação. Algumas ideias para organizar a compra."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Faça a conta do consumo"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Some a porção diária de todos os animais, em gramas.",
+    "Multiplique por 30 para saber o consumo do mês.",
+    "Divida pelo peso do saco para saber quantos sacos precisa."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Com esse número, dá para comprar de uma vez ou em duas idas, e evitar a correria de ver o pote vazio num domingo, quando a loja está fechada."
+  },
+  {
+   "type": "h2",
+   "text": "Padronize quando der"
+  },
+  {
+   "type": "p",
+   "html": "Ter uma ração só para os cães adultos e uma para os gatos adultos simplifica a vida. Filhote, idoso e animal com dieta indicada pela veterinária ficam à parte. Quanto menos marcas diferentes, mais fácil controlar estoque e preço."
+  },
+  {
+   "type": "h2",
+   "text": "Saco grande, mas fresco"
+  },
+  {
+   "type": "p",
+   "html": "Com muitos animais, o saco grande acaba rápido e compensa no preço por quilo. Mesmo assim, guarde bem fechado, fora do chão e longe do sol. Ração velha é rejeitada, e ração rejeitada é desperdício."
+  },
+  {
+   "type": "h2",
+   "text": "O que temos"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Para",
+    "Marcas e produtos"
+   ],
+   "rows": [
+    [
+     "Cães",
+     "Golden, Premier, Special Dog, Pedigree, Magnus, Premiatta, Max e Royal Canin"
+    ],
+    [
+     "Gatos",
+     "Golden Gatos, CatChow, Whiskas e Royal Canin"
+    ],
+    [
+     "Outros",
+     "Ração para pássaros, roedores, galinha, porco e cavalo"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Tudo conforme o estoque. Confirme pelo WhatsApp (11) 97460-5359 antes de vir."
+  },
+  {
+   "type": "h2",
+   "text": "Antipulgas e vermífugo para todos"
+  },
+  {
+   "type": "p",
+   "html": "Com muitos animais juntos, pulga e verme passam de um para outro rápido. Trate todos no mesmo dia. Na farmácia da loja, temos antipulgas e vermífugos para cães e gatos."
+  },
+  {
+   "type": "h2",
+   "text": "Entrega e pagamento"
+  },
+  {
+   "type": "p",
+   "html": "Para pedido grande, a entrega na Vila Galvão é combinada por ligação antes. Pix, débito, crédito ou dinheiro, sem taxa extra no cartão. Loja aberta de segunda a sábado, das 9h às 18h."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Vocês vendem em quantidade?",
+   "a": "Vendemos vários sacos no mesmo pedido, conforme o estoque. Fale pelo WhatsApp para a gente separar."
+  },
+  {
+   "q": "Dá para entregar vários sacos de uma vez?",
+   "a": "Dá, combinando o local por ligação antes."
+  },
+  {
+   "q": "Qual ração é melhor para muitos cães?",
+   "a": "Uma linha adulta que todos aceitem bem e caiba no orçamento. A gente ajuda a comparar."
+  }
+ ],
+ "humanizado": true
+}

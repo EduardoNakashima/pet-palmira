@@ -1,0 +1,94 @@
+{
+ "slug": "loja-de-brinquedos-para-caes-e-gatos",
+ "keyword": "loja de brinquedos para cães e gatos",
+ "numero": 9,
+ "cluster": "nao_regionalizadas_fase_1",
+ "source": "site",
+ "title": "Loja de Brinquedos para Cães e Gatos | Pet Shop Palmira",
+ "description": "Brinquedos para cães e gatos no Jardim Palmira, Guarulhos: mordedores, bolinhas, cordas e brinquedos interativos. Pet Shop Palmira.",
+ "ogDescription": "Brinquedos para cães e gatos no Jardim Palmira, Guarulhos: mordedores, bolinhas, cordas e brinquedos interativos. Pet Shop Palmira.",
+ "faq": [
+  {
+   "q": "Existe brinquedo indestrutível para cachorro?",
+   "a": "Não existe. Alguns materiais duram bem mais, mas todo brinquedo precisa ser trocado quando começa a se desmanchar."
+  },
+  {
+   "q": "Catnip faz mal para gato?",
+   "a": "Não. É uma erva natural que deixa muitos gatos animados por alguns minutos. Alguns gatos simplesmente não reagem a ela."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/pouring-pet-food-into-bowl.jpg",
+   "alt": "Nutrição felina especializada com equilíbrio renal",
+   "caption": "Nutrição Equilibrada com Proteção Renal",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/goldencat.webp",
+   "alt": "Ração Golden Gatos Castrados sabor frango e salmão",
+   "caption": "Golden Gatos: Especial para Castrados",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/whiskas.webp",
+   "alt": "Ração Whiskas com recheio crocante e alta aceitação",
+   "caption": "Whiskas Crocante e Saboroso",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/saches.webp",
+   "alt": "Sachês úmidos para hidratação diária do trato renal dos felinos",
+   "caption": "Sachês Úmidos: Hidratação Renal Obrigatória",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Hora de brincar",
+ "h1": "Loja de brinquedos para <span class=\"acc\">cães e gatos</span>",
+ "intro": [
+  "Cachorro entediado rói o pé da mesa. Gato sem estímulo arranha o sofá. Brinquedo não resolve tudo, mas ajuda bastante.",
+  "Aqui no Pet Shop Palmira tem bolinha, corda com nó, mordedor e brinquedo com guizo para cães, gatos e até pássaros."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Brincar faz bem"
+  },
+  {
+   "type": "p",
+   "html": "Brincadeira gasta energia, alivia a ansiedade e aproxima o pet da família. Dez ou quinze minutos por dia já mudam o humor de muito cachorro."
+  },
+  {
+   "type": "p",
+   "html": "Gato de apartamento precisa de brincadeira que imite caça: varinha, bolinha, algo que se mexa."
+  },
+  {
+   "type": "h2",
+   "text": "Que tipo de brinquedo escolher"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Mordedores, para cães que gostam de roer.",
+    "Bolinhas e cordas, para buscar e puxar.",
+    "Brinquedos recheáveis, para distrair o cão quando ele fica sozinho.",
+    "Brinquedos com guizo ou pena, para gatos."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "O tamanho importa"
+  },
+  {
+   "type": "p",
+   "html": "Brinquedo pequeno demais para um cão grande pode ser engolido. Duro demais pode machucar o dente de um filhote. Na dúvida, pergunte pela raça e idade."
+  }
+ ],
+ "humanizado": true
+}

@@ -1,0 +1,101 @@
+{
+ "slug": "racao-para-caes-idosos-e-saude-articular",
+ "keyword": "ração para cães idosos e saúde articular",
+ "numero": 31,
+ "cluster": "nao_regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Ração para Cães Idosos e Saúde Articular | Pet Shop Palmira",
+ "description": "Ração para cães idosos e saúde articular em Guarulhos. Como saber quando trocar para a ração sênior e cuidar do cachorro na velhice.",
+ "ogDescription": "Ração para cães idosos e saúde articular em Guarulhos. Como saber quando trocar para a ração sênior e cuidar do cachorro na velhice.",
+ "faq": [
+  {
+   "q": "Com quantos anos trocar para a ração sênior?",
+   "a": "Varia pelo porte. Grandes por volta dos 6 ou 7 anos, pequenos perto dos 8 a 10. O veterinário confirma."
+  },
+  {
+   "q": "Condroitina e glicosamina ajudam mesmo?",
+   "a": "São usadas para ajudar a cartilagem das articulações. Em casos de dor, o tratamento é com o veterinário."
+  },
+  {
+   "q": "E se o cão idoso tiver dificuldade para mastigar?",
+   "a": "Amoleça a ração em água morna ou misture com ração úmida."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/images/produtos/golden.webp",
+   "alt": "Ração Golden Sênior para cães idosos com condroitina e glicosamina",
+   "caption": "Golden Sênior: Proteção Articular e Vitalidade",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/premiata.webp",
+   "alt": "Ração Premiatta Sênior de alta performance com protetores osteoarticulares",
+   "caption": "Premiatta Sênior: Cartilagens e Coluna Fortes",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/max.webp",
+   "alt": "Ração Max Cães Idosos de fácil mastigação e calorias equilibradas",
+   "caption": "Max Sênior: Mastigação Suave e Menor Fósforo",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/racaoparacachorro.jpg",
+   "alt": "Grãos crocantes adaptados que não machucam gengivas sensíveis de cães idosos",
+   "caption": "Grãos Especiais com Textura Macia e Digestiva",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Cão idoso",
+ "h1": "Ração para cães idosos e <span class=\"acc\">saúde articular</span>",
+ "intro": [
+  "O cachorro idoso dorme mais, demora para levantar, às vezes sobe a escada com cuidado. A ração dessa fase ajuda com o peso e com as articulações."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "O que muda na velhice"
+  },
+  {
+   "type": "p",
+   "html": "O metabolismo fica mais lento e o cão engorda com mais facilidade. Peso extra pesa nas articulações, e aí começa um ciclo ruim."
+  },
+  {
+   "type": "p",
+   "html": "As rações sênior costumam ter menos caloria e ingredientes para articulação, como condroitina e glicosamina."
+  },
+  {
+   "type": "h2",
+   "text": "Quando trocar"
+  },
+  {
+   "type": "p",
+   "html": "Cães grandes envelhecem mais cedo, por volta dos 6 ou 7 anos. Os pequenos, perto dos 8 a 10. Mas o melhor sinal é o próprio cachorro: perda de pique, dificuldade para levantar, ganho de peso."
+  },
+  {
+   "type": "p",
+   "html": "Converse com o veterinário antes da troca."
+  },
+  {
+   "type": "h2",
+   "text": "Cuidados no dia a dia"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Tapete ou colchão firme para ele levantar sem escorregar.",
+    "Passeios mais curtos e mais frequentes.",
+    "Comedouro elevado se ele tiver dor no pescoço.",
+    "Check-up com o veterinário pelo menos uma vez por ano."
+   ]
+  }
+ ],
+ "humanizado": true
+}

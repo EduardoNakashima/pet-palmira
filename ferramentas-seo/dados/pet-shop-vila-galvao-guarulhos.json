@@ -1,0 +1,142 @@
+{
+ "slug": "pet-shop-vila-galvao-guarulhos",
+ "keyword": "pet shop Vila Galvão Guarulhos",
+ "numero": 66,
+ "cluster": "regionalizadas_fase_1",
+ "source": "site",
+ "title": "Pet Shop Perto da Vila Galvão, Guarulhos | Pet Shop Palmira",
+ "description": "Pet shop a 2,1 km da Vila Galvão: guias, peitorais e coleiras para passear no Lago dos Patos, ração, farmácia veterinária e banho para cães.",
+ "ogDescription": "Pet shop a 2,1 km da Vila Galvão: guias, peitorais e coleiras para passear no Lago dos Patos, ração, farmácia veterinária e banho para cães.",
+ "faq": [
+  {
+   "q": "Peitoral ou coleira para passear?",
+   "a": "Para cão que puxa, peitoral. A coleira fica para a plaquinha de identificação."
+  },
+  {
+   "q": "Posso provar o peitoral na loja?",
+   "a": "Pode. Traga o cachorro e a gente ajuda a ajustar."
+  },
+  {
+   "q": "Entregam na Vila Galvão?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/loja.jpg",
+   "alt": "Atendimento acolhedor e tradição de 25 anos no Pet Shop Palmira",
+   "caption": "Tradição de 25 Anos na Região",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/racaoparacachorro.jpg",
+   "alt": "Sacos de rações Super Premium e Premium Especial com lote fresco",
+   "caption": "Grandes Marcas de Ração Canina e Felina",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/transportesecasinhas.jpg",
+   "alt": "Casinhas plásticas térmicas, caminhas e caixas de transporte",
+   "caption": "Acessórios, Casinhas e Caixas de Transporte",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/loja2.jpg",
+   "alt": "Corredores com farmácia veterinária, antipulgas e artigos de higiene",
+   "caption": "Farmácia Veterinária e Higiene Completa",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Passeio na Vila Galvão",
+ "h1": "Pet shop perto da <span class=\"acc\">Vila Galvão</span>",
+ "intro": [
+  "Quem mora na Vila Galvão tem o Lago dos Patos por perto, e muito cachorro conhece aquele passeio de cor. O Pet Shop Palmira fica a 2,1 km do bairro em linha reta, no Jardim Palmira, e é onde muitos desses tutores compram a guia, o peitoral e o saco de ração."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Equipamento para passear"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Peitoral",
+     "text": "Distribui a força no peito e não aperta o pescoço. Bom para cão que puxa."
+    },
+    {
+     "title": "Coleira",
+     "text": "Para segurar a plaquinha de identificação. Com dois dedos de folga."
+    },
+    {
+     "title": "Guia fixa",
+     "text": "Mais controle em calçada movimentada e perto de bicicleta."
+    },
+    {
+     "title": "Guia retrátil",
+     "text": "Funciona em espaço aberto e tranquilo. Em rua, trave no tamanho curto."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Como acertar o tamanho"
+  },
+  {
+   "type": "p",
+   "html": "Traga o cachorro para provar. Se não der, mande pelo WhatsApp (11) 97460-5359 o peso, a raça e a medida do peito, logo atrás das patas da frente. Peitoral frouxo deixa o cão escapar no primeiro susto. Apertado demais machuca a axila."
+  },
+  {
+   "type": "h2",
+   "text": "Plaquinha de identificação"
+  },
+  {
+   "type": "p",
+   "html": "Cachorro que foge no parque e não tem identificação dificilmente volta para casa. Uma plaquinha com o seu telefone na coleira é barata e resolve. Muitos tutores só pensam nisso depois do susto."
+  },
+  {
+   "type": "h2",
+   "text": "Depois do passeio"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Confira se há carrapato, principalmente entre os dedos, nas orelhas e no pescoço.",
+    "Olhe as almofadas das patas, que podem cortar em caco de vidro.",
+    "Ofereça água fresca.",
+    "Em dia quente, passeie cedo ou no fim da tarde. Asfalto quente queima a pata."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "O que mais tem na loja"
+  },
+  {
+   "type": "p",
+   "html": "Ração para cães, gatos, pássaros, roedores e criação. Farmácia veterinária com antipulgas, carrapaticidas e vermífugos. Banho e tosa só para cães, com tosa na máquina, por horário marcado. Você traz e busca o cachorro."
+  },
+  {
+   "type": "h2",
+   "text": "Horário, pagamento e entrega"
+  },
+  {
+   "type": "p",
+   "html": "Segunda a sábado, das 9h às 18h, na Av. Pedro de Souza Lopes, 33B. Pix, débito, crédito ou dinheiro, sem taxa extra no cartão. Entrega na Vila Galvão combinada por ligação antes."
+  },
+  {
+   "type": "h2",
+   "text": "Veterinária"
+  },
+  {
+   "type": "p",
+   "html": "A loja não é clínica. Para consulta, vacinas e check-up, indicamos a Pink Vet, na mesma avenida, no número 33."
+  }
+ ],
+ "humanizado": true
+}

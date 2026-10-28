@@ -249,6 +249,10 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://petshoppalmira.com.br/informacoes/casa-de-racao-jardim-palmira</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://petshoppalmira.com.br/informacoes/racao-para-cachorro-jardim-palmira</loc>
     <priority>0.8</priority>
   </url>
@@ -257,15 +261,15 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://petshoppalmira.com.br/informacoes/produtos-para-pets-jardim-palmira</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://petshoppalmira.com.br/informacoes/acessorios-para-pets-jardim-palmira</loc>
+    <loc>https://petshoppalmira.com.br/informacoes/veterinario-jardim-palmira</loc>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://petshoppalmira.com.br/informacoes/pet-shop-continental-guarulhos</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/casa-de-racao-continental</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -277,95 +281,55 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://petshoppalmira.com.br/informacoes/produtos-para-pets-continental</loc>
+    <loc>https://petshoppalmira.com.br/informacoes/veterinario-continental</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://petshoppalmira.com.br/informacoes/acessorios-para-pets-continental</loc>
+    <loc>https://petshoppalmira.com.br/informacoes/pet-shop-jardim-vila-galvao</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://petshoppalmira.com.br/informacoes/pet-shop-cabucu-guarulhos</loc>
+    <loc>https://petshoppalmira.com.br/informacoes/casa-de-racao-jardim-vila-galvao</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://petshoppalmira.com.br/informacoes/racao-para-cachorro-cabucu</loc>
+    <loc>https://petshoppalmira.com.br/informacoes/racao-para-cachorro-jardim-vila-galvao</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://petshoppalmira.com.br/informacoes/racao-para-gato-cabucu</loc>
+    <loc>https://petshoppalmira.com.br/informacoes/racao-para-gato-jardim-vila-galvao</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://petshoppalmira.com.br/informacoes/produtos-para-pets-cabucu</loc>
+    <loc>https://petshoppalmira.com.br/informacoes/veterinario-jardim-vila-galvao</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://petshoppalmira.com.br/informacoes/acessorios-para-pets-cabucu</loc>
+    <loc>https://petshoppalmira.com.br/informacoes/pet-shop-jardim-fontalis</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://petshoppalmira.com.br/informacoes/pet-shop-vila-galvao-guarulhos</loc>
+    <loc>https://petshoppalmira.com.br/informacoes/casa-de-racao-jardim-fontalis</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://petshoppalmira.com.br/informacoes/racao-para-cachorro-vila-galvao</loc>
+    <loc>https://petshoppalmira.com.br/informacoes/racao-para-cachorro-jardim-fontalis</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://petshoppalmira.com.br/informacoes/racao-para-gato-vila-galvao</loc>
+    <loc>https://petshoppalmira.com.br/informacoes/racao-para-gato-jardim-fontalis</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://petshoppalmira.com.br/informacoes/produtos-para-pets-vila-galvao</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://petshoppalmira.com.br/informacoes/acessorios-para-pets-vila-galvao</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://petshoppalmira.com.br/informacoes/pet-shop-jardim-rosa-de-franca</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://petshoppalmira.com.br/informacoes/racao-para-cachorro-rosa-de-franca</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://petshoppalmira.com.br/informacoes/racao-para-gato-rosa-de-franca</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://petshoppalmira.com.br/informacoes/produtos-para-pets-rosa-de-franca</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://petshoppalmira.com.br/informacoes/acessorios-para-pets-rosa-de-franca</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://petshoppalmira.com.br/informacoes/pet-shop-picanco-guarulhos</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://petshoppalmira.com.br/informacoes/racao-para-cachorro-picanco</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://petshoppalmira.com.br/informacoes/racao-para-gato-picanco</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://petshoppalmira.com.br/informacoes/produtos-para-pets-picanco</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://petshoppalmira.com.br/informacoes/acessorios-para-pets-picanco</loc>
+    <loc>https://petshoppalmira.com.br/informacoes/veterinario-jardim-fontalis</loc>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://petshoppalmira.com.br/informacoes/pet-shop-vila-rosalia-guarulhos</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/casa-de-racao-vila-rosalia</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -377,35 +341,115 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://petshoppalmira.com.br/informacoes/produtos-para-pets-vila-rosalia</loc>
+    <loc>https://petshoppalmira.com.br/informacoes/veterinario-vila-rosalia</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://petshoppalmira.com.br/informacoes/acessorios-para-pets-vila-rosalia</loc>
+    <loc>https://petshoppalmira.com.br/informacoes/pet-shop-jardim-rosa-de-franca</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://petshoppalmira.com.br/informacoes/pet-shop-vila-milton-guarulhos</loc>
+    <loc>https://petshoppalmira.com.br/informacoes/casa-de-racao-rosa-de-franca</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://petshoppalmira.com.br/informacoes/racao-para-cachorro-vila-milton</loc>
+    <loc>https://petshoppalmira.com.br/informacoes/racao-para-cachorro-rosa-de-franca</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://petshoppalmira.com.br/informacoes/racao-para-gato-vila-milton</loc>
+    <loc>https://petshoppalmira.com.br/informacoes/racao-para-gato-rosa-de-franca</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://petshoppalmira.com.br/informacoes/produtos-para-pets-vila-milton</loc>
+    <loc>https://petshoppalmira.com.br/informacoes/veterinario-rosa-de-franca</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://petshoppalmira.com.br/informacoes/acessorios-para-pets-vila-milton</loc>
+    <loc>https://petshoppalmira.com.br/informacoes/pet-shop-vila-galvao-guarulhos</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/casa-de-racao-vila-galvao</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/racao-para-cachorro-vila-galvao</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/racao-para-gato-vila-galvao</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/veterinario-vila-galvao</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/pet-shop-jardim-city</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/casa-de-racao-jardim-city</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/racao-para-cachorro-jardim-city</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/racao-para-gato-jardim-city</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/veterinario-jardim-city</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/pet-shop-picanco-guarulhos</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/casa-de-racao-picanco</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/racao-para-cachorro-picanco</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/racao-para-gato-picanco</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/veterinario-picanco</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/pet-shop-jardim-moreira</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/casa-de-racao-jardim-moreira</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/racao-para-cachorro-jardim-moreira</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/racao-para-gato-jardim-moreira</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/veterinario-jardim-moreira</loc>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://petshoppalmira.com.br/informacoes/pet-shop-jardim-flor-da-montanha</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/casa-de-racao-flor-da-montanha</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -417,15 +461,35 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://petshoppalmira.com.br/informacoes/produtos-para-pets-flor-da-montanha</loc>
+    <loc>https://petshoppalmira.com.br/informacoes/veterinario-flor-da-montanha</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://petshoppalmira.com.br/informacoes/acessorios-para-pets-flor-da-montanha</loc>
+    <loc>https://petshoppalmira.com.br/informacoes/pet-shop-vila-milton-guarulhos</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/casa-de-racao-vila-milton</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/racao-para-cachorro-vila-milton</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/racao-para-gato-vila-milton</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/veterinario-vila-milton</loc>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://petshoppalmira.com.br/informacoes/pet-shop-torres-tibagy-guarulhos</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/casa-de-racao-torres-tibagy</loc>
     <priority>0.8</priority>
   </url>
   <url>
@@ -437,11 +501,147 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://petshoppalmira.com.br/informacoes/produtos-para-pets-torres-tibagy</loc>
+    <loc>https://petshoppalmira.com.br/informacoes/veterinario-torres-tibagy</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://petshoppalmira.com.br/informacoes/acessorios-para-pets-torres-tibagy</loc>
+    <loc>https://petshoppalmira.com.br/informacoes/pet-shop-vila-rio</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/casa-de-racao-vila-rio</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/racao-para-cachorro-vila-rio</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/racao-para-gato-vila-rio</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/veterinario-vila-rio</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/pet-shop-santa-mena</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/casa-de-racao-santa-mena</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/racao-para-cachorro-santa-mena</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/racao-para-gato-santa-mena</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/veterinario-santa-mena</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/pet-shop-jacana</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/casa-de-racao-jacana</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/racao-para-cachorro-jacana</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/racao-para-gato-jacana</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/veterinario-jacana</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/pet-shop-cabucu-guarulhos</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/casa-de-racao-cabucu</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/racao-para-cachorro-cabucu</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/racao-para-gato-cabucu</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/veterinario-cabucu</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/pet-shop-tranquilidade</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/casa-de-racao-tranquilidade</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/racao-para-cachorro-tranquilidade</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/racao-para-gato-tranquilidade</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/veterinario-tranquilidade</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/pet-shop-gopouva</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/casa-de-racao-gopouva</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/racao-para-cachorro-gopouva</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/racao-para-gato-gopouva</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/veterinario-gopouva</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/pet-shop-tremembe</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/casa-de-racao-tremembe</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/racao-para-cachorro-tremembe</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/racao-para-gato-tremembe</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://petshoppalmira.com.br/informacoes/veterinario-tremembe</loc>
     <priority>0.8</priority>
   </url>
 </urlset>

@@ -1,0 +1,140 @@
+{
+ "slug": "racao-para-gato-vila-milton",
+ "keyword": "ração para gato Vila Milton",
+ "numero": 88,
+ "cluster": "regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Ração para Gato na Vila Milton, Guarulhos | Pet Shop Palmira",
+ "description": "Casa com vários gatos na Vila Milton: como organizar comedouros, água e caixas de areia, e controlar quem come o quê. A 2,8 km da loja.",
+ "ogDescription": "Casa com vários gatos na Vila Milton: como organizar comedouros, água e caixas de areia, e controlar quem come o quê. A 2,8 km da loja.",
+ "faq": [
+  {
+   "q": "Quantas caixas de areia para três gatos?",
+   "a": "A recomendação comum é quatro: uma por gato, mais uma."
+  },
+  {
+   "q": "Posso usar um comedouro grande para todos?",
+   "a": "Não é o ideal. Comedouros separados evitam disputa."
+  },
+  {
+   "q": "Entregam na Vila Milton?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/images/produtos/goldencat.webp",
+   "alt": "Ração GoldeN Gatos Castrados Frango no Pet Shop Palmira",
+   "caption": "GoldeN Gatos Castrados Frango e Salmão Controle calórico e minerais balanceados para a saúde renal felina.",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/catchow.webp",
+   "alt": "Ração Cat Chow com Defesa Plus para gatos adultos",
+   "caption": "Cat Chow e Whiskas Selecionadas Nutrição diária com excelente aceitação até para os paladares mais exigentes.",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/saches.webp",
+   "alt": "Sachês úmidos para hidratação de gatos no Pet Shop Palmira",
+   "caption": "Sachês e Patês Úmidos Indispensáveis para aumentar o consumo de água e proteger os rins.",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/brinquedos.webp",
+   "alt": "Arranhadores e acessórios para gatos na Vila Milton",
+   "caption": "Arranhadores, Brinquedos e Areias Enriquecimento ambiental completo para seu felino viver relaxado e ativo.",
+   "ok": true
+  }
+ ],
+ "badge": "Vários gatos",
+ "h1": "Ração para gato na <span class=\"acc\">Vila Milton</span>",
+ "intro": [
+  "Um gato puxa outro. Quando você percebe, são três, quatro, cinco. E a hora da comida vira disputa. Um come a ração do outro, o mais tímido fica sem, o mais guloso engorda.",
+  "O Pet Shop Palmira fica a 2,8 km da Vila Milton e atende muita gente com vários gatos em casa."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Comedouros separados"
+  },
+  {
+   "type": "p",
+   "html": "Gato não gosta de comer encostado em outro gato. Mesmo os que se dão bem preferem espaço. Coloque um comedouro para cada gato, em cantos diferentes, ou em alturas diferentes. Assim o tímido come em paz."
+  },
+  {
+   "type": "h2",
+   "text": "Quem come o quê"
+  },
+  {
+   "type": "p",
+   "html": "Se um gato precisa de ração especial, como a de castrado ou uma indicada pela veterinária, alimente ele em outro cômodo, de porta fechada, por 20 a 30 minutos. Depois recolha o que sobrou."
+  },
+  {
+   "type": "h2",
+   "text": "Água em vários pontos"
+  },
+  {
+   "type": "p",
+   "html": "Com muitos gatos, um pote de água só não basta. Espalhe vários pela casa, longe dos comedouros e das caixas de areia. Fonte de água ajuda muitos gatos a beberem mais."
+  },
+  {
+   "type": "h2",
+   "text": "A regra das caixas de areia"
+  },
+  {
+   "type": "p",
+   "html": "A recomendação mais usada é uma caixa por gato, mais uma. Com três gatos, quatro caixas. Parece muito, mas evita xixi fora do lugar e briga. Caixas em lugares diferentes, não todas lado a lado."
+  },
+  {
+   "type": "h2",
+   "text": "Controle do peso"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Situação",
+    "O que fazer"
+   ],
+   "rows": [
+    [
+     "Um gato engordando",
+     "Porção medida e comedouro separado"
+    ],
+    [
+     "Um gato emagrecendo",
+     "Observar se está conseguindo comer e procurar a veterinária"
+    ],
+    [
+     "Todos engordando",
+     "Rever a quantidade total e o pote cheio o dia inteiro"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Ração para todos"
+  },
+  {
+   "type": "p",
+   "html": "Se os gatos são adultos e saudáveis, uma ração só facilita. Temos Golden Gatos, CatChow, Whiskas e Royal Canin, para adulto, castrado, filhote e idoso, conforme o estoque. Saco maior compensa com muitos gatos."
+  },
+  {
+   "type": "h2",
+   "text": "Antipulgas para todos no mesmo dia"
+  },
+  {
+   "type": "p",
+   "html": "Se um tem pulga, todos têm. Trate todos juntos, com produto próprio para gatos."
+  },
+  {
+   "type": "h2",
+   "text": "Compra e entrega"
+  },
+  {
+   "type": "p",
+   "html": "Loja aberta de segunda a sábado, das 9h às 18h, na Av. Pedro de Souza Lopes, 33B. Pedido pelo WhatsApp (11) 97460-5359. Entrega na Vila Milton combinada por ligação antes. Para consulta, indicamos a Pink Vet, no número 33."
+  }
+ ],
+ "humanizado": true
+}

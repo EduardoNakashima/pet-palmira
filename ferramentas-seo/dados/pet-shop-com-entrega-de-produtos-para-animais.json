@@ -1,0 +1,101 @@
+{
+ "slug": "pet-shop-com-entrega-de-produtos-para-animais",
+ "keyword": "pet shop com entrega de produtos para animais",
+ "numero": 23,
+ "cluster": "nao_regionalizadas_fase_1",
+ "source": "site",
+ "title": "Pet Shop com Entrega de Produtos para Animais | Pet Shop Palmira",
+ "description": "Pet shop com entrega de produtos para animais em Guarulhos. Entrega combinada por ligação no Jardim Palmira e bairros num raio de 10 km.",
+ "ogDescription": "Pet shop com entrega de produtos para animais em Guarulhos. Entrega combinada por ligação no Jardim Palmira e bairros num raio de 10 km.",
+ "faq": [
+  {
+   "q": "Como funciona a entrega?",
+   "a": "Só combinando o local por ligação antes, pelo (11) 2451-1719 ou ligação no WhatsApp."
+  },
+  {
+   "q": "Quais formas de pagamento vocês aceitam?",
+   "a": "Pix, cartão de débito e crédito e dinheiro."
+  },
+  {
+   "q": "Posso pedir entrega sem ligar antes?",
+   "a": "Não. A entrega é sempre combinada por ligação."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/loja2.jpg",
+   "alt": "Variedade completa em produtos para cães e gatos no Pet Shop Palmira",
+   "caption": "Sortimento Completo em Produtos Pet",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/shampoo.webp",
+   "alt": "Shampoos hipoalergênicos e sabonetes dermatológicos",
+   "caption": "Shampoos e Higiene Especializada",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/brinquedos.webp",
+   "alt": "Brinquedos mordedores resistentes e cordas para recreação",
+   "caption": "Brinquedos Duráveis e Mordedores",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/capstar.webp",
+   "alt": "Farmácia veterinária preventiva, antipulgas e vermífugos",
+   "caption": "Farmácia e Proteção Antipulgas",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Entrega combinada",
+ "h1": "Pet shop com <span class=\"acc\">entrega de produtos</span> para animais",
+ "intro": [
+  "Carregar saco de 20 kg de ração a pé ninguém merece. O Pet Shop Palmira faz entrega, mas de um jeito específico: só combinando o local por ligação antes.",
+  "Liga no (11) 2451-1719 ou faz uma ligação pelo WhatsApp (11) 97460-5359. Na ligação a gente confirma o endereço, o pedido e o melhor horário."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Por que por ligação"
+  },
+  {
+   "type": "p",
+   "html": "Porque assim não tem erro de endereço nem pedido trocado. E você já sabe na hora se o seu bairro está dentro da área de entrega."
+  },
+  {
+   "type": "h2",
+   "text": "O que dá para pedir"
+  },
+  {
+   "type": "p",
+   "html": "Ração, sachê, areia, tapete higiênico, antipulgas, medicamento com receita, caminha e casinha. Os itens pesados e volumosos são os que mais fazem sentido entregar."
+  },
+  {
+   "type": "h2",
+   "text": "Bairros atendidos"
+  },
+  {
+   "type": "p",
+   "html": "O Jardim Palmira e os bairros num raio de uns 10 km, como Parque Continental, Vila Galvão, Rosa de França, Picanço, Vila Rosália e Cabuçu."
+  },
+  {
+   "type": "h2",
+   "text": "Passo a passo"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Consulte o produto e o valor pelo WhatsApp.",
+    "Ligue para combinar o local e o horário.",
+    "Pague com Pix, cartão ou dinheiro."
+   ]
+  }
+ ],
+ "humanizado": true
+}

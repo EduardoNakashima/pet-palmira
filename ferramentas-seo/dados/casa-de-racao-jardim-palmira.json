@@ -1,0 +1,92 @@
+{
+ "slug": "casa-de-racao-jardim-palmira",
+ "keyword": "casa de ração Jardim Palmira",
+ "slides": [],
+ "title": "Casa de Ração no Jardim Palmira, Guarulhos | Pet Shop Palmira",
+ "description": "Casa de ração no Jardim Palmira, Guarulhos: ração para cão, gato, pássaro, roedor, galinha, porco e cavalo. Há 25 anos na Av. Pedro de Souza Lopes.",
+ "ogDescription": "Casa de ração no Jardim Palmira, Guarulhos: ração para cão, gato, pássaro, roedor, galinha, porco e cavalo. Há 25 anos na Av. Pedro de Souza Lopes.",
+ "badge": "Ração para todo bicho",
+ "h1": "Casa de ração no <span class=\"acc\">Jardim Palmira</span>",
+ "intro": [
+  "Antes de virar pet shop no jeito que se fala hoje, loja de bairro era casa de ração. Era onde se comprava o milho da galinha, o alpiste do canário e a ração do cachorro no mesmo balcão.",
+  "O Pet Shop Palmira continua assim. Há 25 anos no Jardim Palmira, a gente vende ração para o cachorro do apartamento e para a criação do quintal."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Ração para cada bicho"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Animal",
+    "O que você encontra"
+   ],
+   "rows": [
+    [
+     "Cachorro",
+     "Golden, Premier, Special Dog, Pedigree, Magnus, Premiatta, Max e Royal Canin, conforme o estoque"
+    ],
+    [
+     "Gato",
+     "Golden Gatos, CatChow, Whiskas e linhas para castrados"
+    ],
+    [
+     "Pássaros",
+     "Misturas de sementes e ração para calopsita, periquito e canário"
+    ],
+    [
+     "Roedores",
+     "Ração e feno para porquinho-da-índia e coelho"
+    ],
+    [
+     "Criação",
+     "Ração para galinha, porco e cavalo"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Para quem cria no quintal"
+  },
+  {
+   "type": "p",
+   "html": "No bairro ainda tem casa com quintal de terra, galinheiro no fundo e passarinho na varanda. Para esse público, a pergunta costuma ser de quantidade: quanto a galinha come por dia, quanto tempo dura um saco, como guardar sem dar bicho."
+  },
+  {
+   "type": "p",
+   "html": "A regra geral é simples. Ração de criação deve ficar em lugar seco, fora do chão e bem fechada, porque umidade e rato estragam o saco rápido. Se a sua criação é maior, conte para a gente quantos animais são e ajudamos a calcular o tamanho do saco."
+  },
+  {
+   "type": "h2",
+   "text": "Preço de casa de ração"
+  },
+  {
+   "type": "p",
+   "html": "Quem compra ração todo mês olha o preço. A gente mostra as linhas de cada marca e explica a diferença. Às vezes a ração um pouco mais cara rende mais, porque o animal precisa comer menos para ficar satisfeito."
+  },
+  {
+   "type": "h2",
+   "text": "Pedido e retirada"
+  },
+  {
+   "type": "p",
+   "html": "Você pode passar na loja de segunda a sábado, das 9h às 18h, ou mandar o pedido pelo WhatsApp (11) 97460-5359. Para saco grande, a entrega é combinada por ligação antes. Pagamento no Pix, débito, crédito ou dinheiro, sem taxa extra no cartão."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Vocês vendem ração para galinha?",
+   "a": "Vendemos. Temos ração para galinha e outras aves de criação, além de porco e cavalo."
+  },
+  {
+   "q": "Tem alpiste e semente para pássaro?",
+   "a": "Tem. Consulte as misturas disponíveis pelo WhatsApp."
+  },
+  {
+   "q": "Como guardar ração de criação?",
+   "a": "Em lugar seco, fora do chão e com o saco bem fechado, longe de umidade e de rato."
+  }
+ ],
+ "humanizado": true
+}

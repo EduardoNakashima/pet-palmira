@@ -1,0 +1,121 @@
+{
+ "slug": "racao-para-cachorro-vila-galvao",
+ "keyword": "ração para cachorro Vila Galvão",
+ "numero": 67,
+ "cluster": "regionalizadas_fase_1",
+ "source": "site",
+ "title": "Ração para Cachorro na Vila Galvão, Guarulhos | Pet Shop Palmira",
+ "description": "Ração para cachorro ativo na Vila Galvão: quanto o cão que passeia muito precisa comer, horário da comida e do passeio e marcas em estoque.",
+ "ogDescription": "Ração para cachorro ativo na Vila Galvão: quanto o cão que passeia muito precisa comer, horário da comida e do passeio e marcas em estoque.",
+ "faq": [
+  {
+   "q": "Posso dar ração logo antes do passeio?",
+   "a": "O ideal é esperar uma hora ou mais depois da refeição para passear."
+  },
+  {
+   "q": "Cão ativo precisa de ração especial?",
+   "a": "Não obrigatoriamente. Uma boa ração adulta na porção certa resolve na maioria dos casos."
+  },
+  {
+   "q": "Entregam na Vila Galvão?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/racaoparacachorro.jpg",
+   "alt": "Sacos de 15kg e 20kg das melhores marcas de ração canina",
+   "caption": "Sacos de 15kg e 20kg em Estoque",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/golden.webp",
+   "alt": "Ração Golden Fórmula para cães adultos e filhotes",
+   "caption": "Golden Fórmula: Sabor e Custo-Benefício",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/premiata.webp",
+   "alt": "Linha Super Premium com nutrientes funcionais e condroitina",
+   "caption": "Super Premium para Saúde Articular",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/pouring-pet-food-into-bowl.jpg",
+   "alt": "Nutrição equilibrada com grãos crocantes servidos na tigela",
+   "caption": "Digestibilidade Máxima e Fezes Menores",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Cão que passeia",
+ "h1": "Ração para cachorro na <span class=\"acc\">Vila Galvão</span>",
+ "intro": [
+  "Cachorro que dá volta no Lago dos Patos todo dia gasta mais energia do que o que passa a tarde no sofá. A ração precisa acompanhar o ritmo, sem exagero.",
+  "O Pet Shop Palmira fica a 2,1 km da Vila Galvão, no Jardim Palmira, e tem ração para cão de todo nível de atividade."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Quanto o cão ativo come"
+  },
+  {
+   "type": "p",
+   "html": "A tabela da embalagem traz a porção pelo peso. Muitas marcas mostram duas faixas, uma para cão menos ativo e outra para cão ativo. Comece pela faixa do meio e observe por duas ou três semanas:"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Se ele está perdendo peso e as costelas aparecem demais, aumente um pouco.",
+    "Se está ganhando barriga, diminua.",
+    "Se está no peso e com energia, a porção está certa."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Passeio e comida em horários separados"
+  },
+  {
+   "type": "p",
+   "html": "Não passeie logo depois da refeição, principalmente com cachorro grande e de peito fundo. Exercício forte com o estômago cheio aumenta o risco de torção gástrica, que é uma emergência. Espere uma hora ou mais depois de comer, ou dê a comida depois do passeio, quando ele já tiver se acalmado."
+  },
+  {
+   "type": "h2",
+   "text": "Água no passeio"
+  },
+  {
+   "type": "p",
+   "html": "Leve água em passeio longo, principalmente no calor. Cachorro não sua como a gente e esquenta rápido. Garrafinha com bebedouro acoplado é prática e temos na loja."
+  },
+  {
+   "type": "h2",
+   "text": "Ração para cão ativo"
+  },
+  {
+   "type": "p",
+   "html": "Rações de linha mais alta costumam ter mais proteína e são mais aproveitadas. Temos Golden, Premier, Special Dog, Pedigree, Magnus, Premiatta, Max e Royal Canin, conforme o estoque. Algumas linhas têm versões para cães ativos ou atletas."
+  },
+  {
+   "type": "h2",
+   "text": "Petisco de recompensa"
+  },
+  {
+   "type": "p",
+   "html": "Petisco ajuda no adestramento durante o passeio. Use pedaços pequenos e desconte da ração do dia. Temos petiscos e ossinhos de vários tamanhos."
+  },
+  {
+   "type": "h2",
+   "text": "Compra e entrega"
+  },
+  {
+   "type": "p",
+   "html": "Loja aberta de segunda a sábado, das 9h às 18h, na Av. Pedro de Souza Lopes, 33B. Pelo WhatsApp (11) 97460-5359 a gente confirma o estoque. Entrega na Vila Galvão combinada por ligação antes."
+  }
+ ],
+ "humanizado": true
+}

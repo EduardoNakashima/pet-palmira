@@ -1,0 +1,130 @@
+{
+ "slug": "pet-shop-jardim-palmira-guarulhos",
+ "keyword": "pet shop Jardim Palmira Guarulhos",
+ "numero": 51,
+ "cluster": "regionalizadas_fase_1",
+ "source": "site",
+ "title": "Pet Shop no Jardim Palmira, Guarulhos | Pet Shop Palmira",
+ "description": "Pet shop no Jardim Palmira, Guarulhos, há 25 anos na Av. Pedro de Souza Lopes, 33B. Ração, farmácia veterinária, acessórios e banho e tosa para cães.",
+ "ogDescription": "Pet shop no Jardim Palmira, Guarulhos, há 25 anos na Av. Pedro de Souza Lopes, 33B. Ração, farmácia veterinária, acessórios e banho e tosa para cães.",
+ "faq": [
+  {
+   "q": "Onde fica o Pet Shop Palmira?",
+   "a": "Na Av. Pedro de Souza Lopes, 33B, no Jardim Palmira, em Guarulhos."
+  },
+  {
+   "q": "Vocês abrem no domingo?",
+   "a": "Não. Abrimos de segunda a sábado, das 9h às 18h."
+  },
+  {
+   "q": "Dá para pedir ração sem ir até a loja?",
+   "a": "Dá. Mande o pedido pelo WhatsApp (11) 97460-5359 e a gente combina a entrega por ligação."
+  },
+  {
+   "q": "Vocês dão banho em gato?",
+   "a": "Não. O banho e tosa é só para cães."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/loja.jpg",
+   "alt": "Atendimento acolhedor e tradição de 25 anos no Pet Shop Palmira",
+   "caption": "Tradição de 25 Anos na Região",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/racaoparacachorro.jpg",
+   "alt": "Sacos de rações Super Premium e Premium Especial com lote fresco",
+   "caption": "Grandes Marcas de Ração Canina e Felina",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/transportesecasinhas.jpg",
+   "alt": "Casinhas plásticas térmicas, caminhas e caixas de transporte",
+   "caption": "Acessórios, Casinhas e Caixas de Transporte",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/loja2.jpg",
+   "alt": "Corredores com farmácia veterinária, antipulgas e artigos de higiene",
+   "caption": "Farmácia Veterinária e Higiene Completa",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "O pet shop do bairro",
+ "h1": "Pet shop no <span class=\"acc\">Jardim Palmira</span>",
+ "intro": [
+  "A gente está no Jardim Palmira há 25 anos, na Av. Pedro de Souza Lopes, 33B. Tem cliente que começou comprando ração para o primeiro cachorro e hoje traz o neto para escolher o brinquedo do filhote.",
+  "Para quem mora no bairro, dá para vir a pé, pegar a ração e voltar com o saco no ombro. Se o saco for pesado demais, a gente combina a entrega por ligação."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "O que tem na loja"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Ração",
+     "text": "Cães, gatos, pássaros, roedores e animais de criação, como galinha, porco e cavalo."
+    },
+    {
+     "title": "Farmácia veterinária",
+     "text": "Antipulgas, vermífugos e medicamentos com receita, como Frontline, Capstar, Otovet e Maxicam."
+    },
+    {
+     "title": "Banho e tosa",
+     "text": "Só para cães, com tosa na máquina. Você traz e busca o cachorro na loja."
+    },
+    {
+     "title": "Acessórios",
+     "text": "Caminhas, casinhas, coleiras, guias, comedouros e caixas de transporte."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Como funciona o dia a dia"
+  },
+  {
+   "type": "p",
+   "html": "A loja abre de segunda a sábado, das 9h às 18h. Domingo e feriado fica fechada, então vale deixar a ração do fim de semana garantida até sábado à tarde."
+  },
+  {
+   "type": "p",
+   "html": "Quem prefere não sair de casa pode mandar o pedido pelo WhatsApp (11) 97460-5359. A gente confere o estoque, passa o valor e, se for entrega, liga para combinar o local e o horário. Sem essa ligação, a entrega não sai."
+  },
+  {
+   "type": "p",
+   "html": "Aceitamos Pix, cartão de débito, cartão de crédito e dinheiro, sem taxa extra no cartão."
+  },
+  {
+   "type": "h2",
+   "text": "Vizinho também ajuda vizinho"
+  },
+  {
+   "type": "p",
+   "html": "Muita gente do Jardim Palmira chega com uma dúvida, não com uma lista. O cachorro parou de comer a ração de sempre, o gato começou a fazer xixi fora da caixa, apareceu pulga depois da chuva. A gente escuta, mostra as opções e explica a diferença de preço entre elas."
+  },
+  {
+   "type": "p",
+   "html": "Quando o caso é de saúde, a resposta é outra: a gente indica veterinário. A Pink Vet, nossa parceira, atende aqui mesmo na avenida, no número 33."
+  },
+  {
+   "type": "h2",
+   "text": "Banho e tosa sem complicação"
+  },
+  {
+   "type": "p",
+   "html": "Marque pelo WhatsApp, traga o cão no horário combinado e busque quando avisarmos. Como não temos táxi dog, o banho funciona melhor para quem mora perto, e no Jardim Palmira isso é o que não falta."
+  }
+ ],
+ "humanizado": true
+}

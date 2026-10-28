@@ -1,0 +1,93 @@
+{
+ "slug": "comprar-acessorios-para-cachorro-e-gato",
+ "keyword": "comprar acessórios para cachorro e gato",
+ "numero": 8,
+ "cluster": "nao_regionalizadas_fase_1",
+ "source": "site",
+ "title": "Comprar Acessórios para Cachorro e Gato | Pet Shop Palmira",
+ "description": "Comprar acessórios para cachorro e gato em Guarulhos: coleiras, peitorais, caminhas e caixas de transporte. Ajuda com o tamanho pelo WhatsApp.",
+ "ogDescription": "Comprar acessórios para cachorro e gato em Guarulhos: coleiras, peitorais, caminhas e caixas de transporte. Ajuda com o tamanho pelo WhatsApp.",
+ "faq": [
+  {
+   "q": "Vocês ajudam a escolher o tamanho do peitoral por foto?",
+   "a": "Ajudamos. Mande uma foto do pet de lado, o peso e a raça."
+  },
+  {
+   "q": "Para quais bairros vocês entregam?",
+   "a": "Jardim Palmira e bairros num raio de uns 10 km. A entrega é sempre combinada por ligação antes."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/pouring-pet-food-into-bowl.jpg",
+   "alt": "Nutrição felina especializada com equilíbrio renal",
+   "caption": "Nutrição Equilibrada com Proteção Renal",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/goldencat.webp",
+   "alt": "Ração Golden Gatos Castrados sabor frango e salmão",
+   "caption": "Golden Gatos: Especial para Castrados",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/whiskas.webp",
+   "alt": "Ração Whiskas com recheio crocante e alta aceitação",
+   "caption": "Whiskas Crocante e Saboroso",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/saches.webp",
+   "alt": "Sachês úmidos para hidratação diária do trato renal dos felinos",
+   "caption": "Sachês Úmidos: Hidratação Renal Obrigatória",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Tamanho certo",
+ "h1": "Comprar acessórios para <span class=\"acc\">cachorro e gato</span>",
+ "intro": [
+  "O erro mais comum na compra de acessório é o tamanho. Para evitar isso, mande o peso e a raça do seu pet pelo WhatsApp (11) 97460-5359 antes de comprar."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Dicas para não errar"
+  },
+  {
+   "type": "p",
+   "html": "Coleira deve deixar passar dois dedos entre ela e o pescoço. Mais apertada machuca, mais solta escapa."
+  },
+  {
+   "type": "p",
+   "html": "Para caminha, meça o pet deitado e some uns 15 cm. Para caixa de transporte, ele precisa ficar em pé e virar o corpo."
+  },
+  {
+   "type": "h2",
+   "text": "O básico para quem acabou de adotar"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Coleira com plaquinha de identificação.",
+    "Guia e peitoral para os passeios.",
+    "Caminha e comedouro.",
+    "Caixa de transporte para as idas ao veterinário."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Como comprar"
+  },
+  {
+   "type": "p",
+   "html": "Você consulta pelo WhatsApp, recebe foto dos modelos que temos e decide. Depois retira na loja ou combina a entrega por ligação. Se não tivermos o tamanho, a gente encomenda."
+  }
+ ],
+ "humanizado": true
+}

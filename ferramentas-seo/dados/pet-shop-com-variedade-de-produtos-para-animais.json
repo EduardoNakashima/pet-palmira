@@ -1,0 +1,97 @@
+{
+ "slug": "pet-shop-com-variedade-de-produtos-para-animais",
+ "keyword": "pet shop com variedade de produtos para animais",
+ "numero": 20,
+ "cluster": "nao_regionalizadas_fase_1",
+ "source": "site",
+ "title": "Pet Shop com Variedade de Produtos para Animais | Pet Shop Palmira",
+ "description": "Pet shop com variedade de produtos para animais em Guarulhos: cães, gatos, pássaros, roedores, cavalos e criação no mesmo lugar. Jardim Palmira.",
+ "ogDescription": "Pet shop com variedade de produtos para animais em Guarulhos: cães, gatos, pássaros, roedores, cavalos e criação no mesmo lugar. Jardim Palmira.",
+ "faq": [
+  {
+   "q": "Vocês encomendam produto que não está na prateleira?",
+   "a": "Encomendamos com nossos fornecedores de confiança. Pergunte pelo WhatsApp."
+  },
+  {
+   "q": "Quais marcas de ração vocês trabalham?",
+   "a": "Premier, Golden, Magnus, Special Dog, Pedigree, Whiskas, Royal Canin, entre outras. A disponibilidade varia com o estoque."
+  },
+  {
+   "q": "Como consulto o estoque?",
+   "a": "Mande o nome do produto para (11) 97460-5359."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/loja2.jpg",
+   "alt": "Variedade completa em produtos para cães e gatos no Pet Shop Palmira",
+   "caption": "Sortimento Completo em Produtos Pet",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/shampoo.webp",
+   "alt": "Shampoos hipoalergênicos e sabonetes dermatológicos",
+   "caption": "Shampoos e Higiene Especializada",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/brinquedos.webp",
+   "alt": "Brinquedos mordedores resistentes e cordas para recreação",
+   "caption": "Brinquedos Duráveis e Mordedores",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/capstar.webp",
+   "alt": "Farmácia veterinária preventiva, antipulgas e vermífugos",
+   "caption": "Farmácia e Proteção Antipulgas",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Tudo num lugar só",
+ "h1": "Pet shop com <span class=\"acc\">variedade de produtos</span> para animais",
+ "intro": [
+  "Já aconteceu de ir em três lugares para comprar a ração do cachorro, a semente do passarinho e o feno do coelho? Aqui no Jardim Palmira dá para resolver numa ida só."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "O que tem no catálogo"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Cães e gatos",
+     "text": "Ração, petisco, higiene, farmácia e acessórios."
+    },
+    {
+     "title": "Pássaros",
+     "text": "Sementes, ração extrusada e acessórios de gaiola."
+    },
+    {
+     "title": "Coelhos e cavalos",
+     "text": "Ração peletizada, feno, alfafa e ração para equinos."
+    },
+    {
+     "title": "Criação",
+     "text": "Ração para galinhas, porcos e peixes, e sal mineral."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Por que os clientes voltam"
+  },
+  {
+   "type": "p",
+   "html": "Atendimento de gente para gente. A gente explica a diferença entre uma ração e outra, ajuda a escolher o tamanho do peitoral e encomenda o que estiver em falta."
+  }
+ ],
+ "humanizado": true
+}

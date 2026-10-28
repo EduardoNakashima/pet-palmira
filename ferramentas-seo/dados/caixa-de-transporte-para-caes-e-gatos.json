@@ -1,0 +1,105 @@
+{
+ "slug": "caixa-de-transporte-para-caes-e-gatos",
+ "keyword": "caixa de transporte para cães e gatos",
+ "numero": 42,
+ "cluster": "nao_regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Caixa de Transporte para Cães e Gatos | Pet Shop Palmira",
+ "description": "Caixa de transporte para cães e gatos em Guarulhos. Como escolher o tamanho certo e acostumar o pet à caixa. Pet Shop Palmira, Jardim Palmira.",
+ "ogDescription": "Caixa de transporte para cães e gatos em Guarulhos. Como escolher o tamanho certo e acostumar o pet à caixa. Pet Shop Palmira, Jardim Palmira.",
+ "faq": [
+  {
+   "q": "Qual tamanho para um gato adulto?",
+   "a": "A pequena atende a maioria dos gatos. Gatos grandes podem precisar da média."
+  },
+  {
+   "q": "A caixa serve para viagem de avião?",
+   "a": "Cada companhia tem suas regras. Confira com a companhia antes de comprar."
+  },
+  {
+   "q": "Posso levar o pet solto no banco do carro?",
+   "a": "Não é seguro. Use caixa de transporte ou cinto próprio para pets."
+  },
+  {
+   "q": "Vocês têm bolsa de transporte para cabine?",
+   "a": "Consulte os modelos disponíveis pelo WhatsApp."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/images/produtos/transporte.webp",
+   "alt": "Caixas de transporte resistentes N1, N2, N3 e N4 no Pet Shop Palmira",
+   "caption": "Caixas de transporte resistentes N1, N2, N3 e N4",
+   "ok": true
+  },
+  {
+   "src": "assets/images/organico/transportesecasinhas.jpg",
+   "alt": "Variedade em caixas de transporte e casinhas na loja física em Guarulhos",
+   "caption": "Variedade completa em exposição na nossa loja física",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/casinha.webp",
+   "alt": "Estruturas reforçadas e de fácil higienização para pets",
+   "caption": "Materiais duráveis de fácil limpeza e alta segurança",
+   "ok": true
+  }
+ ],
+ "badge": "Transporte seguro",
+ "h1": "Caixa de transporte para <span class=\"acc\">cães e gatos</span>",
+ "intro": [
+  "Pet solto no carro é risco para ele e para quem dirige. Gato no colo, fora de casa, foge no primeiro barulho. A caixa de transporte resolve os dois problemas."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Como escolher o tamanho"
+  },
+  {
+   "type": "p",
+   "html": "O pet precisa ficar em pé sem encostar a cabeça no teto, se deitar e dar uma volta lá dentro. Caixa pequena demais estressa. Grande demais deixa ele escorregando de um lado para o outro."
+  },
+  {
+   "type": "h2",
+   "text": "Guia rápido"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Tamanho",
+    "Para quem"
+   ],
+   "rows": [
+    [
+     "Pequena",
+     "Gatos e cães de até uns 5 kg"
+    ],
+    [
+     "Média",
+     "Cães pequenos maiores e gatos grandes"
+    ],
+    [
+     "Grande",
+     "Cães médios"
+    ],
+    [
+     "Extra grande",
+     "Cães grandes"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Mande o peso e a raça pelo WhatsApp que a gente confirma o tamanho."
+  },
+  {
+   "type": "h2",
+   "text": "Para o pet não odiar a caixa"
+  },
+  {
+   "type": "p",
+   "html": "Deixe a caixa aberta em casa uns dias antes, com uma manta e um petisco dentro. Quando ela vira um lugar comum, a ida ao veterinário fica bem menos traumática."
+  }
+ ],
+ "humanizado": true
+}

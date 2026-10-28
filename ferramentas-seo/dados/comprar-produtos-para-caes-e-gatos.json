@@ -1,0 +1,93 @@
+{
+ "slug": "comprar-produtos-para-caes-e-gatos",
+ "keyword": "comprar produtos para cães e gatos",
+ "numero": 6,
+ "cluster": "nao_regionalizadas_fase_1",
+ "source": "site",
+ "title": "Comprar Produtos para Cães e Gatos | Pet Shop Palmira",
+ "description": "Comprar produtos para cães e gatos em Guarulhos: consulte pelo WhatsApp, pague com Pix, cartão ou dinheiro e retire na loja ou combine a entrega.",
+ "ogDescription": "Comprar produtos para cães e gatos em Guarulhos: consulte pelo WhatsApp, pague com Pix, cartão ou dinheiro e retire na loja ou combine a entrega.",
+ "faq": [
+  {
+   "q": "Posso fazer o pedido pelo WhatsApp?",
+   "a": "Pode. Mande o produto e a quantidade. A entrega é combinada por ligação antes."
+  },
+  {
+   "q": "Posso encomendar uma marca ou tamanho específico?",
+   "a": "Pode. Se não tivermos na prateleira, encomendamos com nossos fornecedores."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/pouring-pet-food-into-bowl.jpg",
+   "alt": "Nutrição felina especializada com equilíbrio renal",
+   "caption": "Nutrição Equilibrada com Proteção Renal",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/goldencat.webp",
+   "alt": "Ração Golden Gatos Castrados sabor frango e salmão",
+   "caption": "Golden Gatos: Especial para Castrados",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/whiskas.webp",
+   "alt": "Ração Whiskas com recheio crocante e alta aceitação",
+   "caption": "Whiskas Crocante e Saboroso",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/saches.webp",
+   "alt": "Sachês úmidos para hidratação diária do trato renal dos felinos",
+   "caption": "Sachês Úmidos: Hidratação Renal Obrigatória",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Compra pelo WhatsApp",
+ "h1": "Comprar produtos para <span class=\"acc\">cães e gatos</span> em Guarulhos",
+ "intro": [
+  "Dá para comprar quase tudo para o seu cão ou gato com uma mensagem. Mande uma foto ou o nome do produto para (11) 97460-5359 e a equipe responde com o valor e a disponibilidade."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Antes de comprar"
+  },
+  {
+   "type": "p",
+   "html": "Vale ter à mão o peso e a idade do pet. Com isso a gente indica o tamanho da coleira, a dose do antipulgas e a ração certa para a fase dele."
+  },
+  {
+   "type": "p",
+   "html": "Para produto de uso contínuo, como ração e areia, pense na embalagem maior. Costuma sair mais barato por quilo."
+  },
+  {
+   "type": "h2",
+   "text": "O que o pessoal mais procura"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Ração e sachês para cães e gatos.",
+    "Antipulgas e vermífugos.",
+    "Areia, tapete higiênico e shampoo.",
+    "Caminhas, coleiras e brinquedos."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Pagamento e retirada"
+  },
+  {
+   "type": "p",
+   "html": "A gente aceita Pix, cartão de débito e crédito e dinheiro. Você pode retirar na loja ou combinar a entrega por ligação, para o Jardim Palmira e bairros num raio de uns 10 km."
+  }
+ ],
+ "humanizado": true
+}

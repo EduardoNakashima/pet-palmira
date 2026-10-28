@@ -1,0 +1,134 @@
+{
+ "slug": "racao-para-cachorro-rosa-de-franca",
+ "keyword": "ração para cachorro Rosa de França",
+ "numero": 72,
+ "cluster": "regionalizadas_fase_1",
+ "source": "site",
+ "title": "Ração para Cachorro no Jardim Rosa de França | Pet Shop Palmira",
+ "description": "Ração para cachorro castrado no Jardim Rosa de França: o que muda depois da cirurgia e como evitar que o cão engorde. A 1,8 km.",
+ "ogDescription": "Ração para cachorro castrado no Jardim Rosa de França: o que muda depois da cirurgia e como evitar que o cão engorde. A 1,8 km.",
+ "faq": [
+  {
+   "q": "Todo cão castrado precisa de ração especial?",
+   "a": "Não é obrigatório. Mas se ele começar a engordar, a ração de castrado ajuda bastante."
+  },
+  {
+   "q": "Quando começo a ração nova?",
+   "a": "Quando ele estiver recuperado da cirurgia, com troca gradual."
+  },
+  {
+   "q": "Entregam no Jardim Rosa de França?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/racaoparacachorro.jpg",
+   "alt": "Sacos de 15kg e 20kg das melhores marcas de ração canina",
+   "caption": "Sacos de 15kg e 20kg em Estoque",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/golden.webp",
+   "alt": "Ração Golden Fórmula para cães adultos e filhotes",
+   "caption": "Golden Fórmula: Sabor e Custo-Benefício",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/premiata.webp",
+   "alt": "Linha Super Premium com nutrientes funcionais e condroitina",
+   "caption": "Super Premium para Saúde Articular",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/pouring-pet-food-into-bowl.jpg",
+   "alt": "Nutrição equilibrada com grãos crocantes servidos na tigela",
+   "caption": "Digestibilidade Máxima e Fezes Menores",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Cão castrado",
+ "h1": "Ração para cachorro no <span class=\"acc\">Jardim Rosa de França</span>",
+ "intro": [
+  "Castrar o cachorro tem várias vantagens. Mas depois da cirurgia o corpo muda, e a comida precisa mudar junto. Quem não ajusta, percebe em alguns meses: o cão ganhou barriga.",
+  "O Pet Shop Palmira fica a 1,8 km do Jardim Rosa de França e tem ração para cães castrados."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "O que muda depois da castração"
+  },
+  {
+   "type": "p",
+   "html": "O cachorro castrado gasta menos energia e costuma sentir mais fome. A conta é simples: se ele come igual e gasta menos, engorda. E peso extra em cachorro pesa nas articulações, no coração e na disposição."
+  },
+  {
+   "type": "h2",
+   "text": "Duas saídas"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Diminuir a porção da ração atual. Funciona, mas o cão pode sentir fome.",
+    "Trocar para uma ração de castrado ou light, que tem menos caloria por porção. O cão come um volume parecido e engorda menos."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "A segunda costuma dar menos briga com o cachorro pedindo comida. Faça a troca aos poucos, em cerca de uma semana."
+  },
+  {
+   "type": "h2",
+   "text": "Rações para castrados"
+  },
+  {
+   "type": "p",
+   "html": "Temos linhas para cães castrados e de controle de peso da Golden, Premier, Premiatta e Royal Canin, entre outras, conforme o estoque. Confirme pelo WhatsApp (11) 97460-5359."
+  },
+  {
+   "type": "h2",
+   "text": "Hábitos que ajudam"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Comida em horários fixos, duas vezes ao dia.",
+    "Nada de pote cheio o dia inteiro.",
+    "Passeio diário, mesmo que curto.",
+    "Petisco contado, descontado da ração do dia.",
+    "Brinquedo que faz o cão trabalhar pela comida, como bola dispenser."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Depois da cirurgia"
+  },
+  {
+   "type": "p",
+   "html": "Nos primeiros dias, siga o que a veterinária orientou sobre comida e água. Alguns cães ficam enjoados com a anestesia. A troca de ração pode começar quando ele estiver recuperado."
+  },
+  {
+   "type": "h2",
+   "text": "Acompanhe o peso"
+  },
+  {
+   "type": "p",
+   "html": "Pese o cachorro uma vez por mês nos primeiros meses depois da castração. Se o peso subir, ajuste a porção. Se cair muito, converse com a veterinária."
+  },
+  {
+   "type": "h2",
+   "text": "Compra e entrega"
+  },
+  {
+   "type": "p",
+   "html": "Loja aberta de segunda a sábado, das 9h às 18h, na Av. Pedro de Souza Lopes, 33B. Entrega no Jardim Rosa de França combinada por ligação antes."
+  }
+ ],
+ "humanizado": true
+}

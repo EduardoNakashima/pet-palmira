@@ -1,0 +1,126 @@
+{
+ "slug": "pet-shop-jardim-moreira",
+ "keyword": "pet shop Jardim Moreira",
+ "slides": [],
+ "title": "Pet Shop Perto do Jardim Moreira, Guarulhos | Pet Shop Palmira",
+ "description": "Pet shop a 2,4 km do Jardim Moreira, Guarulhos: tudo para quem tem gato em casa. Ração, areia, caixa de transporte, farmácia e acessórios.",
+ "ogDescription": "Pet shop a 2,4 km do Jardim Moreira, Guarulhos: tudo para quem tem gato em casa. Ração, areia, caixa de transporte, farmácia e acessórios.",
+ "badge": "Casa com gato",
+ "h1": "Pet shop perto do <span class=\"acc\">Jardim Moreira</span>",
+ "intro": [
+  "Pet shop de bairro às vezes parece loja de cachorro. No Pet Shop Palmira, a 2,4 km do Jardim Moreira, quem tem gato também encontra o que precisa, e muita gente do bairro vem só pela ração e pela areia do gato.",
+  "Estamos na Av. Pedro de Souza Lopes, 33B, no Jardim Palmira, há 25 anos."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Para o gato"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Ração",
+     "text": "Golden Gatos, CatChow, Whiskas e Royal Canin, para filhote, adulto, castrado e idoso."
+    },
+    {
+     "title": "Úmidos",
+     "text": "Sachês e patês de várias marcas."
+    },
+    {
+     "title": "Areia",
+     "text": "De tipos diferentes, para testar a que o seu gato prefere."
+    },
+    {
+     "title": "Caixa de transporte",
+     "text": "Para ir à veterinária com segurança."
+    },
+    {
+     "title": "Farmácia",
+     "text": "Antipulgas e vermífugos próprios para gatos."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Tudo conforme o estoque. Confirme pelo WhatsApp (11) 97460-5359."
+  },
+  {
+   "type": "h2",
+   "text": "Antipulgas de gato é outro produto"
+  },
+  {
+   "type": "p",
+   "html": "Gato não é cachorro pequeno. Alguns antipulgas de cachorro são tóxicos para gatos e podem causar intoxicação séria. Use sempre um produto com a indicação para gatos na embalagem e no peso certo. Na dúvida, pergunte no balcão antes de aplicar."
+  },
+  {
+   "type": "h2",
+   "text": "Gato que não sai de casa também pega pulga?"
+  },
+  {
+   "type": "p",
+   "html": "Pega. A pulga entra na roupa e no sapato de quem chega da rua, ou vem de outro animal da casa. Gato de apartamento costuma ter menos, mas não está livre."
+  },
+  {
+   "type": "h2",
+   "text": "O que o gato precisa em casa"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Água fresca em mais de um lugar.",
+    "Caixa de areia limpa, longe da comida.",
+    "Lugar alto para observar, como uma prateleira ou o alto do armário.",
+    "Esconderijo para quando ele quer ficar sozinho.",
+    "Brinquedos de caçar, para gastar energia."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Pedido rápido"
+  },
+  {
+   "type": "p",
+   "html": "Areia e ração pesam. Muita gente prefere pedir pelo WhatsApp e combinar a entrega por ligação. Com a ligação feita, a gente acerta o local e o horário no Jardim Moreira."
+  },
+  {
+   "type": "h2",
+   "text": "Cachorro também"
+  },
+  {
+   "type": "p",
+   "html": "Para quem tem cachorro, temos ração, farmácia, acessórios e banho e tosa só para cães, com tosa na máquina. Você traz e busca o cão."
+  },
+  {
+   "type": "h2",
+   "text": "Horário e pagamento"
+  },
+  {
+   "type": "p",
+   "html": "Segunda a sábado, das 9h às 18h. Domingo e feriado fechado. Pix, débito, crédito ou dinheiro, sem taxa extra no cartão."
+  },
+  {
+   "type": "h2",
+   "text": "Veterinária"
+  },
+  {
+   "type": "p",
+   "html": "A loja não é clínica. Indicamos a Pink Vet para consulta, vacinas e check-up, na mesma avenida, no número 33."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Posso usar antipulgas de cachorro no gato?",
+   "a": "Não. Alguns são tóxicos para gatos. Use sempre o produto para gatos."
+  },
+  {
+   "q": "Vocês dão banho em gato?",
+   "a": "Não. O banho e tosa é só para cães."
+  },
+  {
+   "q": "Entregam areia no Jardim Moreira?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "humanizado": true
+}

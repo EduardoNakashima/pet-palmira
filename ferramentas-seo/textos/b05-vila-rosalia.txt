@@ -1,0 +1,156 @@
+@@ pet-shop-vila-rosalia-guarulhos
+title: Pet Shop Perto da Vila Rosália, Guarulhos | Pet Shop Palmira
+desc: Pet shop a 1,7 km da Vila Rosália, Guarulhos: farmácia veterinária com antipulgas, vermífugos e remédios com receita, ração e banho e tosa para cães.
+badge: Farmácia no balcão
+h1: Pet shop perto da [Vila Rosália]
+A Vila Rosália fica a 1,7 km do Pet Shop Palmira em linha reta. Muita gente do bairro chega na loja com uma receita na mão, saindo da consulta, e quer resolver tudo de uma vez: o remédio, a ração e o antipulgas.
+É para isso que existe a farmácia veterinária no nosso balcão.
+## Como comprar remédio com receita
+1. Mande a foto da receita pelo WhatsApp (11) 97460-5359.
+2. A gente confere se tem o medicamento, na apresentação e na dosagem indicadas.
+3. Passamos o valor e combinamos a retirada ou a entrega.
+Se a receita pede um remédio que não temos, avisamos na hora, para você não perder tempo.
+## O que costuma ter na farmácia
+* Antipulgas e carrapaticidas | Frontline Plus, Capstar e outros, conforme o estoque.
+* Vermífugos | Para cães e gatos, em comprimido ou outras apresentações.
+* Medicamentos | Otovet, Agemoxi, Maxicam, enrofloxacina e outros, com receita.
+* Higiene | Shampoo, inclusive antiparasitário, e produtos de limpeza.
+## O que a gente não faz
+A gente não indica dose e não troca o remédio receitado por outro parecido. Isso é papel da veterinária. Se tiver dúvida sobre como dar o comprimido ou por quanto tempo, a resposta certa está na receita ou com quem receitou.
+Também não damos remédio de gente para animal. Vários medicamentos comuns em casa são perigosos para cães e gatos.
+## O resto da loja
+Ração para cães, gatos, pássaros, roedores e criação. Acessórios como caminhas, coleiras e caixas de transporte. Banho e tosa só para cães, com tosa na máquina, por horário marcado. Você traz e busca o cachorro.
+## Horário, pagamento e entrega
+Segunda a sábado, das 9h às 18h, na Av. Pedro de Souza Lopes, 33B, no Jardim Palmira. Pix, débito, crédito ou dinheiro, sem taxa extra no cartão. Para a Vila Rosália, a entrega é combinada por ligação antes.
+## Precisa de consulta?
+Indicamos a Pink Vet, nossa parceira, na mesma avenida, no número 33.
+? Vocês vendem remédio sem receita?
+= Antipulgas e vermífugos comuns, sim. Medicamento que exige receita, só com a receita.
+? Vocês indicam a dose do remédio?
+= Não. A dose é da veterinária, que examinou o animal.
+? Entregam na Vila Rosália?
+= Entregamos, combinando o local por ligação antes.
+
+@@ casa-de-racao-vila-rosalia
+title: Casa de Ração Perto da Vila Rosália, Guarulhos | Pet Shop Palmira
+desc: Casa de ração a 1,7 km da Vila Rosália: ração e feno para porquinho-da-índia e coelho, além de ração para cães, gatos, pássaros e criação.
+badge: Roedores e coelhos
+h1: Casa de ração perto da [Vila Rosália]
+Porquinho-da-índia e coelho viraram bicho de apartamento e de casa com criança. São fofos, mas têm uma alimentação bem diferente da de cão e gato, e muita gente descobre isso tarde.
+O Pet Shop Palmira fica a 1,7 km da Vila Rosália e vende ração e feno para roedores há anos.
+## Feno é a base
+Para porquinho-da-índia e coelho, o feno deve estar disponível o dia inteiro. Ele faz o intestino funcionar e gasta os dentes, que crescem a vida toda. Sem feno, o dente cresce demais e o animal para de comer.
+## Ração na medida
+A ração própria da espécie completa a dieta, em quantidade pequena. Ração de coelho não é igual à de porquinho-da-índia, porque o porquinho precisa de vitamina C na alimentação, e a ração dele vem com isso.
+| Animal | Base | Complemento |
+| Porquinho-da-índia | Feno à vontade | Ração própria e verduras frescas |
+| Coelho | Feno à vontade | Ração própria em pouca quantidade e verduras |
+## Verduras com cuidado
+Verdura fresca e lavada ajuda, mas nem tudo serve. Evite exagero de fruta, que tem muito açúcar. Comece com pouco, um tipo por vez, e observe as fezes. Se ficarem moles, tire a verdura nova e volte só com feno e ração por alguns dias. Mudança brusca na comida é uma das causas mais comuns de diarreia nesses animais.
+## Água sempre
+Bebedouro de bico, trocado todo dia. Confira se a bolinha do bico não travou, porque o animal pode ficar sem água sem você perceber.
+## Para os outros bichos da casa
+Também temos ração para cães, gatos, pássaros, galinha, porco e cavalo. Marcas para cães e gatos como Golden, Premier, Special Dog, Pedigree, Whiskas e CatChow, conforme o estoque.
+## Como comprar
+Loja aberta de segunda a sábado, das 9h às 18h, na Av. Pedro de Souza Lopes, 33B. Pedido pelo WhatsApp (11) 97460-5359 e entrega na Vila Rosália combinada por ligação antes. Pix, débito, crédito ou dinheiro, sem taxa extra no cartão.
+? Porquinho-da-índia pode comer ração de coelho?
+= Não é o ideal. A ração do porquinho tem vitamina C, que ele precisa receber pela comida.
+? Quanto feno devo dar?
+= À vontade, o dia inteiro. Troque o que ficou sujo.
+? Entregam na Vila Rosália?
+= Entregamos, combinando o local por ligação antes.
+
+@@ racao-para-cachorro-vila-rosalia
+title: Ração para Cachorro na Vila Rosália, Guarulhos | Pet Shop Palmira
+desc: Ração para cachorro acima do peso na Vila Rosália: como saber se o cão está gordo, ajustar a porção e escolher ração light. A 1,7 km.
+badge: Cão no peso certo
+h1: Ração para cachorro na [Vila Rosália]
+Cachorro gordinho parece fofo. Mas peso extra cansa o coração, pesa nas articulações e encurta a vida. E o caminho de volta ao peso começa no pote de ração.
+O Pet Shop Palmira fica a 1,7 km da Vila Rosália e ajuda o tutor a acertar a comida do cão.
+## Como saber se ele está acima do peso
+- Passe a mão nas costelas. Você deve sentir sem precisar apertar.
+- Olhe de cima. Deve aparecer uma cintura atrás das costelas.
+- Olhe de lado. A barriga deve subir em direção às patas de trás.
+Se nada disso aparece, provavelmente o cão está acima do peso. A veterinária confirma e diz quanto ele deveria pesar.
+## Onde o peso escondido mora
+Muitas vezes a ração está certa e o problema está no resto. Petisco o dia inteiro, pão no café da manhã, resto do almoço, a criança que divide o biscoito. Some tudo isso e o cachorro come muito mais do que a tabela da embalagem.
+## O que fazer
+1. Pese a porção com balança ou copo medidor. Olho erra.
+2. Use a tabela pelo peso que ele deveria ter, não pelo peso atual. Confirme com a veterinária.
+3. Corte o resto de comida. Petisco, no máximo um pouco por dia, descontado da ração.
+4. Aumente o passeio aos poucos.
+5. Pese o cachorro a cada duas semanas.
+## Ração light
+Rações light ou de controle de peso têm menos caloria por porção, então o cachorro come um volume parecido e engorda menos. Temos opções da Golden, Premier, Premiatta e Royal Canin, entre outras, conforme o estoque. Faça a troca em cerca de uma semana.
+## Cão castrado
+Depois da castração, o gasto de energia cai. Se o cão engordou depois da cirurgia, a porção precisa diminuir ou a ração precisa mudar.
+## Compra e entrega
+Loja aberta de segunda a sábado, das 9h às 18h. Pelo WhatsApp (11) 97460-5359, a gente confirma o estoque. Entrega na Vila Rosália combinada por ligação antes.
+? Posso só diminuir a ração que ele já come?
+= Pode, com cuidado. Cortar demais deixa o cão com fome e sem nutrientes. Ração light ajuda nisso.
+? Quanto peso ele pode perder por mês?
+= Perda lenta é mais segura. A veterinária define a meta.
+? Entregam na Vila Rosália?
+= Entregamos, combinando o local por ligação antes.
+
+@@ racao-para-gato-vila-rosalia
+title: Ração para Gato na Vila Rosália, Guarulhos | Pet Shop Palmira
+desc: Ração para gato com bola de pelo na Vila Rosália: por que o gato vomita pelo, como a ração ajuda e o que fazer em casa. A 1,7 km.
+badge: Bola de pelo
+h1: Ração para gato na [Vila Rosália]
+Quem tem gato conhece o som. Aquele engasgo no meio da noite, e de manhã um rolinho de pelo no tapete. A bola de pelo é comum, mas não precisa ser frequente.
+O Pet Shop Palmira fica a 1,7 km da Vila Rosália e tem ração e produtos que ajudam nisso.
+## Por que acontece
+O gato se lambe muitas vezes por dia. A língua dele é áspera e puxa o pelo solto, que ele engole. Uma parte sai nas fezes. A outra se acumula no estômago e volta em forma de bola.
+Gato de pelo longo e época de troca de pelo aumentam o problema.
+## Ração para controle de bolas de pelo
+Essas rações têm mais fibra, o que ajuda o pelo a seguir pelo intestino em vez de voltar. Muitas linhas também cuidam da pele e do pelo, o que diminui a queda. Temos opções da Golden Gatos, CatChow, Whiskas e Royal Canin, conforme o estoque.
+## Escova é o melhor remédio
+- Escove o gato várias vezes por semana. Pelo que fica na escova não vai para o estômago.
+- Na época de troca de pelo, escove todo dia.
+- Comece com sessões curtas e com petisco no final, para ele gostar.
+- Gato de pelo longo pode precisar de escova própria para nós.
+## Água ajuda também
+Gato que bebe pouca água tem intestino mais lento. Sachê uma vez ao dia, potes de água espalhados e fonte de água ajudam o pelo a seguir o caminho certo.
+## Quando não é bola de pelo
+Vômito muitas vezes na semana, vômito sem pelo, gato que tenta e não consegue colocar para fora, falta de apetite ou intestino preso. Nesses casos, procure veterinário. Indicamos a Pink Vet, na Av. Pedro de Souza Lopes, 33.
+## Compra e entrega
+Loja aberta de segunda a sábado, das 9h às 18h, no Jardim Palmira. Pedido pelo WhatsApp (11) 97460-5359. Entrega na Vila Rosália combinada por ligação antes.
+? É normal o gato vomitar bola de pelo?
+= De vez em quando, sim. Se for frequente, procure veterinário.
+? Ração para bola de pelo serve para gato castrado?
+= Algumas linhas atendem as duas coisas. Consulte as opções pelo WhatsApp.
+? Entregam na Vila Rosália?
+= Entregamos, combinando o local por ligação antes.
+
+@@ veterinario-vila-rosalia
+title: Veterinário Perto da Vila Rosália, Guarulhos | Pink Vet parceira
+desc: Veterinário a 1,7 km da Vila Rosália: Pink Vet Consultório Veterinário, na Av. Pedro de Souza Lopes, 33. Coceira, pulga e pele: quando consultar.
+badge: Coceira e pele
+h1: Veterinário perto da [Vila Rosália]
+Cachorro que se coça sem parar é uma das queixas mais comuns no nosso balcão. A pessoa chega pedindo um antipulgas e, conversando, percebe que o problema talvez seja outro.
+Antipulgas a gente vende. Saber por que o animal se coça é trabalho da veterinária. O Pet Shop Palmira não é clínica, e para isso indicamos a Pink Vet Consultório Veterinário, nossa parceira, a 1,7 km da Vila Rosália.
+## A Pink Vet
+- Endereço: Av. Pedro de Souza Lopes, 33, Jardim Palmira, na mesma avenida da nossa loja.
+- Atende com consulta, vacinas e check-up.
+- Horário: segunda a sexta, das 9h às 17h, e sábado, das 9h às 16h.
+- Nota 5,0 no Google.
+- WhatsApp (11) 93317-1589, pelo botão desta página.
+## Coceira tem várias causas
+Pulga é a mais conhecida, mas não é a única. Alergia alimentar, alergia a algo do ambiente, fungo, sarna e problema de ouvido também fazem o animal se coçar. Cada um tem um tratamento diferente. Passar antipulgas em cachorro com alergia não resolve, e a coceira continua.
+## Sinais de que é hora de consultar
+1. Coceira que continua mesmo com o antipulgas em dia.
+2. Falhas no pelo, pele vermelha ou escura.
+3. Feridas, crostas ou cheiro forte na pele.
+4. Cachorro que balança a cabeça ou coça muito a orelha.
+5. Lambedura constante das patas.
+## Antes da consulta
+Anote quando a coceira começou, se mudou de ração, de shampoo ou de produto de limpeza, e quais antipulgas usou e quando. Não dê banho no dia da consulta, porque a veterinária pode precisar ver a pele como ela está.
+## A pulga que volta
+Se o problema for mesmo pulga, o tratamento precisa incluir a casa. Ovos e larvas ficam no tapete, no sofá e na caminha. Trate todos os animais no mesmo dia e lave tudo onde eles deitam. Na farmácia da loja, no número 33B, temos Frontline Plus, Capstar e outros produtos, conforme o estoque.
+? O Pet Shop Palmira atende consulta?
+= Não. A loja não é clínica. Indicamos a Pink Vet.
+? Antipulgas resolve qualquer coceira?
+= Não. Alergia, fungo e sarna têm outros tratamentos. A veterinária identifica a causa.
+? Como agendo na Pink Vet?
+= Pelo WhatsApp (11) 93317-1589. O botão desta página já abre a conversa.

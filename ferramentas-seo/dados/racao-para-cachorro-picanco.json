@@ -1,0 +1,132 @@
+{
+ "slug": "racao-para-cachorro-picanco",
+ "keyword": "ração para cachorro Picanço",
+ "numero": 77,
+ "cluster": "regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Ração para Cachorro no Picanço, Guarulhos | Pet Shop Palmira",
+ "description": "Ração para cachorro que come rápido demais no Picanço: riscos de engolir sem mastigar, comedouro lento e como dividir a porção. A 2,3 km.",
+ "ogDescription": "Ração para cachorro que come rápido demais no Picanço: riscos de engolir sem mastigar, comedouro lento e como dividir a porção. A 2,3 km.",
+ "faq": [
+  {
+   "q": "Comedouro lento funciona?",
+   "a": "Para a maioria dos cães, sim. Ele obriga o cachorro a comer devagar."
+  },
+  {
+   "q": "Posso molhar a ração para ele comer mais devagar?",
+   "a": "Não costuma resolver. Comedouro lento e porções menores funcionam melhor."
+  },
+  {
+   "q": "Entregam no Picanço?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/racaoparacachorro.jpg",
+   "alt": "Ampla variedade de rações caninas no Pet Shop Palmira",
+   "caption": "Variedade Completa de Rações Caninas",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/golden.webp",
+   "alt": "Ração Golden Formula Adultos para cães de médio e grande porte",
+   "caption": "Golden Formula: Alta Digestibilidade e Sabor",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/goldenFilhote.webp",
+   "alt": "Ração Golden Filhotes rica em cálcio, fósforo e DHA",
+   "caption": "Linha Filhotes: Crescimento Forte e Saudável",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/premiata.webp",
+   "alt": "Rações da categoria Super Premium para máxima absorção",
+   "caption": "Linha Super Premium: Proteção Articular e Vitalidade",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Cão que come rápido",
+ "h1": "Ração para cachorro no <span class=\"acc\">Picanço</span>",
+ "intro": [
+  "Você coloca a ração no pote e, em menos de um minuto, acabou. O cachorro mal mastiga. Alguns vomitam logo depois. Outros ficam com a barriga estufada.",
+  "Comer rápido demais é comum, principalmente em casa com mais de um cão. O Pet Shop Palmira fica a 2,3 km do Picanço e tem algumas soluções simples."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Por que ele come assim"
+  },
+  {
+   "type": "p",
+   "html": "Competição é a causa mais comum. Cachorro que divide a casa com outro come como se alguém fosse roubar a comida. Filhote que disputou ração com os irmãos também. E alguns são assim mesmo, de nascença."
+  },
+  {
+   "type": "h2",
+   "text": "Os riscos"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Engolir ar, o que dá gases e desconforto.",
+    "Vomitar a ração inteira logo depois.",
+    "Engasgar com grão grande.",
+    "Em cães grandes de peito fundo, mais risco de torção gástrica, que é emergência."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "O que ajuda"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Comedouro lento, com divisórias que obrigam o cão a comer devagar.",
+    "Dividir a porção do dia em três refeições menores.",
+    "Alimentar cada cão em um canto, longe dos outros.",
+    "Espalhar a ração em um tapete de farejar ou em brinquedo dispenser.",
+    "Grão do tamanho certo para o porte. Grão grande demais é engolido inteiro."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "A ração certa"
+  },
+  {
+   "type": "p",
+   "html": "Ração de porte pequeno para cão grande piora o problema, porque ele engole vários grãos de uma vez. Use a linha do porte do seu cachorro. Temos Golden, Premier, Special Dog, Pedigree, Magnus, Premiatta, Max e Royal Canin, conforme o estoque."
+  },
+  {
+   "type": "h2",
+   "text": "Depois de comer"
+  },
+  {
+   "type": "p",
+   "html": "Evite brincadeira forte e passeio longo logo após a refeição, especialmente em cachorro grande. Deixe ele descansar."
+  },
+  {
+   "type": "h2",
+   "text": "Quando procurar veterinário"
+  },
+  {
+   "type": "p",
+   "html": "Barriga dura e inchada, tentativa de vomitar sem sair nada, inquietação e salivação depois de comer podem ser torção gástrica. Leve na hora. Indicamos a Pink Vet, na Av. Pedro de Souza Lopes, 33, e fora do horário dela um hospital veterinário 24 horas."
+  },
+  {
+   "type": "h2",
+   "text": "Compra e entrega"
+  },
+  {
+   "type": "p",
+   "html": "Loja aberta de segunda a sábado, das 9h às 18h. Comedouros e brinquedos dispenser também temos, conforme o estoque. Entrega no Picanço combinada por ligação antes, pelo WhatsApp (11) 97460-5359."
+  }
+ ],
+ "humanizado": true
+}

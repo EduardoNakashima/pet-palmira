@@ -1,0 +1,98 @@
+{
+ "slug": "pedir-racao-e-produtos-para-pets-pelo-whatsapp",
+ "keyword": "pedir ração e produtos para pets pelo WhatsApp",
+ "numero": 25,
+ "cluster": "nao_regionalizadas_fase_1",
+ "source": "site",
+ "title": "Pedir Ração e Produtos para Pets pelo WhatsApp | Pet Shop Palmira",
+ "description": "Pedir ração e produtos para pets pelo WhatsApp no Pet Shop Palmira, Guarulhos. Sacos de 15 e 20 kg, areia, sachês e medicamentos.",
+ "ogDescription": "Pedir ração e produtos para pets pelo WhatsApp no Pet Shop Palmira, Guarulhos. Sacos de 15 e 20 kg, areia, sachês e medicamentos.",
+ "faq": [
+  {
+   "q": "Posso pedir saco de 15 ou 20 kg?",
+   "a": "Pode. Confirme a marca pelo WhatsApp."
+  },
+  {
+   "q": "Vocês atendem pedido aos domingos?",
+   "a": "Não. A loja fecha aos domingos e feriados. Atendemos de segunda a sábado, das 9h às 18h."
+  },
+  {
+   "q": "Se a marca estiver em falta, vocês sugerem outra?",
+   "a": "Sugerimos uma parecida ou encomendamos a de sempre, como você preferir."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/loja2.jpg",
+   "alt": "Variedade completa em produtos para cães e gatos no Pet Shop Palmira",
+   "caption": "Sortimento Completo em Produtos Pet",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/shampoo.webp",
+   "alt": "Shampoos hipoalergênicos e sabonetes dermatológicos",
+   "caption": "Shampoos e Higiene Especializada",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/brinquedos.webp",
+   "alt": "Brinquedos mordedores resistentes e cordas para recreação",
+   "caption": "Brinquedos Duráveis e Mordedores",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/capstar.webp",
+   "alt": "Farmácia veterinária preventiva, antipulgas e vermífugos",
+   "caption": "Farmácia e Proteção Antipulgas",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Pedido por mensagem",
+ "h1": "Pedir ração e produtos para pets pelo <span class=\"acc\">WhatsApp</span>",
+ "intro": [
+  "O jeito mais rápido de fazer o pedido da ração do mês é mandar mensagem para (11) 97460-5359. Se o seu pet come sempre a mesma marca, nem precisa explicar muito."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "O que você pode pedir"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Ração de 1 kg até 20 kg.",
+    "Sachês, patês e petiscos.",
+    "Areia e tapete higiênico.",
+    "Antipulgas e medicamentos com receita."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Pedido em 4 passos"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Mande a marca, o sabor e o peso.",
+    "A gente confirma o estoque e o valor.",
+    "Você escolhe retirar ou receber.",
+    "A entrega é combinada por ligação antes."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Quando a marca falta"
+  },
+  {
+   "type": "p",
+   "html": "Acontece. Nesses casos a gente avisa e sugere uma opção parecida, ou encomenda a marca de sempre se você preferir esperar."
+  }
+ ],
+ "humanizado": true
+}

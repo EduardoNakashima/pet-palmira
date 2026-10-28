@@ -1,0 +1,104 @@
+{
+ "slug": "casa-de-racao-jardim-fontalis",
+ "keyword": "casa de ração Jardim Fontalis",
+ "slides": [],
+ "title": "Casa de Ração Perto do Jardim Fontalis, São Paulo | Pet Shop Palmira",
+ "description": "Casa de ração a 1,2 km do Jardim Fontalis: ração para galinha de quintal, pássaros, cães e gatos. Dicas para alimentar galinha poedeira em casa.",
+ "ogDescription": "Casa de ração a 1,2 km do Jardim Fontalis: ração para galinha de quintal, pássaros, cães e gatos. Dicas para alimentar galinha poedeira em casa.",
+ "badge": "Galinha no quintal",
+ "h1": "Casa de ração perto do <span class=\"acc\">Jardim Fontalis</span>",
+ "intro": [
+  "Ainda tem muita casa com galinha no quintal na zona norte de São Paulo e em Guarulhos. Algumas são de estimação, outras dão ovo para a família. Em comum, todas precisam de ração certa.",
+  "O Pet Shop Palmira fica a 1,2 km do Jardim Fontalis e vende ração de criação há 25 anos."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Ração de galinha por fase"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Fase",
+    "O que dar"
+   ],
+   "rows": [
+    [
+     "Pintinho",
+     "Ração inicial, mais fina e com mais proteína"
+    ],
+    [
+     "Frango em crescimento",
+     "Ração de crescimento"
+    ],
+    [
+     "Galinha poedeira",
+     "Ração de postura, com cálcio para a casca do ovo"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Milho sozinho não alimenta uma galinha que bota ovo. Ele dá energia, mas falta proteína e cálcio. A galinha passa a botar menos e o ovo pode vir com casca fina."
+  },
+  {
+   "type": "h2",
+   "text": "Quanto uma galinha come"
+  },
+  {
+   "type": "p",
+   "html": "Uma galinha adulta come algo perto de 100 a 130 gramas de ração por dia, conforme o tamanho e a raça. Com três ou quatro galinhas, um saco grande dura bem. Diga quantas aves você tem e a gente ajuda a calcular. Galinha solta que cisca o dia inteiro no quintal pode comer um pouco menos de ração, porque encontra bichinho e verde no chão."
+  },
+  {
+   "type": "h2",
+   "text": "Água e limpeza"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Água limpa todo dia, em bebedouro que a galinha não consiga virar.",
+    "Comedouro protegido da chuva. Ração molhada embolora.",
+    "Recolha a ração que sobrou no chão no fim do dia. Ela atrai rato."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Guardar o saco"
+  },
+  {
+   "type": "p",
+   "html": "Ração de criação deve ficar fora do chão, em lugar seco, com o saco bem fechado ou em tambor com tampa. Umidade e rato estragam o estoque rápido."
+  },
+  {
+   "type": "h2",
+   "text": "Outros bichos"
+  },
+  {
+   "type": "p",
+   "html": "Também temos ração para pássaros, roedores, porco, cavalo, cães e gatos. Consulte o estoque pelo WhatsApp (11) 97460-5359."
+  },
+  {
+   "type": "h2",
+   "text": "Compra e entrega"
+  },
+  {
+   "type": "p",
+   "html": "Loja aberta de segunda a sábado, das 9h às 18h, na Av. Pedro de Souza Lopes, 33B. Entrega no Jardim Fontalis combinada por ligação antes. Pagamento no Pix, débito, crédito ou dinheiro, sem taxa extra no cartão."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Posso dar só milho para a galinha?",
+   "a": "Não é o ideal. Para botar bem, ela precisa de ração de postura, com proteína e cálcio."
+  },
+  {
+   "q": "Vocês têm ração para pintinho?",
+   "a": "Temos ração inicial. Consulte pelo WhatsApp."
+  },
+  {
+   "q": "Entregam no Jardim Fontalis?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "humanizado": true
+}

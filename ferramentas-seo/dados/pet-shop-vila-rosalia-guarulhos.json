@@ -1,0 +1,136 @@
+{
+ "slug": "pet-shop-vila-rosalia-guarulhos",
+ "keyword": "pet shop Vila Rosália Guarulhos",
+ "numero": 81,
+ "cluster": "regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Pet Shop Perto da Vila Rosália, Guarulhos | Pet Shop Palmira",
+ "description": "Pet shop a 1,7 km da Vila Rosália, Guarulhos: farmácia veterinária com antipulgas, vermífugos e remédios com receita, ração e banho e tosa para cães.",
+ "ogDescription": "Pet shop a 1,7 km da Vila Rosália, Guarulhos: farmácia veterinária com antipulgas, vermífugos e remédios com receita, ração e banho e tosa para cães.",
+ "faq": [
+  {
+   "q": "Vocês vendem remédio sem receita?",
+   "a": "Antipulgas e vermífugos comuns, sim. Medicamento que exige receita, só com a receita."
+  },
+  {
+   "q": "Vocês indicam a dose do remédio?",
+   "a": "Não. A dose é da veterinária, que examinou o animal."
+  },
+  {
+   "q": "Entregam na Vila Rosália?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/images/produtos/goldenformula.webp",
+   "alt": "Rações de alta qualidade no Pet Shop Palmira perto da Vila Rosália",
+   "caption": "Rações Super Premium e Premium Especial GoldeN, Premier, Special Dog e GranPlus para vitalidade diária.",
+   "ok": false
+  },
+  {
+   "src": "assets/images/produtos/bravecto.webp",
+   "alt": "Farmácia Veterinária com Bravecto no Pet Shop Palmira",
+   "caption": "Farmácia Veterinária Completa Antipulgas Bravecto, Simparic, vermífugos e medicamentos certificados.",
+   "ok": false
+  },
+  {
+   "src": "assets/images/produtos/transportesecasinhas.webp",
+   "alt": "Acessórios, casinhas e caixas de transporte",
+   "caption": "Casinhas, Caixas de Transporte e Peitorais Conforto térmico e segurança para caminhar no Lago dos Patos.",
+   "ok": false
+  },
+  {
+   "src": "assets/images/produtos/goldencat.webp",
+   "alt": "Ração Golden Gatos Castrados no Pet Shop Palmira",
+   "caption": "Nutrição Especializada para Felinos Fórmulas para gatos castrados, controle de bolas de pelo e saúde urinária.",
+   "ok": true
+  }
+ ],
+ "badge": "Farmácia no balcão",
+ "h1": "Pet shop perto da <span class=\"acc\">Vila Rosália</span>",
+ "intro": [
+  "A Vila Rosália fica a 1,7 km do Pet Shop Palmira em linha reta. Muita gente do bairro chega na loja com uma receita na mão, saindo da consulta, e quer resolver tudo de uma vez: o remédio, a ração e o antipulgas.",
+  "É para isso que existe a farmácia veterinária no nosso balcão."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Como comprar remédio com receita"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Mande a foto da receita pelo WhatsApp (11) 97460-5359.",
+    "A gente confere se tem o medicamento, na apresentação e na dosagem indicadas.",
+    "Passamos o valor e combinamos a retirada ou a entrega."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Se a receita pede um remédio que não temos, avisamos na hora, para você não perder tempo."
+  },
+  {
+   "type": "h2",
+   "text": "O que costuma ter na farmácia"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Antipulgas e carrapaticidas",
+     "text": "Frontline Plus, Capstar e outros, conforme o estoque."
+    },
+    {
+     "title": "Vermífugos",
+     "text": "Para cães e gatos, em comprimido ou outras apresentações."
+    },
+    {
+     "title": "Medicamentos",
+     "text": "Otovet, Agemoxi, Maxicam, enrofloxacina e outros, com receita."
+    },
+    {
+     "title": "Higiene",
+     "text": "Shampoo, inclusive antiparasitário, e produtos de limpeza."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "O que a gente não faz"
+  },
+  {
+   "type": "p",
+   "html": "A gente não indica dose e não troca o remédio receitado por outro parecido. Isso é papel da veterinária. Se tiver dúvida sobre como dar o comprimido ou por quanto tempo, a resposta certa está na receita ou com quem receitou."
+  },
+  {
+   "type": "p",
+   "html": "Também não damos remédio de gente para animal. Vários medicamentos comuns em casa são perigosos para cães e gatos."
+  },
+  {
+   "type": "h2",
+   "text": "O resto da loja"
+  },
+  {
+   "type": "p",
+   "html": "Ração para cães, gatos, pássaros, roedores e criação. Acessórios como caminhas, coleiras e caixas de transporte. Banho e tosa só para cães, com tosa na máquina, por horário marcado. Você traz e busca o cachorro."
+  },
+  {
+   "type": "h2",
+   "text": "Horário, pagamento e entrega"
+  },
+  {
+   "type": "p",
+   "html": "Segunda a sábado, das 9h às 18h, na Av. Pedro de Souza Lopes, 33B, no Jardim Palmira. Pix, débito, crédito ou dinheiro, sem taxa extra no cartão. Para a Vila Rosália, a entrega é combinada por ligação antes."
+  },
+  {
+   "type": "h2",
+   "text": "Precisa de consulta?"
+  },
+  {
+   "type": "p",
+   "html": "Indicamos a Pink Vet, nossa parceira, na mesma avenida, no número 33."
+  }
+ ],
+ "humanizado": true
+}

@@ -1,0 +1,175 @@
+@@ pet-shop-jacana
+title: Pet Shop Perto do Jaçanã, São Paulo | Pet Shop Palmira
+desc: Pet shop a 3,7 km do Jaçanã, zona norte de São Paulo: ração, farmácia veterinária e banho e tosa para cães no Jardim Palmira, Guarulhos.
+badge: Zona norte e Guarulhos
+h1: Pet shop perto do [Jaçanã]
+O Jaçanã fica na zona norte de São Paulo, a 3,7 km do Pet Shop Palmira em linha reta. Muitos clientes do bairro conhecem a loja porque trabalham, estudam ou têm família em Guarulhos e passam pela Av. Pedro de Souza Lopes no caminho.
+Estamos no número 33B, no Jardim Palmira, há 25 anos.
+## Para a ida ser rápida
+Quem vem de um pouco mais longe não quer chegar e descobrir que a ração acabou. Por isso:
+1. Mande antes pelo WhatsApp (11) 97460-5359 o que vai buscar.
+2. A gente confere o estoque e separa.
+3. Você passa, paga e leva.
+Assim a parada dura poucos minutos.
+## Ou peça a entrega
+O Jaçanã está dentro do nosso raio de entrega, de cerca de 10 km. A entrega é combinada por ligação antes: a gente liga para acertar o local, o horário e quem vai receber. Sem essa ligação, o pedido não sai.
+## O que costuma valer a viagem
+* Farmácia veterinária | Antipulgas, vermífugos e medicamentos com receita, como Otovet, Agemoxi e Maxicam, conforme o estoque.
+* Ração para criação | Galinha, porco e cavalo, que nem todo pet shop tem.
+* Pássaros e roedores | Sementes, ração e feno.
+* Banho e tosa | Só para cães, com tosa na máquina, por horário marcado.
+## Banho e tosa para quem vem de São Paulo
+Não temos táxi dog, então você traz e busca o cachorro. Uma ideia que funciona: deixe o cão no banho, resolva outra coisa na região e volte quando a gente avisar.
+## Pagamento
+Pix, débito, crédito ou dinheiro, sem taxa extra no cartão. O preço é o mesmo para qualquer bairro ou cidade.
+## Horário
+Segunda a sábado, das 9h às 18h. Domingo e feriado fechado. Feriados de São Paulo e de Guarulhos nem sempre coincidem. Na dúvida, mande mensagem.
+## Veterinária
+A loja não é clínica. Para consulta, vacinas e check-up, indicamos a Pink Vet, na mesma avenida, no número 33. Dá para resolver a consulta e a compra na mesma ida.
+? Vocês entregam no Jaçanã?
+= Entregamos, combinando o local por ligação antes.
+? Posso deixar o pedido separado?
+= Pode. Mande pelo WhatsApp e a gente separa.
+? Vocês abrem em feriado?
+= Não abrimos em feriado. Na dúvida, mande mensagem.
+
+@@ casa-de-racao-jacana
+title: Casa de Ração Perto do Jaçanã, São Paulo | Pet Shop Palmira
+desc: Casa de ração a 3,7 km do Jaçanã: ração para codornas e aves de criação, além de cães, gatos, pássaros e porcos. Entrega combinada por ligação.
+badge: Ração para codornas
+h1: Casa de ração perto do [Jaçanã]
+Codorna ocupa pouco espaço e bota muito ovo. Por isso aparece em quintal pequeno, em casa da zona norte e de Guarulhos, criada para ovos de casa ou como hobby. Mas ela não come o mesmo que galinha.
+O Pet Shop Palmira fica a 3,7 km do Jaçanã e tem ração para codornas e outras aves de criação, conforme o estoque.
+## Codorna precisa de ração própria
+A codorna é pequena e tem metabolismo rápido. A ração para codornas costuma ter mais proteína do que a de galinha e grão adequado ao bico dela. Para codorna em postura, o cálcio também é importante, para a casca do ovo.
+## Por fase
+| Fase | Ração |
+| Filhotes | Ração inicial, fina e rica em proteína |
+| Crescimento | Ração de crescimento |
+| Postura | Ração de postura para codornas |
+Pergunte no balcão quais temos no momento. Confirme pelo WhatsApp (11) 97460-5359 antes de vir.
+## Luz e postura
+Codorna bota mais com dias longos. No inverno, a postura costuma cair. Isso é normal e não quer dizer que a ração está errada. Muitos criadores usam iluminação no fim da tarde para compensar. Se a queda vier junto com penas arrepiadas, apatia ou diarreia, o problema é outro e pede um veterinário de aves.
+## Água e comedouro
+- Bebedouro próprio para aves pequenas, que a codorna não consiga entrar.
+- Comedouro que evite desperdício. Codorna cisca e espalha muita ração.
+- Ração sempre seca. Molhada, embolora.
+## Guardar
+Saco fechado, em lugar seco, fora do chão, longe de rato. Ração de ave atrai roedor rápido.
+## Outras aves e animais
+Também temos ração para galinha, pintinho, pássaros de gaiola, porco, cavalo e roedores. Para cães e gatos, Golden, Premier, Special Dog, Pedigree, Whiskas, CatChow e outras.
+## Compra e entrega
+Loja aberta de segunda a sábado, das 9h às 18h, na Av. Pedro de Souza Lopes, 33B, no Jardim Palmira. Entrega no Jaçanã combinada por ligação antes. Pix, débito, crédito ou dinheiro, sem taxa extra no cartão.
+? Codorna pode comer ração de galinha?
+= Não é o ideal. A ração de codorna tem mais proteína e grão adequado para ela.
+? Por que a codorna parou de botar no inverno?
+= Dias curtos diminuem a postura. É comum.
+? Entregam no Jaçanã?
+= Entregamos, combinando o local por ligação antes.
+
+@@ racao-para-cachorro-jacana
+title: Ração para Cachorro Perto do Jaçanã, São Paulo | Pet Shop Palmira
+desc: Quanto custa por mês alimentar o cachorro? Como calcular o gasto com ração e escolher sem perder qualidade. Para tutores do Jaçanã, a 3,7 km.
+badge: Gasto do mês
+h1: Ração para cachorro perto do [Jaçanã]
+Na hora de escolher a ração, a pergunta que mais importa para muita família é: quanto vou gastar por mês? O preço do saco não responde isso sozinho.
+O Pet Shop Palmira fica a 3,7 km do Jaçanã. Aqui vai um jeito simples de fazer a conta.
+## A conta do mês
+1. Veja na tabela da embalagem a porção diária para o peso do seu cachorro, em gramas.
+2. Multiplique por 30. É o consumo do mês.
+3. Divida o preço do saco pelo peso do saco. É o preço do quilo.
+4. Multiplique o consumo do mês, em quilos, pelo preço do quilo.
+Faça isso para duas ou três rações e compare.
+## Exemplo
+Um cachorro de 15 kg que come 250 gramas por dia consome 7,5 kg por mês. Se outra ração pede 200 gramas por dia para o mesmo cão, o consumo cai para 6 kg. A ração com saco mais caro pode empatar ou sair melhor no mês.
+## Onde dá para economizar
+- Saco maior, se o cachorro acabar antes de a ração envelhecer.
+- Medir a porção. Excesso é dinheiro jogado no pote.
+- Guardar bem fechado. Ração estragada é ração perdida.
+- Cortar resto de comida e excesso de petisco.
+## Onde não economizar
+Em ração de filhote, que precisa de nutrientes para crescer. E em dieta indicada pela veterinária para algum problema de saúde.
+## Marcas para comparar
+| Faixa | Exemplos, conforme o estoque |
+| Mais em conta | Pedigree, Magnus, Special Dog |
+| Intermediária | Golden, Premiatta, Max |
+| Mais alta | Premier, Royal Canin |
+Cada marca tem várias linhas, e a faixa pode variar. A gente ajuda a comparar pelo WhatsApp (11) 97460-5359. Mande o peso do cachorro e a ração que ele come hoje, e a gente faz a conta junto com você.
+## Sem taxa no cartão
+Pix, débito, crédito ou dinheiro, com o mesmo preço.
+## Compra e entrega
+Loja aberta de segunda a sábado, das 9h às 18h, na Av. Pedro de Souza Lopes, 33B. Entrega no Jaçanã combinada por ligação antes.
+? A ração mais barata sai mais barata no mês?
+= Nem sempre. Compare a porção diária de cada uma.
+? Vale comprar saco grande?
+= Se o cachorro terminar antes de a ração envelhecer, costuma valer.
+? Entregam no Jaçanã?
+= Entregamos, combinando o local por ligação antes.
+
+@@ racao-para-gato-jacana
+title: Ração para Gato Perto do Jaçanã, São Paulo | Pet Shop Palmira
+desc: Gato exigente que só come um sabor ou uma textura? Como lidar sem cair na armadilha. Para tutores do Jaçanã, a 3,7 km da loja.
+badge: Gato exigente
+h1: Ração para gato perto do [Jaçanã]
+Tem gato que come qualquer coisa. E tem gato que só come o sachê de salmão de uma marca, em pedaços, nunca em patê. Quem tem um desses no Jaçanã sabe o trabalho que dá.
+O Pet Shop Palmira fica a 3,7 km do bairro. Algumas ideias para lidar com o gato exigente.
+## Por que o gato fica assim
+O gato forma a preferência alimentar cedo, nos primeiros meses de vida. Gato que só comeu um tipo de comida quando filhote tende a estranhar o resto. E muitos aprendem que, se recusarem, vem algo melhor.
+## Variedade com moderação
+Uma boa ideia é acostumar o gato, desde filhote, a mais de uma textura e mais de um sabor de úmido. Assim, se um produto sair de linha, ele aceita outro. Para o adulto exigente, faça isso aos poucos, misturando um pouco do novo no antigo.
+## Não caia na armadilha
+- Não troque a comida toda vez que ele recusar.
+- Não ofereça três opções no mesmo prato.
+- Não deixe o pote cheio o dia todo. Fome em horário certo ajuda o gato a comer.
+Mas atenção: gato não pode ficar mais de um dia sem comer. Se ele recusar tudo, não insista no teste. Ofereça o que ele aceita e procure a veterinária.
+## Detalhes que fazem diferença
+1. Pote raso e largo, que não incomoda o bigode.
+2. Úmido em temperatura ambiente, nunca direto da geladeira.
+3. Ração seca fresca, de saco bem fechado.
+4. Lugar tranquilo, longe da caixa de areia e do movimento.
+## Mudou de repente?
+Gato que comia bem e começou a recusar comida pode estar com dor de dente, enjoo ou outro problema. Não é frescura. Indicamos a Pink Vet, na Av. Pedro de Souza Lopes, 33.
+## O que temos
+Ração seca Golden Gatos, CatChow, Whiskas e Royal Canin. Sachês e patês de vários sabores e texturas, conforme o estoque. Comprar unidades avulsas é uma boa forma de testar antes de levar a caixa.
+## Compra e entrega
+Segunda a sábado, das 9h às 18h, na Av. Pedro de Souza Lopes, 33B. Pedido pelo WhatsApp (11) 97460-5359. Entrega no Jaçanã combinada por ligação antes.
+? Meu gato só come um sachê. O que faço?
+= Misture aos poucos outros sabores e texturas. Se ele recusar tudo, ofereça o que aceita e procure a veterinária.
+? Gato exigente pode ficar sem comer até aceitar?
+= Não. Jejum prolongado é perigoso para gatos.
+? Entregam no Jaçanã?
+= Entregamos, combinando o local por ligação antes.
+
+@@ veterinario-jacana
+title: Veterinário Perto do Jaçanã, São Paulo | Pink Vet parceira
+desc: Veterinário a cerca de 3,7 km do Jaçanã: Pink Vet, na Av. Pedro de Souza Lopes, 33, Guarulhos. Consulta, vacinas e check-up com hora marcada.
+badge: Consulta com hora marcada
+h1: Veterinário perto do [Jaçanã]
+Para quem mora no Jaçanã, a Pink Vet Consultório Veterinário fica a cerca de 3,7 km em linha reta, já em Guarulhos, na Av. Pedro de Souza Lopes, 33, no Jardim Palmira. É a veterinária parceira que o Pet Shop Palmira indica.
+Vale dizer logo: a nossa loja não é clínica. A gente vende ração, produtos e remédios com receita. Consulta, vacinas e check-up são com a Pink Vet.
+## Informações da Pink Vet
+* Serviços | Consulta, vacinas e check-up.
+* Horário | Segunda a sexta, das 9h às 17h. Sábado, das 9h às 16h.
+* Avaliação | Nota 5,0 no Google.
+* Agendamento | WhatsApp (11) 93317-1589, pelo botão desta página.
+## Marque antes de sair de casa
+Vindo do Jaçanã, o ideal é chegar com horário marcado. Assim você não perde a viagem e o animal passa menos tempo esperando, o que conta muito para gato e para cão ansioso. A mensagem do botão desta página já avisa que você veio pelo site do Pet Shop Palmira.
+## Uma ida, várias coisas resolvidas
+A Pink Vet e o Pet Shop Palmira ficam na mesma avenida. Depois da consulta, se a veterinária receitar remédio, antipulgas, vermífugo ou uma ração específica, você passa na loja, no número 33B. Para garantir, mande a foto da receita pelo WhatsApp (11) 97460-5359 enquanto ainda estiver na clínica, e a gente separa.
+## Transporte
+- Gato sempre em caixa de transporte, coberta com uma toalha.
+- Cachorro com guia e peitoral, mesmo dentro do carro.
+- Água para o caminho em dia quente.
+- Animal enjoado em carro: não dê comida pouco antes de sair.
+## O que levar
+1. Carteirinha de vacinas.
+2. Nome da ração e dos remédios em uso.
+3. Anotações e vídeos do que você notou de diferente.
+## Urgência
+Em caso de falta de ar, trauma, convulsão, suspeita de envenenamento ou gato macho sem conseguir urinar, procure o atendimento mais perto de você na hora. Fora do horário da Pink Vet, um hospital veterinário 24 horas.
+? O Pet Shop Palmira tem veterinário?
+= Não. A loja não é clínica. Indicamos a Pink Vet.
+? Preciso marcar horário na Pink Vet?
+= O ideal é agendar pelo WhatsApp (11) 93317-1589 antes de sair de casa.
+? A Pink Vet abre aos sábados?
+= Abre, das 9h às 16h.

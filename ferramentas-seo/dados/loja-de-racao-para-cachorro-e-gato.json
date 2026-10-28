@@ -1,0 +1,123 @@
+{
+ "slug": "loja-de-racao-para-cachorro-e-gato",
+ "keyword": "loja de ração para cachorro e gato",
+ "numero": 1,
+ "cluster": "nao_regionalizadas_fase_1",
+ "source": "site",
+ "title": "Loja de Ração para Cachorro e Gato em Guarulhos | Pet Shop Palmira",
+ "description": "Loja de ração para cachorro e gato no Jardim Palmira, Guarulhos. Golden, Premier, Special Dog, Royal Canin e outras marcas. Consulte pelo WhatsApp.",
+ "ogDescription": "Loja de ração para cachorro e gato no Jardim Palmira, Guarulhos. Golden, Premier, Special Dog, Royal Canin e outras marcas. Consulte pelo WhatsApp.",
+ "faq": [
+  {
+   "q": "Vocês entregam ração em Guarulhos?",
+   "a": "Sim, mas só combinando o local por ligação antes, pelo (11) 2451-1719 ou ligação no WhatsApp. Atendemos o Jardim Palmira e bairros num raio de uns 10 km."
+  },
+  {
+   "q": "Posso trocar a ração do meu pet de uma vez?",
+   "a": "Não é uma boa ideia. Misture a ração nova com a antiga ao longo de 7 a 10 dias para o intestino se acostumar."
+  },
+  {
+   "q": "Quais formas de pagamento vocês aceitam?",
+   "a": "Pix, cartão de débito e crédito e dinheiro. Não cobramos taxa extra no cartão."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/pouring-pet-food-into-bowl.jpg",
+   "alt": "Nutrição felina especializada com equilíbrio renal",
+   "caption": "Nutrição Equilibrada com Proteção Renal",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/goldencat.webp",
+   "alt": "Ração Golden Gatos Castrados sabor frango e salmão",
+   "caption": "Golden Gatos: Especial para Castrados",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/whiskas.webp",
+   "alt": "Ração Whiskas com recheio crocante e alta aceitação",
+   "caption": "Whiskas Crocante e Saboroso",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/saches.webp",
+   "alt": "Sachês úmidos para hidratação diária do trato renal dos felinos",
+   "caption": "Sachês Úmidos: Hidratação Renal Obrigatória",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Ração no Jardim Palmira",
+ "h1": "Loja de ração para <span class=\"acc\">cachorro e gato</span> no Jardim Palmira",
+ "intro": [
+  "Faz 25 anos que a gente vende ração na Av. Pedro de Souza Lopes, 33B. Nesse tempo deu pra aprender uma coisa: o tutor quer achar a ração de sempre na prateleira e ouvir uma opinião honesta quando precisa trocar.",
+  "Aqui você encontra ração para cachorro e gato de filhote a idoso, em saco pequeno ou de 15 e 20 kg. Se a marca que o seu pet come não estiver no estoque, a gente encomenda."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "O que procurar numa loja de ração"
+  },
+  {
+   "type": "p",
+   "html": "Preço conta, claro. Mas vale olhar duas coisas antes: se a embalagem está lacrada e dentro da validade, e se quem atende sabe explicar a diferença entre uma linha e outra."
+  },
+  {
+   "type": "p",
+   "html": "Ração parada muito tempo em estoque perde aroma, e gato percebe isso antes de você. Por isso a gente prefere repor com frequência a encher o depósito."
+  },
+  {
+   "type": "h2",
+   "text": "Marcas que você encontra aqui"
+  },
+  {
+   "type": "p",
+   "html": "Trabalhamos com Premier, Golden, Magnus, Special Dog, Pedigree, Whiskas, Royal Canin, CatChow, Premiatta e Max. A disponibilidade muda conforme o estoque, então vale confirmar pelo WhatsApp antes de vir."
+  },
+  {
+   "type": "table",
+   "head": [
+    "Para quem",
+    "Exemplos na loja"
+   ],
+   "rows": [
+    [
+     "Cães adultos",
+     "Golden Formula, Premiatta Classic, Max Professional"
+    ],
+    [
+     "Filhotes",
+     "Golden Filhotes, Premiatta Filhotes, Max Filhotes"
+    ],
+    [
+     "Gatos",
+     "Golden Gatos, CatChow, Whiskas"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Como escolher sem errar"
+  },
+  {
+   "type": "p",
+   "html": "Comece pela fase de vida e pelo porte. Filhote precisa de grão menor e mais energia. Cão idoso costuma precisar de menos caloria. Gato castrado engorda com facilidade, então a ração para castrados faz diferença."
+  },
+  {
+   "type": "p",
+   "html": "Se o seu pet tem algum problema de saúde, a escolha é do veterinário. A gente ajuda a achar a ração que ele indicou."
+  },
+  {
+   "type": "highlight",
+   "title": "Na hora de trocar de ração",
+   "text": "Faça a troca aos poucos, em 7 a 10 dias, misturando a nova com a antiga. Mudança brusca costuma dar diarreia."
+  }
+ ],
+ "humanizado": true
+}

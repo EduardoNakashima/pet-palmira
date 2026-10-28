@@ -1,0 +1,111 @@
+{
+ "slug": "racao-para-gato-continental",
+ "keyword": "ração para gato Continental",
+ "numero": 58,
+ "cluster": "regionalizadas_fase_1",
+ "source": "site",
+ "title": "Ração para Gato no Parque Continental, Guarulhos | Pet Shop Palmira",
+ "description": "Ração para gato no Parque Continental, Guarulhos: Golden Gatos, CatChow, Whiskas e sachês. Como fazer o gato beber mais água e cuidar do rim.",
+ "ogDescription": "Ração para gato no Parque Continental, Guarulhos: Golden Gatos, CatChow, Whiskas e sachês. Como fazer o gato beber mais água e cuidar do rim.",
+ "faq": [
+  {
+   "q": "Quantos sachês por dia posso dar?",
+   "a": "Em geral um, junto com a ração seca. Diminua um pouco a ração para o gato não engordar."
+  },
+  {
+   "q": "Fonte de água vale a pena?",
+   "a": "Para muitos gatos, sim. Consulte os modelos disponíveis pelo WhatsApp."
+  },
+  {
+   "q": "Vocês entregam no Parque Continental?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/pouring-pet-food-into-bowl.jpg",
+   "alt": "Nutrição felina especializada com equilíbrio renal",
+   "caption": "Nutrição Equilibrada com Proteção Renal",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/goldencat.webp",
+   "alt": "Ração Golden Gatos Castrados sabor frango e salmão",
+   "caption": "Golden Gatos: Especial para Castrados",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/whiskas.webp",
+   "alt": "Ração Whiskas com recheio crocante e alta aceitação",
+   "caption": "Whiskas Crocante e Saboroso",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/saches.webp",
+   "alt": "Sachês úmidos para hidratação diária do trato renal dos felinos",
+   "caption": "Sachês Úmidos: Hidratação Renal Obrigatória",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Gatos do Continental",
+ "h1": "Ração para gato no <span class=\"acc\">Parque Continental</span>",
+ "intro": [
+  "O gato descende de animais do deserto. Por isso bebe pouca água e tira boa parte dela da comida. Com ração seca o dia inteiro, muitos gatos passam a vida bebendo menos do que deveriam, e o rim e a bexiga sentem com os anos.",
+  "Dá para ajudar com hábitos simples, e a ração entra nessa conta."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Ração seca e sachê"
+  },
+  {
+   "type": "p",
+   "html": "A ração seca completa continua sendo a base. Temos Golden Gatos, CatChow, Whiskas e Royal Canin, conforme o estoque. O que muda o jogo é o alimento úmido. Um sachê por dia coloca água na dieta sem o gato perceber."
+  },
+  {
+   "type": "p",
+   "html": "Se o seu gato estranhar o sachê, comece com uma colher de chá misturada na ração. Em poucos dias, muitos já esperam pela hora do úmido."
+  },
+  {
+   "type": "h2",
+   "text": "A água fora da tigela da comida"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Coloque o pote de água longe da ração. Na natureza, o gato não bebe perto de onde come.",
+    "Espalhe mais de um pote pela casa.",
+    "Troque a água todo dia. Gato percebe água parada.",
+    "Teste uma fonte de água. Muitos gatos bebem mais em água corrente.",
+    "Use pote largo, que não encoste no bigode."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Sinais para ficar de olho"
+  },
+  {
+   "type": "p",
+   "html": "Gato que vai muitas vezes à caixa e faz pouco xixi, que chora ao urinar ou que tem sangue na urina precisa de veterinário logo. Em gato macho, ficar sem conseguir urinar é emergência. Não espere o dia seguinte."
+  },
+  {
+   "type": "p",
+   "html": "Para consulta e check-up, indicamos a Pink Vet, na Av. Pedro de Souza Lopes, 33, perto da loja."
+  },
+  {
+   "type": "h2",
+   "text": "Compra perto do Continental"
+  },
+  {
+   "type": "p",
+   "html": "O Pet Shop Palmira fica de 0,8 a 1,8 km do Parque Continental, no Jardim Palmira. Você pode buscar a ração e os sachês de segunda a sábado, das 9h às 18h, ou pedir pelo WhatsApp (11) 97460-5359 e combinar a entrega por ligação."
+  }
+ ],
+ "humanizado": true
+}

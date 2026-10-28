@@ -1,0 +1,146 @@
+{
+ "slug": "pet-shop-vila-milton-guarulhos",
+ "keyword": "pet shop Vila Milton Guarulhos",
+ "numero": 86,
+ "cluster": "regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Pet Shop Perto da Vila Milton, Guarulhos | Pet Shop Palmira",
+ "description": "Pet shop a 2,8 km da Vila Milton: caminhas, colchonetes e acessórios para cachorro idoso, ração sênior, farmácia veterinária e banho para cães.",
+ "ogDescription": "Pet shop a 2,8 km da Vila Milton: caminhas, colchonetes e acessórios para cachorro idoso, ração sênior, farmácia veterinária e banho para cães.",
+ "faq": [
+  {
+   "q": "Vocês têm caminha ortopédica?",
+   "a": "Temos caminhas e colchonetes de alguns modelos. Consulte pelo WhatsApp."
+  },
+  {
+   "q": "Cão idoso pode tomar banho no pet shop?",
+   "a": "Pode, se estiver bem de saúde. Conte antes as limitações dele."
+  },
+  {
+   "q": "Entregam na Vila Milton?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/images/produtos/golden.webp",
+   "alt": "Rações para cães adultos e filhotes no Pet Shop Palmira",
+   "caption": "Rações Super Premium e Premium Especial Golden, Premier, Special Dog e opções nutritivas para todas as raças.",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/antiparasitario.webp",
+   "alt": "Farmácia veterinária completa com antipulgas e remédios",
+   "caption": "Farmácia Veterinária com Garantia de Procedência Antipulgas Bravecto, Simparic, vermífugos e medicamentos certificados.",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/transportesecasinhas.webp",
+   "alt": "Acessórios, casinhas e caixas de transporte",
+   "caption": "Casinhas, Caixas de Transporte e Peitorais Conforto térmico e segurança para passeios tranquilos na Vila Milton.",
+   "ok": false
+  },
+  {
+   "src": "assets/images/produtos/goldencat.webp",
+   "alt": "Ração Golden Gatos Castrados no Pet Shop Palmira",
+   "caption": "Nutrição Especializada para Felinos Fórmulas para gatos castrados, controle de bolas de pelo e saúde urinária.",
+   "ok": true
+  }
+ ],
+ "badge": "Conforto para o idoso",
+ "h1": "Pet shop perto da <span class=\"acc\">Vila Milton</span>",
+ "intro": [
+  "O cachorro que chegou filhote hoje tem focinho branco e anda mais devagar. Muita gente da Vila Milton vem ao Pet Shop Palmira, a 2,8 km do bairro em linha reta, procurando o que deixa a velhice do animal mais confortável.",
+  "Estamos na Av. Pedro de Souza Lopes, 33B, no Jardim Palmira, há 25 anos."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Para o cão idoso em casa"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Caminha ou colchonete",
+     "text": "Mais grossa, para aliviar ossos e articulações."
+    },
+    {
+     "title": "Tapete antiderrapante",
+     "text": "Piso liso é perigoso para pata fraca."
+    },
+    {
+     "title": "Comedouro mais alto",
+     "text": "Ajuda quem tem dor no pescoço ou na coluna."
+    },
+    {
+     "title": "Ração sênior",
+     "text": "Menos caloria e foco nas articulações."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Tudo conforme o estoque. Confirme pelo WhatsApp (11) 97460-5359."
+  },
+  {
+   "type": "h2",
+   "text": "Ajustes simples na casa"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Água perto de onde ele dorme.",
+    "Caminha longe de corrente de ar e do chão frio.",
+    "Rampa ou degrau para o sofá, se ele gosta de subir.",
+    "Passeios mais curtos e mais vezes.",
+    "Rotina fixa, porque cão idoso se confunde com mudança."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Banho no idoso"
+  },
+  {
+   "type": "p",
+   "html": "Fazemos banho e tosa só em cães, com tosa na máquina. Para o idoso, conte antes como ele está: se tem dor, se cansa fácil, se tem medo. Banho mais rápido e sem pressa no manuseio deixa a experiência mais tranquila. Você traz e busca o cachorro, porque não temos táxi dog."
+  },
+  {
+   "type": "p",
+   "html": "Se a veterinária pediu para evitar banho por algum tempo, respeite. Pele de idoso é mais sensível."
+  },
+  {
+   "type": "h2",
+   "text": "Gato idoso também"
+  },
+  {
+   "type": "p",
+   "html": "Para gatos idosos, temos caixa de areia com borda baixa, ração sênior e sachês, conforme o estoque. Gato com artrose evita caixa alta e acaba fazendo xixi fora."
+  },
+  {
+   "type": "h2",
+   "text": "Farmácia"
+  },
+  {
+   "type": "p",
+   "html": "Se o idoso usa remédio contínuo, mande a foto da receita pelo WhatsApp. A gente confere se tem e separa."
+  },
+  {
+   "type": "h2",
+   "text": "Horário, pagamento e entrega"
+  },
+  {
+   "type": "p",
+   "html": "Segunda a sábado, das 9h às 18h. Pix, débito, crédito ou dinheiro, sem taxa extra no cartão. Entrega na Vila Milton combinada por ligação antes."
+  },
+  {
+   "type": "h2",
+   "text": "Veterinária"
+  },
+  {
+   "type": "p",
+   "html": "A loja não é clínica. Para check-up do idoso, consulta e vacinas, indicamos a Pink Vet, na mesma avenida, no número 33."
+  }
+ ],
+ "humanizado": true
+}

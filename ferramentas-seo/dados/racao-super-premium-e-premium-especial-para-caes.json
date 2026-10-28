@@ -1,0 +1,113 @@
+{
+ "slug": "racao-super-premium-e-premium-especial-para-caes",
+ "keyword": "ração super premium e premium especial para cães",
+ "numero": 26,
+ "cluster": "nao_regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Ração Super Premium e Premium Especial para Cães | Pet Shop Palmira",
+ "description": "Ração super premium e premium especial para cães em Guarulhos: diferenças, quando vale a pena e como trocar. Golden, Premiatta, Premier e Royal Canin.",
+ "ogDescription": "Ração super premium e premium especial para cães em Guarulhos: diferenças, quando vale a pena e como trocar. Golden, Premiatta, Premier e Royal Canin.",
+ "faq": [
+  {
+   "q": "Qual a diferença prática entre as duas linhas?",
+   "a": "A super premium costuma ter ingredientes mais selecionados e fórmulas para necessidades específicas. A premium especial atende bem cães saudáveis por um preço menor."
+  },
+  {
+   "q": "Vale a pena para cão médio e grande?",
+   "a": "Costuma valer, porque a porção diária é menor e o saco de 15 kg dura mais."
+  },
+  {
+   "q": "Como peço essas rações?",
+   "a": "Pelo WhatsApp (11) 97460-5359. Confirme a marca e o sabor antes."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/images/produtos/premiata.webp",
+   "alt": "Ração Premiatta Super Premium para cães adultos de raças médias e grandes",
+   "caption": "Premiatta Super Premium: Máxima Absorção",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/golden.webp",
+   "alt": "Ração Golden Premium Especial para cães adultos sabor carne e frango",
+   "caption": "Golden Premium Especial: Energia e Vitalidade",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/racaoparacachorro.jpg",
+   "alt": "Grãos crocantes selecionados ricos em proteínas nobres para cães",
+   "caption": "Proteínas Nobres e Digestibilidade Superior",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/pouring-pet-food-into-bowl.jpg",
+   "alt": "Nutrição de precisão servida na tigela do pet",
+   "caption": "Nutrição de Precisão para Cada Fase de Vida",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Ração para cães",
+ "h1": "Ração super premium e premium especial <span class=\"acc\">para cães</span>",
+ "intro": [
+  "Super premium e premium especial são as duas linhas de ração com ingredientes de melhor qualidade. A dúvida de quase todo tutor é se vale pagar mais por elas.",
+  "A gente acha que, para a maioria dos cães, vale. Mas depende do seu cachorro e do seu orçamento."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "O que muda em relação às rações comuns"
+  },
+  {
+   "type": "p",
+   "html": "A diferença está na proteína e no aproveitamento. Rações melhores usam ingredientes que o organismo absorve com mais facilidade. O cachorro come uma porção menor e faz menos cocô."
+  },
+  {
+   "type": "p",
+   "html": "Na prática, o saco dura mais. Isso ajuda a compensar o preço mais alto."
+  },
+  {
+   "type": "h2",
+   "text": "Super premium ou premium especial?"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Linha",
+    "Para quem",
+    "Exemplos"
+   ],
+   "rows": [
+    [
+     "Premium especial",
+     "Cães saudáveis, sem necessidade específica",
+     "Golden Formula, Premiatta Classic"
+    ],
+    [
+     "Super premium",
+     "Cães com pele sensível, raças específicas ou quando o veterinário indicar",
+     "Premier, Royal Canin"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Se o seu cão vai bem com a premium especial, não precisa trocar. Se tem pele sensível ou coceira, converse com o veterinário sobre uma super premium."
+  },
+  {
+   "type": "h2",
+   "text": "Como fazer a troca"
+  },
+  {
+   "type": "p",
+   "html": "Misture a ração nova com a antiga por 7 dias. Comece com um quarto da nova, vá para metade, depois três quartos, até completar a troca."
+  }
+ ],
+ "humanizado": true
+}

@@ -1,0 +1,112 @@
+{
+ "slug": "casa-de-racao-vila-milton",
+ "keyword": "casa de ração Vila Milton",
+ "slides": [],
+ "title": "Casa de Ração Perto da Vila Milton, Guarulhos | Pet Shop Palmira",
+ "description": "Casa de ração a 2,8 km da Vila Milton: diferença entre ração standard, premium e super premium para cães e gatos, e como escolher.",
+ "ogDescription": "Casa de ração a 2,8 km da Vila Milton: diferença entre ração standard, premium e super premium para cães e gatos, e como escolher.",
+ "badge": "Linhas de ração",
+ "h1": "Casa de ração perto da <span class=\"acc\">Vila Milton</span>",
+ "intro": [
+  "Standard, premium, premium especial, super premium. Os nomes das linhas de ração confundem qualquer um. Na prática, eles falam da qualidade dos ingredientes e de quanto o animal aproveita da comida.",
+  "O Pet Shop Palmira fica a 2,8 km da Vila Milton e explica a diferença no balcão."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "As linhas em resumo"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Linha",
+    "Em geral",
+    "Porção diária"
+   ],
+   "rows": [
+    [
+     "Standard",
+     "Preço menor, ingredientes mais simples",
+     "Maior"
+    ],
+    [
+     "Premium",
+     "Meio-termo entre preço e qualidade",
+     "Média"
+    ],
+    [
+     "Super premium",
+     "Ingredientes mais selecionados, mais aproveitamento",
+     "Menor"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Essa é uma divisão geral. Dentro de cada linha há diferença entre marcas e produtos."
+  },
+  {
+   "type": "h2",
+   "text": "O que o tutor percebe"
+  },
+  {
+   "type": "p",
+   "html": "Com uma ração mais aproveitada, o animal costuma comer menos para ficar satisfeito e fazer menos fezes. Muitos tutores notam pelo mais bonito. Não é mágica: é a quantidade de nutriente que o corpo consegue usar."
+  },
+  {
+   "type": "h2",
+   "text": "Vale a pena pagar mais?"
+  },
+  {
+   "type": "p",
+   "html": "Depende do animal e do bolso. Um cachorro saudável pode viver bem com uma ração premium na porção certa. Um cão com problema de saúde pode precisar de uma linha específica, indicada pela veterinária. O que não vale é escolher só pelo preço do saco, sem olhar a porção e o rendimento."
+  },
+  {
+   "type": "h2",
+   "text": "Marcas que temos"
+  },
+  {
+   "type": "p",
+   "html": "Para cães, Golden, Premier, Special Dog, Pedigree, Magnus, Premiatta, Max e Royal Canin. Para gatos, Golden Gatos, CatChow, Whiskas e Royal Canin. Cada marca tem linhas diferentes. Pergunte qual se encaixa no seu animal."
+  },
+  {
+   "type": "h2",
+   "text": "Ração para outros bichos"
+  },
+  {
+   "type": "p",
+   "html": "Também temos ração para pássaros, roedores, galinha, porco e cavalo. Para esses, a escolha é mais por espécie e fase do que por linha."
+  },
+  {
+   "type": "h2",
+   "text": "Como trocar de linha"
+  },
+  {
+   "type": "p",
+   "html": "Subir ou descer de linha pede troca gradual, em cerca de uma semana. E pede ajuste da porção, porque a tabela muda de uma ração para outra."
+  },
+  {
+   "type": "h2",
+   "text": "Compra e entrega"
+  },
+  {
+   "type": "p",
+   "html": "Loja aberta de segunda a sábado, das 9h às 18h, na Av. Pedro de Souza Lopes, 33B. Pedido pelo WhatsApp (11) 97460-5359. Entrega na Vila Milton combinada por ligação antes. Pix, débito, crédito ou dinheiro, sem taxa extra no cartão."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Super premium é sempre melhor?",
+   "a": "Costuma ter ingredientes mais selecionados, mas a melhor ração é a que serve ao seu animal e ao seu orçamento."
+  },
+  {
+   "q": "Ração standard faz mal?",
+   "a": "Não necessariamente. Ração completa atende o básico, com porção maior."
+  },
+  {
+   "q": "Entregam na Vila Milton?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "humanizado": true
+}

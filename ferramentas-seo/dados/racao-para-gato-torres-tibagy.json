@@ -1,0 +1,128 @@
+{
+ "slug": "racao-para-gato-torres-tibagy",
+ "keyword": "ração para gato Torres Tibagy",
+ "numero": 98,
+ "title": "Ração para Gato no Torres Tibagy, Guarulhos | Pet Shop Palmira",
+ "description": "Ração para gato que vive só dentro de casa no Torres Tibagy: porção, ração indoor, bolas de pelo e como evitar o tédio. A 2,9 km.",
+ "ogDescription": "Ração para gato que vive só dentro de casa no Torres Tibagy: porção, ração indoor, bolas de pelo e como evitar o tédio. A 2,9 km.",
+ "badge": "Gato de dentro de casa",
+ "h1": "Ração para gato no <span class=\"acc\">Torres Tibagy</span>",
+ "intro": [
+  "Gato que vive só dentro de casa costuma viver mais. Não briga na rua, não é atropelado, pega menos doença. Em troca, se mexe menos, engorda com facilidade e às vezes fica entediado.",
+  "O Pet Shop Palmira fica a 2,9 km do Torres Tibagy e tem ração e itens para o gato de apartamento."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Ração indoor"
+  },
+  {
+   "type": "p",
+   "html": "Algumas linhas são feitas para gatos de ambiente interno. Em geral, têm caloria ajustada e fibra para ajudar com bolas de pelo, que aparecem mais em gato que passa o dia se lambendo. Temos opções da Golden Gatos, CatChow, Whiskas e Royal Canin, conforme o estoque."
+  },
+  {
+   "type": "h2",
+   "text": "Porção medida"
+  },
+  {
+   "type": "p",
+   "html": "Gato de apartamento castrado é o perfil que mais engorda. Meça a porção do dia e divida em duas ou três refeições. Pote cheio o dia inteiro quase sempre termina em sobrepeso."
+  },
+  {
+   "type": "h2",
+   "text": "Água"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Potes de água em mais de um cômodo.",
+    "Longe da comida e da caixa de areia.",
+    "Fonte de água, para quem gosta de água corrente.",
+    "Sachê uma vez ao dia, descontado da ração."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Gato entediado come mais"
+  },
+  {
+   "type": "p",
+   "html": "Sem nada para fazer, muitos gatos comem por tédio. Algumas ideias:"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Dez minutos de varinha por dia, imitando caça.",
+    "Parte da ração escondida em potes pela casa, para ele procurar.",
+    "Um lugar alto perto da janela, com tela, para observar a rua.",
+    "Caixas de papelão para entrar e sair."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Tela na janela"
+  },
+  {
+   "type": "p",
+   "html": "Gato de apartamento cai de janela e de varanda com mais frequência do que se imagina. Ele se distrai com um pássaro e pula. Tela de proteção em todas as janelas e na sacada é o item mais importante para ele."
+  },
+  {
+   "type": "h2",
+   "text": "Bola de pelo"
+  },
+  {
+   "type": "p",
+   "html": "Gato de dentro de casa troca pelo o ano todo. Escove algumas vezes por semana e observe se as bolas de pelo estão frequentes."
+  },
+  {
+   "type": "h2",
+   "text": "Compra e entrega"
+  },
+  {
+   "type": "p",
+   "html": "Segunda a sábado, das 9h às 18h, na Av. Pedro de Souza Lopes, 33B. Pedido pelo WhatsApp (11) 97460-5359. Entrega no Torres Tibagy combinada por ligação antes. Para check-up, indicamos a Pink Vet, no número 33."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Gato de apartamento precisa de ração indoor?",
+   "a": "Não é obrigatório, mas ajuda gatos que engordam fácil ou têm muitas bolas de pelo."
+  },
+  {
+   "q": "Gato que não sai de casa precisa de vacina?",
+   "a": "Precisa. A veterinária indica o calendário."
+  },
+  {
+   "q": "Entregam no Torres Tibagy?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/cachorroegato.webp",
+   "alt": "",
+   "caption": "",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/goldencat.webp",
+   "alt": "",
+   "caption": "",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/catchow.webp",
+   "alt": "",
+   "caption": "",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/saches.webp",
+   "alt": "",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "source": "novo",
+ "humanizado": true
+}

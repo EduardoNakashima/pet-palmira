@@ -1,0 +1,118 @@
+{
+ "slug": "veterinario-jardim-city",
+ "keyword": "veterinário Jardim City",
+ "slides": [],
+ "title": "Veterinário Perto do Jardim City, Guarulhos | Pink Vet parceira",
+ "description": "Veterinário a 2,2 km do Jardim City: Pink Vet, na Av. Pedro de Souza Lopes, 33. Como levar o gato à consulta sem estresse.",
+ "ogDescription": "Veterinário a 2,2 km do Jardim City: Pink Vet, na Av. Pedro de Souza Lopes, 33. Como levar o gato à consulta sem estresse.",
+ "badge": "Gato na consulta",
+ "h1": "Veterinário perto do <span class=\"acc\">Jardim City</span>",
+ "intro": [
+  "Para muito tutor de gato, a parte mais difícil da consulta é antes dela: colocar o gato na caixa de transporte. Ele some debaixo da cama, arranha, mia o caminho inteiro. Dá para tornar isso mais fácil.",
+  "Para consulta, vacinas e check-up, indicamos a Pink Vet Consultório Veterinário, nossa parceira, a 2,2 km do Jardim City. O Pet Shop Palmira não é clínica veterinária: a gente vende ração, produtos e remédios com receita."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Pink Vet"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Item",
+    "Informação"
+   ],
+   "rows": [
+    [
+     "Endereço",
+     "Av. Pedro de Souza Lopes, 33, Jardim Palmira"
+    ],
+    [
+     "Serviços",
+     "Consulta, vacinas e check-up"
+    ],
+    [
+     "Horário",
+     "Seg a sex, 9h às 17h. Sáb, 9h às 16h"
+    ],
+    [
+     "Avaliação",
+     "Nota 5,0 no Google"
+    ],
+    [
+     "WhatsApp",
+     "(11) 93317-1589"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "A caixa de transporte vira móvel da casa"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Deixe a caixa aberta na sala, alguns dias antes, com uma manta dentro.",
+    "Coloque petisco ou ração dentro, para ele entrar sozinho.",
+    "Quando ele já entra por conta própria, feche a porta por alguns segundos e abra.",
+    "No dia, coloque o gato com calma, sem perseguir pela casa."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Caixa com abertura em cima facilita colocar e tirar o gato."
+  },
+  {
+   "type": "h2",
+   "text": "No trajeto"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Cubra a caixa com uma toalha. Gato se sente mais seguro no escuro.",
+    "Segure a caixa com as duas mãos, sem balançar.",
+    "No carro, prenda a caixa com o cinto, no chão ou no banco.",
+    "Nunca leve gato no colo. No primeiro susto, ele foge."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Na consulta"
+  },
+  {
+   "type": "p",
+   "html": "Conte para a veterinária se ele está comendo, bebendo, usando a caixa de areia normalmente. Leve a carteirinha de vacinas. Fotos de algo estranho que você notou em casa ajudam, porque no consultório o gato costuma ficar quieto e esconder sinais."
+  },
+  {
+   "type": "h2",
+   "text": "Caixa de transporte na loja"
+  },
+  {
+   "type": "p",
+   "html": "Temos caixas de transporte de alguns tamanhos e modelos na loja, no número 33B da mesma avenida, conforme o estoque. Traga o peso do gato para escolher."
+  },
+  {
+   "type": "h2",
+   "text": "Agendamento"
+  },
+  {
+   "type": "p",
+   "html": "Use o botão desta página para chamar a Pink Vet no WhatsApp. A mensagem já avisa que você veio pelo site do Pet Shop Palmira."
+  }
+ ],
+ "faq": [
+  {
+   "q": "O Pet Shop Palmira tem veterinário?",
+   "a": "Não. A loja não é clínica. Indicamos a Pink Vet."
+  },
+  {
+   "q": "Posso levar o gato no colo até a clínica?",
+   "a": "Não. Use sempre caixa de transporte. Gato assustado foge."
+  },
+  {
+   "q": "Preciso marcar antes?",
+   "a": "Sim. Chame a Pink Vet no WhatsApp (11) 93317-1589 e combine o horário."
+  }
+ ],
+ "humanizado": true
+}

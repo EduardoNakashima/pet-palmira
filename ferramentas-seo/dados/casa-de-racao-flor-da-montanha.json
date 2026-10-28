@@ -1,0 +1,129 @@
+{
+ "slug": "casa-de-racao-flor-da-montanha",
+ "keyword": "casa de ração Jardim Flor da Montanha",
+ "slides": [],
+ "title": "Casa de Ração Perto do Jardim Flor da Montanha | Pet Shop Palmira",
+ "description": "Casa de ração a 2,7 km do Jardim Flor da Montanha: ração para porcos e animais de criação, além de cães, gatos e pássaros.",
+ "ogDescription": "Casa de ração a 2,7 km do Jardim Flor da Montanha: ração para porcos e animais de criação, além de cães, gatos e pássaros.",
+ "badge": "Ração para porcos",
+ "h1": "Casa de ração perto do <span class=\"acc\">Jardim Flor da Montanha</span>",
+ "intro": [
+  "Quem cria porco em chácara ou sítio da região sabe que o resto de comida não basta. Porco cresce rápido e precisa de ração com proteína e energia na medida da fase.",
+  "O Pet Shop Palmira fica a 2,7 km do Jardim Flor da Montanha e vende ração para porcos e outros animais de criação."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Ração por fase"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Fase",
+    "O que observar"
+   ],
+   "rows": [
+    [
+     "Leitão",
+     "Ração inicial, mais proteína para crescer"
+    ],
+    [
+     "Crescimento",
+     "Ração de crescimento, mais quantidade"
+    ],
+    [
+     "Terminação",
+     "Ração de terminação, para o peso final"
+    ],
+    [
+     "Matriz",
+     "Ração própria, conforme gestação e lactação"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Pergunte no balcão quais fases temos no momento. O estoque de ração de criação varia, então confirme pelo WhatsApp (11) 97460-5359 antes de vir."
+  },
+  {
+   "type": "h2",
+   "text": "Resto de comida"
+  },
+  {
+   "type": "p",
+   "html": "Muita gente complementa com sobra de cozinha. Pode até ajudar no custo, mas tem riscos. Comida estragada, com mofo, osso ou sal demais faz mal. E a ração continua sendo a base para o porco crescer saudável."
+  },
+  {
+   "type": "h2",
+   "text": "Água"
+  },
+  {
+   "type": "p",
+   "html": "Porco bebe muita água, ainda mais no calor. Bebedouro limpo e sempre cheio. Porco sem água come menos e cresce menos."
+  },
+  {
+   "type": "h2",
+   "text": "Guardar a ração"
+  },
+  {
+   "type": "p",
+   "html": "Em lugar seco, fora do chão, com o saco fechado ou em tambor com tampa. Ração de criação atrai rato, e rato contamina o estoque."
+  },
+  {
+   "type": "h2",
+   "text": "Para outros bichos"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Galinhas",
+     "text": "Ração inicial, de crescimento e de postura."
+    },
+    {
+     "title": "Cavalos",
+     "text": "Ração como complemento ao volumoso."
+    },
+    {
+     "title": "Pássaros e roedores",
+     "text": "Sementes, ração e feno."
+    },
+    {
+     "title": "Cães e gatos",
+     "text": "Golden, Premier, Special Dog, Pedigree, Whiskas, CatChow e outras."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Saúde"
+  },
+  {
+   "type": "p",
+   "html": "Para saúde de animal de produção, procure um veterinário de grandes animais. Para cães e gatos, indicamos a Pink Vet, nossa parceira, com consulta, vacinas e check-up."
+  },
+  {
+   "type": "h2",
+   "text": "Compra e entrega"
+  },
+  {
+   "type": "p",
+   "html": "Loja aberta de segunda a sábado, das 9h às 18h, na Av. Pedro de Souza Lopes, 33B. Entrega no Jardim Flor da Montanha combinada por ligação antes. Pix, débito, crédito ou dinheiro, sem taxa extra no cartão."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Vocês vendem ração para leitão?",
+   "a": "Temos ração de criação para porcos. Confirme as fases disponíveis pelo WhatsApp."
+  },
+  {
+   "q": "Posso alimentar porco só com resto de comida?",
+   "a": "Não é o ideal. A ração é a base para ele crescer com saúde."
+  },
+  {
+   "q": "Entregam no Jardim Flor da Montanha?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "humanizado": true
+}

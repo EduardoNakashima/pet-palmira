@@ -1,0 +1,104 @@
+{
+ "slug": "pet-shop-santa-mena",
+ "keyword": "pet shop Jardim Santa Mena",
+ "slides": [],
+ "title": "Pet Shop Perto do Jardim Santa Mena, Guarulhos | Pet Shop Palmira",
+ "description": "Pet shop a 3,4 km do Jardim Santa Mena: casinhas, caminhas e proteção para o cachorro de quintal na chuva e no frio. Ração e farmácia.",
+ "ogDescription": "Pet shop a 3,4 km do Jardim Santa Mena: casinhas, caminhas e proteção para o cachorro de quintal na chuva e no frio. Ração e farmácia.",
+ "badge": "Cão de quintal",
+ "h1": "Pet shop perto do <span class=\"acc\">Jardim Santa Mena</span>",
+ "intro": [
+  "Casa com quintal ainda é comum no Jardim Santa Mena, e muito cachorro passa boa parte do dia lá fora. Para ele, a casinha é o quarto, o abrigo da chuva e o lugar de fugir do sol.",
+  "O Pet Shop Palmira fica a 3,4 km do bairro em linha reta, na Av. Pedro de Souza Lopes, 33B, no Jardim Palmira, e tem casinhas, caminhas e o resto do que o cão de quintal precisa."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "A casinha certa"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Tamanho: o cachorro deve entrar, virar e deitar esticado. Casinha grande demais não esquenta no frio.",
+    "Piso elevado, para não encostar no chão molhado.",
+    "Porta virada para longe do vento e da chuva.",
+    "Lugar com sombra durante a tarde."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Temos casinhas de alguns modelos e tamanhos, conforme o estoque. Mande o peso e a raça pelo WhatsApp (11) 97460-5359 que a gente indica."
+  },
+  {
+   "type": "h2",
+   "text": "No frio"
+  },
+  {
+   "type": "p",
+   "html": "Caminha ou colchonete dentro da casinha ajuda bastante. Cobertor velho também serve, desde que seja trocado quando molhar. Cachorro idoso, filhote e cão de pelo curto sentem mais. Em noite muito fria, vale trazer para dentro."
+  },
+  {
+   "type": "h2",
+   "text": "Na chuva"
+  },
+  {
+   "type": "p",
+   "html": "Confira se a casinha não está pegando goteira e se o quintal não alaga perto dela. Água parada também atrai mosquito."
+  },
+  {
+   "type": "h2",
+   "text": "No calor"
+  },
+  {
+   "type": "p",
+   "html": "Água fresca à vontade, em pote que não vira, na sombra. Troque mais de uma vez ao dia. Corrente curta no sol forte é perigo."
+  },
+  {
+   "type": "h2",
+   "text": "Pulga e carrapato no quintal"
+  },
+  {
+   "type": "p",
+   "html": "Cachorro de quintal convive com mais pulga e carrapato. Mantenha o antipulgas em dia e limpe o quintal com frequência. Na farmácia da loja, temos Frontline Plus, Capstar e outros produtos, conforme o estoque."
+  },
+  {
+   "type": "h2",
+   "text": "Outros itens"
+  },
+  {
+   "type": "p",
+   "html": "Comedouro pesado, que não vira. Coleira com plaquinha, porque cão de quintal foge quando o portão fica aberto. Ração para cão adulto ativo, filhote ou idoso."
+  },
+  {
+   "type": "h2",
+   "text": "Na loja"
+  },
+  {
+   "type": "p",
+   "html": "Também temos ração para gatos, pássaros, roedores e criação, e banho e tosa só para cães, com tosa na máquina. Você traz e busca o cachorro. Funcionamos de segunda a sábado, das 9h às 18h, com Pix, débito, crédito ou dinheiro, sem taxa extra no cartão. A entrega no Jardim Santa Mena é combinada por ligação antes."
+  },
+  {
+   "type": "h2",
+   "text": "Veterinária"
+  },
+  {
+   "type": "p",
+   "html": "Para consulta e vacinas, indicamos a Pink Vet, na mesma avenida, no número 33. A loja não é clínica."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Qual o tamanho certo da casinha?",
+   "a": "O cão deve entrar, virar e deitar esticado, sem sobrar muito espaço."
+  },
+  {
+   "q": "Vocês entregam casinha?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  },
+  {
+   "q": "Cão de quintal precisa de antipulgas todo mês?",
+   "a": "Depende do produto. Siga a embalagem e a orientação da veterinária."
+  }
+ ],
+ "humanizado": true
+}

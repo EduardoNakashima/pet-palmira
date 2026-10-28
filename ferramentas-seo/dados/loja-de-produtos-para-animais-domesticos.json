@@ -1,0 +1,97 @@
+{
+ "slug": "loja-de-produtos-para-animais-domesticos",
+ "keyword": "loja de produtos para animais domésticos",
+ "numero": 13,
+ "cluster": "nao_regionalizadas_fase_1",
+ "source": "site",
+ "title": "Loja de Produtos para Animais Domésticos | Pet Shop Palmira",
+ "description": "Loja de produtos para animais domésticos em Guarulhos: cães, gatos, pássaros, roedores, cavalos e animais de criação. Pet Shop Palmira, Jardim Palmira.",
+ "ogDescription": "Loja de produtos para animais domésticos em Guarulhos: cães, gatos, pássaros, roedores, cavalos e animais de criação. Pet Shop Palmira, Jardim Palmira.",
+ "faq": [
+  {
+   "q": "Vocês vendem produto para aves, além de cães e gatos?",
+   "a": "Sim. Temos sementes, ração extrusada e acessórios para calopsitas, canários e periquitos."
+  },
+  {
+   "q": "Como funciona a entrega?",
+   "a": "Fazemos entrega somente combinando o local por ligação antes, para o Jardim Palmira e bairros num raio de uns 10 km."
+  },
+  {
+   "q": "Quais formas de pagamento vocês aceitam?",
+   "a": "Pix, cartão de débito e crédito e dinheiro."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/loja2.jpg",
+   "alt": "Variedade completa em produtos para cães e gatos no Pet Shop Palmira",
+   "caption": "Sortimento Completo em Produtos Pet",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/shampoo.webp",
+   "alt": "Shampoos hipoalergênicos e sabonetes dermatológicos",
+   "caption": "Shampoos e Higiene Especializada",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/brinquedos.webp",
+   "alt": "Brinquedos mordedores resistentes e cordas para recreação",
+   "caption": "Brinquedos Duráveis e Mordedores",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/capstar.webp",
+   "alt": "Farmácia veterinária preventiva, antipulgas e vermífugos",
+   "caption": "Farmácia e Proteção Antipulgas",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Para vários bichos",
+ "h1": "Loja de produtos para <span class=\"acc\">animais domésticos</span>",
+ "intro": [
+  "Nem todo mundo aqui no bairro tem só cachorro ou gato. Tem quem cria calopsita, porquinho-da-índia, galinha no quintal. A loja foi pensada para esse povo também."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Por espécie"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Cães e gatos",
+     "text": "Ração, petisco, higiene, antipulgas e acessórios."
+    },
+    {
+     "title": "Pássaros",
+     "text": "Misturas de sementes, ração extrusada, bebedouros, poleiros e gaiolas."
+    },
+    {
+     "title": "Coelhos e porquinhos-da-índia",
+     "text": "Ração peletizada, feno e alfafa."
+    },
+    {
+     "title": "Criação",
+     "text": "Ração para galinhas, suínos e peixes, e sal mineral."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Por que comprar no bairro"
+  },
+  {
+   "type": "p",
+   "html": "Você conversa com quem conhece o produto, tira dúvida na hora e não depende de prazo de transportadora. E se faltar alguma coisa, a gente encomenda."
+  }
+ ],
+ "humanizado": true
+}

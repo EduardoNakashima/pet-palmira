@@ -1,0 +1,108 @@
+{
+ "slug": "casa-de-racao-santa-mena",
+ "keyword": "casa de ração Jardim Santa Mena",
+ "slides": [],
+ "title": "Casa de Ração Perto do Jardim Santa Mena | Pet Shop Palmira",
+ "description": "Casa de ração a 3,4 km do Jardim Santa Mena: ração inicial para pintinhos, calor, água e cuidados nas primeiras semanas. Ração de criação.",
+ "ogDescription": "Casa de ração a 3,4 km do Jardim Santa Mena: ração inicial para pintinhos, calor, água e cuidados nas primeiras semanas. Ração de criação.",
+ "badge": "Pintinhos",
+ "h1": "Casa de ração perto do <span class=\"acc\">Jardim Santa Mena</span>",
+ "intro": [
+  "Pintinho comprado na feira ou nascido no quintal precisa de cuidado nas primeiras semanas. Ele é frágil, sente frio e precisa de comida própria.",
+  "O Pet Shop Palmira fica a 3,4 km do Jardim Santa Mena e tem ração inicial para pintinhos e outras rações de criação."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Ração inicial"
+  },
+  {
+   "type": "p",
+   "html": "Nos primeiros dias e semanas, o pintinho come ração inicial, que é mais fina e tem mais proteína para o crescimento. Milho quebrado não pode ser a base nessa fase. Ofereça a ração à vontade, em comedouro baixo, onde ele alcança sem subir."
+  },
+  {
+   "type": "h2",
+   "text": "Calor"
+  },
+  {
+   "type": "p",
+   "html": "Pintinho sem a mãe precisa de fonte de calor nas primeiras semanas. Uma caixa protegida do vento, com uma lâmpada ou outra fonte de aquecimento segura, funciona. Observe o comportamento:"
+  },
+  {
+   "type": "table",
+   "head": [
+    "O que você vê",
+    "O que significa"
+   ],
+   "rows": [
+    [
+     "Todos amontoados embaixo do calor",
+     "Estão com frio"
+    ],
+    [
+     "Todos longe do calor, de bico aberto",
+     "Está quente demais"
+    ],
+    [
+     "Espalhados, comendo e piando baixo",
+     "Temperatura certa"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Água"
+  },
+  {
+   "type": "p",
+   "html": "Bebedouro raso, que o pintinho não consiga entrar. Pintinho que cai em pote fundo pode se afogar ou ficar molhado e com frio. Troque a água todo dia."
+  },
+  {
+   "type": "h2",
+   "text": "Limpeza"
+  },
+  {
+   "type": "p",
+   "html": "Troque a forração da caixa com frequência. Umidade e sujeira deixam o pintinho doente."
+  },
+  {
+   "type": "h2",
+   "text": "Crescimento e postura"
+  },
+  {
+   "type": "p",
+   "html": "Com o tempo, ele passa para a ração de crescimento e, se for galinha poedeira, para a ração de postura. A troca de uma ração para outra deve ser aos poucos. Pergunte no balcão em que fase está o seu."
+  },
+  {
+   "type": "h2",
+   "text": "Outros bichos"
+  },
+  {
+   "type": "p",
+   "html": "Ração para galinha adulta, porco, cavalo, pássaros e roedores. Para cães e gatos, Golden, Premier, Special Dog, Pedigree, Whiskas, CatChow e outras, conforme o estoque."
+  },
+  {
+   "type": "h2",
+   "text": "Compra e entrega"
+  },
+  {
+   "type": "p",
+   "html": "Loja aberta de segunda a sábado, das 9h às 18h, na Av. Pedro de Souza Lopes, 33B. Confirme o estoque de ração inicial pelo WhatsApp (11) 97460-5359. Entrega no Jardim Santa Mena combinada por ligação antes. Pix, débito, crédito ou dinheiro, sem taxa extra no cartão."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Pintinho pode comer milho?",
+   "a": "Não como base. Nas primeiras semanas, ele precisa de ração inicial."
+  },
+  {
+   "q": "Como sei se o pintinho está com frio?",
+   "a": "Se todos ficam amontoados embaixo da fonte de calor, estão com frio."
+  },
+  {
+   "q": "Entregam no Jardim Santa Mena?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "humanizado": true
+}

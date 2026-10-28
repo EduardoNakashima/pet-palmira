@@ -1,0 +1,125 @@
+{
+ "slug": "casa-de-racao-cabucu",
+ "keyword": "casa de ração Cabuçu",
+ "slides": [],
+ "title": "Casa de Ração Perto do Cabuçu, Guarulhos | Pet Shop Palmira",
+ "description": "Casa de ração a 3,8 km do Cabuçu: para chácara e casa com vários tipos de bicho. Ração de cão, gato, galinha, porco, cavalo e pássaros.",
+ "ogDescription": "Casa de ração a 3,8 km do Cabuçu: para chácara e casa com vários tipos de bicho. Ração de cão, gato, galinha, porco, cavalo e pássaros.",
+ "badge": "Chácara e quintal grande",
+ "h1": "Casa de ração perto do <span class=\"acc\">Cabuçu</span>",
+ "intro": [
+  "No Cabuçu, perto da Cantareira, tem casa com quintal grande e chácara onde convivem cachorro, gato, galinha e às vezes porco ou cavalo. Para esse tipo de casa, a casa de ração é onde se resolve tudo de uma vez.",
+  "O Pet Shop Palmira fica a 3,8 km do bairro e vende ração para todos esses bichos há 25 anos."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Uma lista, vários animais"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Animal",
+    "Ração"
+   ],
+   "rows": [
+    [
+     "Cachorro",
+     "Golden, Premier, Special Dog, Pedigree, Magnus, Premiatta, Max, Royal Canin"
+    ],
+    [
+     "Gato",
+     "Golden Gatos, CatChow, Whiskas, Royal Canin"
+    ],
+    [
+     "Galinha",
+     "Inicial, crescimento e postura"
+    ],
+    [
+     "Porco",
+     "Ração de criação por fase"
+    ],
+    [
+     "Cavalo",
+     "Ração como complemento ao volumoso"
+    ],
+    [
+     "Pássaros",
+     "Sementes e misturas"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Tudo conforme o estoque. Confirme pelo WhatsApp (11) 97460-5359."
+  },
+  {
+   "type": "h2",
+   "text": "Cada um no seu cocho"
+  },
+  {
+   "type": "p",
+   "html": "Na chácara, é comum o cachorro comer a ração da galinha, a galinha bicar a ração do gato e o porco comer o que estiver no chão. Isso desequilibra a dieta de todos. Separe os comedouros, em alturas e lugares que só o animal certo alcança."
+  },
+  {
+   "type": "h2",
+   "text": "Estoque grande, cuidado em dobro"
+  },
+  {
+   "type": "p",
+   "html": "Com vários animais, é comum ter muitos sacos guardados. Algumas regras:"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Tudo fora do chão, em estrado ou prateleira.",
+    "Ração de criação em tambor com tampa.",
+    "Primeiro a entrar, primeiro a sair. Use o saco mais antigo antes.",
+    "Local seco e fechado, sem acesso de rato."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Rato no depósito contamina a ração e pode transmitir doença para os animais e para a família."
+  },
+  {
+   "type": "h2",
+   "text": "Água para todos"
+  },
+  {
+   "type": "p",
+   "html": "Bebedouros limpos e separados por espécie. No calor, galinha e porco bebem bem mais."
+  },
+  {
+   "type": "h2",
+   "text": "Pedido grande"
+  },
+  {
+   "type": "p",
+   "html": "Para chácara, muita gente faz pedido grande uma vez por mês. Mande a lista pelo WhatsApp com tudo, a gente confere o estoque e liga para combinar a entrega no Cabuçu. Sem essa ligação, a entrega não sai."
+  },
+  {
+   "type": "h2",
+   "text": "Pagamento"
+  },
+  {
+   "type": "p",
+   "html": "Pix, débito, crédito ou dinheiro, sem taxa extra no cartão. Loja aberta de segunda a sábado, das 9h às 18h, na Av. Pedro de Souza Lopes, 33B."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Vocês entregam vários tipos de ração no mesmo pedido?",
+   "a": "Entregamos, conforme o estoque, combinando o local por ligação antes."
+  },
+  {
+   "q": "Cachorro pode comer ração de galinha?",
+   "a": "Não é o ideal. Cada espécie precisa da sua ração."
+  },
+  {
+   "q": "Como evitar rato na ração?",
+   "a": "Guarde fora do chão, em tambor ou pote com tampa, e não deixe ração espalhada."
+  }
+ ],
+ "humanizado": true
+}

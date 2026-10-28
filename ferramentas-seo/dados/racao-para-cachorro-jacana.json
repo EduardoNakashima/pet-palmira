@@ -1,0 +1,122 @@
+{
+ "slug": "racao-para-cachorro-jacana",
+ "keyword": "ração para cachorro Jaçanã",
+ "slides": [],
+ "title": "Ração para Cachorro Perto do Jaçanã, São Paulo | Pet Shop Palmira",
+ "description": "Quanto custa por mês alimentar o cachorro? Como calcular o gasto com ração e escolher sem perder qualidade. Para tutores do Jaçanã, a 3,7 km.",
+ "ogDescription": "Quanto custa por mês alimentar o cachorro? Como calcular o gasto com ração e escolher sem perder qualidade. Para tutores do Jaçanã, a 3,7 km.",
+ "badge": "Gasto do mês",
+ "h1": "Ração para cachorro perto do <span class=\"acc\">Jaçanã</span>",
+ "intro": [
+  "Na hora de escolher a ração, a pergunta que mais importa para muita família é: quanto vou gastar por mês? O preço do saco não responde isso sozinho.",
+  "O Pet Shop Palmira fica a 3,7 km do Jaçanã. Aqui vai um jeito simples de fazer a conta."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "A conta do mês"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Veja na tabela da embalagem a porção diária para o peso do seu cachorro, em gramas.",
+    "Multiplique por 30. É o consumo do mês.",
+    "Divida o preço do saco pelo peso do saco. É o preço do quilo.",
+    "Multiplique o consumo do mês, em quilos, pelo preço do quilo."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Faça isso para duas ou três rações e compare."
+  },
+  {
+   "type": "h2",
+   "text": "Exemplo"
+  },
+  {
+   "type": "p",
+   "html": "Um cachorro de 15 kg que come 250 gramas por dia consome 7,5 kg por mês. Se outra ração pede 200 gramas por dia para o mesmo cão, o consumo cai para 6 kg. A ração com saco mais caro pode empatar ou sair melhor no mês."
+  },
+  {
+   "type": "h2",
+   "text": "Onde dá para economizar"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Saco maior, se o cachorro acabar antes de a ração envelhecer.",
+    "Medir a porção. Excesso é dinheiro jogado no pote.",
+    "Guardar bem fechado. Ração estragada é ração perdida.",
+    "Cortar resto de comida e excesso de petisco."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Onde não economizar"
+  },
+  {
+   "type": "p",
+   "html": "Em ração de filhote, que precisa de nutrientes para crescer. E em dieta indicada pela veterinária para algum problema de saúde."
+  },
+  {
+   "type": "h2",
+   "text": "Marcas para comparar"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Faixa",
+    "Exemplos, conforme o estoque"
+   ],
+   "rows": [
+    [
+     "Mais em conta",
+     "Pedigree, Magnus, Special Dog"
+    ],
+    [
+     "Intermediária",
+     "Golden, Premiatta, Max"
+    ],
+    [
+     "Mais alta",
+     "Premier, Royal Canin"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Cada marca tem várias linhas, e a faixa pode variar. A gente ajuda a comparar pelo WhatsApp (11) 97460-5359. Mande o peso do cachorro e a ração que ele come hoje, e a gente faz a conta junto com você."
+  },
+  {
+   "type": "h2",
+   "text": "Sem taxa no cartão"
+  },
+  {
+   "type": "p",
+   "html": "Pix, débito, crédito ou dinheiro, com o mesmo preço."
+  },
+  {
+   "type": "h2",
+   "text": "Compra e entrega"
+  },
+  {
+   "type": "p",
+   "html": "Loja aberta de segunda a sábado, das 9h às 18h, na Av. Pedro de Souza Lopes, 33B. Entrega no Jaçanã combinada por ligação antes."
+  }
+ ],
+ "faq": [
+  {
+   "q": "A ração mais barata sai mais barata no mês?",
+   "a": "Nem sempre. Compare a porção diária de cada uma."
+  },
+  {
+   "q": "Vale comprar saco grande?",
+   "a": "Se o cachorro terminar antes de a ração envelhecer, costuma valer."
+  },
+  {
+   "q": "Entregam no Jaçanã?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "humanizado": true
+}

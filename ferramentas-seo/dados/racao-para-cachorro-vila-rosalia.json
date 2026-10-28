@@ -1,0 +1,121 @@
+{
+ "slug": "racao-para-cachorro-vila-rosalia",
+ "keyword": "ração para cachorro Vila Rosália",
+ "numero": 82,
+ "cluster": "regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Ração para Cachorro na Vila Rosália, Guarulhos | Pet Shop Palmira",
+ "description": "Ração para cachorro acima do peso na Vila Rosália: como saber se o cão está gordo, ajustar a porção e escolher ração light. A 1,7 km.",
+ "ogDescription": "Ração para cachorro acima do peso na Vila Rosália: como saber se o cão está gordo, ajustar a porção e escolher ração light. A 1,7 km.",
+ "faq": [
+  {
+   "q": "Posso só diminuir a ração que ele já come?",
+   "a": "Pode, com cuidado. Cortar demais deixa o cão com fome e sem nutrientes. Ração light ajuda nisso."
+  },
+  {
+   "q": "Quanto peso ele pode perder por mês?",
+   "a": "Perda lenta é mais segura. A veterinária define a meta."
+  },
+  {
+   "q": "Entregam na Vila Rosália?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/images/produtos/goldenformula.webp",
+   "alt": "Ração GoldeN Fórmula Adultos para Vila Rosália",
+   "caption": "GoldeN Fórmula Cães Adultos Sabor irresistível, extrato de yucca para fezes firmes e menor odor.",
+   "ok": false
+  },
+  {
+   "src": "assets/images/produtos/premierfilhote.webp",
+   "alt": "Ração Premier Filhotes Raças Pequenas",
+   "caption": "Premier Raças Pequenas Filhote Níveis ideais de cálcio, fósforo e DHA para o desenvolvimento cerebral.",
+   "ok": false
+  },
+  {
+   "src": "assets/images/produtos/specialdog.webp",
+   "alt": "Ração Special Dog Prime e Gold",
+   "caption": "Special Dog Prime e Gold Relação custo-benefício imbatível com ômegas 3 e 6 para pelagem radiante.",
+   "ok": false
+  },
+  {
+   "src": "assets/organico/loja.jpg",
+   "alt": "Estoque de rações para cachorro na loja física",
+   "caption": "Estoque Abastecido e Sempre Fresco Armazenamento em ambiente seco e arejado, garantindo palatabilidade.",
+   "ok": true
+  }
+ ],
+ "badge": "Cão no peso certo",
+ "h1": "Ração para cachorro na <span class=\"acc\">Vila Rosália</span>",
+ "intro": [
+  "Cachorro gordinho parece fofo. Mas peso extra cansa o coração, pesa nas articulações e encurta a vida. E o caminho de volta ao peso começa no pote de ração.",
+  "O Pet Shop Palmira fica a 1,7 km da Vila Rosália e ajuda o tutor a acertar a comida do cão."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Como saber se ele está acima do peso"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Passe a mão nas costelas. Você deve sentir sem precisar apertar.",
+    "Olhe de cima. Deve aparecer uma cintura atrás das costelas.",
+    "Olhe de lado. A barriga deve subir em direção às patas de trás."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Se nada disso aparece, provavelmente o cão está acima do peso. A veterinária confirma e diz quanto ele deveria pesar."
+  },
+  {
+   "type": "h2",
+   "text": "Onde o peso escondido mora"
+  },
+  {
+   "type": "p",
+   "html": "Muitas vezes a ração está certa e o problema está no resto. Petisco o dia inteiro, pão no café da manhã, resto do almoço, a criança que divide o biscoito. Some tudo isso e o cachorro come muito mais do que a tabela da embalagem."
+  },
+  {
+   "type": "h2",
+   "text": "O que fazer"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Pese a porção com balança ou copo medidor. Olho erra.",
+    "Use a tabela pelo peso que ele deveria ter, não pelo peso atual. Confirme com a veterinária.",
+    "Corte o resto de comida. Petisco, no máximo um pouco por dia, descontado da ração.",
+    "Aumente o passeio aos poucos.",
+    "Pese o cachorro a cada duas semanas."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Ração light"
+  },
+  {
+   "type": "p",
+   "html": "Rações light ou de controle de peso têm menos caloria por porção, então o cachorro come um volume parecido e engorda menos. Temos opções da Golden, Premier, Premiatta e Royal Canin, entre outras, conforme o estoque. Faça a troca em cerca de uma semana."
+  },
+  {
+   "type": "h2",
+   "text": "Cão castrado"
+  },
+  {
+   "type": "p",
+   "html": "Depois da castração, o gasto de energia cai. Se o cão engordou depois da cirurgia, a porção precisa diminuir ou a ração precisa mudar."
+  },
+  {
+   "type": "h2",
+   "text": "Compra e entrega"
+  },
+  {
+   "type": "p",
+   "html": "Loja aberta de segunda a sábado, das 9h às 18h. Pelo WhatsApp (11) 97460-5359, a gente confirma o estoque. Entrega na Vila Rosália combinada por ligação antes."
+  }
+ ],
+ "humanizado": true
+}

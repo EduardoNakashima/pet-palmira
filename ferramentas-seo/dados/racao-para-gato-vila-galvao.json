@@ -1,0 +1,146 @@
+{
+ "slug": "racao-para-gato-vila-galvao",
+ "keyword": "ração para gato Vila Galvão",
+ "numero": 68,
+ "cluster": "regionalizadas_fase_1",
+ "source": "site",
+ "title": "Ração para Gato na Vila Galvão, Guarulhos | Pet Shop Palmira",
+ "description": "Ração para gato na Vila Galvão: quanto o gato deve comer por dia, quantas porções e como usar a tabela da embalagem. A 2,1 km da loja.",
+ "ogDescription": "Ração para gato na Vila Galvão: quanto o gato deve comer por dia, quantas porções e como usar a tabela da embalagem. A 2,1 km da loja.",
+ "faq": [
+  {
+   "q": "Quantas vezes por dia o gato adulto come?",
+   "a": "Duas ou três porções, somando a quantidade diária da tabela."
+  },
+  {
+   "q": "Posso deixar ração à vontade?",
+   "a": "Para a maioria dos gatos, não é o ideal. Porção medida evita obesidade."
+  },
+  {
+   "q": "Entregam na Vila Galvão?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/pouring-pet-food-into-bowl.jpg",
+   "alt": "Nutrição felina especializada com equilíbrio renal",
+   "caption": "Nutrição Equilibrada com Proteção Renal",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/goldencat.webp",
+   "alt": "Ração Golden Gatos Castrados sabor frango e salmão",
+   "caption": "Golden Gatos: Especial para Castrados",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/whiskas.webp",
+   "alt": "Ração Whiskas com recheio crocante e alta aceitação",
+   "caption": "Whiskas Crocante e Saboroso",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/saches.webp",
+   "alt": "Sachês úmidos para hidratação diária do trato renal dos felinos",
+   "caption": "Sachês Úmidos: Hidratação Renal Obrigatória",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Porção certa",
+ "h1": "Ração para gato na <span class=\"acc\">Vila Galvão</span>",
+ "intro": [
+  "Quanto de ração o gato precisa por dia? É uma das perguntas que mais ouvimos dos tutores da Vila Galvão. E a resposta quase sempre é: menos do que você está dando.",
+  "O Pet Shop Palmira fica a 2,1 km do bairro e ajuda a acertar a porção."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "A tabela da embalagem"
+  },
+  {
+   "type": "p",
+   "html": "Toda ração traz uma tabela com a quantidade diária pelo peso do gato. Um gato adulto de uns 4 kg costuma comer algo perto de 50 a 60 gramas de ração seca por dia, conforme a marca. Parece pouco quando você olha o pote. É por isso que tanto gato engorda."
+  },
+  {
+   "type": "p",
+   "html": "Use a tabela pelo peso que o gato deveria ter. Se ele está acima do peso, a veterinária ajuda a definir a meta."
+  },
+  {
+   "type": "h2",
+   "text": "Meça, não chute"
+  },
+  {
+   "type": "p",
+   "html": "Um copo medidor ou uma balança de cozinha mudam tudo. Encher o pote no olho quase sempre passa do ponto. Meça a porção do dia de manhã e divida em duas ou três refeições."
+  },
+  {
+   "type": "h2",
+   "text": "Pote cheio o dia inteiro"
+  },
+  {
+   "type": "p",
+   "html": "Alguns gatos conseguem comer à vontade sem engordar. A maioria não. Se o seu gato é castrado, mora em apartamento ou passa o dia dormindo, prefira porções em horários fixos."
+  },
+  {
+   "type": "h2",
+   "text": "Sachê entra na conta"
+  },
+  {
+   "type": "p",
+   "html": "Se você dá sachê, desconte da ração seca. Um sachê por dia é uma boa ideia para a hidratação, mas soma caloria. A embalagem do sachê costuma dizer quanto reduzir."
+  },
+  {
+   "type": "h2",
+   "text": "Rações que temos"
+  },
+  {
+   "type": "p",
+   "html": "Golden Gatos, CatChow, Whiskas e Royal Canin, para filhote, adulto, castrado e idoso, conforme o estoque. Também temos sachês, patês e areia."
+  },
+  {
+   "type": "h2",
+   "text": "Sinais de porção errada"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Sinal",
+    "O que pode ser"
+   ],
+   "rows": [
+    [
+     "Barriga balançando, costela difícil de sentir",
+     "Comida demais"
+    ],
+    [
+     "Costelas e coluna muito aparentes",
+     "Comida de menos ou doença"
+    ],
+    [
+     "Gato pedindo comida o tempo todo",
+     "Hábito ou ração pouco nutritiva"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Emagrecimento sem motivo é caso de veterinário. Indicamos a Pink Vet, na Av. Pedro de Souza Lopes, 33."
+  },
+  {
+   "type": "h2",
+   "text": "Compra e entrega"
+  },
+  {
+   "type": "p",
+   "html": "Segunda a sábado, das 9h às 18h. Pedido pelo WhatsApp (11) 97460-5359. Entrega na Vila Galvão combinada por ligação antes."
+  }
+ ],
+ "humanizado": true
+}

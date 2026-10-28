@@ -1,0 +1,174 @@
+@@ pet-shop-jardim-city
+title: Pet Shop Perto do Jardim City, Guarulhos | Pet Shop Palmira
+desc: Pet shop a 2,2 km do Jardim City, Guarulhos: lista do enxoval do filhote, ração, farmácia veterinária, acessórios e banho e tosa para cães.
+badge: Enxoval do filhote
+h1: Pet shop perto do [Jardim City]
+Filhote novo em casa é festa, e também uma lista de compras. Muita família do Jardim City chega no Pet Shop Palmira com o filhote no colo e a pergunta: do que ele precisa?
+A loja fica a 2,2 km do bairro em linha reta, na Av. Pedro de Souza Lopes, 33B, no Jardim Palmira.
+## Lista para o filhote de cachorro
+- Ração de filhote, do porte certo.
+- Comedouro e bebedouro.
+- Caminha ou colchonete, do tamanho que ele vai ter adulto, ou um menor para agora.
+- Tapete higiênico, para ensinar o lugar do xixi.
+- Coleira com plaquinha e guia, para quando as vacinas terminarem.
+- Brinquedos para morder, porque os dentes vão coçar.
+- Shampoo para filhote, para quando a veterinária liberar o banho.
+## Lista para o filhote de gato
+- Ração de filhote e sachês.
+- Caixa de areia baixa e areia.
+- Comedouro e bebedouro rasos.
+- Caixa de transporte, para levar à veterinária.
+- Brinquedos de caçar, como varinhas e bolinhas.
+## Não precisa comprar tudo no primeiro dia
+Ração, comida, água, caminha e lugar do xixi são o começo. O resto vem com o tempo, conforme você conhece o jeito do filhote. Um cão que destrói caminha de tecido, por exemplo, pode precisar de outro tipo.
+## A primeira semana
+Mantenha a ração que ele já comia antes de chegar, se souber qual é. Trocar ração e casa ao mesmo tempo costuma dar diarreia. Depois de alguns dias, faça a troca aos poucos.
+## Banho e tosa
+O primeiro banho no pet shop só depois das vacinas e com a liberação da veterinária. Fazemos banho e tosa só em cães, com tosa na máquina, por horário marcado. Você traz e busca o cachorro.
+## Veterinária
+A loja não é clínica. Para a primeira consulta e as vacinas, indicamos a Pink Vet, na mesma avenida, no número 33.
+## Horário, pagamento e entrega
+Segunda a sábado, das 9h às 18h. Pix, débito, crédito ou dinheiro, sem taxa extra no cartão. Entrega no Jardim City combinada por ligação antes, pelo WhatsApp (11) 97460-5359.
+? Filhote pode tomar banho no pet shop?
+= Depois das vacinas e com liberação da veterinária.
+? Qual tamanho de caminha compro?
+= Pense no tamanho adulto, ou compre uma menor agora e troque depois. A gente ajuda a escolher.
+? Entregam no Jardim City?
+= Entregamos, combinando o local por ligação antes.
+
+@@ casa-de-racao-jardim-city
+title: Casa de Ração Perto do Jardim City, Guarulhos | Pet Shop Palmira
+desc: Casa de ração a 2,2 km do Jardim City: como ler a embalagem da ração e entender proteína, fase, porte e validade antes de comprar.
+badge: Lendo a embalagem
+h1: Casa de ração perto do [Jardim City]
+Na prateleira, todo saco de ração promete muito. Pelo bonito, saúde, energia. Para escolher de verdade, vale virar o saco e ler o que está escrito atrás.
+O Pet Shop Palmira fica a 2,2 km do Jardim City e ajuda a decifrar a embalagem no balcão.
+## O que olhar primeiro
+1. Espécie: cão ou gato. Parece óbvio, mas ração de gato no pote do cachorro acontece.
+2. Fase: filhote, adulto ou idoso.
+3. Porte: pequeno, médio, grande. Muda o grão e a porção.
+4. Indicação especial: castrado, light, controle de bolas de pelo.
+5. Validade e lote.
+## Níveis de garantia
+É a tabela com proteína, gordura, fibra, umidade e minerais. Ela mostra o mínimo ou o máximo de cada item. Proteína mais alta não quer dizer ração melhor para todo mundo. Um cachorro idoso e sedentário, por exemplo, não precisa da mesma ração de um cão atleta.
+## Lista de ingredientes
+Os ingredientes vêm em ordem de quantidade. Os primeiros da lista são os que mais pesam na receita. É um bom jeito de comparar duas rações da mesma faixa de preço.
+## Tabela de porção
+Fica na embalagem, pelo peso do animal. Ajuda a calcular quanto o saco vai durar e, com isso, o custo do mês. Às vezes a ração mais cara rende mais.
+## Completa ou complementar
+Ração completa pode ser a única comida do animal. Alimento complementar, como muitos petiscos e alguns sachês, não. A embalagem diz qual é.
+## O que temos
+Para cães, Golden, Premier, Special Dog, Pedigree, Magnus, Premiatta, Max e Royal Canin. Para gatos, Golden Gatos, CatChow, Whiskas e Royal Canin. Também ração para pássaros, roedores, galinha, porco e cavalo, conforme o estoque.
+## Compra e entrega
+Segunda a sábado, das 9h às 18h, na Av. Pedro de Souza Lopes, 33B. Pedido pelo WhatsApp (11) 97460-5359. Entrega no Jardim City combinada por ligação antes. Pix, débito, crédito ou dinheiro, sem taxa extra no cartão.
+? Mais proteína é sempre melhor?
+= Não. Depende da fase, do porte e da atividade do animal.
+? Como sei se o sachê alimenta sozinho?
+= Veja na embalagem se ele é alimento completo ou complementar.
+? Entregam no Jardim City?
+= Entregamos, combinando o local por ligação antes.
+
+@@ racao-para-cachorro-jardim-city
+title: Ração para Cachorro no Jardim City, Guarulhos | Pet Shop Palmira
+desc: Ração para cachorro com coceira ou alergia no Jardim City: quando a comida pode ser a causa e por que a dieta especial é com a veterinária.
+badge: Coceira e alimentação
+h1: Ração para cachorro no [Jardim City]
+O cachorro lambe a pata, coça a orelha, tem a pele vermelha. Alguém sugere: deve ser a ração. Às vezes é. Muitas vezes não é. E trocar de ração no chute pode atrasar o tratamento.
+O Pet Shop Palmira fica a 2,2 km do Jardim City. Aqui vai o que dá para fazer e o que fica com a veterinária.
+## Alergia alimentar existe, mas não é a mais comum
+Coceira em cachorro tem muitas causas: pulga, alergia a pólen ou poeira, fungo, sarna, problema de ouvido. A alergia alimentar é uma delas, e não a mais frequente. Por isso o primeiro passo é a consulta.
+## Como a veterinária investiga
+Quando há suspeita de alergia à comida, a veterinária costuma indicar uma dieta de exclusão por algumas semanas, com uma ração específica e nada mais. Nem petisco. Se a coceira melhora, a comida era parte do problema. Esse teste só funciona se for feito à risca.
+## O que não fazer
+- Trocar de marca toda semana. Assim ninguém descobre a causa.
+- Dar comida caseira sem orientação. Pode faltar nutriente.
+- Continuar com petisco durante a dieta de exclusão.
+- Usar remédio de coceira de outro animal.
+## Rações para pele sensível
+Algumas linhas de ração trazem fórmulas para pele sensível ou hipoalergênicas. Temos opções da Premier, Royal Canin e outras marcas, conforme o estoque. Se a veterinária indicou uma ração específica, mande o nome pelo WhatsApp (11) 97460-5359 e a gente confere.
+## Banho também conta
+Shampoo errado irrita a pele. Na loja temos shampoos neutros e dermatológicos. Para cão com problema de pele, use o que a veterinária indicar.
+## Antipulgas em dia
+Antes de culpar a ração, confira o antipulgas. Uma única picada de pulga já faz o cachorro alérgico se coçar por dias.
+## Consulta
+Indicamos a Pink Vet, nossa parceira, na Av. Pedro de Souza Lopes, 33, perto da loja.
+## Compra e entrega
+Segunda a sábado, das 9h às 18h. Entrega no Jardim City combinada por ligação antes.
+? Ração pode dar coceira?
+= Pode, em cães com alergia alimentar. Mas há outras causas mais comuns. A veterinária investiga.
+? Vocês têm ração hipoalergênica?
+= Temos algumas opções, conforme o estoque. Confirme pelo WhatsApp.
+? Entregam no Jardim City?
+= Entregamos, combinando o local por ligação antes.
+
+@@ racao-para-gato-jardim-city
+title: Ração para Gato no Jardim City, Guarulhos | Pet Shop Palmira
+desc: Como trocar a ração do gato sem ele recusar a comida: passo a passo para tutores do Jardim City. Golden Gatos, CatChow, Whiskas e mais.
+badge: Troca de ração
+h1: Ração para gato no [Jardim City]
+Cachorro costuma aceitar ração nova sem muito drama. Gato, não. Ele estranha cheiro, formato e textura, e às vezes prefere ficar sem comer. E gato sem comer por muito tempo corre risco de problema sério no fígado.
+O Pet Shop Palmira fica a 2,2 km do Jardim City. Este é o jeito que a gente recomenda para trocar a ração do gato.
+## Troca em dez dias
+| Dias | Ração antiga | Ração nova |
+| 1 a 3 | 75% | 25% |
+| 4 a 6 | 50% | 50% |
+| 7 a 9 | 25% | 75% |
+| 10 em diante | 0% | 100% |
+Se ele separar os grãos e comer só a antiga, volte uma etapa e vá mais devagar.
+## Truques que ajudam
+- Ofereça a ração nova primeiro como petisco, alguns grãos na mão.
+- Misture bem no pote, para ele não escolher.
+- Mantenha o mesmo pote, no mesmo lugar e no mesmo horário.
+- Evite trocar a ração em semana de mudança, viagem ou visita em casa. Gato estressado come menos.
+## Sinais de alerta
+Gato que fica mais de um dia sem comer precisa de veterinário. Não espere ele se acostumar. Vômito frequente ou diarreia durante a troca também.
+## Quando trocar
+Filhote virando adulto, gato castrado engordando, gato idoso, indicação da veterinária. Se o gato está bem, no peso, com pelo bonito e fezes normais, não há motivo para trocar.
+## Rações que temos
+Golden Gatos, CatChow, Whiskas e Royal Canin, para filhote, adulto, castrado e idoso, conforme o estoque. Saco pequeno é uma boa ideia para testar se ele aceita antes de levar o grande.
+## Compra e entrega
+Loja aberta de segunda a sábado, das 9h às 18h, na Av. Pedro de Souza Lopes, 33B. Pedido pelo WhatsApp (11) 97460-5359. Entrega no Jardim City combinada por ligação antes. Para consulta, indicamos a Pink Vet, no número 33 da mesma avenida.
+? O gato pode ficar sem comer até aceitar a ração nova?
+= Não. Gato em jejum prolongado pode ter problema no fígado. Volte para a ração antiga e procure a veterinária.
+? Quanto tempo leva a troca?
+= Cerca de dez dias. Alguns gatos precisam de mais.
+? Entregam no Jardim City?
+= Entregamos, combinando o local por ligação antes.
+
+@@ veterinario-jardim-city
+title: Veterinário Perto do Jardim City, Guarulhos | Pink Vet parceira
+desc: Veterinário a 2,2 km do Jardim City: Pink Vet, na Av. Pedro de Souza Lopes, 33. Como levar o gato à consulta sem estresse.
+badge: Gato na consulta
+h1: Veterinário perto do [Jardim City]
+Para muito tutor de gato, a parte mais difícil da consulta é antes dela: colocar o gato na caixa de transporte. Ele some debaixo da cama, arranha, mia o caminho inteiro. Dá para tornar isso mais fácil.
+Para consulta, vacinas e check-up, indicamos a Pink Vet Consultório Veterinário, nossa parceira, a 2,2 km do Jardim City. O Pet Shop Palmira não é clínica veterinária: a gente vende ração, produtos e remédios com receita.
+## Pink Vet
+| Item | Informação |
+| Endereço | Av. Pedro de Souza Lopes, 33, Jardim Palmira |
+| Serviços | Consulta, vacinas e check-up |
+| Horário | Seg a sex, 9h às 17h. Sáb, 9h às 16h |
+| Avaliação | Nota 5,0 no Google |
+| WhatsApp | (11) 93317-1589 |
+## A caixa de transporte vira móvel da casa
+1. Deixe a caixa aberta na sala, alguns dias antes, com uma manta dentro.
+2. Coloque petisco ou ração dentro, para ele entrar sozinho.
+3. Quando ele já entra por conta própria, feche a porta por alguns segundos e abra.
+4. No dia, coloque o gato com calma, sem perseguir pela casa.
+Caixa com abertura em cima facilita colocar e tirar o gato.
+## No trajeto
+- Cubra a caixa com uma toalha. Gato se sente mais seguro no escuro.
+- Segure a caixa com as duas mãos, sem balançar.
+- No carro, prenda a caixa com o cinto, no chão ou no banco.
+- Nunca leve gato no colo. No primeiro susto, ele foge.
+## Na consulta
+Conte para a veterinária se ele está comendo, bebendo, usando a caixa de areia normalmente. Leve a carteirinha de vacinas. Fotos de algo estranho que você notou em casa ajudam, porque no consultório o gato costuma ficar quieto e esconder sinais.
+## Caixa de transporte na loja
+Temos caixas de transporte de alguns tamanhos e modelos na loja, no número 33B da mesma avenida, conforme o estoque. Traga o peso do gato para escolher.
+## Agendamento
+Use o botão desta página para chamar a Pink Vet no WhatsApp. A mensagem já avisa que você veio pelo site do Pet Shop Palmira.
+? O Pet Shop Palmira tem veterinário?
+= Não. A loja não é clínica. Indicamos a Pink Vet.
+? Posso levar o gato no colo até a clínica?
+= Não. Use sempre caixa de transporte. Gato assustado foge.
+? Preciso marcar antes?
+= Sim. Chame a Pink Vet no WhatsApp (11) 93317-1589 e combine o horário.

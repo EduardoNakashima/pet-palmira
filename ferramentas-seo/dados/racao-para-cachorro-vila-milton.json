@@ -1,0 +1,125 @@
+{
+ "slug": "racao-para-cachorro-vila-milton",
+ "keyword": "ração para cachorro Vila Milton",
+ "numero": 87,
+ "cluster": "regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Ração para Cachorro na Vila Milton, Guarulhos | Pet Shop Palmira",
+ "description": "Cachorro que não quer comer ração na Vila Milton: por que acontece, o que fazer e quando é caso de veterinário. Marcas em estoque.",
+ "ogDescription": "Cachorro que não quer comer ração na Vila Milton: por que acontece, o que fazer e quando é caso de veterinário. Marcas em estoque.",
+ "faq": [
+  {
+   "q": "Posso misturar comida caseira na ração?",
+   "a": "Pode piorar a seletividade. Se usar, que seja pouco e sem tempero, descontado da porção."
+  },
+  {
+   "q": "Quanto tempo o cão pode ficar sem comer?",
+   "a": "Adulto saudável, no máximo um ou dois dias. Filhote, nem isso. Na dúvida, procure a veterinária."
+  },
+  {
+   "q": "Entregam na Vila Milton?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/images/produtos/golden.webp",
+   "alt": "Ração GoldeN Fórmula Adultos Frango e Arroz no Pet Shop Palmira",
+   "caption": "GoldeN Fórmula Adultos e Filhotes Alimento Premium Especial com alta aceitação e excelente custo-benefício.",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/premiata.webp",
+   "alt": "Ração Premiatta Super Premium no Pet Shop Palmira",
+   "caption": "Super Premium para Alta Digestibilidade Ingredientes nobres, proteção articular e digestão otimizada.",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/max.webp",
+   "alt": "Ração Max para cães adultos em sacos econômicos",
+   "caption": "Embalagens Econômicas de 10kg, 15kg e 20kg Mais rendimento para famílias com múltiplos cães ou portes maiores.",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/goldenFilhote.webp",
+   "alt": "Ração GoldeN Filhotes para desenvolvimento saudável",
+   "caption": "Fórmulas Especiais para Filhotes Rica em DHA para desenvolvimento cerebral, ossos fortes e imunidade.",
+   "ok": true
+  }
+ ],
+ "badge": "Cão que recusa ração",
+ "h1": "Ração para cachorro na <span class=\"acc\">Vila Milton</span>",
+ "intro": [
+  "O cachorro olha para o pote, cheira e vai embora. Fica esperando o pedaço de carne do almoço. Muitos tutores da Vila Milton contam a mesma história, e a solução quase nunca é trocar de ração toda semana.",
+  "O Pet Shop Palmira fica a 2,8 km do bairro e ajuda a entender o que está acontecendo."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Fome ou manha?"
+  },
+  {
+   "type": "p",
+   "html": "Primeiro, descarte doença. Cachorro que sempre comeu bem e de repente parou, que está abatido, vomitando ou emagrecendo, precisa de veterinário. Dor de dente, problema no estômago e várias outras doenças tiram o apetite."
+  },
+  {
+   "type": "p",
+   "html": "Se ele está animado, brinca, aceita petisco e recusa só a ração, provavelmente aprendeu que esperando vem coisa melhor."
+  },
+  {
+   "type": "h2",
+   "text": "Como mudar o hábito"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Ofereça a ração em horários fixos, duas vezes ao dia.",
+    "Deixe o pote por 15 a 20 minutos. Se não comer, recolha.",
+    "Ofereça de novo só no próximo horário.",
+    "Corte petisco e comida da mesa durante esse período.",
+    "Toda a família precisa seguir a regra. Basta um ceder para recomeçar."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Um cachorro saudável não fica sem comer por manha por muito tempo. Em poucos dias, a maioria volta a comer."
+  },
+  {
+   "type": "h2",
+   "text": "Deixar a ração mais atraente"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Ração fresca, de saco bem fechado.",
+    "Uma colher de alimento úmido misturada, descontada da porção.",
+    "Um pouco de água morna sobre a ração, para soltar o cheiro, servida na hora."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Trocar de ração"
+  },
+  {
+   "type": "p",
+   "html": "Se mesmo assim ele não aceita, pode valer testar outra marca, com troca gradual. Temos Golden, Premier, Special Dog, Pedigree, Magnus, Premiatta, Max e Royal Canin, conforme o estoque. Saco pequeno primeiro, para testar."
+  },
+  {
+   "type": "h2",
+   "text": "Quando não esperar"
+  },
+  {
+   "type": "p",
+   "html": "Filhote ou cão pequeno sem comer por um dia, qualquer cão sem comer por mais de um ou dois dias, ou cão que também não bebe água. Procure a veterinária. Indicamos a Pink Vet, na Av. Pedro de Souza Lopes, 33."
+  },
+  {
+   "type": "h2",
+   "text": "Compra e entrega"
+  },
+  {
+   "type": "p",
+   "html": "Segunda a sábado, das 9h às 18h, na Av. Pedro de Souza Lopes, 33B. Pelo WhatsApp (11) 97460-5359 a gente confirma o estoque. Entrega na Vila Milton combinada por ligação antes."
+  }
+ ],
+ "humanizado": true
+}

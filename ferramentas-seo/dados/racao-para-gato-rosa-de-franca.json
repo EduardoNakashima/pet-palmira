@@ -1,0 +1,142 @@
+{
+ "slug": "racao-para-gato-rosa-de-franca",
+ "keyword": "ração para gato Rosa de França",
+ "numero": 73,
+ "cluster": "regionalizadas_fase_1",
+ "source": "site",
+ "title": "Ração para Gato no Jardim Rosa de França | Pet Shop Palmira",
+ "description": "Ração para gato idoso no Jardim Rosa de França: quando trocar para sênior, sinais da idade e como manter o gato comendo bem. A 1,8 km.",
+ "ogDescription": "Ração para gato idoso no Jardim Rosa de França: quando trocar para sênior, sinais da idade e como manter o gato comendo bem. A 1,8 km.",
+ "faq": [
+  {
+   "q": "Com quantos anos troco para ração sênior?",
+   "a": "Em geral a partir dos 7 anos. A veterinária confirma pela saúde do gato."
+  },
+  {
+   "q": "Gato idoso bebendo muita água é normal?",
+   "a": "Não. Pode ser sinal de problema no rim ou diabetes. Procure a veterinária."
+  },
+  {
+   "q": "Entregam no Jardim Rosa de França?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/pouring-pet-food-into-bowl.jpg",
+   "alt": "Nutrição felina especializada com equilíbrio renal",
+   "caption": "Nutrição Equilibrada com Proteção Renal",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/goldencat.webp",
+   "alt": "Ração Golden Gatos Castrados sabor frango e salmão",
+   "caption": "Golden Gatos: Especial para Castrados",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/whiskas.webp",
+   "alt": "Ração Whiskas com recheio crocante e alta aceitação",
+   "caption": "Whiskas Crocante e Saboroso",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/saches.webp",
+   "alt": "Sachês úmidos para hidratação diária do trato renal dos felinos",
+   "caption": "Sachês Úmidos: Hidratação Renal Obrigatória",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Gato idoso",
+ "h1": "Ração para gato no <span class=\"acc\">Jardim Rosa de França</span>",
+ "intro": [
+  "Gato vive bastante. Muitos passam dos 15 anos. Com o tempo, dorme mais, pula menos e fica mais exigente com a comida. A alimentação dessa fase merece atenção.",
+  "O Pet Shop Palmira fica a 1,8 km do Jardim Rosa de França e tem ração para gatos idosos."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Quando o gato fica idoso"
+  },
+  {
+   "type": "p",
+   "html": "Em geral, a partir dos 7 anos o gato entra na fase madura. Depois dos 11 ou 12 anos, já é considerado idoso. Não é regra fixa, e a veterinária ajuda a entender em que fase o seu está."
+  },
+  {
+   "type": "h2",
+   "text": "O que a ração sênior muda"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Caloria ajustada para um gato que se mexe menos.",
+    "Atenção ao rim, que é ponto fraco em gatos idosos.",
+    "Grão que facilita a mastigação, para quem tem dente sensível."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Temos linhas sênior ou 7+ da Golden Gatos, Royal Canin e outras marcas, conforme o estoque. Consulte pelo WhatsApp (11) 97460-5359."
+  },
+  {
+   "type": "h2",
+   "text": "O gato idoso que come pouco"
+  },
+  {
+   "type": "p",
+   "html": "Gato idoso perde olfato, e comida sem cheiro perde a graça. Algumas ideias:"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Ofereça sachê levemente aquecido, só morno. O cheiro fica mais forte.",
+    "Sirva porções menores, mais vezes ao dia.",
+    "Use pote raso, que não incomoda o bigode.",
+    "Deixe a comida em lugar de fácil acesso, sem precisar pular."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Se ele passar mais de um dia sem comer, procure a veterinária. Em gato, jejum é perigoso."
+  },
+  {
+   "type": "h2",
+   "text": "Água e rim"
+  },
+  {
+   "type": "p",
+   "html": "Gato idoso precisa beber água. Potes em vários cômodos, fonte de água e alimento úmido diário ajudam. Se você notar que ele está bebendo muito mais do que antes, ou fazendo muito xixi, é sinal para consultar."
+  },
+  {
+   "type": "h2",
+   "text": "Caixa de areia acessível"
+  },
+  {
+   "type": "p",
+   "html": "Gato com dor nas articulações evita caixa alta. Uma caixa com borda baixa evita xixi fora do lugar."
+  },
+  {
+   "type": "h2",
+   "text": "Check-up"
+  },
+  {
+   "type": "p",
+   "html": "Gato idoso deve ir ao veterinário com mais frequência. Indicamos a Pink Vet, na Av. Pedro de Souza Lopes, 33, perto da loja."
+  },
+  {
+   "type": "h2",
+   "text": "Compra e entrega"
+  },
+  {
+   "type": "p",
+   "html": "Segunda a sábado, das 9h às 18h. Entrega no Jardim Rosa de França combinada por ligação antes."
+  }
+ ],
+ "humanizado": true
+}

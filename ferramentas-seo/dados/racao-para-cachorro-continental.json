@@ -1,0 +1,135 @@
+{
+ "slug": "racao-para-cachorro-continental",
+ "keyword": "ração para cachorro Continental",
+ "numero": 57,
+ "cluster": "regionalizadas_fase_1",
+ "source": "site",
+ "title": "Ração para Cachorro no Parque Continental | Pet Shop Palmira",
+ "description": "Ração para cachorro no Parque Continental: como escolher pelo porte, do mini ao gigante. Golden, Premier, Special Dog e mais, a cerca de 1 km.",
+ "ogDescription": "Ração para cachorro no Parque Continental: como escolher pelo porte, do mini ao gigante. Golden, Premier, Special Dog e mais, a cerca de 1 km.",
+ "faq": [
+  {
+   "q": "Meu cachorro é vira-lata. Qual porte escolho?",
+   "a": "Pelo peso adulto. Até 10 kg, pequeno. De 10 a 25 kg, médio. Acima disso, grande."
+  },
+  {
+   "q": "Posso dar ração de porte pequeno para cão grande?",
+   "a": "Não é o ideal. O grão pequeno faz o cão grande comer rápido demais, e a fórmula foi feita para outro tamanho."
+  },
+  {
+   "q": "Vocês entregam no Parque Continental?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/racaoparacachorro.jpg",
+   "alt": "Sacos de 15kg e 20kg das melhores marcas de ração canina",
+   "caption": "Sacos de 15kg e 20kg em Estoque",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/golden.webp",
+   "alt": "Ração Golden Fórmula para cães adultos e filhotes",
+   "caption": "Golden Fórmula: Sabor e Custo-Benefício",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/premiata.webp",
+   "alt": "Linha Super Premium com nutrientes funcionais e condroitina",
+   "caption": "Super Premium para Saúde Articular",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/pouring-pet-food-into-bowl.jpg",
+   "alt": "Nutrição equilibrada com grãos crocantes servidos na tigela",
+   "caption": "Digestibilidade Máxima e Fezes Menores",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Ração por porte",
+ "h1": "Ração para cachorro no <span class=\"acc\">Parque Continental</span>",
+ "intro": [
+  "Um yorkshire e um pastor-alemão não comem do mesmo jeito. Muda o tamanho do grão, a quantidade e até o tipo de nutriente que a ração reforça. Escolher pelo porte é o primeiro filtro.",
+  "O Pet Shop Palmira fica a uma distância de 0,8 a 1,8 km do Parque Continental, no Jardim Palmira, e tem ração para todos os tamanhos."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Porte e ração"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Porte",
+    "Peso adulto aproximado",
+    "O que observar"
+   ],
+   "rows": [
+    [
+     "Mini e pequeno",
+     "até 10 kg",
+     "Grão pequeno, porção pequena, atenção ao tártaro"
+    ],
+    [
+     "Médio",
+     "de 10 a 25 kg",
+     "Ração de linha geral costuma servir bem"
+    ],
+    [
+     "Grande",
+     "de 25 a 45 kg",
+     "Grão maior e controle de peso para poupar as articulações"
+    ],
+    [
+     "Gigante",
+     "acima de 45 kg",
+     "Linha específica, crescimento lento no filhote"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Cachorro sem raça definida entra na faixa pelo peso que ele tem, ou que vai ter quando adulto."
+  },
+  {
+   "type": "h2",
+   "text": "Por que o grão importa"
+  },
+  {
+   "type": "p",
+   "html": "Cachorro pequeno com grão grande tem dificuldade para mastigar e às vezes engole inteiro. Cachorro grande com grão pequeno come rápido demais, engole ar e pode passar mal. Ração do porte certo resolve as duas coisas."
+  },
+  {
+   "type": "h2",
+   "text": "Filhote de porte grande"
+  },
+  {
+   "type": "p",
+   "html": "Filhote de cão grande precisa crescer devagar. Ração de filhote para porte grande tem quantidade controlada de energia e cálcio. Dar ração de filhote pequeno, ou exagerar na porção, pode prejudicar o osso em formação. Siga a tabela e, se tiver dúvida, pergunte ao veterinário."
+  },
+  {
+   "type": "h2",
+   "text": "Marcas que temos"
+  },
+  {
+   "type": "p",
+   "html": "Golden, Premier, Special Dog, Pedigree, Magnus, Premiatta, Max e Royal Canin, em linhas por porte e por fase, conforme o estoque. Confirme pelo WhatsApp (11) 97460-5359 antes de vir."
+  },
+  {
+   "type": "h2",
+   "text": "Saco pesado"
+  },
+  {
+   "type": "p",
+   "html": "Ração de porte grande vem em saco grande. Do Continental, você pode buscar de carro ou combinar a entrega por ligação."
+  }
+ ],
+ "humanizado": true
+}

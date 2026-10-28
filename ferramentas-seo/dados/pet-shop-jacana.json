@@ -1,0 +1,116 @@
+{
+ "slug": "pet-shop-jacana",
+ "keyword": "pet shop Jaçanã",
+ "slides": [],
+ "title": "Pet Shop Perto do Jaçanã, São Paulo | Pet Shop Palmira",
+ "description": "Pet shop a 3,7 km do Jaçanã, zona norte de São Paulo: ração, farmácia veterinária e banho e tosa para cães no Jardim Palmira, Guarulhos.",
+ "ogDescription": "Pet shop a 3,7 km do Jaçanã, zona norte de São Paulo: ração, farmácia veterinária e banho e tosa para cães no Jardim Palmira, Guarulhos.",
+ "badge": "Zona norte e Guarulhos",
+ "h1": "Pet shop perto do <span class=\"acc\">Jaçanã</span>",
+ "intro": [
+  "O Jaçanã fica na zona norte de São Paulo, a 3,7 km do Pet Shop Palmira em linha reta. Muitos clientes do bairro conhecem a loja porque trabalham, estudam ou têm família em Guarulhos e passam pela Av. Pedro de Souza Lopes no caminho.",
+  "Estamos no número 33B, no Jardim Palmira, há 25 anos."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Para a ida ser rápida"
+  },
+  {
+   "type": "p",
+   "html": "Quem vem de um pouco mais longe não quer chegar e descobrir que a ração acabou. Por isso:"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Mande antes pelo WhatsApp (11) 97460-5359 o que vai buscar.",
+    "A gente confere o estoque e separa.",
+    "Você passa, paga e leva."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Assim a parada dura poucos minutos."
+  },
+  {
+   "type": "h2",
+   "text": "Ou peça a entrega"
+  },
+  {
+   "type": "p",
+   "html": "O Jaçanã está dentro do nosso raio de entrega, de cerca de 10 km. A entrega é combinada por ligação antes: a gente liga para acertar o local, o horário e quem vai receber. Sem essa ligação, o pedido não sai."
+  },
+  {
+   "type": "h2",
+   "text": "O que costuma valer a viagem"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Farmácia veterinária",
+     "text": "Antipulgas, vermífugos e medicamentos com receita, como Otovet, Agemoxi e Maxicam, conforme o estoque."
+    },
+    {
+     "title": "Ração para criação",
+     "text": "Galinha, porco e cavalo, que nem todo pet shop tem."
+    },
+    {
+     "title": "Pássaros e roedores",
+     "text": "Sementes, ração e feno."
+    },
+    {
+     "title": "Banho e tosa",
+     "text": "Só para cães, com tosa na máquina, por horário marcado."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Banho e tosa para quem vem de São Paulo"
+  },
+  {
+   "type": "p",
+   "html": "Não temos táxi dog, então você traz e busca o cachorro. Uma ideia que funciona: deixe o cão no banho, resolva outra coisa na região e volte quando a gente avisar."
+  },
+  {
+   "type": "h2",
+   "text": "Pagamento"
+  },
+  {
+   "type": "p",
+   "html": "Pix, débito, crédito ou dinheiro, sem taxa extra no cartão. O preço é o mesmo para qualquer bairro ou cidade."
+  },
+  {
+   "type": "h2",
+   "text": "Horário"
+  },
+  {
+   "type": "p",
+   "html": "Segunda a sábado, das 9h às 18h. Domingo e feriado fechado. Feriados de São Paulo e de Guarulhos nem sempre coincidem. Na dúvida, mande mensagem."
+  },
+  {
+   "type": "h2",
+   "text": "Veterinária"
+  },
+  {
+   "type": "p",
+   "html": "A loja não é clínica. Para consulta, vacinas e check-up, indicamos a Pink Vet, na mesma avenida, no número 33. Dá para resolver a consulta e a compra na mesma ida."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Vocês entregam no Jaçanã?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  },
+  {
+   "q": "Posso deixar o pedido separado?",
+   "a": "Pode. Mande pelo WhatsApp e a gente separa."
+  },
+  {
+   "q": "Vocês abrem em feriado?",
+   "a": "Não abrimos em feriado. Na dúvida, mande mensagem."
+  }
+ ],
+ "humanizado": true
+}

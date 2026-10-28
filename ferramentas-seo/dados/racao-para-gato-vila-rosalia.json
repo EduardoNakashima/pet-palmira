@@ -1,0 +1,116 @@
+{
+ "slug": "racao-para-gato-vila-rosalia",
+ "keyword": "ração para gato Vila Rosália",
+ "numero": 83,
+ "cluster": "regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Ração para Gato na Vila Rosália, Guarulhos | Pet Shop Palmira",
+ "description": "Ração para gato com bola de pelo na Vila Rosália: por que o gato vomita pelo, como a ração ajuda e o que fazer em casa. A 1,7 km.",
+ "ogDescription": "Ração para gato com bola de pelo na Vila Rosália: por que o gato vomita pelo, como a ração ajuda e o que fazer em casa. A 1,7 km.",
+ "faq": [
+  {
+   "q": "É normal o gato vomitar bola de pelo?",
+   "a": "De vez em quando, sim. Se for frequente, procure veterinário."
+  },
+  {
+   "q": "Ração para bola de pelo serve para gato castrado?",
+   "a": "Algumas linhas atendem as duas coisas. Consulte as opções pelo WhatsApp."
+  },
+  {
+   "q": "Entregam na Vila Rosália?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/images/produtos/goldencat.webp",
+   "alt": "Ração Golden Gatos Castrados sabor Frango",
+   "caption": "GoldeN Gatos Castrados Frango ou Salmão Controle calórico ideal, L-carnitina e proteção renal contínua.",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/granplusgato.webp",
+   "alt": "Ração GranPlus Gatos Castrados para Vila Rosália",
+   "caption": "GranPlus Gourmet Gatos Crocantes refinados com alto teor de carne e sabor inigualável.",
+   "ok": false
+  },
+  {
+   "src": "assets/images/produtos/royalcanin.webp",
+   "alt": "Ração Royal Canin Gatos Específicos",
+   "caption": "Royal Canin Feline Nutrition Precisão científica nutricional para gatos indoor e pelagens densas.",
+   "ok": false
+  },
+  {
+   "src": "assets/organico/loja.jpg",
+   "alt": "Pet Shop Palmira atendendo a Vila Rosália",
+   "caption": "25 Anos Cuidando de Gatos em Guarulhos Atendimento acolhedor, areias sanitárias e arranhadores completos.",
+   "ok": true
+  }
+ ],
+ "badge": "Bola de pelo",
+ "h1": "Ração para gato na <span class=\"acc\">Vila Rosália</span>",
+ "intro": [
+  "Quem tem gato conhece o som. Aquele engasgo no meio da noite, e de manhã um rolinho de pelo no tapete. A bola de pelo é comum, mas não precisa ser frequente.",
+  "O Pet Shop Palmira fica a 1,7 km da Vila Rosália e tem ração e produtos que ajudam nisso."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Por que acontece"
+  },
+  {
+   "type": "p",
+   "html": "O gato se lambe muitas vezes por dia. A língua dele é áspera e puxa o pelo solto, que ele engole. Uma parte sai nas fezes. A outra se acumula no estômago e volta em forma de bola."
+  },
+  {
+   "type": "p",
+   "html": "Gato de pelo longo e época de troca de pelo aumentam o problema."
+  },
+  {
+   "type": "h2",
+   "text": "Ração para controle de bolas de pelo"
+  },
+  {
+   "type": "p",
+   "html": "Essas rações têm mais fibra, o que ajuda o pelo a seguir pelo intestino em vez de voltar. Muitas linhas também cuidam da pele e do pelo, o que diminui a queda. Temos opções da Golden Gatos, CatChow, Whiskas e Royal Canin, conforme o estoque."
+  },
+  {
+   "type": "h2",
+   "text": "Escova é o melhor remédio"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Escove o gato várias vezes por semana. Pelo que fica na escova não vai para o estômago.",
+    "Na época de troca de pelo, escove todo dia.",
+    "Comece com sessões curtas e com petisco no final, para ele gostar.",
+    "Gato de pelo longo pode precisar de escova própria para nós."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Água ajuda também"
+  },
+  {
+   "type": "p",
+   "html": "Gato que bebe pouca água tem intestino mais lento. Sachê uma vez ao dia, potes de água espalhados e fonte de água ajudam o pelo a seguir o caminho certo."
+  },
+  {
+   "type": "h2",
+   "text": "Quando não é bola de pelo"
+  },
+  {
+   "type": "p",
+   "html": "Vômito muitas vezes na semana, vômito sem pelo, gato que tenta e não consegue colocar para fora, falta de apetite ou intestino preso. Nesses casos, procure veterinário. Indicamos a Pink Vet, na Av. Pedro de Souza Lopes, 33."
+  },
+  {
+   "type": "h2",
+   "text": "Compra e entrega"
+  },
+  {
+   "type": "p",
+   "html": "Loja aberta de segunda a sábado, das 9h às 18h, no Jardim Palmira. Pedido pelo WhatsApp (11) 97460-5359. Entrega na Vila Rosália combinada por ligação antes."
+  }
+ ],
+ "humanizado": true
+}

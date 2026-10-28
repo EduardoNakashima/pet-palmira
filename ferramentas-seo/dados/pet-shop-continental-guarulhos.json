@@ -1,0 +1,139 @@
+{
+ "slug": "pet-shop-continental-guarulhos",
+ "keyword": "pet shop Continental Guarulhos",
+ "numero": 56,
+ "cluster": "regionalizadas_fase_1",
+ "source": "site",
+ "title": "Pet Shop Perto do Parque Continental, Guarulhos | Pet Shop Palmira",
+ "description": "Pet shop perto do Parque Continental, Guarulhos: ração, farmácia veterinária, acessórios e banho e tosa para cães. De 0,8 a 1,8 km, no Jardim Palmira.",
+ "ogDescription": "Pet shop perto do Parque Continental, Guarulhos: ração, farmácia veterinária, acessórios e banho e tosa para cães. De 0,8 a 1,8 km, no Jardim Palmira.",
+ "faq": [
+  {
+   "q": "Vocês entregam no Parque Continental?",
+   "a": "Entregamos, combinando o local por ligação antes, pelo (11) 2451-1719 ou pelo WhatsApp."
+  },
+  {
+   "q": "Precisa mandar receita para comprar remédio?",
+   "a": "Para medicamento que exige receita, sim. Mande a foto pelo WhatsApp."
+  },
+  {
+   "q": "Qual o horário da loja?",
+   "a": "Segunda a sábado, das 9h às 18h. Domingo e feriado fechado."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/loja.jpg",
+   "alt": "Atendimento acolhedor e tradição de 25 anos no Pet Shop Palmira",
+   "caption": "Tradição de 25 Anos na Região",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/racaoparacachorro.jpg",
+   "alt": "Sacos de rações Super Premium e Premium Especial com lote fresco",
+   "caption": "Grandes Marcas de Ração Canina e Felina",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/transportesecasinhas.jpg",
+   "alt": "Casinhas plásticas térmicas, caminhas e caixas de transporte",
+   "caption": "Acessórios, Casinhas e Caixas de Transporte",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/loja2.jpg",
+   "alt": "Corredores com farmácia veterinária, antipulgas e artigos de higiene",
+   "caption": "Farmácia Veterinária e Higiene Completa",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Vizinho do Continental",
+ "h1": "Pet shop perto do <span class=\"acc\">Parque Continental</span>",
+ "intro": [
+  "O Parque Continental é grande, e a distância até a loja muda conforme a rua. Em linha reta, fica entre 0,8 e 1,8 km do Pet Shop Palmira. Para boa parte dos moradores, somos o pet shop mais perto de casa.",
+  "Estamos na Av. Pedro de Souza Lopes, 33B, no Jardim Palmira, há 25 anos."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Pedido pelo WhatsApp, passo a passo"
+  },
+  {
+   "type": "p",
+   "html": "Muita gente do Continental prefere pedir sem sair de casa. Funciona assim:"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Mande uma mensagem para (11) 97460-5359 com o que precisa: marca, tamanho do saco, remédio ou acessório.",
+    "A gente confere o estoque e responde com o valor.",
+    "Se for retirar, é só passar na loja de segunda a sábado, das 9h às 18h.",
+    "Se for entrega, a gente liga para combinar o local e o horário. A entrega só sai depois dessa ligação."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Pagamento no Pix, débito, crédito ou dinheiro, sem taxa extra no cartão."
+  },
+  {
+   "type": "h2",
+   "text": "O que pedir"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Ração",
+     "text": "Para cães, gatos, pássaros, roedores e animais de criação."
+    },
+    {
+     "title": "Farmácia",
+     "text": "Antipulgas, vermífugos e remédios com receita. Mande a foto da receita junto."
+    },
+    {
+     "title": "Higiene",
+     "text": "Shampoo, areia de gato e tapete higiênico."
+    },
+    {
+     "title": "Acessórios",
+     "text": "Coleira, guia, caminha, comedouro e caixa de transporte."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Dica para o pedido sair certo"
+  },
+  {
+   "type": "p",
+   "html": "Escreva o nome da ração como está na embalagem, com a linha e a fase. Golden Adulto e Golden Filhote são produtos diferentes, e o mesmo vale para raça pequena e raça grande. Se tiver dúvida, mande a foto do saco vazio. Fica mais fácil e evita troca depois."
+  },
+  {
+   "type": "p",
+   "html": "Para remédio, a foto da receita resolve. A gente confirma se tem o produto e a apresentação certa, como comprimido ou gotas."
+  },
+  {
+   "type": "h2",
+   "text": "Banho e tosa"
+  },
+  {
+   "type": "p",
+   "html": "Fazemos banho e tosa só em cães, com tosa na máquina. Você traz e busca o cachorro, porque não temos táxi dog. Do Parque Continental, a ida e a volta são rápidas."
+  },
+  {
+   "type": "h2",
+   "text": "Quando é caso de veterinário"
+  },
+  {
+   "type": "p",
+   "html": "A loja não é clínica. Para consulta, vacinas e check-up, indicamos a Pink Vet, que fica na mesma avenida da loja, no número 33."
+  }
+ ],
+ "humanizado": true
+}

@@ -1,0 +1,143 @@
+{
+ "slug": "pet-shop-jardim-flor-da-montanha",
+ "keyword": "pet shop Jardim Flor da Montanha",
+ "numero": 91,
+ "title": "Pet Shop Perto do Jardim Flor da Montanha | Pet Shop Palmira",
+ "description": "Pet shop a 2,7 km do Jardim Flor da Montanha, Guarulhos: como planejar a compra do mês de ração, antipulgas e higiene sem faltar nada.",
+ "ogDescription": "Pet shop a 2,7 km do Jardim Flor da Montanha, Guarulhos: como planejar a compra do mês de ração, antipulgas e higiene sem faltar nada.",
+ "badge": "Compra do mês",
+ "h1": "Pet shop perto do <span class=\"acc\">Jardim Flor da Montanha</span>",
+ "intro": [
+  "A ração acaba sempre no pior momento. Domingo à noite, feriado, véspera de viagem. Quem mora no Jardim Flor da Montanha, a 2,7 km da nossa loja em linha reta, sabe que vale se organizar.",
+  "O Pet Shop Palmira fica na Av. Pedro de Souza Lopes, 33B, no Jardim Palmira, e abre de segunda a sábado, das 9h às 18h. Domingo e feriado fica fechado. Por isso, planejar faz diferença."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Quanto dura o saco"
+  },
+  {
+   "type": "p",
+   "html": "Divida o peso do saco pela porção diária. Exemplo: um cachorro que come 300 gramas por dia termina um saco de 15 kg em uns 50 dias. Um gato que come 60 gramas por dia termina um saco de 3 kg em uns 50 dias também. Anote a data de abertura no saco e você sabe quando comprar o próximo."
+  },
+  {
+   "type": "h2",
+   "text": "Lista do mês"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Item",
+    "Frequência comum"
+   ],
+   "rows": [
+    [
+     "Ração",
+     "Conforme o tamanho do saco"
+    ],
+    [
+     "Areia do gato",
+     "Semanal ou quinzenal"
+    ],
+    [
+     "Tapete higiênico",
+     "Conforme o uso"
+    ],
+    [
+     "Antipulgas",
+     "Conforme o produto, muitos são mensais"
+    ],
+    [
+     "Vermífugo",
+     "Conforme a orientação da veterinária"
+    ],
+    [
+     "Petiscos",
+     "Quando acabar, com moderação"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Compre antes de acabar"
+  },
+  {
+   "type": "p",
+   "html": "Faça o pedido quando ainda tiver uns quatro ou cinco dias de ração. Assim dá tempo de combinar a entrega por ligação ou de passar na loja sem pressa. Trocar de ração às pressas, porque a sua acabou e não tinha, costuma dar dor de barriga no animal."
+  },
+  {
+   "type": "h2",
+   "text": "Pelo WhatsApp"
+  },
+  {
+   "type": "p",
+   "html": "Mande a lista para (11) 97460-5359 com marca, linha e tamanho. A gente confere o estoque, passa o valor e combina a retirada ou a entrega. Para o Jardim Flor da Montanha, a entrega é combinada por ligação antes."
+  },
+  {
+   "type": "h2",
+   "text": "Pagamento"
+  },
+  {
+   "type": "p",
+   "html": "Pix, débito, crédito ou dinheiro, sem taxa extra no cartão."
+  },
+  {
+   "type": "h2",
+   "text": "O que mais tem na loja"
+  },
+  {
+   "type": "p",
+   "html": "Ração para cães, gatos, pássaros, roedores e criação. Farmácia veterinária. Acessórios. Banho e tosa só para cães, com tosa na máquina, por horário marcado. Você traz e busca o cachorro, porque não temos táxi dog."
+  },
+  {
+   "type": "h2",
+   "text": "Veterinária"
+  },
+  {
+   "type": "p",
+   "html": "A loja não é clínica. Para consulta, vacinas e check-up, indicamos a Pink Vet, na mesma avenida, no número 33."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Vocês abrem no domingo?",
+   "a": "Não. Abrimos de segunda a sábado, das 9h às 18h."
+  },
+  {
+   "q": "Como faço o pedido do mês?",
+   "a": "Mande a lista pelo WhatsApp (11) 97460-5359. A gente confere e combina a entrega por ligação."
+  },
+  {
+   "q": "Entregam no Jardim Flor da Montanha?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/loja.webp",
+   "alt": "",
+   "caption": "",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/golden.webp",
+   "alt": "",
+   "caption": "",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/frontline.webp",
+   "alt": "",
+   "caption": "",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/casinha.webp",
+   "alt": "",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "source": "novo",
+ "humanizado": true
+}

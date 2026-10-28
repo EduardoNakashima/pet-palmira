@@ -1,0 +1,22 @@
+[
+ {"id": "jardim-palmira", "nome": "Jardim Palmira", "no": "no", "km": "0", "cidade": "Guarulhos", "pet-shop": "pet-shop-jardim-palmira-guarulhos", "racao-para-cachorro": "racao-para-cachorro-jardim-palmira", "racao-para-gato": "racao-para-gato-jardim-palmira"},
+ {"id": "continental", "nome": "Parque Continental", "no": "no", "km": "0,8 a 1,8", "cidade": "Guarulhos", "pet-shop": "pet-shop-continental-guarulhos", "racao-para-cachorro": "racao-para-cachorro-continental", "racao-para-gato": "racao-para-gato-continental"},
+ {"id": "jardim-vila-galvao", "nome": "Jardim Vila Galvão", "no": "no", "km": "", "cidade": "Guarulhos"},
+ {"id": "jardim-fontalis", "nome": "Jardim Fontalis", "no": "no", "km": "1,2", "cidade": "São Paulo"},
+ {"id": "vila-rosalia", "nome": "Vila Rosália", "no": "na", "km": "1,7", "cidade": "Guarulhos", "pet-shop": "pet-shop-vila-rosalia-guarulhos", "racao-para-cachorro": "racao-para-cachorro-vila-rosalia", "racao-para-gato": "racao-para-gato-vila-rosalia"},
+ {"id": "rosa-de-franca", "nome": "Jardim Rosa de França", "no": "no", "km": "1,8", "cidade": "Guarulhos", "pet-shop": "pet-shop-jardim-rosa-de-franca", "racao-para-cachorro": "racao-para-cachorro-rosa-de-franca", "racao-para-gato": "racao-para-gato-rosa-de-franca"},
+ {"id": "vila-galvao", "nome": "Vila Galvão", "no": "na", "km": "2,1", "cidade": "Guarulhos", "pet-shop": "pet-shop-vila-galvao-guarulhos", "racao-para-cachorro": "racao-para-cachorro-vila-galvao", "racao-para-gato": "racao-para-gato-vila-galvao"},
+ {"id": "jardim-city", "nome": "Jardim City", "no": "no", "km": "2,2", "cidade": "Guarulhos"},
+ {"id": "picanco", "nome": "Picanço", "no": "no", "km": "2,3", "cidade": "Guarulhos", "pet-shop": "pet-shop-picanco-guarulhos", "racao-para-cachorro": "racao-para-cachorro-picanco", "racao-para-gato": "racao-para-gato-picanco"},
+ {"id": "jardim-moreira", "nome": "Jardim Moreira", "no": "no", "km": "2,4", "cidade": "Guarulhos"},
+ {"id": "flor-da-montanha", "nome": "Jardim Flor da Montanha", "no": "no", "km": "2,7", "cidade": "Guarulhos", "pet-shop": "pet-shop-jardim-flor-da-montanha", "racao-para-cachorro": "racao-para-cachorro-flor-da-montanha", "racao-para-gato": "racao-para-gato-flor-da-montanha"},
+ {"id": "vila-milton", "nome": "Vila Milton", "no": "na", "km": "2,8", "cidade": "Guarulhos", "pet-shop": "pet-shop-vila-milton-guarulhos", "racao-para-cachorro": "racao-para-cachorro-vila-milton", "racao-para-gato": "racao-para-gato-vila-milton"},
+ {"id": "torres-tibagy", "nome": "Torres Tibagy", "no": "no", "km": "2,9", "cidade": "Guarulhos", "pet-shop": "pet-shop-torres-tibagy-guarulhos", "racao-para-cachorro": "racao-para-cachorro-torres-tibagy", "racao-para-gato": "racao-para-gato-torres-tibagy"},
+ {"id": "vila-rio", "nome": "Vila Rio", "no": "na", "km": "3,2", "cidade": "Guarulhos"},
+ {"id": "santa-mena", "nome": "Jardim Santa Mena", "no": "no", "km": "3,4", "cidade": "Guarulhos"},
+ {"id": "jacana", "nome": "Jaçanã", "no": "no", "km": "3,7", "cidade": "São Paulo"},
+ {"id": "cabucu", "nome": "Cabuçu", "no": "no", "km": "3,8", "cidade": "Guarulhos", "pet-shop": "pet-shop-cabucu-guarulhos", "racao-para-cachorro": "racao-para-cachorro-cabucu", "racao-para-gato": "racao-para-gato-cabucu"},
+ {"id": "tranquilidade", "nome": "Tranquilidade", "no": "no", "km": "3,9", "cidade": "Guarulhos"},
+ {"id": "gopouva", "nome": "Gopoúva", "no": "no", "km": "4,1", "cidade": "Guarulhos"},
+ {"id": "tremembe", "nome": "Tremembé", "no": "no", "km": "4,1", "cidade": "São Paulo"}
+]

@@ -1,0 +1,176 @@
+@@ pet-shop-tremembe
+title: Pet Shop Perto do Tremembé, São Paulo | Pet Shop Palmira
+desc: Pet shop a 4,1 km do Tremembé, zona norte de São Paulo: 25 anos de loja de bairro no Jardim Palmira, Guarulhos. Ração, farmácia e banho para cães.
+badge: 25 anos de bairro
+h1: Pet shop perto do [Tremembé]
+O Tremembé fica na zona norte de São Paulo, a 4,1 km do Pet Shop Palmira em linha reta. É um pouco mais longe do que os bairros vizinhos da loja, mas está dentro do nosso raio de entrega, de cerca de 10 km.
+Estamos na Av. Pedro de Souza Lopes, 33B, no Jardim Palmira, em Guarulhos, há 25 anos.
+## O que 25 anos ensinam
+Em 25 anos, a gente viu filhote virar cachorro idoso, criança virar tutora do próprio gato, marcas de ração surgirem e sumirem. Aprendemos que a maioria das dúvidas tem resposta simples, e que algumas só a veterinária pode responder. A gente sabe a diferença e fala com clareza.
+## O que você encontra
+* Ração | Golden, Premier, Special Dog, Pedigree, Magnus, Premiatta, Max, Royal Canin, Golden Gatos, CatChow e Whiskas, conforme o estoque.
+* Outros bichos | Ração para pássaros, roedores, galinha, porco e cavalo.
+* Farmácia veterinária | Antipulgas, vermífugos e remédios com receita.
+* Acessórios | Caminhas, casinhas, coleiras, comedouros e caixas de transporte.
+* Banho e tosa | Só para cães, com tosa na máquina.
+## Para quem vem do Tremembé
+- Peça pelo WhatsApp (11) 97460-5359 e combine a entrega por ligação. Sem a ligação, o pedido não sai.
+- Ou mande a lista antes e passe para buscar. A gente deixa separado.
+- Se for trazer o cão para o banho, marque o horário antes. Você traz e busca, porque não temos táxi dog.
+## Pagamento
+Pix, débito, crédito ou dinheiro, sem taxa extra no cartão. O preço é o mesmo para qualquer bairro.
+## Horário
+Segunda a sábado, das 9h às 18h. Domingo e feriado fechado. Como São Paulo e Guarulhos têm alguns feriados diferentes, na dúvida mande mensagem antes de sair.
+## Perto da Cantareira
+O Tremembé tem muita área verde, como o Cabuçu, do lado de Guarulhos. Para quem passeia com o cachorro no mato, antipulgas e carrapaticida em dia fazem diferença. Temos opções na farmácia da loja.
+## Veterinária
+A loja não é clínica. Para consulta, vacinas e check-up, indicamos a Pink Vet, na mesma avenida, no número 33. Dá para passar na clínica e na loja na mesma ida.
+? Vocês entregam no Tremembé?
+= Entregamos, combinando o local por ligação antes.
+? A loja abre no domingo?
+= Não. Abrimos de segunda a sábado, das 9h às 18h.
+? Vocês fazem banho em gato?
+= Não. O banho e tosa é só para cães.
+
+@@ casa-de-racao-tremembe
+title: Casa de Ração Perto do Tremembé, São Paulo | Pet Shop Palmira
+desc: Casa de ração a 4,1 km do Tremembé: como pedir a ração certa pelo WhatsApp, com marca, linha, fase e tamanho. Entrega combinada por ligação.
+badge: Pedido certo
+h1: Casa de ração perto do [Tremembé]
+Quem mora mais longe da loja não quer receber a ração errada. A entrega chega, o saco é de filhote em vez de adulto, ou de raça grande em vez de pequena, e começa a troca. Dá para evitar isso com um pedido bem feito.
+O Pet Shop Palmira fica a 4,1 km do Tremembé. Aqui vai o que escrever no pedido.
+## Os cinco dados da ração
+1. Marca. Exemplo: Golden.
+2. Linha. Muitas marcas têm várias, com nomes parecidos.
+3. Espécie e fase: cão filhote, cão adulto, gato castrado, cão sênior.
+4. Porte, para cães: pequeno, médio ou grande.
+5. Tamanho do saco, em quilos.
+O jeito mais fácil: tire uma foto da frente do saco vazio e mande pelo WhatsApp (11) 97460-5359.
+## Para outros bichos
+| Animal | O que informar |
+| Pássaros | Espécie, como calopsita, periquito ou canário |
+| Roedores | Espécie, se quer feno junto |
+| Galinha | Fase: pintinho, crescimento ou postura |
+| Porco | Fase do animal |
+| Cavalo | Tipo de ração e quantidade |
+## Remédio
+Para medicamento, mande a foto da receita. A gente confere a apresentação e a dosagem. Se a receita pede comprimido e só temos outra forma, ou outra concentração, avisamos antes, para você confirmar com a veterinária. Não trocamos remédio por conta própria.
+## Antes de mandar
+- Confira quanto ainda tem em casa. Peça com alguns dias de folga.
+- Junte tudo em um pedido só: ração, areia, antipulgas, petisco.
+- Diga se prefere retirar ou receber.
+## Depois do pedido
+A gente responde com o valor e o que tem no estoque. Se faltar algo, avisamos na hora e mostramos uma alternativa, se houver. Para entrega no Tremembé, a gente liga para combinar o local e o horário. Sem essa ligação, o pedido não sai.
+## Pagamento
+Pix, débito, crédito ou dinheiro, sem taxa extra no cartão. Combine a forma na ligação.
+## A loja
+Av. Pedro de Souza Lopes, 33B, Jardim Palmira, Guarulhos. Segunda a sábado, das 9h às 18h. Ração para cães, gatos, pássaros, roedores e criação há 25 anos.
+? Posso mandar só a foto do saco?
+= Pode, e ajuda muito. Mande a frente do saco, onde aparece a linha.
+? E se não tiver a ração que eu uso?
+= A gente avisa na hora e mostra alternativas, se houver.
+? Entregam no Tremembé?
+= Entregamos, combinando o local por ligação antes.
+
+@@ racao-para-cachorro-tremembe
+title: Ração para Cachorro Perto do Tremembé, São Paulo | Pet Shop Palmira
+desc: Rotina de alimentação do cachorro: horários, comedouro limpo, água e o que fazer quando a família sai. Para tutores do Tremembé, a 4,1 km.
+badge: Rotina de comida
+h1: Ração para cachorro perto do [Tremembé]
+Cachorro gosta de rotina. Comida no mesmo horário, no mesmo lugar, no mesmo pote. Isso ajuda no intestino, no comportamento e até no adestramento.
+O Pet Shop Palmira fica a 4,1 km do Tremembé e tem ração e comedouros para montar essa rotina.
+## Horário fixo
+Duas refeições por dia para o adulto, de manhã e no fim da tarde, costumam funcionar bem. Escolha horários que a família consegue manter, inclusive no fim de semana. O cachorro aprende rápido e para de pedir comida fora de hora.
+## Pote por pouco tempo
+Coloque a ração, espere 15 a 20 minutos e recolha o que sobrou. Pote cheio o dia todo atrapalha a rotina, atrai inseto e faz o cão comer por tédio.
+## Comedouro limpo
+- Lave o comedouro todo dia. Gordura velha deixa cheiro ruim.
+- Prefira inox ou cerâmica. Plástico arranhado acumula sujeira.
+- Altura confortável para o porte do cão.
+- Comedouro pesado ou antiderrapante, se ele empurra pelo chão.
+## Água
+Água fresca o dia inteiro, trocada pelo menos uma vez ao dia. Lave o bebedouro também. Em casa com quintal, coloque na sombra.
+## Quando a família sai
+Se o cachorro fica sozinho muitas horas, dê a refeição antes de sair, deixe água à vontade e um brinquedo para roer. Brinquedo recheável com parte da ração do dia ajuda a passar o tempo.
+## Mudança de rotina
+Viagem, obra, bebê novo em casa. O cachorro sente. Mantenha os horários da comida mesmo nas semanas agitadas. Se ele parar de comer por mais de um dia, procure a veterinária. Indicamos a Pink Vet, na Av. Pedro de Souza Lopes, 33.
+## Rações e comedouros
+Golden, Premier, Special Dog, Pedigree, Magnus, Premiatta, Max e Royal Canin, conforme o estoque. Comedouros e bebedouros de alguns modelos também. Consulte pelo WhatsApp (11) 97460-5359.
+## Compra e entrega
+Segunda a sábado, das 9h às 18h, na Av. Pedro de Souza Lopes, 33B, no Jardim Palmira. Entrega no Tremembé combinada por ligação antes. Pix, débito, crédito ou dinheiro, sem taxa extra no cartão.
+? Quantas vezes por dia o cão adulto come?
+= Em geral duas, em horários fixos.
+? Posso deixar ração no pote o dia todo?
+= Não é o ideal. Recolha depois de 15 a 20 minutos.
+? Entregam no Tremembé?
+= Entregamos, combinando o local por ligação antes.
+
+@@ racao-para-gato-tremembe
+title: Ração para Gato Perto do Tremembé, São Paulo | Pet Shop Palmira
+desc: Compra do mês para o gato: quanto de ração, sachê e areia por mês e como guardar. Para tutores do Tremembé, a 4,1 km. Entrega combinada.
+badge: Estoque do gato
+h1: Ração para gato perto do [Tremembé]
+Gato não aceita bem improviso. Se a ração dele acabar e você comprar outra às pressas, ele pode recusar. Se a areia acabar, ele faz fora. Para quem mora no Tremembé, a 4,1 km da loja, organizar a compra do gato poupa dor de cabeça.
+## Quanto o gato consome
+| Item | Gato adulto, em média |
+| Ração seca | Perto de 1,5 a 2 kg por mês, conforme peso e marca |
+| Sachê | Um por dia, cerca de 30 por mês |
+| Areia | Depende do tipo e do número de caixas |
+São médias. Confira a tabela da sua ração e faça a conta para o seu gato. Com dois ou mais gatos, multiplique.
+## Tamanho do saco
+Ração de gato aberta perde cheiro, e gato come pelo nariz. Se você tem um gato só, um saco que dure até umas quatro a seis semanas costuma manter a ração fresca. Com vários gatos, o saco maior compensa.
+## Guardar
+1. Deixe a ração no saco original, bem fechado com prendedor.
+2. Coloque o saco dentro de um pote com tampa.
+3. Guarde longe do sol, do fogão e da umidade.
+4. Sachês fechados em lugar fresco. Aberto, na geladeira, por pouco tempo.
+## Peça antes de acabar
+Faça o pedido quando ainda houver ração para uma semana. A loja fecha domingo e feriado, e a entrega é combinada por ligação antes. Com folga, nada falta.
+## Mesma ração, sem susto
+Anote a marca e a linha exatas, ou guarde uma foto do saco. Muitas marcas têm linhas parecidas, e trocar sem querer pode dar vômito ou recusa.
+## O que temos
+Golden Gatos, CatChow, Whiskas e Royal Canin, para filhote, adulto, castrado e idoso. Sachês, patês e areias. Tudo conforme o estoque.
+## Pedido
+Mande a lista pelo WhatsApp (11) 97460-5359. A gente confere, passa o valor e liga para combinar a entrega no Tremembé. Loja na Av. Pedro de Souza Lopes, 33B, de segunda a sábado, das 9h às 18h. Pix, débito, crédito ou dinheiro, sem taxa extra no cartão. Para consulta, indicamos a Pink Vet, no número 33.
+? Quanto de ração o gato come por mês?
+= Um gato adulto costuma comer perto de 1,5 a 2 kg por mês. Confira a tabela da sua ração.
+? Qual tamanho de saco comprar?
+= Um que acabe em até umas quatro a seis semanas depois de aberto.
+? Entregam no Tremembé?
+= Entregamos, combinando o local por ligação antes.
+
+@@ veterinario-tremembe
+title: Veterinário Perto do Tremembé, São Paulo | Pink Vet parceira
+desc: Veterinário a cerca de 4,1 km do Tremembé: Pink Vet, na Av. Pedro de Souza Lopes, 33, Guarulhos. Vacinas do gato, inclusive de apartamento.
+badge: Vacinas do gato
+h1: Veterinário perto do [Tremembé]
+Gato que não sai de casa precisa de vacina? Essa é uma das perguntas que mais escutamos. A resposta é sim. O vírus pode entrar na roupa, no sapato, em outro animal ou numa fuga rápida pela janela.
+Para vacinas, consulta e check-up, o Pet Shop Palmira indica a Pink Vet Consultório Veterinário, a cerca de 4,1 km do Tremembé, na Av. Pedro de Souza Lopes, 33, no Jardim Palmira, em Guarulhos.
+## Antes de tudo
+A nossa loja não é clínica veterinária. A gente vende ração, produtos e remédios com receita. Vacina e consulta são com a Pink Vet, nossa parceira.
+## Pink Vet
+- Consulta, vacinas e check-up.
+- Segunda a sexta, das 9h às 17h. Sábado, das 9h às 16h.
+- Nota 5,0 no Google.
+- WhatsApp (11) 93317-1589, no botão desta página. A mensagem já avisa que você veio pelo site do Pet Shop Palmira.
+## Como costuma ser a vacinação do gato
+O filhote recebe uma sequência de doses nas primeiras semanas de vida, contra doenças virais comuns em gatos, e a vacina antirrábica. Depois, vêm os reforços, em geral anuais. Quais vacinas e quando é decisão da veterinária, de acordo com a idade, a saúde e o estilo de vida do gato.
+## Gato adulto sem histórico
+Adotou um gato adulto e não sabe se ele foi vacinado? Conte isso na consulta. A veterinária orienta como começar.
+## Levando o gato até a clínica
+1. Caixa de transporte deixada aberta em casa dias antes, com uma manta.
+2. Toalha cobrindo a caixa no trajeto.
+3. Caixa presa no carro com o cinto.
+4. Nunca no colo.
+## Depois da vacina
+Alguns gatos ficam mais quietos ou sonolentos por um dia. Se houver inchaço no rosto, vômito, falta de ar ou muita apatia, procure a veterinária logo.
+## Carteirinha
+Guarde a carteirinha e tire uma foto a cada dose. Coloque um lembrete no celular para o reforço.
+## Na loja
+Caixas de transporte, ração para filhote, vermífugos e antipulgas próprios para gatos, conforme o estoque. Ficamos na mesma avenida da Pink Vet, no número 33B.
+? Gato de apartamento precisa de vacina?
+= Precisa. A veterinária indica o calendário.
+? O Pet Shop Palmira aplica vacina?
+= Não. A loja não é clínica. Indicamos a Pink Vet.
+? Qual o horário da Pink Vet?
+= Segunda a sexta, das 9h às 17h, e sábado, das 9h às 16h.

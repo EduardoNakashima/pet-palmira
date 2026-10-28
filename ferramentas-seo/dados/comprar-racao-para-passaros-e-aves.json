@@ -1,0 +1,97 @@
+{
+ "slug": "comprar-racao-para-passaros-e-aves",
+ "keyword": "comprar ração para pássaros e aves",
+ "numero": 18,
+ "cluster": "nao_regionalizadas_fase_1",
+ "source": "site",
+ "title": "Comprar Ração para Pássaros e Aves | Pet Shop Palmira",
+ "description": "Comprar ração para pássaros e aves em Guarulhos: sementes para calopsita e canário, ração extrusada e acessórios. Consulte pelo WhatsApp.",
+ "ogDescription": "Comprar ração para pássaros e aves em Guarulhos: sementes para calopsita e canário, ração extrusada e acessórios. Consulte pelo WhatsApp.",
+ "faq": [
+  {
+   "q": "Posso trocar a semente por ração extrusada de uma vez?",
+   "a": "Melhor não. Misture aos poucos ao longo de algumas semanas e observe se a ave está comendo."
+  },
+  {
+   "q": "Vocês vendem acessórios para gaiola?",
+   "a": "Sim, temos bebedouros, comedouros, poleiros e gaiolas. Confirme os modelos pelo WhatsApp."
+  },
+  {
+   "q": "Como faço o pedido?",
+   "a": "Pelo WhatsApp (11) 97460-5359. Retire na loja ou combine a entrega por ligação."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/loja2.jpg",
+   "alt": "Misturas de sementes limpas e selecionadas para pássaros",
+   "caption": "Misturas de Sementes Selecionadas",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/galinha.webp",
+   "alt": "Rações balanceadas e suplementos para aves e galináceos",
+   "caption": "Nutrição Balanceada para Aves",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/loja.jpg",
+   "alt": "Gaiolas, bebedouros e acessórios para calopsitas, canários e periquitos",
+   "caption": "Gaiolas, Poleiros e Bebedouros",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/transportesecasinhas.jpg",
+   "alt": "Comedouros automáticos e vitaminas para aves cantoras",
+   "caption": "Comedouros e Vitaminas Avícolas",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Sementes e extrusados",
+ "h1": "Comprar ração para <span class=\"acc\">pássaros e aves</span>",
+ "intro": [
+  "Para comprar ração para pássaros com a gente, mande a espécie da ave e o que ela come hoje. A equipe indica a mistura certa e confirma o que tem no estoque."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Semente ou ração extrusada?"
+  },
+  {
+   "type": "p",
+   "html": "A semente é o que a maioria das aves está acostumada a comer. A ração extrusada é mais completa, porque cada grão tem a mesma composição."
+  },
+  {
+   "type": "p",
+   "html": "O melhor caminho costuma ser misturar as duas e aumentar a extrusada aos poucos. Algumas aves estranham no começo, e tudo bem."
+  },
+  {
+   "type": "h2",
+   "text": "O que você encontra"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Misturas de sementes para calopsitas, canários e periquitos.",
+    "Ração extrusada.",
+    "Comedouros, bebedouros e poleiros.",
+    "Gaiolas."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Comprar no bairro"
+  },
+  {
+   "type": "p",
+   "html": "Você vê o produto, pergunta e leva na hora. Ou pede pelo WhatsApp e combina a entrega por ligação."
+  }
+ ],
+ "humanizado": true
+}

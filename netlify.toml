@@ -10,6 +10,254 @@
   [headers.values]
     Cache-Control = "public, max-age=31536000, immutable"
 
+# Pasta de trabalho das páginas SEO: não publicar
+[[redirects]]
+  from = "/ferramentas-seo/*"
+  to = "/404.html"
+  status = 404
+  force = true
+
+# Páginas de produtos e acessórios por bairro foram unidas à página de pet shop do mesmo bairro
+[[redirects]]
+  from = "/informacoes/produtos-para-pets-jardim-palmira"
+  to = "/informacoes/pet-shop-jardim-palmira-guarulhos"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/informacoes/produtos-para-pets-jardim-palmira.html"
+  to = "/informacoes/pet-shop-jardim-palmira-guarulhos"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/informacoes/acessorios-para-pets-jardim-palmira"
+  to = "/informacoes/pet-shop-jardim-palmira-guarulhos"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/informacoes/acessorios-para-pets-jardim-palmira.html"
+  to = "/informacoes/pet-shop-jardim-palmira-guarulhos"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/informacoes/produtos-para-pets-continental"
+  to = "/informacoes/pet-shop-continental-guarulhos"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/informacoes/produtos-para-pets-continental.html"
+  to = "/informacoes/pet-shop-continental-guarulhos"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/informacoes/acessorios-para-pets-continental"
+  to = "/informacoes/pet-shop-continental-guarulhos"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/informacoes/acessorios-para-pets-continental.html"
+  to = "/informacoes/pet-shop-continental-guarulhos"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/informacoes/produtos-para-pets-vila-rosalia"
+  to = "/informacoes/pet-shop-vila-rosalia-guarulhos"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/informacoes/produtos-para-pets-vila-rosalia.html"
+  to = "/informacoes/pet-shop-vila-rosalia-guarulhos"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/informacoes/acessorios-para-pets-vila-rosalia"
+  to = "/informacoes/pet-shop-vila-rosalia-guarulhos"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/informacoes/acessorios-para-pets-vila-rosalia.html"
+  to = "/informacoes/pet-shop-vila-rosalia-guarulhos"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/informacoes/produtos-para-pets-rosa-de-franca"
+  to = "/informacoes/pet-shop-jardim-rosa-de-franca"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/informacoes/produtos-para-pets-rosa-de-franca.html"
+  to = "/informacoes/pet-shop-jardim-rosa-de-franca"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/informacoes/acessorios-para-pets-rosa-de-franca"
+  to = "/informacoes/pet-shop-jardim-rosa-de-franca"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/informacoes/acessorios-para-pets-rosa-de-franca.html"
+  to = "/informacoes/pet-shop-jardim-rosa-de-franca"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/informacoes/produtos-para-pets-vila-galvao"
+  to = "/informacoes/pet-shop-vila-galvao-guarulhos"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/informacoes/produtos-para-pets-vila-galvao.html"
+  to = "/informacoes/pet-shop-vila-galvao-guarulhos"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/informacoes/acessorios-para-pets-vila-galvao"
+  to = "/informacoes/pet-shop-vila-galvao-guarulhos"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/informacoes/acessorios-para-pets-vila-galvao.html"
+  to = "/informacoes/pet-shop-vila-galvao-guarulhos"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/informacoes/produtos-para-pets-picanco"
+  to = "/informacoes/pet-shop-picanco-guarulhos"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/informacoes/produtos-para-pets-picanco.html"
+  to = "/informacoes/pet-shop-picanco-guarulhos"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/informacoes/acessorios-para-pets-picanco"
+  to = "/informacoes/pet-shop-picanco-guarulhos"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/informacoes/acessorios-para-pets-picanco.html"
+  to = "/informacoes/pet-shop-picanco-guarulhos"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/informacoes/produtos-para-pets-flor-da-montanha"
+  to = "/informacoes/pet-shop-jardim-flor-da-montanha"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/informacoes/produtos-para-pets-flor-da-montanha.html"
+  to = "/informacoes/pet-shop-jardim-flor-da-montanha"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/informacoes/acessorios-para-pets-flor-da-montanha"
+  to = "/informacoes/pet-shop-jardim-flor-da-montanha"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/informacoes/acessorios-para-pets-flor-da-montanha.html"
+  to = "/informacoes/pet-shop-jardim-flor-da-montanha"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/informacoes/produtos-para-pets-vila-milton"
+  to = "/informacoes/pet-shop-vila-milton-guarulhos"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/informacoes/produtos-para-pets-vila-milton.html"
+  to = "/informacoes/pet-shop-vila-milton-guarulhos"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/informacoes/acessorios-para-pets-vila-milton"
+  to = "/informacoes/pet-shop-vila-milton-guarulhos"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/informacoes/acessorios-para-pets-vila-milton.html"
+  to = "/informacoes/pet-shop-vila-milton-guarulhos"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/informacoes/produtos-para-pets-torres-tibagy"
+  to = "/informacoes/pet-shop-torres-tibagy-guarulhos"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/informacoes/produtos-para-pets-torres-tibagy.html"
+  to = "/informacoes/pet-shop-torres-tibagy-guarulhos"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/informacoes/acessorios-para-pets-torres-tibagy"
+  to = "/informacoes/pet-shop-torres-tibagy-guarulhos"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/informacoes/acessorios-para-pets-torres-tibagy.html"
+  to = "/informacoes/pet-shop-torres-tibagy-guarulhos"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/informacoes/produtos-para-pets-cabucu"
+  to = "/informacoes/pet-shop-cabucu-guarulhos"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/informacoes/produtos-para-pets-cabucu.html"
+  to = "/informacoes/pet-shop-cabucu-guarulhos"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/informacoes/acessorios-para-pets-cabucu"
+  to = "/informacoes/pet-shop-cabucu-guarulhos"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/informacoes/acessorios-para-pets-cabucu.html"
+  to = "/informacoes/pet-shop-cabucu-guarulhos"
+  status = 301
+  force = true
+
 # Página de erro 404 (crie /404.html quando tiver conteúdo definido)
 [[redirects]]
   from = "/*"

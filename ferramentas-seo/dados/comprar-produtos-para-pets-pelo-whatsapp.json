@@ -1,0 +1,99 @@
+{
+ "slug": "comprar-produtos-para-pets-pelo-whatsapp",
+ "keyword": "comprar produtos para pets pelo WhatsApp",
+ "numero": 24,
+ "cluster": "nao_regionalizadas_fase_1",
+ "source": "site",
+ "title": "Comprar Produtos para Pets pelo WhatsApp | Pet Shop Palmira",
+ "description": "Comprar produtos para pets pelo WhatsApp (11) 97460-5359 no Pet Shop Palmira: ração, medicamentos e acessórios. Atendimento de pessoas, não de robô.",
+ "ogDescription": "Comprar produtos para pets pelo WhatsApp (11) 97460-5359 no Pet Shop Palmira: ração, medicamentos e acessórios. Atendimento de pessoas, não de robô.",
+ "faq": [
+  {
+   "q": "Qual o horário de atendimento no WhatsApp?",
+   "a": "Segunda a sábado, das 9h às 18h. Mensagens fora desse horário são respondidas no próximo dia útil."
+  },
+  {
+   "q": "Posso mandar a receita do veterinário pelo WhatsApp?",
+   "a": "Pode. Mande uma foto legível para a gente separar o medicamento certo."
+  },
+  {
+   "q": "Em quanto tempo chega o pedido?",
+   "a": "Depende do dia e do bairro. O horário da entrega é combinado na ligação."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/loja2.jpg",
+   "alt": "Variedade completa em produtos para cães e gatos no Pet Shop Palmira",
+   "caption": "Sortimento Completo em Produtos Pet",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/shampoo.webp",
+   "alt": "Shampoos hipoalergênicos e sabonetes dermatológicos",
+   "caption": "Shampoos e Higiene Especializada",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/brinquedos.webp",
+   "alt": "Brinquedos mordedores resistentes e cordas para recreação",
+   "caption": "Brinquedos Duráveis e Mordedores",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/capstar.webp",
+   "alt": "Farmácia veterinária preventiva, antipulgas e vermífugos",
+   "caption": "Farmácia e Proteção Antipulgas",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Atendimento no WhatsApp",
+ "h1": "Comprar produtos para pets pelo <span class=\"acc\">WhatsApp</span>",
+ "intro": [
+  "Do outro lado do nosso WhatsApp tem gente, não robô. Você manda a dúvida, recebe foto do produto e o valor, e decide com calma.",
+  "O número é (11) 97460-5359. Atendemos de segunda a sábado, das 9h às 18h."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "O que dá para resolver por mensagem"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Consultar se a ração está no estoque e o preço.",
+    "Enviar a foto da receita do veterinário.",
+    "Pedir foto de coleira, caminha ou caixa de transporte.",
+    "Tirar dúvida sobre tamanho e marca."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Passo a passo"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Mande o nome do produto, o peso ou uma foto.",
+    "A equipe confirma o estoque e o valor.",
+    "Você escolhe: retirar na loja ou combinar a entrega por ligação.",
+    "Paga com Pix, cartão ou dinheiro."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Uma dica para agilizar"
+  },
+  {
+   "type": "p",
+   "html": "Mande tudo numa mensagem só: produto, quantidade e seu bairro. A resposta sai mais rápida."
+  }
+ ],
+ "humanizado": true
+}

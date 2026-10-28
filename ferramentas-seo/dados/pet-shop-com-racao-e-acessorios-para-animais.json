@@ -1,0 +1,85 @@
+{
+ "slug": "pet-shop-com-racao-e-acessorios-para-animais",
+ "keyword": "pet shop com ração e acessórios para animais",
+ "numero": 21,
+ "cluster": "nao_regionalizadas_fase_1",
+ "source": "site",
+ "title": "Pet Shop com Ração e Acessórios para Animais | Pet Shop Palmira",
+ "description": "Pet shop com ração e acessórios para animais no Jardim Palmira: rações das principais marcas, caminhas, casinhas, caixas de transporte e coleiras.",
+ "ogDescription": "Pet shop com ração e acessórios para animais no Jardim Palmira: rações das principais marcas, caminhas, casinhas, caixas de transporte e coleiras.",
+ "faq": [
+  {
+   "q": "Como escolho o tamanho da caixa de transporte?",
+   "a": "O pet precisa ficar em pé e dar uma volta lá dentro. Mande o peso e a raça pelo WhatsApp que a gente indica."
+  },
+  {
+   "q": "A capa das caminhas sai para lavar?",
+   "a": "Depende do modelo. Pergunte pelo WhatsApp quais estão disponíveis com capa removível."
+  },
+  {
+   "q": "Posso pedir caminha e ração na mesma entrega?",
+   "a": "Pode. A entrega é combinada por ligação antes, pelo (11) 2451-1719."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/transportesecasinhas.jpg",
+   "alt": "Casinhas térmicas plásticas e caixas de transporte resistentes",
+   "caption": "Casinhas Térmicas e Caixas de Transporte",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/colchoes.webp",
+   "alt": "Caminhas confortáveis e almofadões laváveis com zíper",
+   "caption": "Caminhas Confortáveis e Fáceis de Lavar",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/coleira.webp",
+   "alt": "Peitorais ergonômicos antipuxão e guias reforçadas com amortecedor",
+   "caption": "Guias e Peitorais Antipuxão para Passeios",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/transporte.webp",
+   "alt": "Caixas de transporte homologadas para viagens veiculares e aéreas",
+   "caption": "Caixas Homologadas para Carro e Viagens",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Ração e acessórios",
+ "h1": "Pet shop com <span class=\"acc\">ração e acessórios</span> para animais",
+ "intro": [
+  "A ração que o seu pet come todo dia e a caminha onde ele dorme estão no mesmo lugar. Aqui no Pet Shop Palmira você compra os dois e tira dúvida sobre tamanho antes de levar."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "O que você encontra"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Rações Premier, Golden, Special Dog, Pedigree, Whiskas e outras marcas.",
+    "Caminhas e colchões com capa lavável.",
+    "Casinhas e caixas de transporte.",
+    "Coleiras, guias, peitorais e roupinhas."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Comprar perto de casa"
+  },
+  {
+   "type": "p",
+   "html": "A loja fica na Av. Pedro de Souza Lopes, 33B. Você vê o produto, prova o peitoral no cachorro e leva na hora. Se preferir, pede pelo WhatsApp e combina a entrega por ligação."
+  }
+ ],
+ "humanizado": true
+}

@@ -1,0 +1,117 @@
+{
+ "slug": "veterinario-torres-tibagy",
+ "keyword": "veterinário Torres Tibagy",
+ "slides": [],
+ "title": "Veterinário Perto do Torres Tibagy, Guarulhos | Pink Vet parceira",
+ "description": "Veterinário a 2,9 km do Torres Tibagy: Pink Vet, na Av. Pedro de Souza Lopes, 33. Vermífugo e antipulgas: por que a rotina é com a veterinária.",
+ "ogDescription": "Veterinário a 2,9 km do Torres Tibagy: Pink Vet, na Av. Pedro de Souza Lopes, 33. Vermífugo e antipulgas: por que a rotina é com a veterinária.",
+ "badge": "Prevenção em dia",
+ "h1": "Veterinário perto do <span class=\"acc\">Torres Tibagy</span>",
+ "intro": [
+  "Vermífugo de seis em seis meses, antipulgas todo mês. Muita gente segue uma regra que ouviu de alguém, sem saber se ela serve para o seu animal. A frequência certa depende da idade, do peso, do estilo de vida e da região.",
+  "Quem define isso é a veterinária. Para quem mora no Torres Tibagy, indicamos a Pink Vet Consultório Veterinário, nossa parceira, a 2,9 km, na Av. Pedro de Souza Lopes, 33, no Jardim Palmira."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "A loja vende, a veterinária orienta"
+  },
+  {
+   "type": "p",
+   "html": "A nossa loja não é clínica. A gente vende antipulgas, vermífugos e remédios com receita. A Pink Vet faz consulta, vacinas e check-up, e orienta qual produto usar e com que frequência."
+  },
+  {
+   "type": "p",
+   "html": "Horário da Pink Vet: segunda a sexta, das 9h às 17h, e sábado, das 9h às 16h. Nota 5,0 no Google. Agende pelo WhatsApp (11) 93317-1589, no botão desta página."
+  },
+  {
+   "type": "h2",
+   "text": "Por que não seguir uma regra só"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Perfil",
+    "O que pode mudar"
+   ],
+   "rows": [
+    [
+     "Filhote",
+     "Vermífugo mais frequente nos primeiros meses"
+    ],
+    [
+     "Cão que vai a parque",
+     "Mais contato com pulga, carrapato e verme"
+    ],
+    [
+     "Gato de apartamento",
+     "Risco menor, mas não zero"
+    ],
+    [
+     "Casa com criança",
+     "Mais atenção ao vermífugo, porque alguns vermes passam para pessoas"
+    ],
+    [
+     "Animal idoso ou doente",
+     "Produto e dose escolhidos com mais cuidado"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Peso certo, dose certa"
+  },
+  {
+   "type": "p",
+   "html": "Antipulgas e vermífugo vêm em faixas de peso. Produto para cão de 10 kg em um cão de 30 kg não protege. Produto de cão grande em cão pequeno pode intoxicar. Pese o animal antes de comprar e confira a faixa na embalagem."
+  },
+  {
+   "type": "h2",
+   "text": "Cuidado com gato"
+  },
+  {
+   "type": "p",
+   "html": "Alguns antipulgas de cachorro são tóxicos para gatos. Nunca use produto de cão no gato, nem um pedaço de pipeta."
+  },
+  {
+   "type": "h2",
+   "text": "Na consulta"
+  },
+  {
+   "type": "p",
+   "html": "Pergunte:"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Qual vermífugo e de quanto em quanto tempo.",
+    "Qual antipulgas e carrapaticida para a rotina dele.",
+    "Se precisa tratar os outros animais da casa.",
+    "Quando é o próximo reforço de vacina."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Na loja"
+  },
+  {
+   "type": "p",
+   "html": "Com a orientação em mãos, você encontra Frontline Plus, Capstar, vermífugos e outros produtos na farmácia da loja, no número 33B da mesma avenida, conforme o estoque."
+  }
+ ],
+ "faq": [
+  {
+   "q": "O Pet Shop Palmira aplica vermífugo?",
+   "a": "Não. A loja não é clínica. Vendemos o produto e indicamos a Pink Vet para orientar."
+  },
+  {
+   "q": "Posso dividir a pipeta de antipulgas entre dois animais?",
+   "a": "Não é recomendado. Use o produto da faixa de peso de cada animal."
+  },
+  {
+   "q": "Qual o horário da Pink Vet?",
+   "a": "Segunda a sexta, das 9h às 17h, e sábado, das 9h às 16h."
+  }
+ ],
+ "humanizado": true
+}

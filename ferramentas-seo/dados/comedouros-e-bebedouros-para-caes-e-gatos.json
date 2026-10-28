@@ -1,0 +1,85 @@
+{
+ "slug": "comedouros-e-bebedouros-para-caes-e-gatos",
+ "keyword": "comedouros e bebedouros para cães e gatos",
+ "numero": 44,
+ "cluster": "nao_regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Comedouros e Bebedouros para Cães e Gatos | Pet Shop Palmira",
+ "description": "Comedouros e bebedouros para cães e gatos em Guarulhos. Inox ou plástico, comedouro lento e fonte para gatos. Dicas de limpeza.",
+ "ogDescription": "Comedouros e bebedouros para cães e gatos em Guarulhos. Inox ou plástico, comedouro lento e fonte para gatos. Dicas de limpeza.",
+ "faq": [
+  {
+   "q": "Por que gato prefere fonte de água?",
+   "a": "Muitos gatos bebem mais quando a água está em movimento."
+  },
+  {
+   "q": "Comedouro lento ajuda mesmo?",
+   "a": "Ajuda o cão que come muito rápido a comer mais devagar e engolir menos ar."
+  },
+  {
+   "q": "Inox ou plástico?",
+   "a": "Inox é mais fácil de manter limpo e dura mais."
+  },
+  {
+   "q": "Vocês têm refil para fonte de água?",
+   "a": "Consulte pelo WhatsApp com o modelo da sua fonte."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/images/organico/pouring-pet-food-into-bowl.jpg",
+   "alt": "Comedouros adequados para porcionamento e digestão saudável",
+   "caption": "Porcionamento adequado e alimentação balanceada",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/saches.webp",
+   "alt": "Alimentos úmidos servidos em tigelas higiênicas",
+   "caption": "Compatível com ração seca e alimentos úmidos sachês",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/pate.webp",
+   "alt": "Nutrição e hidratação saudável com recipientes de fácil higienização",
+   "caption": "Materiais nobres de fácil limpeza e alta durabilidade",
+   "ok": true
+  }
+ ],
+ "badge": "Hora de comer",
+ "h1": "Comedouros e bebedouros para <span class=\"acc\">cães e gatos</span>",
+ "intro": [
+  "Parece detalhe, mas o pote certo muda a hora da refeição. O cachorro ansioso come mais devagar, o gato bebe mais água e a limpeza fica mais fácil."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Inox, plástico ou cerâmica"
+  },
+  {
+   "type": "p",
+   "html": "Inox é fácil de limpar e dura muito. Cerâmica é pesada e não vira. O plástico é mais barato, mas risca e acumula sujeira com o tempo."
+  },
+  {
+   "type": "h2",
+   "text": "Para cada caso"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Cão que come rápido demais: comedouro lento, com relevos que fazem ele comer devagar.",
+    "Gato: pote largo e raso, para os bigodes não encostarem na borda.",
+    "Gato que bebe pouco: fonte de água, porque muitos gatos preferem água corrente.",
+    "Cão idoso ou grande: comedouro mais alto."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Limpeza"
+  },
+  {
+   "type": "p",
+   "html": "Lave o pote de comida todo dia e o de água pelo menos uma vez por dia. Fonte de água precisa de limpeza e troca de filtro com regularidade."
+  }
+ ],
+ "humanizado": true
+}

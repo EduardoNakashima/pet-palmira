@@ -1,0 +1,98 @@
+{
+ "slug": "racao-para-gatos-castrados-e-controle-de-bolas-de-pelo",
+ "keyword": "ração para gatos castrados e controle de bolas de pelo",
+ "numero": 29,
+ "cluster": "nao_regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Ração para Gatos Castrados e Bolas de Pelo | Pet Shop Palmira",
+ "description": "Ração para gatos castrados e controle de bolas de pelo em Guarulhos. Golden Gatos Castrados e outras linhas no Pet Shop Palmira, Jardim Palmira.",
+ "ogDescription": "Ração para gatos castrados e controle de bolas de pelo em Guarulhos. Golden Gatos Castrados e outras linhas no Pet Shop Palmira, Jardim Palmira.",
+ "faq": [
+  {
+   "q": "Como a ração para castrados evita o ganho de peso?",
+   "a": "Ela tem menos calorias por porção e costuma ter mais fibras, que dão saciedade."
+  },
+  {
+   "q": "A ração ajuda mesmo com bolas de pelo?",
+   "a": "Ajuda, com as fibras. A escovação regular também faz bastante diferença."
+  },
+  {
+   "q": "O gato castrado precisa dessa ração a vida toda?",
+   "a": "Na maioria dos casos, sim, na fase adulta. Na velhice o veterinário pode indicar outra linha."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/images/produtos/goldencat.webp",
+   "alt": "Ração Golden Gatos Castrados frango com controle de bolas de pelo",
+   "caption": "Golden Gatos Castrados: Fibras Naturais Hairball",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/saches.webp",
+   "alt": "Sachês úmidos para gatos castrados que auxiliam na hidratação diária",
+   "caption": "Sachês Úmidos: Hidratação contra Cálculos",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/catchow.webp",
+   "alt": "Ração Cat Chow Castrados com controle de calorias e minerais balanceados",
+   "caption": "Cat Chow Castrados: Peso Saudável e Energia",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/pouring-pet-food-into-bowl.jpg",
+   "alt": "Grãos crocantes servidos na tigela que facilitam o trânsito intestinal dos pelos",
+   "caption": "Eliminação Natural e Suave dos Pelos nas Fezes",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Gato castrado",
+ "h1": "Ração para gatos castrados e controle de <span class=\"acc\">bolas de pelo</span>",
+ "intro": [
+  "Depois da castração, o gato gasta menos energia e costuma ficar com mais fome. Se a ração e a quantidade não mudam, ele engorda.",
+  "A ração para castrados tem menos caloria. Muitas também têm fibras que ajudam a eliminar os pelos engolidos na lambeção."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Por que o castrado precisa de outra ração"
+  },
+  {
+   "type": "p",
+   "html": "Gato acima do peso tem mais risco de diabetes e problema nas articulações. A ração para castrados ajuda a manter o peso, mas a porção certa continua sendo o mais importante."
+  },
+  {
+   "type": "h2",
+   "text": "Bolas de pelo"
+  },
+  {
+   "type": "p",
+   "html": "Gato se lambe muitas vezes ao dia e engole pelo. Em gato de pelo longo, isso vira bola com mais facilidade. As fibras da ração ajudam o pelo a sair pelas fezes."
+  },
+  {
+   "type": "p",
+   "html": "Se o gato vomita bolas de pelo com frequência, tenta vomitar sem conseguir ou para de comer, procure o veterinário."
+  },
+  {
+   "type": "h2",
+   "text": "O que mais ajuda"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Escovar o gato algumas vezes por semana.",
+    "Oferecer água fresca em mais de um lugar da casa.",
+    "Brincar todo dia, para ele se mexer.",
+    "Pesar o gato de vez em quando."
+   ]
+  }
+ ],
+ "humanizado": true
+}

@@ -1,0 +1,177 @@
+@@ pet-shop-picanco-guarulhos
+title: Pet Shop Perto do Picanço, Guarulhos | Pet Shop Palmira
+desc: Pet shop a 2,3 km do Picanço, Guarulhos: banho e tosa para cães com tosa na máquina, ração, farmácia veterinária e acessórios.
+badge: Banho e tosa
+h1: Pet shop perto do [Picanço]
+Do Picanço até o Pet Shop Palmira são 2,3 km em linha reta. Muita gente do bairro vem pela ração e acaba conhecendo o banho e tosa, que fazemos há anos para os cães da região.
+Esta página explica como ele funciona, para você chegar sabendo.
+## Como funciona o banho e tosa
+1. Marque pelo WhatsApp (11) 97460-5359. Diga o porte, a raça e se quer banho ou banho e tosa.
+2. Traga o cachorro no horário combinado. Não temos táxi dog.
+3. A gente avisa quando ele estiver pronto.
+4. Você busca na loja, na Av. Pedro de Souza Lopes, 33B.
+Atendemos só cães. Gato, não.
+## A tosa
+A tosa é feita na máquina. Ela deixa o pelo curto e uniforme, bom para o calor e para cão que suja muito. Se você quer um corte de tesoura específico de raça, conte antes, para a gente dizer se dá para fazer.
+## Antes de trazer
+- Passeie antes, para ele chegar com a bexiga vazia.
+- Conte se ele tem medo de secador, se morde quando mexem na pata ou se é idoso.
+- Avise sobre ferida, caroço ou problema de pele.
+- Se ele tem pulga, avise. O banho tira parte delas, mas o antipulgas é que resolve.
+## De quanto em quanto tempo
+Depende do pelo e da vida do cachorro. Cão de pelo curto que fica dentro de casa pode ir a cada três ou quatro semanas. Cão de quintal ou de pelo longo, às vezes antes. Banho demais resseca a pele.
+## O que mais tem na loja
+* Ração | Cães, gatos, pássaros, roedores e criação.
+* Farmácia | Antipulgas, vermífugos e remédios com receita.
+* Higiene | Shampoo, colônia e tapete higiênico.
+* Acessórios | Caminhas, coleiras e caixas de transporte.
+## Horário e pagamento
+Segunda a sábado, das 9h às 18h. Pix, débito, crédito ou dinheiro, sem taxa extra no cartão. Entrega de produtos no Picanço combinada por ligação antes.
+## Veterinária
+A loja não é clínica. Para consulta, vacinas e check-up, indicamos a Pink Vet, na mesma avenida, no número 33.
+? Vocês buscam o cachorro em casa?
+= Não. Não temos táxi dog. Você traz e busca o cão na loja.
+? Vocês dão banho em gato?
+= Não. O banho e tosa é só para cães.
+? Entregam produtos no Picanço?
+= Entregamos, combinando o local por ligação antes.
+
+@@ casa-de-racao-picanco
+title: Casa de Ração Perto do Picanço, Guarulhos | Pet Shop Palmira
+desc: Casa de ração a 2,3 km do Picanço: ração para cavalos e equinos, além de ração para cães, gatos, pássaros e criação. Entrega combinada.
+badge: Ração para cavalos
+h1: Casa de ração perto do [Picanço]
+Nem todo mundo lembra, mas Guarulhos ainda tem cavalo. Em chácara, em sítio da região, em quem trabalha com carroça ou só gosta do bicho. E cavalo come muito.
+O Pet Shop Palmira fica a 2,3 km do Picanço e é casa de ração para cavalo também, além de cães, gatos e outros animais.
+## Como o cavalo se alimenta
+O cavalo foi feito para comer capim quase o dia inteiro. A base da dieta é volumoso: pasto, capim ou feno. A ração entra como complemento, para dar energia e nutrientes que o volumoso sozinho não dá, principalmente em cavalo que trabalha.
+## Quanto de ração
+Depende do peso, da idade e do trabalho do animal. Um cavalo parado precisa de pouca ração. Um que trabalha todo dia precisa de mais. Divida a ração do dia em duas ou mais porções. Muita ração de uma vez faz mal ao intestino do cavalo, que é sensível.
+## Cuidados que evitam cólica
+- Troca de ração sempre aos poucos, ao longo de uma a duas semanas.
+- Água limpa à vontade.
+- Volumoso disponível, nunca só ração.
+- Ração guardada seca. Mofo é perigoso para cavalo.
+- Não dê ração logo antes ou logo depois de trabalho pesado.
+Cólica em cavalo é emergência. Se ele deitar e rolar, olhar para a barriga ou parar de comer, chame um veterinário de grandes animais na hora.
+## Guardar ração de cavalo
+Saco grande, em lugar seco, fora do chão, longe de rato. Tambor com tampa é uma boa saída para quem tem pouco espaço.
+## Outros animais
+Também temos ração para porco, galinha, pássaros, roedores, cães e gatos. Para cães, Golden, Premier, Special Dog e outras. Para gatos, Golden Gatos, CatChow e Whiskas, conforme o estoque.
+## Pedido e entrega
+Para ração de cavalo, confirme o estoque antes pelo WhatsApp (11) 97460-5359. A entrega no Picanço é combinada por ligação. Loja aberta de segunda a sábado, das 9h às 18h. Pix, débito, crédito ou dinheiro, sem taxa extra no cartão.
+? Cavalo pode comer só ração?
+= Não. A base é capim ou feno. A ração complementa.
+? Vocês têm ração para cavalo sempre?
+= Temos, mas o estoque varia. Confirme pelo WhatsApp antes de vir.
+? Entregam no Picanço?
+= Entregamos, combinando o local por ligação antes.
+
+@@ racao-para-cachorro-picanco
+title: Ração para Cachorro no Picanço, Guarulhos | Pet Shop Palmira
+desc: Ração para cachorro que come rápido demais no Picanço: riscos de engolir sem mastigar, comedouro lento e como dividir a porção. A 2,3 km.
+badge: Cão que come rápido
+h1: Ração para cachorro no [Picanço]
+Você coloca a ração no pote e, em menos de um minuto, acabou. O cachorro mal mastiga. Alguns vomitam logo depois. Outros ficam com a barriga estufada.
+Comer rápido demais é comum, principalmente em casa com mais de um cão. O Pet Shop Palmira fica a 2,3 km do Picanço e tem algumas soluções simples.
+## Por que ele come assim
+Competição é a causa mais comum. Cachorro que divide a casa com outro come como se alguém fosse roubar a comida. Filhote que disputou ração com os irmãos também. E alguns são assim mesmo, de nascença.
+## Os riscos
+- Engolir ar, o que dá gases e desconforto.
+- Vomitar a ração inteira logo depois.
+- Engasgar com grão grande.
+- Em cães grandes de peito fundo, mais risco de torção gástrica, que é emergência.
+## O que ajuda
+1. Comedouro lento, com divisórias que obrigam o cão a comer devagar.
+2. Dividir a porção do dia em três refeições menores.
+3. Alimentar cada cão em um canto, longe dos outros.
+4. Espalhar a ração em um tapete de farejar ou em brinquedo dispenser.
+5. Grão do tamanho certo para o porte. Grão grande demais é engolido inteiro.
+## A ração certa
+Ração de porte pequeno para cão grande piora o problema, porque ele engole vários grãos de uma vez. Use a linha do porte do seu cachorro. Temos Golden, Premier, Special Dog, Pedigree, Magnus, Premiatta, Max e Royal Canin, conforme o estoque.
+## Depois de comer
+Evite brincadeira forte e passeio longo logo após a refeição, especialmente em cachorro grande. Deixe ele descansar.
+## Quando procurar veterinário
+Barriga dura e inchada, tentativa de vomitar sem sair nada, inquietação e salivação depois de comer podem ser torção gástrica. Leve na hora. Indicamos a Pink Vet, na Av. Pedro de Souza Lopes, 33, e fora do horário dela um hospital veterinário 24 horas.
+## Compra e entrega
+Loja aberta de segunda a sábado, das 9h às 18h. Comedouros e brinquedos dispenser também temos, conforme o estoque. Entrega no Picanço combinada por ligação antes, pelo WhatsApp (11) 97460-5359.
+? Comedouro lento funciona?
+= Para a maioria dos cães, sim. Ele obriga o cachorro a comer devagar.
+? Posso molhar a ração para ele comer mais devagar?
+= Não costuma resolver. Comedouro lento e porções menores funcionam melhor.
+? Entregam no Picanço?
+= Entregamos, combinando o local por ligação antes.
+
+@@ racao-para-gato-picanco
+title: Ração para Gato no Picanço, Guarulhos | Pet Shop Palmira
+desc: Gato que vomita logo depois de comer no Picanço: quando é pressa, quando é bola de pelo e quando é caso de veterinário. Rações e sachês.
+badge: Gato que vomita
+h1: Ração para gato no [Picanço]
+O gato come, dá alguns passos e vomita a ração quase inteira, ainda com formato de grão. Quem tem gato já viu. Na maioria das vezes, o problema é pressa.
+O Pet Shop Palmira fica a 2,3 km do Picanço e ajuda a entender o que está acontecendo.
+## Comer rápido demais
+Gato com muita fome, ou que divide a comida com outros gatos, come depressa. O estômago enche rápido demais e devolve. A ração sai inteira, sem cheiro de digerida, poucos minutos depois.
+- Divida a porção do dia em três ou quatro refeições pequenas.
+- Use comedouro lento ou espalhe os grãos em um prato largo.
+- Alimente cada gato em um canto, longe dos outros.
+- Não deixe o gato ficar muitas horas sem comer. Fome demais traz pressa.
+## Bola de pelo
+Se o vômito vem com pelo ou em forma de rolinho, é bola de pelo. Escovação frequente e ração para controle de bolas de pelo ajudam. Temos opções da Golden Gatos, CatChow, Whiskas e Royal Canin, conforme o estoque.
+## Troca de ração
+Mudança brusca de ração também pode dar vômito. Faça a troca em uns dez dias, misturando aos poucos.
+## Quando é caso de veterinário
+| Sinal | O que fazer |
+| Vômito de vez em quando, gato bem | Observar e ajustar porção |
+| Vômito várias vezes na semana | Marcar consulta |
+| Vômito com sangue ou muitas vezes no dia | Atendimento no mesmo dia |
+| Gato sem comer, escondido, abatido | Atendimento no mesmo dia |
+Para consulta, indicamos a Pink Vet, nossa parceira, na Av. Pedro de Souza Lopes, 33.
+## Sachê ajuda?
+Alimento úmido costuma ser comido com mais calma e coloca água na dieta. Um sachê por dia, reduzindo um pouco a ração seca, é uma boa ideia para muitos gatos.
+## Compra e entrega
+Loja aberta de segunda a sábado, das 9h às 18h, na Av. Pedro de Souza Lopes, 33B. Pedido pelo WhatsApp (11) 97460-5359. Entrega no Picanço combinada por ligação antes.
+? É normal o gato vomitar depois de comer?
+= De vez em quando pode acontecer, quase sempre por pressa. Se for frequente, procure a veterinária.
+? Comedouro lento funciona para gato?
+= Funciona para muitos gatos, assim como dividir a comida em porções menores.
+? Entregam no Picanço?
+= Entregamos, combinando o local por ligação antes.
+
+@@ veterinario-picanco
+title: Veterinário Perto do Picanço, Guarulhos | Pink Vet parceira
+desc: Veterinário a 2,3 km do Picanço: Pink Vet, na Av. Pedro de Souza Lopes, 33. Vômito e diarreia no cão e no gato: quando ir à consulta.
+badge: Vômito e diarreia
+h1: Veterinário perto do [Picanço]
+Vômito e diarreia estão entre os motivos mais comuns de ida ao veterinário. Às vezes passam sozinhos em um dia. Às vezes são sinal de algo sério. Saber a diferença ajuda a agir na hora certa.
+O Pet Shop Palmira não é clínica veterinária. Para consulta, vacinas e check-up, indicamos a Pink Vet Consultório Veterinário, nossa parceira, a 2,3 km do Picanço.
+## Pink Vet
+* Endereço | Av. Pedro de Souza Lopes, 33, Jardim Palmira, na mesma avenida da nossa loja.
+* Atendimento | Consulta, vacinas e check-up.
+* Horário | Segunda a sexta, das 9h às 17h. Sábado, das 9h às 16h.
+* Contato | WhatsApp (11) 93317-1589. Nota 5,0 no Google.
+## Pode esperar e observar
+- Um vômito isolado, com o animal animado depois.
+- Fezes um pouco moles por um dia, depois de comer algo diferente.
+- Animal comendo, bebendo água e brincando normalmente.
+Mesmo assim, fique de olho. Se repetir, marque consulta.
+## Precisa de consulta logo
+1. Vômito ou diarreia por mais de um dia.
+2. Animal que não come ou não bebe água.
+3. Filhote, idoso ou animal com doença conhecida. Eles desidratam mais rápido.
+4. Diarreia com sangue ou fezes muito escuras.
+5. Vômito com sangue.
+6. Barriga inchada e dolorida.
+7. Suspeita de que comeu veneno, osso, brinquedo ou remédio.
+Fora do horário da Pink Vet, procure um hospital veterinário 24 horas nesses casos.
+## O que não fazer em casa
+Não dê remédio de gente. Vários medicamentos comuns são tóxicos para cães e gatos. Não deixe o animal sem água. E não insista em comida enquanto ele estiver vomitando, sem orientação.
+## O que levar à consulta
+Conte quando começou, quantas vezes aconteceu, o que ele comeu nos últimos dias e se teve acesso a lixo, planta ou produto de limpeza. Uma foto do vômito ou das fezes ajuda a veterinária.
+## Depois
+Se a veterinária indicar ração específica ou remédio, você encontra na farmácia da loja, no número 33B, conforme o estoque.
+? O Pet Shop Palmira faz consulta?
+= Não. A loja não é clínica. Indicamos a Pink Vet.
+? Posso dar remédio de gente para diarreia?
+= Não. Muitos remédios humanos são perigosos para animais. Fale com a veterinária.
+? Como marco na Pink Vet?
+= Pelo WhatsApp (11) 93317-1589, no botão desta página.

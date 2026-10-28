@@ -1,0 +1,93 @@
+{
+ "slug": "racao-e-produtos-para-cavalos-e-equinos",
+ "keyword": "ração e produtos para cavalos e equinos",
+ "numero": 46,
+ "cluster": "nao_regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Ração e Produtos para Cavalos e Equinos | Pet Shop Palmira",
+ "description": "Ração e produtos para cavalos e equinos em Guarulhos: Top Horse, sal mineral e alfafa. Pet Shop Palmira, Jardim Palmira.",
+ "ogDescription": "Ração e produtos para cavalos e equinos em Guarulhos: Top Horse, sal mineral e alfafa. Pet Shop Palmira, Jardim Palmira.",
+ "faq": [
+  {
+   "q": "Quanto de volumoso e de ração dar ao cavalo?",
+   "a": "Depende do peso e da atividade. O volumoso é a maior parte da dieta. Para a quantidade exata, consulte o veterinário ou zootecnista."
+  },
+  {
+   "q": "De quanto em quanto tempo vermifugar?",
+   "a": "O veterinário define o intervalo conforme a idade e o manejo."
+  },
+  {
+   "q": "Vocês entregam ração em sítio ou chácara?",
+   "a": "Dentro da nossa área, sim, combinando o local por ligação antes."
+  },
+  {
+   "q": "Vocês têm suplemento para casco?",
+   "a": "Consulte pelo WhatsApp. Se não tivermos, verificamos a encomenda."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/images/produtos/cavalo.webp",
+   "alt": "Ração balanceada para equinos e cavalos em Guarulhos",
+   "caption": "Rações para manutenção, reprodução e cavalos atletas",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/vacas.webp",
+   "alt": "Linha completa para animais de criação e fazenda",
+   "caption": "Suplementos minerais e nutrição agropecuária completa",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/antiparasitario.webp",
+   "alt": "Vermífugos em pasta e antiparasitários para equinos",
+   "caption": "Farmácia veterinária completa para equinos e animais de grande porte",
+   "ok": true
+  }
+ ],
+ "badge": "Equinos",
+ "h1": "Ração e produtos para <span class=\"acc\">cavalos e equinos</span>",
+ "intro": [
+  "Quem tem cavalo em chácara ou sítio por perto do Jardim Palmira não precisa ir longe para comprar ração. A gente trabalha com produtos para equinos e animais de pasto."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "A base da alimentação do cavalo"
+  },
+  {
+   "type": "p",
+   "html": "O que sustenta o cavalo é o volumoso: pasto, feno ou alfafa. A ração concentrada complementa, conforme o trabalho que o animal faz."
+  },
+  {
+   "type": "p",
+   "html": "Cavalo de lazer, que trabalha pouco, precisa de menos ração do que um cavalo de lida."
+  },
+  {
+   "type": "h2",
+   "text": "O que você encontra"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Top Horse, ração energética para cavalos de passeio e trabalho.",
+    "Sal Lage Mineral, sal mineralizado para animais de pasto.",
+    "Alfafa.",
+    "Outros produtos sob encomenda."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Cuidados de rotina"
+  },
+  {
+   "type": "p",
+   "html": "Água limpa sempre disponível. Cascos limpos e aparados com regularidade. Vermifugação e vacinas no calendário que o veterinário definir."
+  },
+  {
+   "type": "p",
+   "html": "Mude a ração aos poucos. Troca brusca pode causar cólica, que em cavalo é emergência."
+  }
+ ],
+ "humanizado": true
+}
