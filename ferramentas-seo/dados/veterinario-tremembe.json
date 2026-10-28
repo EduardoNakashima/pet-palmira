@@ -1,5 +1,105 @@
 {
  "slug": "veterinario-tremembe",
  "keyword": "veterinário Tremembé",
- "slides": []
+ "slides": [],
+ "title": "Veterinário Perto do Tremembé, São Paulo | Pink Vet parceira",
+ "description": "Veterinário a cerca de 4,1 km do Tremembé: Pink Vet, na Av. Pedro de Souza Lopes, 33, Guarulhos. Vacinas do gato, inclusive de apartamento.",
+ "ogDescription": "Veterinário a cerca de 4,1 km do Tremembé: Pink Vet, na Av. Pedro de Souza Lopes, 33, Guarulhos. Vacinas do gato, inclusive de apartamento.",
+ "badge": "Vacinas do gato",
+ "h1": "Veterinário perto do <span class=\"acc\">Tremembé</span>",
+ "intro": [
+  "Gato que não sai de casa precisa de vacina? Essa é uma das perguntas que mais escutamos. A resposta é sim. O vírus pode entrar na roupa, no sapato, em outro animal ou numa fuga rápida pela janela.",
+  "Para vacinas, consulta e check-up, o Pet Shop Palmira indica a Pink Vet Consultório Veterinário, a cerca de 4,1 km do Tremembé, na Av. Pedro de Souza Lopes, 33, no Jardim Palmira, em Guarulhos."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Antes de tudo"
+  },
+  {
+   "type": "p",
+   "html": "A nossa loja não é clínica veterinária. A gente vende ração, produtos e remédios com receita. Vacina e consulta são com a Pink Vet, nossa parceira."
+  },
+  {
+   "type": "h2",
+   "text": "Pink Vet"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Consulta, vacinas e check-up.",
+    "Segunda a sexta, das 9h às 17h. Sábado, das 9h às 16h.",
+    "Nota 5,0 no Google.",
+    "WhatsApp (11) 93317-1589, no botão desta página. A mensagem já avisa que você veio pelo site do Pet Shop Palmira."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Como costuma ser a vacinação do gato"
+  },
+  {
+   "type": "p",
+   "html": "O filhote recebe uma sequência de doses nas primeiras semanas de vida, contra doenças virais comuns em gatos, e a vacina antirrábica. Depois, vêm os reforços, em geral anuais. Quais vacinas e quando é decisão da veterinária, de acordo com a idade, a saúde e o estilo de vida do gato."
+  },
+  {
+   "type": "h2",
+   "text": "Gato adulto sem histórico"
+  },
+  {
+   "type": "p",
+   "html": "Adotou um gato adulto e não sabe se ele foi vacinado? Conte isso na consulta. A veterinária orienta como começar."
+  },
+  {
+   "type": "h2",
+   "text": "Levando o gato até a clínica"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Caixa de transporte deixada aberta em casa dias antes, com uma manta.",
+    "Toalha cobrindo a caixa no trajeto.",
+    "Caixa presa no carro com o cinto.",
+    "Nunca no colo."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Depois da vacina"
+  },
+  {
+   "type": "p",
+   "html": "Alguns gatos ficam mais quietos ou sonolentos por um dia. Se houver inchaço no rosto, vômito, falta de ar ou muita apatia, procure a veterinária logo."
+  },
+  {
+   "type": "h2",
+   "text": "Carteirinha"
+  },
+  {
+   "type": "p",
+   "html": "Guarde a carteirinha e tire uma foto a cada dose. Coloque um lembrete no celular para o reforço."
+  },
+  {
+   "type": "h2",
+   "text": "Na loja"
+  },
+  {
+   "type": "p",
+   "html": "Caixas de transporte, ração para filhote, vermífugos e antipulgas próprios para gatos, conforme o estoque. Ficamos na mesma avenida da Pink Vet, no número 33B."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Gato de apartamento precisa de vacina?",
+   "a": "Precisa. A veterinária indica o calendário."
+  },
+  {
+   "q": "O Pet Shop Palmira aplica vacina?",
+   "a": "Não. A loja não é clínica. Indicamos a Pink Vet."
+  },
+  {
+   "q": "Qual o horário da Pink Vet?",
+   "a": "Segunda a sexta, das 9h às 17h, e sábado, das 9h às 16h."
+  }
+ ],
+ "humanizado": true
 }

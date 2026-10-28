@@ -1,5 +1,120 @@
 {
  "slug": "racao-para-cachorro-gopouva",
  "keyword": "ração para cachorro Gopoúva",
- "slides": []
+ "slides": [],
+ "title": "Ração para Cachorro no Gopoúva, Guarulhos | Pet Shop Palmira",
+ "description": "Comida caseira ou ração para o cachorro? Alimentos proibidos e cuidados com resto de comida. Para tutores do Gopoúva, a 4,1 km.",
+ "ogDescription": "Comida caseira ou ração para o cachorro? Alimentos proibidos e cuidados com resto de comida. Para tutores do Gopoúva, a 4,1 km.",
+ "badge": "Ração e comida caseira",
+ "h1": "Ração para cachorro no <span class=\"acc\">Gopoúva</span>",
+ "intro": [
+  "Arroz, feijão e carne. Muito cachorro do Gopoúva já comeu assim a vida toda, e muitos tutores perguntam se não é melhor do que ração. A resposta curta: comida caseira pode funcionar, mas só com receita de veterinária. Sem isso, quase sempre falta alguma coisa.",
+  "O Pet Shop Palmira fica a 4,1 km do bairro e conversa sobre isso no balcão."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "O que a ração completa resolve"
+  },
+  {
+   "type": "p",
+   "html": "Ração completa é balanceada para a espécie e a fase. Tem as vitaminas, os minerais e a proporção de nutrientes que o cachorro precisa. Comida de casa, feita no olho, costuma faltar cálcio, vitaminas e outros itens, e sobrar sal e gordura."
+  },
+  {
+   "type": "h2",
+   "text": "Comida caseira com orientação"
+  },
+  {
+   "type": "p",
+   "html": "Existe dieta caseira balanceada, montada por veterinária com formação em nutrição. Ela inclui a receita exata e os suplementos certos. Se esse é o seu desejo, vale procurar esse profissional."
+  },
+  {
+   "type": "h2",
+   "text": "Alimentos perigosos para cães"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Alimento",
+    "Por quê"
+   ],
+   "rows": [
+    [
+     "Chocolate",
+     "Tóxico, principalmente o amargo"
+    ],
+    [
+     "Uva e passas",
+     "Podem causar problema nos rins"
+    ],
+    [
+     "Cebola e alho",
+     "Prejudicam o sangue, até cozidos"
+    ],
+    [
+     "Osso cozido",
+     "Lasca e pode furar o intestino"
+    ],
+    [
+     "Xilitol",
+     "Adoçante presente em balas e alguns doces, muito tóxico"
+    ],
+    [
+     "Comida muito gordurosa",
+     "Pode causar pancreatite"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Se o cachorro comeu algum desses, procure atendimento logo."
+  },
+  {
+   "type": "h2",
+   "text": "Resto de comida"
+  },
+  {
+   "type": "p",
+   "html": "Um pouco de arroz ou carne sem tempero, de vez em quando, descontado da ração, não costuma fazer mal a cão saudável. O problema é virar rotina, porque o cachorro passa a recusar a ração e o equilíbrio se perde."
+  },
+  {
+   "type": "h2",
+   "text": "Ração com sabor de comida"
+  },
+  {
+   "type": "p",
+   "html": "Para quem quer agradar, uma colher de sachê ou patê misturada na ração é uma saída mais segura do que o resto do almoço. Temos sachês da Pedigree e de outras marcas, conforme o estoque."
+  },
+  {
+   "type": "h2",
+   "text": "Rações que temos"
+  },
+  {
+   "type": "p",
+   "html": "Golden, Premier, Special Dog, Pedigree, Magnus, Premiatta, Max e Royal Canin. Confirme o estoque pelo WhatsApp (11) 97460-5359."
+  },
+  {
+   "type": "h2",
+   "text": "Compra e entrega"
+  },
+  {
+   "type": "p",
+   "html": "Segunda a sábado, das 9h às 18h, na Av. Pedro de Souza Lopes, 33B. Entrega no Gopoúva combinada por ligação antes. Para dúvidas sobre dieta, indicamos a Pink Vet, no número 33."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Posso dar arroz e frango para o cachorro?",
+   "a": "De vez em quando, sem tempero e descontado da ração. Como dieta fixa, só com orientação de veterinária."
+  },
+  {
+   "q": "Meu cachorro comeu chocolate. O que faço?",
+   "a": "Procure atendimento veterinário logo. Diga o tipo e a quantidade."
+  },
+  {
+   "q": "Entregam no Gopoúva?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "humanizado": true
 }

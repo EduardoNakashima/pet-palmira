@@ -1,5 +1,129 @@
 {
  "slug": "casa-de-racao-gopouva",
  "keyword": "casa de ração Gopoúva",
- "slides": []
+ "slides": [],
+ "title": "Casa de Ração Perto do Gopoúva, Guarulhos | Pet Shop Palmira",
+ "description": "Casa de ração de bairro a 4,1 km do Gopoúva: atendimento de quem conhece ração, pedido pelo WhatsApp, entrega combinada e sem taxa no cartão.",
+ "ogDescription": "Casa de ração de bairro a 4,1 km do Gopoúva: atendimento de quem conhece ração, pedido pelo WhatsApp, entrega combinada e sem taxa no cartão.",
+ "badge": "Loja de bairro",
+ "h1": "Casa de ração perto do <span class=\"acc\">Gopoúva</span>",
+ "intro": [
+  "Hoje dá para comprar ração em muito lugar: supermercado, aplicativo, site. Mesmo assim, muita gente do Gopoúva continua vindo ao Pet Shop Palmira, a 4,1 km do bairro. Os motivos aparecem no balcão todos os dias."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Alguém para perguntar"
+  },
+  {
+   "type": "p",
+   "html": "O cachorro está com fezes moles depois que trocou de ração. O gato engordou depois da castração. A galinha parou de botar. Em loja de bairro, você pergunta e alguém que trabalha com ração há 25 anos responde. Quando a resposta é de saúde, a gente indica a veterinária."
+  },
+  {
+   "type": "h2",
+   "text": "Ração na hora"
+  },
+  {
+   "type": "p",
+   "html": "Acabou a ração? Passa na loja e leva. Sem esperar entrega de dias. Se preferir, a gente leva até você, combinando o local por ligação antes."
+  },
+  {
+   "type": "h2",
+   "text": "Todo tipo de bicho no mesmo lugar"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Para",
+    "O que temos, conforme o estoque"
+   ],
+   "rows": [
+    [
+     "Cães",
+     "Golden, Premier, Special Dog, Pedigree, Magnus, Premiatta, Max e Royal Canin"
+    ],
+    [
+     "Gatos",
+     "Golden Gatos, CatChow, Whiskas e Royal Canin"
+    ],
+    [
+     "Pássaros",
+     "Sementes e misturas"
+    ],
+    [
+     "Roedores",
+     "Ração e feno"
+    ],
+    [
+     "Criação",
+     "Galinha, porco e cavalo"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Pagamento sem surpresa"
+  },
+  {
+   "type": "p",
+   "html": "Pix, débito, crédito ou dinheiro, sem taxa extra no cartão. O preço que a gente passa no WhatsApp é o preço no balcão."
+  },
+  {
+   "type": "h2",
+   "text": "Como pedir"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Mande pelo WhatsApp (11) 97460-5359 o nome da ração, a linha e o tamanho do saco. Uma foto do saco vazio ajuda.",
+    "A gente confere o estoque e passa o valor.",
+    "Você escolhe: retirar na loja ou receber em casa.",
+    "Para entrega, a gente liga e combina local e horário."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Para comprar melhor"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Anote quando abriu o saco, para saber quanto ele dura.",
+    "Peça antes de acabar, com alguns dias de folga.",
+    "Lembre que a loja fecha domingo e feriado.",
+    "Pergunte sobre a diferença entre linhas da mesma marca. Às vezes uma linha acima rende mais."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Farmácia e acessórios"
+  },
+  {
+   "type": "p",
+   "html": "Antipulgas, vermífugos e remédios com receita. Caminhas, coleiras, comedouros e caixas de transporte. Banho e tosa só para cães."
+  },
+  {
+   "type": "h2",
+   "text": "Endereço"
+  },
+  {
+   "type": "p",
+   "html": "Av. Pedro de Souza Lopes, 33B, Jardim Palmira, Guarulhos. Segunda a sábado, das 9h às 18h."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Vocês entregam no Gopoúva?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  },
+  {
+   "q": "O preço no cartão é o mesmo?",
+   "a": "É. Não cobramos taxa extra no cartão."
+  },
+  {
+   "q": "Posso pedir pelo WhatsApp e buscar depois?",
+   "a": "Pode. A gente deixa separado."
+  }
+ ],
+ "humanizado": true
 }

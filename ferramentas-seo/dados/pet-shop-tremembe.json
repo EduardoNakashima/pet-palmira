@@ -1,5 +1,112 @@
 {
  "slug": "pet-shop-tremembe",
  "keyword": "pet shop Tremembé",
- "slides": []
+ "slides": [],
+ "title": "Pet Shop Perto do Tremembé, São Paulo | Pet Shop Palmira",
+ "description": "Pet shop a 4,1 km do Tremembé, zona norte de São Paulo: 25 anos de loja de bairro no Jardim Palmira, Guarulhos. Ração, farmácia e banho para cães.",
+ "ogDescription": "Pet shop a 4,1 km do Tremembé, zona norte de São Paulo: 25 anos de loja de bairro no Jardim Palmira, Guarulhos. Ração, farmácia e banho para cães.",
+ "badge": "25 anos de bairro",
+ "h1": "Pet shop perto do <span class=\"acc\">Tremembé</span>",
+ "intro": [
+  "O Tremembé fica na zona norte de São Paulo, a 4,1 km do Pet Shop Palmira em linha reta. É um pouco mais longe do que os bairros vizinhos da loja, mas está dentro do nosso raio de entrega, de cerca de 10 km.",
+  "Estamos na Av. Pedro de Souza Lopes, 33B, no Jardim Palmira, em Guarulhos, há 25 anos."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "O que 25 anos ensinam"
+  },
+  {
+   "type": "p",
+   "html": "Em 25 anos, a gente viu filhote virar cachorro idoso, criança virar tutora do próprio gato, marcas de ração surgirem e sumirem. Aprendemos que a maioria das dúvidas tem resposta simples, e que algumas só a veterinária pode responder. A gente sabe a diferença e fala com clareza."
+  },
+  {
+   "type": "h2",
+   "text": "O que você encontra"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Ração",
+     "text": "Golden, Premier, Special Dog, Pedigree, Magnus, Premiatta, Max, Royal Canin, Golden Gatos, CatChow e Whiskas, conforme o estoque."
+    },
+    {
+     "title": "Outros bichos",
+     "text": "Ração para pássaros, roedores, galinha, porco e cavalo."
+    },
+    {
+     "title": "Farmácia veterinária",
+     "text": "Antipulgas, vermífugos e remédios com receita."
+    },
+    {
+     "title": "Acessórios",
+     "text": "Caminhas, casinhas, coleiras, comedouros e caixas de transporte."
+    },
+    {
+     "title": "Banho e tosa",
+     "text": "Só para cães, com tosa na máquina."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Para quem vem do Tremembé"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Peça pelo WhatsApp (11) 97460-5359 e combine a entrega por ligação. Sem a ligação, o pedido não sai.",
+    "Ou mande a lista antes e passe para buscar. A gente deixa separado.",
+    "Se for trazer o cão para o banho, marque o horário antes. Você traz e busca, porque não temos táxi dog."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Pagamento"
+  },
+  {
+   "type": "p",
+   "html": "Pix, débito, crédito ou dinheiro, sem taxa extra no cartão. O preço é o mesmo para qualquer bairro."
+  },
+  {
+   "type": "h2",
+   "text": "Horário"
+  },
+  {
+   "type": "p",
+   "html": "Segunda a sábado, das 9h às 18h. Domingo e feriado fechado. Como São Paulo e Guarulhos têm alguns feriados diferentes, na dúvida mande mensagem antes de sair."
+  },
+  {
+   "type": "h2",
+   "text": "Perto da Cantareira"
+  },
+  {
+   "type": "p",
+   "html": "O Tremembé tem muita área verde, como o Cabuçu, do lado de Guarulhos. Para quem passeia com o cachorro no mato, antipulgas e carrapaticida em dia fazem diferença. Temos opções na farmácia da loja."
+  },
+  {
+   "type": "h2",
+   "text": "Veterinária"
+  },
+  {
+   "type": "p",
+   "html": "A loja não é clínica. Para consulta, vacinas e check-up, indicamos a Pink Vet, na mesma avenida, no número 33. Dá para passar na clínica e na loja na mesma ida."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Vocês entregam no Tremembé?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  },
+  {
+   "q": "A loja abre no domingo?",
+   "a": "Não. Abrimos de segunda a sábado, das 9h às 18h."
+  },
+  {
+   "q": "Vocês fazem banho em gato?",
+   "a": "Não. O banho e tosa é só para cães."
+  }
+ ],
+ "humanizado": true
 }

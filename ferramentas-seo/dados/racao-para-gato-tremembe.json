@@ -1,5 +1,112 @@
 {
  "slug": "racao-para-gato-tremembe",
  "keyword": "ração para gato Tremembé",
- "slides": []
+ "slides": [],
+ "title": "Ração para Gato Perto do Tremembé, São Paulo | Pet Shop Palmira",
+ "description": "Compra do mês para o gato: quanto de ração, sachê e areia por mês e como guardar. Para tutores do Tremembé, a 4,1 km. Entrega combinada.",
+ "ogDescription": "Compra do mês para o gato: quanto de ração, sachê e areia por mês e como guardar. Para tutores do Tremembé, a 4,1 km. Entrega combinada.",
+ "badge": "Estoque do gato",
+ "h1": "Ração para gato perto do <span class=\"acc\">Tremembé</span>",
+ "intro": [
+  "Gato não aceita bem improviso. Se a ração dele acabar e você comprar outra às pressas, ele pode recusar. Se a areia acabar, ele faz fora. Para quem mora no Tremembé, a 4,1 km da loja, organizar a compra do gato poupa dor de cabeça."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Quanto o gato consome"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Item",
+    "Gato adulto, em média"
+   ],
+   "rows": [
+    [
+     "Ração seca",
+     "Perto de 1,5 a 2 kg por mês, conforme peso e marca"
+    ],
+    [
+     "Sachê",
+     "Um por dia, cerca de 30 por mês"
+    ],
+    [
+     "Areia",
+     "Depende do tipo e do número de caixas"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "html": "São médias. Confira a tabela da sua ração e faça a conta para o seu gato. Com dois ou mais gatos, multiplique."
+  },
+  {
+   "type": "h2",
+   "text": "Tamanho do saco"
+  },
+  {
+   "type": "p",
+   "html": "Ração de gato aberta perde cheiro, e gato come pelo nariz. Se você tem um gato só, um saco que dure até umas quatro a seis semanas costuma manter a ração fresca. Com vários gatos, o saco maior compensa."
+  },
+  {
+   "type": "h2",
+   "text": "Guardar"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Deixe a ração no saco original, bem fechado com prendedor.",
+    "Coloque o saco dentro de um pote com tampa.",
+    "Guarde longe do sol, do fogão e da umidade.",
+    "Sachês fechados em lugar fresco. Aberto, na geladeira, por pouco tempo."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Peça antes de acabar"
+  },
+  {
+   "type": "p",
+   "html": "Faça o pedido quando ainda houver ração para uma semana. A loja fecha domingo e feriado, e a entrega é combinada por ligação antes. Com folga, nada falta."
+  },
+  {
+   "type": "h2",
+   "text": "Mesma ração, sem susto"
+  },
+  {
+   "type": "p",
+   "html": "Anote a marca e a linha exatas, ou guarde uma foto do saco. Muitas marcas têm linhas parecidas, e trocar sem querer pode dar vômito ou recusa."
+  },
+  {
+   "type": "h2",
+   "text": "O que temos"
+  },
+  {
+   "type": "p",
+   "html": "Golden Gatos, CatChow, Whiskas e Royal Canin, para filhote, adulto, castrado e idoso. Sachês, patês e areias. Tudo conforme o estoque."
+  },
+  {
+   "type": "h2",
+   "text": "Pedido"
+  },
+  {
+   "type": "p",
+   "html": "Mande a lista pelo WhatsApp (11) 97460-5359. A gente confere, passa o valor e liga para combinar a entrega no Tremembé. Loja na Av. Pedro de Souza Lopes, 33B, de segunda a sábado, das 9h às 18h. Pix, débito, crédito ou dinheiro, sem taxa extra no cartão. Para consulta, indicamos a Pink Vet, no número 33."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Quanto de ração o gato come por mês?",
+   "a": "Um gato adulto costuma comer perto de 1,5 a 2 kg por mês. Confira a tabela da sua ração."
+  },
+  {
+   "q": "Qual tamanho de saco comprar?",
+   "a": "Um que acabe em até umas quatro a seis semanas depois de aberto."
+  },
+  {
+   "q": "Entregam no Tremembé?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "humanizado": true
 }
