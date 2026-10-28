@@ -141,9 +141,22 @@ const BADGE = [
   [/./, 'Pet Shop Palmira'],
 ];
 const nomes = BAIRROS_LISTA.map(b => b.nome);
-const BAIRROS = nomes.slice(0, -1).join(', ') + ' e ' + nomes[nomes.length - 1];
+const BAIRROS = nomes.join(', ');
 
-function page(d) {
+// Links para as outras páginas do mesmo bairro
+function vizinhas(it, list) {
+  if (it.grupo !== 'bairro') return '';
+  const b = BAIRROS_LISTA.find(x => x.id === it.bairro);
+  const outras = list.filter(x => x.bairro === it.bairro && x.slug !== it.slug);
+  return `
+          <h2>Mais para quem mora ${b.no} ${esc(b.nome)}</h2>
+          <ul>
+${outras.map(x => `            <li><a href="${x.slug}.html">${esc(cap(x.kw))}</a></li>`).join('\n')}
+          </ul>
+`;
+}
+
+function page(d, it, list) {
   const url = `${SITE}/informacoes/${d.slug}`;
   const kw = text(d.keyword);
   const label = cap(kw);
@@ -306,7 +319,7 @@ ${sl.map((s, i) => `            <button class="seo-carousel-dot${i ? '' : ' acti
         <div class="seo-content-body">
 
           ${(d.body || []).map(block).filter(Boolean).join('\n\n          ')}
-${faq.length ? `
+${vizinhas(it, list)}${faq.length ? `
           <!-- 4. PERGUNTAS FREQUENTES -->
           <h2>Perguntas frequentes</h2>
           <div class="seo-faq-list">
@@ -343,7 +356,7 @@ ${vet ? `            <div>
         <a href="../index.html" class="logo" aria-label="Ir para a página inicial">
           <img src="../assets/images/logopetshoppalmira.png" alt="Pet Shop Palmira" class="footer-logo">
         </a>
-        <p class="footer-desc">Há 25 anos cuidando dos animais de estimação no ${BAIRROS} e região de Guarulhos.</p>
+        <p class="footer-desc">Há 25 anos cuidando dos animais de estimação no ${BAIRROS} e região, em Guarulhos e na zona norte de São Paulo.</p>
       </div>
       <div class="footer-col">
         <h4>Navegação</h4>
@@ -386,7 +399,7 @@ let n = 0;
 for (const it of list) {
   const d = JSON.parse(fs.readFileSync(path.join(DATA, it.slug + '.json'), 'utf8'));
   d.keyword = it.kw;
-  fs.writeFileSync(path.join(PROJ, 'Informacoes', it.slug + '.html'), page(d));
+  fs.writeFileSync(path.join(PROJ, 'Informacoes', it.slug + '.html'), page(d, it, list));
   n++;
 }
 fs.writeFileSync(path.join(DATA, '_lista.json'), JSON.stringify(list.map(({ slug, kw, n }) => ({ slug, kw, n }))));
