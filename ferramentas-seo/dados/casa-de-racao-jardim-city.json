@@ -1,5 +1,93 @@
 {
  "slug": "casa-de-racao-jardim-city",
  "keyword": "casa de ração Jardim City",
- "slides": []
+ "slides": [],
+ "title": "Casa de Ração Perto do Jardim City, Guarulhos | Pet Shop Palmira",
+ "description": "Casa de ração a 2,2 km do Jardim City: como ler a embalagem da ração e entender proteína, fase, porte e validade antes de comprar.",
+ "ogDescription": "Casa de ração a 2,2 km do Jardim City: como ler a embalagem da ração e entender proteína, fase, porte e validade antes de comprar.",
+ "badge": "Lendo a embalagem",
+ "h1": "Casa de ração perto do <span class=\"acc\">Jardim City</span>",
+ "intro": [
+  "Na prateleira, todo saco de ração promete muito. Pelo bonito, saúde, energia. Para escolher de verdade, vale virar o saco e ler o que está escrito atrás.",
+  "O Pet Shop Palmira fica a 2,2 km do Jardim City e ajuda a decifrar a embalagem no balcão."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "O que olhar primeiro"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Espécie: cão ou gato. Parece óbvio, mas ração de gato no pote do cachorro acontece.",
+    "Fase: filhote, adulto ou idoso.",
+    "Porte: pequeno, médio, grande. Muda o grão e a porção.",
+    "Indicação especial: castrado, light, controle de bolas de pelo.",
+    "Validade e lote."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Níveis de garantia"
+  },
+  {
+   "type": "p",
+   "html": "É a tabela com proteína, gordura, fibra, umidade e minerais. Ela mostra o mínimo ou o máximo de cada item. Proteína mais alta não quer dizer ração melhor para todo mundo. Um cachorro idoso e sedentário, por exemplo, não precisa da mesma ração de um cão atleta."
+  },
+  {
+   "type": "h2",
+   "text": "Lista de ingredientes"
+  },
+  {
+   "type": "p",
+   "html": "Os ingredientes vêm em ordem de quantidade. Os primeiros da lista são os que mais pesam na receita. É um bom jeito de comparar duas rações da mesma faixa de preço."
+  },
+  {
+   "type": "h2",
+   "text": "Tabela de porção"
+  },
+  {
+   "type": "p",
+   "html": "Fica na embalagem, pelo peso do animal. Ajuda a calcular quanto o saco vai durar e, com isso, o custo do mês. Às vezes a ração mais cara rende mais."
+  },
+  {
+   "type": "h2",
+   "text": "Completa ou complementar"
+  },
+  {
+   "type": "p",
+   "html": "Ração completa pode ser a única comida do animal. Alimento complementar, como muitos petiscos e alguns sachês, não. A embalagem diz qual é."
+  },
+  {
+   "type": "h2",
+   "text": "O que temos"
+  },
+  {
+   "type": "p",
+   "html": "Para cães, Golden, Premier, Special Dog, Pedigree, Magnus, Premiatta, Max e Royal Canin. Para gatos, Golden Gatos, CatChow, Whiskas e Royal Canin. Também ração para pássaros, roedores, galinha, porco e cavalo, conforme o estoque."
+  },
+  {
+   "type": "h2",
+   "text": "Compra e entrega"
+  },
+  {
+   "type": "p",
+   "html": "Segunda a sábado, das 9h às 18h, na Av. Pedro de Souza Lopes, 33B. Pedido pelo WhatsApp (11) 97460-5359. Entrega no Jardim City combinada por ligação antes. Pix, débito, crédito ou dinheiro, sem taxa extra no cartão."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Mais proteína é sempre melhor?",
+   "a": "Não. Depende da fase, do porte e da atividade do animal."
+  },
+  {
+   "q": "Como sei se o sachê alimenta sozinho?",
+   "a": "Veja na embalagem se ele é alimento completo ou complementar."
+  },
+  {
+   "q": "Entregam no Jardim City?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "humanizado": true
 }

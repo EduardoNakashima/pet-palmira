@@ -1,5 +1,83 @@
 {
  "slug": "veterinario-vila-rosalia",
  "keyword": "veterinário Vila Rosália",
- "slides": []
+ "slides": [],
+ "title": "Veterinário Perto da Vila Rosália, Guarulhos | Pink Vet parceira",
+ "description": "Veterinário a 1,7 km da Vila Rosália: Pink Vet Consultório Veterinário, na Av. Pedro de Souza Lopes, 33. Coceira, pulga e pele: quando consultar.",
+ "ogDescription": "Veterinário a 1,7 km da Vila Rosália: Pink Vet Consultório Veterinário, na Av. Pedro de Souza Lopes, 33. Coceira, pulga e pele: quando consultar.",
+ "badge": "Coceira e pele",
+ "h1": "Veterinário perto da <span class=\"acc\">Vila Rosália</span>",
+ "intro": [
+  "Cachorro que se coça sem parar é uma das queixas mais comuns no nosso balcão. A pessoa chega pedindo um antipulgas e, conversando, percebe que o problema talvez seja outro.",
+  "Antipulgas a gente vende. Saber por que o animal se coça é trabalho da veterinária. O Pet Shop Palmira não é clínica, e para isso indicamos a Pink Vet Consultório Veterinário, nossa parceira, a 1,7 km da Vila Rosália."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "A Pink Vet"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Endereço: Av. Pedro de Souza Lopes, 33, Jardim Palmira, na mesma avenida da nossa loja.",
+    "Atende com consulta, vacinas e check-up.",
+    "Horário: segunda a sexta, das 9h às 17h, e sábado, das 9h às 16h.",
+    "Nota 5,0 no Google.",
+    "WhatsApp (11) 93317-1589, pelo botão desta página."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Coceira tem várias causas"
+  },
+  {
+   "type": "p",
+   "html": "Pulga é a mais conhecida, mas não é a única. Alergia alimentar, alergia a algo do ambiente, fungo, sarna e problema de ouvido também fazem o animal se coçar. Cada um tem um tratamento diferente. Passar antipulgas em cachorro com alergia não resolve, e a coceira continua."
+  },
+  {
+   "type": "h2",
+   "text": "Sinais de que é hora de consultar"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Coceira que continua mesmo com o antipulgas em dia.",
+    "Falhas no pelo, pele vermelha ou escura.",
+    "Feridas, crostas ou cheiro forte na pele.",
+    "Cachorro que balança a cabeça ou coça muito a orelha.",
+    "Lambedura constante das patas."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Antes da consulta"
+  },
+  {
+   "type": "p",
+   "html": "Anote quando a coceira começou, se mudou de ração, de shampoo ou de produto de limpeza, e quais antipulgas usou e quando. Não dê banho no dia da consulta, porque a veterinária pode precisar ver a pele como ela está."
+  },
+  {
+   "type": "h2",
+   "text": "A pulga que volta"
+  },
+  {
+   "type": "p",
+   "html": "Se o problema for mesmo pulga, o tratamento precisa incluir a casa. Ovos e larvas ficam no tapete, no sofá e na caminha. Trate todos os animais no mesmo dia e lave tudo onde eles deitam. Na farmácia da loja, no número 33B, temos Frontline Plus, Capstar e outros produtos, conforme o estoque."
+  }
+ ],
+ "faq": [
+  {
+   "q": "O Pet Shop Palmira atende consulta?",
+   "a": "Não. A loja não é clínica. Indicamos a Pink Vet."
+  },
+  {
+   "q": "Antipulgas resolve qualquer coceira?",
+   "a": "Não. Alergia, fungo e sarna têm outros tratamentos. A veterinária identifica a causa."
+  },
+  {
+   "q": "Como agendo na Pink Vet?",
+   "a": "Pelo WhatsApp (11) 93317-1589. O botão desta página já abre a conversa."
+  }
+ ],
+ "humanizado": true
 }

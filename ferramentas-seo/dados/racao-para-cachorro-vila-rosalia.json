@@ -4,21 +4,21 @@
  "numero": 82,
  "cluster": "regionalizadas_fase_2",
  "source": "zip",
- "title": "Ração para Cachorro na Vila Rosália | Pet Shop Palmira",
- "description": "Ração para cachorro na Vila Rosália, Guarulhos: Golden, Premier, Special Dog, Pedigree e Royal Canin. Sacos de 15 e 20 kg com entrega combinada.",
- "ogDescription": "Ração para cachorro na Vila Rosália, Guarulhos: Golden, Premier, Special Dog, Pedigree e Royal Canin. Sacos de 15 e 20 kg com entrega combinada.",
+ "title": "Ração para Cachorro na Vila Rosália, Guarulhos | Pet Shop Palmira",
+ "description": "Ração para cachorro acima do peso na Vila Rosália: como saber se o cão está gordo, ajustar a porção e escolher ração light. A 1,7 km.",
+ "ogDescription": "Ração para cachorro acima do peso na Vila Rosália: como saber se o cão está gordo, ajustar a porção e escolher ração light. A 1,7 km.",
  "faq": [
   {
-   "q": "Como sei se a ração está fazendo bem?",
-   "a": "Pelo bonito, fezes firmes e peso estável são bons sinais."
+   "q": "Posso só diminuir a ração que ele já come?",
+   "a": "Pode, com cuidado. Cortar demais deixa o cão com fome e sem nutrientes. Ração light ajuda nisso."
   },
   {
-   "q": "Vocês entregam na Vila Rosália?",
-   "a": "Combinando o local por ligação antes."
+   "q": "Quanto peso ele pode perder por mês?",
+   "a": "Perda lenta é mais segura. A veterinária define a meta."
   },
   {
-   "q": "Quais formas de pagamento?",
-   "a": "Pix, cartão de débito e crédito e dinheiro."
+   "q": "Entregam na Vila Rosália?",
+   "a": "Entregamos, combinando o local por ligação antes."
   }
  ],
  "slides": [
@@ -47,35 +47,75 @@
    "ok": true
   }
  ],
- "badge": "Ração na Vila Rosália",
+ "badge": "Cão no peso certo",
  "h1": "Ração para cachorro na <span class=\"acc\">Vila Rosália</span>",
  "intro": [
-  "Ração boa aparece no cachorro: pelo bonito, fezes firmes, energia para brincar. Ração ruim também aparece, só que do jeito contrário."
+  "Cachorro gordinho parece fofo. Mas peso extra cansa o coração, pesa nas articulações e encurta a vida. E o caminho de volta ao peso começa no pote de ração.",
+  "O Pet Shop Palmira fica a 1,7 km da Vila Rosália e ajuda o tutor a acertar a comida do cão."
  ],
  "body": [
   {
    "type": "h2",
-   "text": "Sinais de que a ração está funcionando"
+   "text": "Como saber se ele está acima do peso"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Passe a mão nas costelas. Você deve sentir sem precisar apertar.",
+    "Olhe de cima. Deve aparecer uma cintura atrás das costelas.",
+    "Olhe de lado. A barriga deve subir em direção às patas de trás."
+   ]
   },
   {
    "type": "p",
-   "html": "Pelo brilhante, fezes bem formadas e peso estável. Se o cachorro tem coceira, pelo opaco ou fezes moles com frequência, vale conversar com o veterinário sobre a ração."
+   "html": "Se nada disso aparece, provavelmente o cão está acima do peso. A veterinária confirma e diz quanto ele deveria pesar."
   },
   {
    "type": "h2",
-   "text": "Marcas"
+   "text": "Onde o peso escondido mora"
   },
   {
    "type": "p",
-   "html": "Golden Formula, Premiatta, Max, Premier, Special Dog, Pedigree, Magnus e Royal Canin. Confirme o estoque pelo WhatsApp (11) 97460-5359."
+   "html": "Muitas vezes a ração está certa e o problema está no resto. Petisco o dia inteiro, pão no café da manhã, resto do almoço, a criança que divide o biscoito. Some tudo isso e o cachorro come muito mais do que a tabela da embalagem."
   },
   {
    "type": "h2",
-   "text": "Na hora de trocar"
+   "text": "O que fazer"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Pese a porção com balança ou copo medidor. Olho erra.",
+    "Use a tabela pelo peso que ele deveria ter, não pelo peso atual. Confirme com a veterinária.",
+    "Corte o resto de comida. Petisco, no máximo um pouco por dia, descontado da ração.",
+    "Aumente o passeio aos poucos.",
+    "Pese o cachorro a cada duas semanas."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Ração light"
   },
   {
    "type": "p",
-   "html": "Ao longo de 7 dias, aumentando aos poucos a nova ração misturada com a antiga."
+   "html": "Rações light ou de controle de peso têm menos caloria por porção, então o cachorro come um volume parecido e engorda menos. Temos opções da Golden, Premier, Premiatta e Royal Canin, entre outras, conforme o estoque. Faça a troca em cerca de uma semana."
+  },
+  {
+   "type": "h2",
+   "text": "Cão castrado"
+  },
+  {
+   "type": "p",
+   "html": "Depois da castração, o gasto de energia cai. Se o cão engordou depois da cirurgia, a porção precisa diminuir ou a ração precisa mudar."
+  },
+  {
+   "type": "h2",
+   "text": "Compra e entrega"
+  },
+  {
+   "type": "p",
+   "html": "Loja aberta de segunda a sábado, das 9h às 18h. Pelo WhatsApp (11) 97460-5359, a gente confirma o estoque. Entrega na Vila Rosália combinada por ligação antes."
   }
- ]
+ ],
+ "humanizado": true
 }

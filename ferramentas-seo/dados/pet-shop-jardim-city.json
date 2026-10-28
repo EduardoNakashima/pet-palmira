@@ -1,5 +1,101 @@
 {
  "slug": "pet-shop-jardim-city",
  "keyword": "pet shop Jardim City",
- "slides": []
+ "slides": [],
+ "title": "Pet Shop Perto do Jardim City, Guarulhos | Pet Shop Palmira",
+ "description": "Pet shop a 2,2 km do Jardim City, Guarulhos: lista do enxoval do filhote, ração, farmácia veterinária, acessórios e banho e tosa para cães.",
+ "ogDescription": "Pet shop a 2,2 km do Jardim City, Guarulhos: lista do enxoval do filhote, ração, farmácia veterinária, acessórios e banho e tosa para cães.",
+ "badge": "Enxoval do filhote",
+ "h1": "Pet shop perto do <span class=\"acc\">Jardim City</span>",
+ "intro": [
+  "Filhote novo em casa é festa, e também uma lista de compras. Muita família do Jardim City chega no Pet Shop Palmira com o filhote no colo e a pergunta: do que ele precisa?",
+  "A loja fica a 2,2 km do bairro em linha reta, na Av. Pedro de Souza Lopes, 33B, no Jardim Palmira."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Lista para o filhote de cachorro"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Ração de filhote, do porte certo.",
+    "Comedouro e bebedouro.",
+    "Caminha ou colchonete, do tamanho que ele vai ter adulto, ou um menor para agora.",
+    "Tapete higiênico, para ensinar o lugar do xixi.",
+    "Coleira com plaquinha e guia, para quando as vacinas terminarem.",
+    "Brinquedos para morder, porque os dentes vão coçar.",
+    "Shampoo para filhote, para quando a veterinária liberar o banho."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Lista para o filhote de gato"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Ração de filhote e sachês.",
+    "Caixa de areia baixa e areia.",
+    "Comedouro e bebedouro rasos.",
+    "Caixa de transporte, para levar à veterinária.",
+    "Brinquedos de caçar, como varinhas e bolinhas."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Não precisa comprar tudo no primeiro dia"
+  },
+  {
+   "type": "p",
+   "html": "Ração, comida, água, caminha e lugar do xixi são o começo. O resto vem com o tempo, conforme você conhece o jeito do filhote. Um cão que destrói caminha de tecido, por exemplo, pode precisar de outro tipo."
+  },
+  {
+   "type": "h2",
+   "text": "A primeira semana"
+  },
+  {
+   "type": "p",
+   "html": "Mantenha a ração que ele já comia antes de chegar, se souber qual é. Trocar ração e casa ao mesmo tempo costuma dar diarreia. Depois de alguns dias, faça a troca aos poucos."
+  },
+  {
+   "type": "h2",
+   "text": "Banho e tosa"
+  },
+  {
+   "type": "p",
+   "html": "O primeiro banho no pet shop só depois das vacinas e com a liberação da veterinária. Fazemos banho e tosa só em cães, com tosa na máquina, por horário marcado. Você traz e busca o cachorro."
+  },
+  {
+   "type": "h2",
+   "text": "Veterinária"
+  },
+  {
+   "type": "p",
+   "html": "A loja não é clínica. Para a primeira consulta e as vacinas, indicamos a Pink Vet, na mesma avenida, no número 33."
+  },
+  {
+   "type": "h2",
+   "text": "Horário, pagamento e entrega"
+  },
+  {
+   "type": "p",
+   "html": "Segunda a sábado, das 9h às 18h. Pix, débito, crédito ou dinheiro, sem taxa extra no cartão. Entrega no Jardim City combinada por ligação antes, pelo WhatsApp (11) 97460-5359."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Filhote pode tomar banho no pet shop?",
+   "a": "Depois das vacinas e com liberação da veterinária."
+  },
+  {
+   "q": "Qual tamanho de caminha compro?",
+   "a": "Pense no tamanho adulto, ou compre uma menor agora e troque depois. A gente ajuda a escolher."
+  },
+  {
+   "q": "Entregam no Jardim City?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "humanizado": true
 }

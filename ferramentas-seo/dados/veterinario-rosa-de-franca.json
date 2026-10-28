@@ -1,5 +1,109 @@
 {
  "slug": "veterinario-rosa-de-franca",
  "keyword": "veterinário Jardim Rosa de França",
- "slides": []
+ "slides": [],
+ "title": "Veterinário Perto do Jardim Rosa de França | Pink Vet parceira",
+ "description": "Veterinário a 1,8 km do Jardim Rosa de França: Pink Vet, na Av. Pedro de Souza Lopes, 33. Check-up para cão idoso, consulta e vacinas.",
+ "ogDescription": "Veterinário a 1,8 km do Jardim Rosa de França: Pink Vet, na Av. Pedro de Souza Lopes, 33. Check-up para cão idoso, consulta e vacinas.",
+ "badge": "Cão idoso",
+ "h1": "Veterinário perto do <span class=\"acc\">Jardim Rosa de França</span>",
+ "intro": [
+  "Cachorro idoso esconde dor. Ele não reclama, só passa a deitar mais, a subir menos no sofá, a demorar no passeio. Muita coisa que parece velhice tem tratamento quando é descoberta cedo.",
+  "Por isso o check-up do cão idoso é importante. E para isso indicamos a Pink Vet Consultório Veterinário, nossa parceira, a 1,8 km do Jardim Rosa de França."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Antes de tudo"
+  },
+  {
+   "type": "p",
+   "html": "O Pet Shop Palmira não é clínica veterinária. A gente vende ração, produtos e remédios com receita. Consulta e exame são com a veterinária."
+  },
+  {
+   "type": "h2",
+   "text": "A Pink Vet"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Onde",
+     "text": "Av. Pedro de Souza Lopes, 33, Jardim Palmira, na mesma avenida da nossa loja."
+    },
+    {
+     "title": "Serviços",
+     "text": "Consulta, vacinas e check-up."
+    },
+    {
+     "title": "Horário",
+     "text": "Segunda a sexta, das 9h às 17h. Sábado, das 9h às 16h."
+    },
+    {
+     "title": "Contato",
+     "text": "WhatsApp (11) 93317-1589. Nota 5,0 no Google."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Com que frequência"
+  },
+  {
+   "type": "p",
+   "html": "Cão adulto e saudável costuma ir ao veterinário uma vez por ano. Cão idoso, muitas vezes, a cada seis meses. Quem define o intervalo é a veterinária, olhando a idade, a raça e o histórico."
+  },
+  {
+   "type": "h2",
+   "text": "Sinais que merecem consulta"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Dificuldade para levantar ou subir escada.",
+    "Bebendo muito mais água do que antes.",
+    "Emagrecendo sem mudar a comida.",
+    "Tosse, cansaço rápido no passeio.",
+    "Caroços novos na pele.",
+    "Mau hálito forte ou dificuldade para mastigar.",
+    "Desorientação, latindo para a parede, trocando dia por noite."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Como preparar o check-up"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Anote o que mudou nos últimos meses: apetite, sono, xixi, passeio.",
+    "Leve o nome da ração e dos remédios que ele toma.",
+    "Leve a carteirinha de vacinas.",
+    "Pergunte sobre a dieta e o peso ideal para a idade."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Conforto em casa"
+  },
+  {
+   "type": "p",
+   "html": "Cão idoso agradece caminha macia, tapete antiderrapante no piso liso e água perto de onde ele deita. Rampa no lugar do degrau ajuda quem já não sobe no sofá. No inverno, um cobertor a mais faz diferença para articulação dolorida. Na loja, no número 33B da mesma avenida, temos caminhas, colchonetes e a ração sênior indicada, conforme o estoque."
+  }
+ ],
+ "faq": [
+  {
+   "q": "O Pet Shop Palmira tem veterinário?",
+   "a": "Não. A loja não é clínica. Indicamos a Pink Vet."
+  },
+  {
+   "q": "Cão idoso precisa ir ao veterinário quantas vezes por ano?",
+   "a": "Muitas vezes a cada seis meses. A veterinária define."
+  },
+  {
+   "q": "Como marco na Pink Vet?",
+   "a": "Pelo WhatsApp (11) 93317-1589, pelo botão desta página."
+  }
+ ],
+ "humanizado": true
 }

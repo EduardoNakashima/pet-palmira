@@ -5,20 +5,20 @@
  "cluster": "regionalizadas_fase_1",
  "source": "site",
  "title": "Ração para Cachorro na Vila Galvão, Guarulhos | Pet Shop Palmira",
- "description": "Ração para cachorro na Vila Galvão, Guarulhos: super premium e premium especial, Golden, Premier, Royal Canin. Entrega combinada por ligação.",
- "ogDescription": "Ração para cachorro na Vila Galvão, Guarulhos: super premium e premium especial, Golden, Premier, Royal Canin. Entrega combinada por ligação.",
+ "description": "Ração para cachorro ativo na Vila Galvão: quanto o cão que passeia muito precisa comer, horário da comida e do passeio e marcas em estoque.",
+ "ogDescription": "Ração para cachorro ativo na Vila Galvão: quanto o cão que passeia muito precisa comer, horário da comida e do passeio e marcas em estoque.",
  "faq": [
   {
-   "q": "Super premium ou premium especial?",
-   "a": "Premium especial atende bem a maioria dos cães saudáveis. Super premium vale para necessidades específicas ou por indicação do veterinário."
+   "q": "Posso dar ração logo antes do passeio?",
+   "a": "O ideal é esperar uma hora ou mais depois da refeição para passear."
   },
   {
-   "q": "Vocês entregam na Vila Galvão?",
-   "a": "Combinando o local por ligação antes."
+   "q": "Cão ativo precisa de ração especial?",
+   "a": "Não obrigatoriamente. Uma boa ração adulta na porção certa resolve na maioria dos casos."
   },
   {
-   "q": "Como peço?",
-   "a": "Pelo WhatsApp (11) 97460-5359."
+   "q": "Entregam na Vila Galvão?",
+   "a": "Entregamos, combinando o local por ligação antes."
   }
  ],
  "slides": [
@@ -53,52 +53,69 @@
    "ok": true
   }
  ],
- "badge": "Ração na Vila Galvão",
+ "badge": "Cão que passeia",
  "h1": "Ração para cachorro na <span class=\"acc\">Vila Galvão</span>",
  "intro": [
-  "Tem cachorro que come qualquer coisa e tem cachorro que torce o nariz para a ração nova. Para os dois, ajuda ter uma loja por perto onde dá para perguntar antes de trocar."
+  "Cachorro que dá volta no Lago dos Patos todo dia gasta mais energia do que o que passa a tarde no sofá. A ração precisa acompanhar o ritmo, sem exagero.",
+  "O Pet Shop Palmira fica a 2,1 km da Vila Galvão, no Jardim Palmira, e tem ração para cão de todo nível de atividade."
  ],
  "body": [
   {
    "type": "h2",
-   "text": "Qual levar"
+   "text": "Quanto o cão ativo come"
   },
   {
    "type": "p",
-   "html": "Para cão saudável, uma premium especial como Golden Formula ou Premiatta Classic atende bem. Para pele sensível ou necessidade específica, linhas super premium da Premier e da Royal Canin, com orientação do veterinário."
+   "html": "A tabela da embalagem traz a porção pelo peso. Muitas marcas mostram duas faixas, uma para cão menos ativo e outra para cão ativo. Comece pela faixa do meio e observe por duas ou três semanas:"
   },
   {
-   "type": "h2",
-   "text": "Marcas e fases"
-  },
-  {
-   "type": "table",
-   "head": [
-    "Fase",
-    "Exemplos"
-   ],
-   "rows": [
-    [
-     "Filhote",
-     "Golden Filhotes, Premiatta Filhotes, Max Filhotes"
-    ],
-    [
-     "Adulto",
-     "Golden Formula, Premiatta Classic, Max Professional"
-    ],
-    [
-     "Outras",
-     "Premier, Special Dog, Pedigree, Magnus e Royal Canin"
-    ]
+   "type": "ul",
+   "items": [
+    "Se ele está perdendo peso e as costelas aparecem demais, aumente um pouco.",
+    "Se está ganhando barriga, diminua.",
+    "Se está no peso e com energia, a porção está certa."
    ]
   },
   {
    "type": "h2",
-   "text": "Trocando de ração"
+   "text": "Passeio e comida em horários separados"
   },
   {
    "type": "p",
-   "html": "Faça a troca em 7 dias, misturando a nova com a antiga. Mudança de uma vez costuma dar diarreia."
+   "html": "Não passeie logo depois da refeição, principalmente com cachorro grande e de peito fundo. Exercício forte com o estômago cheio aumenta o risco de torção gástrica, que é uma emergência. Espere uma hora ou mais depois de comer, ou dê a comida depois do passeio, quando ele já tiver se acalmado."
+  },
+  {
+   "type": "h2",
+   "text": "Água no passeio"
+  },
+  {
+   "type": "p",
+   "html": "Leve água em passeio longo, principalmente no calor. Cachorro não sua como a gente e esquenta rápido. Garrafinha com bebedouro acoplado é prática e temos na loja."
+  },
+  {
+   "type": "h2",
+   "text": "Ração para cão ativo"
+  },
+  {
+   "type": "p",
+   "html": "Rações de linha mais alta costumam ter mais proteína e são mais aproveitadas. Temos Golden, Premier, Special Dog, Pedigree, Magnus, Premiatta, Max e Royal Canin, conforme o estoque. Algumas linhas têm versões para cães ativos ou atletas."
+  },
+  {
+   "type": "h2",
+   "text": "Petisco de recompensa"
+  },
+  {
+   "type": "p",
+   "html": "Petisco ajuda no adestramento durante o passeio. Use pedaços pequenos e desconte da ração do dia. Temos petiscos e ossinhos de vários tamanhos."
+  },
+  {
+   "type": "h2",
+   "text": "Compra e entrega"
+  },
+  {
+   "type": "p",
+   "html": "Loja aberta de segunda a sábado, das 9h às 18h, na Av. Pedro de Souza Lopes, 33B. Pelo WhatsApp (11) 97460-5359 a gente confirma o estoque. Entrega na Vila Galvão combinada por ligação antes."
   }
- ]
+ ],
+ "humanizado": true
 }

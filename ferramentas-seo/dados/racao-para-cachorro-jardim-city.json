@@ -1,5 +1,100 @@
 {
  "slug": "racao-para-cachorro-jardim-city",
  "keyword": "ração para cachorro Jardim City",
- "slides": []
+ "slides": [],
+ "title": "Ração para Cachorro no Jardim City, Guarulhos | Pet Shop Palmira",
+ "description": "Ração para cachorro com coceira ou alergia no Jardim City: quando a comida pode ser a causa e por que a dieta especial é com a veterinária.",
+ "ogDescription": "Ração para cachorro com coceira ou alergia no Jardim City: quando a comida pode ser a causa e por que a dieta especial é com a veterinária.",
+ "badge": "Coceira e alimentação",
+ "h1": "Ração para cachorro no <span class=\"acc\">Jardim City</span>",
+ "intro": [
+  "O cachorro lambe a pata, coça a orelha, tem a pele vermelha. Alguém sugere: deve ser a ração. Às vezes é. Muitas vezes não é. E trocar de ração no chute pode atrasar o tratamento.",
+  "O Pet Shop Palmira fica a 2,2 km do Jardim City. Aqui vai o que dá para fazer e o que fica com a veterinária."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Alergia alimentar existe, mas não é a mais comum"
+  },
+  {
+   "type": "p",
+   "html": "Coceira em cachorro tem muitas causas: pulga, alergia a pólen ou poeira, fungo, sarna, problema de ouvido. A alergia alimentar é uma delas, e não a mais frequente. Por isso o primeiro passo é a consulta."
+  },
+  {
+   "type": "h2",
+   "text": "Como a veterinária investiga"
+  },
+  {
+   "type": "p",
+   "html": "Quando há suspeita de alergia à comida, a veterinária costuma indicar uma dieta de exclusão por algumas semanas, com uma ração específica e nada mais. Nem petisco. Se a coceira melhora, a comida era parte do problema. Esse teste só funciona se for feito à risca."
+  },
+  {
+   "type": "h2",
+   "text": "O que não fazer"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Trocar de marca toda semana. Assim ninguém descobre a causa.",
+    "Dar comida caseira sem orientação. Pode faltar nutriente.",
+    "Continuar com petisco durante a dieta de exclusão.",
+    "Usar remédio de coceira de outro animal."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Rações para pele sensível"
+  },
+  {
+   "type": "p",
+   "html": "Algumas linhas de ração trazem fórmulas para pele sensível ou hipoalergênicas. Temos opções da Premier, Royal Canin e outras marcas, conforme o estoque. Se a veterinária indicou uma ração específica, mande o nome pelo WhatsApp (11) 97460-5359 e a gente confere."
+  },
+  {
+   "type": "h2",
+   "text": "Banho também conta"
+  },
+  {
+   "type": "p",
+   "html": "Shampoo errado irrita a pele. Na loja temos shampoos neutros e dermatológicos. Para cão com problema de pele, use o que a veterinária indicar."
+  },
+  {
+   "type": "h2",
+   "text": "Antipulgas em dia"
+  },
+  {
+   "type": "p",
+   "html": "Antes de culpar a ração, confira o antipulgas. Uma única picada de pulga já faz o cachorro alérgico se coçar por dias."
+  },
+  {
+   "type": "h2",
+   "text": "Consulta"
+  },
+  {
+   "type": "p",
+   "html": "Indicamos a Pink Vet, nossa parceira, na Av. Pedro de Souza Lopes, 33, perto da loja."
+  },
+  {
+   "type": "h2",
+   "text": "Compra e entrega"
+  },
+  {
+   "type": "p",
+   "html": "Segunda a sábado, das 9h às 18h. Entrega no Jardim City combinada por ligação antes."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Ração pode dar coceira?",
+   "a": "Pode, em cães com alergia alimentar. Mas há outras causas mais comuns. A veterinária investiga."
+  },
+  {
+   "q": "Vocês têm ração hipoalergênica?",
+   "a": "Temos algumas opções, conforme o estoque. Confirme pelo WhatsApp."
+  },
+  {
+   "q": "Entregam no Jardim City?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "humanizado": true
 }

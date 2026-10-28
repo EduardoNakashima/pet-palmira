@@ -1,5 +1,99 @@
 {
  "slug": "casa-de-racao-vila-rosalia",
  "keyword": "casa de ração Vila Rosália",
- "slides": []
+ "slides": [],
+ "title": "Casa de Ração Perto da Vila Rosália, Guarulhos | Pet Shop Palmira",
+ "description": "Casa de ração a 1,7 km da Vila Rosália: ração e feno para porquinho-da-índia e coelho, além de ração para cães, gatos, pássaros e criação.",
+ "ogDescription": "Casa de ração a 1,7 km da Vila Rosália: ração e feno para porquinho-da-índia e coelho, além de ração para cães, gatos, pássaros e criação.",
+ "badge": "Roedores e coelhos",
+ "h1": "Casa de ração perto da <span class=\"acc\">Vila Rosália</span>",
+ "intro": [
+  "Porquinho-da-índia e coelho viraram bicho de apartamento e de casa com criança. São fofos, mas têm uma alimentação bem diferente da de cão e gato, e muita gente descobre isso tarde.",
+  "O Pet Shop Palmira fica a 1,7 km da Vila Rosália e vende ração e feno para roedores há anos."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Feno é a base"
+  },
+  {
+   "type": "p",
+   "html": "Para porquinho-da-índia e coelho, o feno deve estar disponível o dia inteiro. Ele faz o intestino funcionar e gasta os dentes, que crescem a vida toda. Sem feno, o dente cresce demais e o animal para de comer."
+  },
+  {
+   "type": "h2",
+   "text": "Ração na medida"
+  },
+  {
+   "type": "p",
+   "html": "A ração própria da espécie completa a dieta, em quantidade pequena. Ração de coelho não é igual à de porquinho-da-índia, porque o porquinho precisa de vitamina C na alimentação, e a ração dele vem com isso."
+  },
+  {
+   "type": "table",
+   "head": [
+    "Animal",
+    "Base",
+    "Complemento"
+   ],
+   "rows": [
+    [
+     "Porquinho-da-índia",
+     "Feno à vontade",
+     "Ração própria e verduras frescas"
+    ],
+    [
+     "Coelho",
+     "Feno à vontade",
+     "Ração própria em pouca quantidade e verduras"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Verduras com cuidado"
+  },
+  {
+   "type": "p",
+   "html": "Verdura fresca e lavada ajuda, mas nem tudo serve. Evite exagero de fruta, que tem muito açúcar. Comece com pouco, um tipo por vez, e observe as fezes. Se ficarem moles, tire a verdura nova e volte só com feno e ração por alguns dias. Mudança brusca na comida é uma das causas mais comuns de diarreia nesses animais."
+  },
+  {
+   "type": "h2",
+   "text": "Água sempre"
+  },
+  {
+   "type": "p",
+   "html": "Bebedouro de bico, trocado todo dia. Confira se a bolinha do bico não travou, porque o animal pode ficar sem água sem você perceber."
+  },
+  {
+   "type": "h2",
+   "text": "Para os outros bichos da casa"
+  },
+  {
+   "type": "p",
+   "html": "Também temos ração para cães, gatos, pássaros, galinha, porco e cavalo. Marcas para cães e gatos como Golden, Premier, Special Dog, Pedigree, Whiskas e CatChow, conforme o estoque."
+  },
+  {
+   "type": "h2",
+   "text": "Como comprar"
+  },
+  {
+   "type": "p",
+   "html": "Loja aberta de segunda a sábado, das 9h às 18h, na Av. Pedro de Souza Lopes, 33B. Pedido pelo WhatsApp (11) 97460-5359 e entrega na Vila Rosália combinada por ligação antes. Pix, débito, crédito ou dinheiro, sem taxa extra no cartão."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Porquinho-da-índia pode comer ração de coelho?",
+   "a": "Não é o ideal. A ração do porquinho tem vitamina C, que ele precisa receber pela comida."
+  },
+  {
+   "q": "Quanto feno devo dar?",
+   "a": "À vontade, o dia inteiro. Troque o que ficou sujo."
+  },
+  {
+   "q": "Entregam na Vila Rosália?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "humanizado": true
 }
