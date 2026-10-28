@@ -1,5 +1,115 @@
 {
  "slug": "veterinario-cabucu",
  "keyword": "veterinário Cabuçu",
- "slides": []
+ "slides": [],
+ "title": "Veterinário Perto do Cabuçu, Guarulhos | Pink Vet parceira",
+ "description": "Veterinário a 3,8 km do Cabuçu: Pink Vet, na Av. Pedro de Souza Lopes, 33. Doença do carrapato no cachorro: sinais e quando consultar.",
+ "ogDescription": "Veterinário a 3,8 km do Cabuçu: Pink Vet, na Av. Pedro de Souza Lopes, 33. Doença do carrapato no cachorro: sinais e quando consultar.",
+ "badge": "Doença do carrapato",
+ "h1": "Veterinário perto do <span class=\"acc\">Cabuçu</span>",
+ "intro": [
+  "Perto da Cantareira, quase todo tutor já tirou um carrapato do cachorro. O problema não é só o bicho grudado na pele. Carrapatos podem transmitir doenças que afetam o sangue do cão, e os sinais às vezes aparecem dias ou semanas depois.",
+  "O Pet Shop Palmira vende carrapaticidas, mas não é clínica. Para consulta e exame, indicamos a Pink Vet Consultório Veterinário, nossa parceira, a 3,8 km do Cabuçu."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Pink Vet"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Fica na Av. Pedro de Souza Lopes, 33, Jardim Palmira, na mesma avenida da loja.",
+    "Faz consulta, vacinas e check-up.",
+    "Abre de segunda a sexta, das 9h às 17h, e sábado, das 9h às 16h.",
+    "Tem nota 5,0 no Google.",
+    "Agenda pelo WhatsApp (11) 93317-1589, pelo botão desta página."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Sinais que merecem consulta"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Apatia",
+     "text": "O cão fica quieto, deitado, sem vontade de brincar."
+    },
+    {
+     "title": "Falta de apetite",
+     "text": "Recusa a comida por mais de um dia."
+    },
+    {
+     "title": "Febre",
+     "text": "Corpo quente, nariz seco e respiração rápida."
+    },
+    {
+     "title": "Sangramento",
+     "text": "Pelo nariz, manchas roxas na pele ou na gengiva."
+    },
+    {
+     "title": "Gengiva pálida",
+     "text": "Mais branca do que o normal."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Se o cachorro teve carrapato nas últimas semanas e apresenta algum desses sinais, conte isso na consulta. A veterinária avalia e decide os exames."
+  },
+  {
+   "type": "h2",
+   "text": "Não espere o carrapato aparecer"
+  },
+  {
+   "type": "p",
+   "html": "Muitas vezes o tutor não vê o carrapato. Ele pode estar entre os dedos, dentro da orelha ou já ter caído. Por isso a prevenção contínua é o melhor caminho."
+  },
+  {
+   "type": "h2",
+   "text": "Prevenção"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Carrapaticida em dia, no intervalo que a embalagem e a veterinária indicam.",
+    "Grama do quintal aparada e folhas recolhidas.",
+    "Revisão do corpo depois de passeio em mato.",
+    "Retirada do carrapato com pinça, puxando reto e rente à pele."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Na loja"
+  },
+  {
+   "type": "p",
+   "html": "Frontline Plus, Capstar, shampoo antiparasitário e outros produtos, conforme o estoque, na farmácia do número 33B. Se a veterinária receitar medicamento para o tratamento, mande a foto da receita pelo WhatsApp (11) 97460-5359."
+  },
+  {
+   "type": "h2",
+   "text": "Urgência"
+  },
+  {
+   "type": "p",
+   "html": "Sangramento, fraqueza forte ou desmaio pedem atendimento no mesmo dia. Fora do horário da Pink Vet, procure um hospital veterinário 24 horas."
+  }
+ ],
+ "faq": [
+  {
+   "q": "O Pet Shop Palmira faz exame de sangue?",
+   "a": "Não. A loja não é clínica. Indicamos a Pink Vet para consulta."
+  },
+  {
+   "q": "Tirei o carrapato. Preciso levar ao veterinário?",
+   "a": "Observe o cão nas semanas seguintes. Se ele ficar abatido, sem apetite ou com febre, procure a veterinária."
+  },
+  {
+   "q": "Como marco na Pink Vet?",
+   "a": "Pelo WhatsApp (11) 93317-1589, no botão desta página."
+  }
+ ],
+ "humanizado": true
 }

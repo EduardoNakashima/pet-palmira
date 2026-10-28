@@ -5,20 +5,20 @@
  "cluster": "regionalizadas_fase_1",
  "source": "site",
  "title": "Ração para Cachorro no Cabuçu, Guarulhos | Pet Shop Palmira",
- "description": "Ração para cachorro no Cabuçu, Guarulhos: sacos de 15 e 20 kg para cães de quintal e chácara. Golden, Premier, Special Dog e mais.",
- "ogDescription": "Ração para cachorro no Cabuçu, Guarulhos: sacos de 15 e 20 kg para cães de quintal e chácara. Golden, Premier, Special Dog e mais.",
+ "description": "Ração para cachorro de quintal e de guarda no Cabuçu: energia, frio, chuva e comedouro protegido. Marcas em estoque, a 3,8 km.",
+ "ogDescription": "Ração para cachorro de quintal e de guarda no Cabuçu: energia, frio, chuva e comedouro protegido. Marcas em estoque, a 3,8 km.",
  "faq": [
   {
-   "q": "Qual ração para cão de chácara?",
-   "a": "Uma ração para adulto do porte dele. Se ele é muito ativo, uma linha premium especial ou super premium."
+   "q": "Cão de quintal precisa comer mais no inverno?",
+   "a": "Muitos precisam de um pouco mais. Observe o corpo e ajuste a porção."
   },
   {
-   "q": "Vocês entregam no Cabuçu?",
-   "a": "Combinando o local por ligação antes, pelo (11) 2451-1719."
+   "q": "Posso deixar a ração no quintal a noite toda?",
+   "a": "Melhor não. Atrai rato e outros bichos. Recolha o que sobrar."
   },
   {
-   "q": "Posso misturar ração com comida caseira?",
-   "a": "Pode atrapalhar o equilíbrio da dieta. Se quiser complementar, converse com o veterinário."
+   "q": "Entregam no Cabuçu?",
+   "a": "Entregamos, combinando o local por ligação antes."
   }
  ],
  "slides": [
@@ -53,39 +53,82 @@
    "ok": true
   }
  ],
- "badge": "Cães do Cabuçu",
+ "badge": "Cão de guarda",
  "h1": "Ração para cachorro no <span class=\"acc\">Cabuçu</span>",
  "intro": [
-  "Cachorro de chácara corre, late, vigia o portão. Gasta mais energia que cão de apartamento e precisa de uma ração que acompanhe esse ritmo."
+  "Cachorro de guarda passa o dia e a noite no quintal, anda de um lado para o outro, late para tudo que passa. Perto da Cantareira, ainda enfrenta noite fria e chuva. A comida dele precisa dar conta disso.",
+  "O Pet Shop Palmira fica a 3,8 km do Cabuçu e tem ração para cães de quintal de vários portes."
  ],
  "body": [
   {
    "type": "h2",
-   "text": "Como escolher"
+   "text": "Mais energia no frio"
   },
   {
    "type": "p",
-   "html": "Cão ativo, de porte grande, vai bem com uma ração premium especial ou super premium para adulto de porte grande. Cão mais velho ou mais parado precisa de menos caloria."
-  },
-  {
-   "type": "p",
-   "html": "Na dúvida, mande raça, idade e peso pelo WhatsApp (11) 97460-5359."
+   "html": "Cachorro que dorme fora gasta energia para se manter aquecido. No inverno, muitos precisam de um pouco mais de ração do que no verão. Observe o corpo: se ele estiver emagrecendo nas semanas frias, aumente um pouco a porção."
   },
   {
    "type": "h2",
-   "text": "Marcas"
+   "text": "Ração de adulto ativo"
   },
   {
    "type": "p",
-   "html": "Golden Formula, Premiatta, Max, Premier, Special Dog, Pedigree, Magnus e Royal Canin, conforme o estoque."
+   "html": "Para cão de quintal saudável, uma boa ração de adulto do porte certo resolve. Algumas marcas têm linhas para cães ativos, com mais energia. Temos Golden, Premier, Special Dog, Pedigree, Magnus, Premiatta, Max e Royal Canin, conforme o estoque."
   },
   {
    "type": "h2",
-   "text": "Saco grande, entrega combinada"
+   "text": "Comedouro protegido"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Coloque o pote debaixo de telhado ou dentro da área coberta.",
+    "Ração molhada pela chuva embolora e pode fazer mal.",
+    "Recolha o que sobrou para não atrair rato, barata e outros bichos.",
+    "Use comedouro pesado ou preso, que o cachorro não vire."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Água que não falta"
   },
   {
    "type": "p",
-   "html": "Para quem tem mais de um cachorro, os sacos de 15 e 20 kg compensam. A gente entrega no Cabuçu combinando o local por ligação antes."
+   "html": "Cão de quintal derruba o pote, e às vezes passa o dia sem água. Use bebedouro pesado ou de fixar na parede, na sombra, e confira todo dia."
+  },
+  {
+   "type": "h2",
+   "text": "Petisco de guarda"
+  },
+  {
+   "type": "p",
+   "html": "Cão de guarda também merece agrado. Ossinho próprio para cães, do tamanho certo, ajuda a passar o tempo e gasta a vontade de roer. Osso cozido de churrasco, não: lasca e machuca."
+  },
+  {
+   "type": "h2",
+   "text": "Pulga e carrapato"
+  },
+  {
+   "type": "p",
+   "html": "Na área verde, carrapato é constante. Antipulgas e carrapaticida em dia fazem parte dos cuidados do cão de quintal. Temos opções na farmácia da loja."
+  },
+  {
+   "type": "h2",
+   "text": "Cão de quintal envelhece"
+  },
+  {
+   "type": "p",
+   "html": "Depois dos 7 ou 8 anos, muitos cães grandes começam a sentir as articulações, principalmente no frio. Ração sênior, caminha elevada e check-up com a veterinária ajudam. Indicamos a Pink Vet, na Av. Pedro de Souza Lopes, 33."
+  },
+  {
+   "type": "h2",
+   "text": "Compra e entrega"
+  },
+  {
+   "type": "p",
+   "html": "Loja aberta de segunda a sábado, das 9h às 18h, na Av. Pedro de Souza Lopes, 33B. Saco grande pesa: a entrega no Cabuçu é combinada por ligação antes, pelo WhatsApp (11) 97460-5359."
   }
- ]
+ ],
+ "humanizado": true
 }

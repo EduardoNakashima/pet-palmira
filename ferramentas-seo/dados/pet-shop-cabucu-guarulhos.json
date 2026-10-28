@@ -4,21 +4,21 @@
  "numero": 61,
  "cluster": "regionalizadas_fase_1",
  "source": "site",
- "title": "Pet Shop para Quem Mora no Cabuçu, Guarulhos | Pet Shop Palmira",
- "description": "Pet shop para quem mora no Cabuçu, Guarulhos: ração para cães, gatos e criação, farmácia veterinária e entrega combinada por ligação.",
- "ogDescription": "Pet shop para quem mora no Cabuçu, Guarulhos: ração para cães, gatos e criação, farmácia veterinária e entrega combinada por ligação.",
+ "title": "Pet Shop Perto do Cabuçu, Guarulhos | Pet Shop Palmira",
+ "description": "Pet shop a 3,8 km do Cabuçu, perto da Cantareira: antipulgas e carrapaticidas em pipeta, comprimido e coleira, ração e banho para cães.",
+ "ogDescription": "Pet shop a 3,8 km do Cabuçu, perto da Cantareira: antipulgas e carrapaticidas em pipeta, comprimido e coleira, ração e banho para cães.",
  "faq": [
   {
-   "q": "Vocês entregam no Cabuçu?",
-   "a": "Combinando o local por ligação antes. Confirmamos na ligação se o endereço está na nossa área."
+   "q": "Qual antipulgas é melhor?",
+   "a": "Depende do animal, do peso e da rotina. A gente mostra as opções e a veterinária ajuda a decidir."
   },
   {
-   "q": "Vocês têm ração para galinha e cavalo?",
-   "a": "Temos Ovomil para galinhas e Top Horse para cavalos, entre outros."
+   "q": "Posso usar pipeta de cachorro no gato?",
+   "a": "Não. Use sempre produto próprio para gatos."
   },
   {
-   "q": "Qual o horário?",
-   "a": "Segunda a sábado, das 9h às 18h."
+   "q": "Entregam no Cabuçu?",
+   "a": "Entregamos, combinando o local por ligação antes."
   }
  ],
  "slides": [
@@ -53,53 +53,107 @@
    "ok": true
   }
  ],
- "badge": "Atendimento ao Cabuçu",
- "h1": "Pet shop para quem mora no <span class=\"acc\">Cabuçu</span>",
+ "badge": "Perto da Cantareira",
+ "h1": "Pet shop perto do <span class=\"acc\">Cabuçu</span>",
  "intro": [
-  "O Cabuçu fica a uns 4 km da nossa loja, em linha reta, já perto da Serra da Cantareira. Tem casa com quintal grande, chácara e muita gente que cria mais de um tipo de bicho.",
-  "Para esse público, a gente tem ração de cachorro e gato, mas também de galinha, cavalo e coelho."
+  "O Cabuçu fica a 3,8 km do Pet Shop Palmira em linha reta, já perto da Serra da Cantareira. Área verde é ótima para o cachorro correr, e também é onde o carrapato se esconde. Por isso a pergunta mais comum de quem vem do bairro é sobre antipulgas e carrapaticida.",
+  "Estamos na Av. Pedro de Souza Lopes, 33B, no Jardim Palmira, há 25 anos."
  ],
  "body": [
   {
    "type": "h2",
-   "text": "O que você encontra"
+   "text": "Pipeta, comprimido ou coleira?"
   },
   {
-   "type": "cards",
-   "items": [
-    {
-     "title": "Cães e gatos",
-     "text": "Ração, antipulgas, vermífugo e acessórios."
-    },
-    {
-     "title": "Criação",
-     "text": "Ração para galinhas e suínos, milho triturado, farelos e sal mineral."
-    },
-    {
-     "title": "Cavalos e roedores",
-     "text": "Top Horse, ração peletizada, feno e alfafa."
-    },
-    {
-     "title": "Farmácia",
-     "text": "Medicamentos com receita."
-    }
+   "type": "table",
+   "head": [
+    "Tipo",
+    "Como funciona",
+    "Bom para"
+   ],
+   "rows": [
+    [
+     "Pipeta",
+     "Líquido aplicado na nuca",
+     "Quem prefere não dar comprimido"
+    ],
+    [
+     "Comprimido",
+     "Dado pela boca, muitas vezes mastigável",
+     "Cão que toma banho com frequência"
+    ],
+    [
+     "Coleira",
+     "Libera o produto aos poucos",
+     "Proteção longa, conforme o fabricante"
+    ],
+    [
+     "Shampoo",
+     "Remove parte das pulgas no banho",
+     "Complemento, não proteção duradoura"
+    ]
    ]
   },
   {
-   "type": "h2",
-   "text": "Entrega no Cabuçu"
-  },
-  {
    "type": "p",
-   "html": "A entrega é combinada por ligação antes, pelo (11) 2451-1719. Na ligação a gente confirma se o seu endereço está dentro da área de atendimento."
+   "html": "Cada produto tem um tempo de proteção diferente. Leia a embalagem e respeite o intervalo."
   },
   {
    "type": "h2",
-   "text": "Perto da mata"
+   "text": "Peso certo"
   },
   {
    "type": "p",
-   "html": "Quem mora perto de área verde costuma ter mais carrapato. Mantenha o antipulgas do cachorro em dia, no intervalo que o veterinário indicar."
+   "html": "Antipulgas e carrapaticidas vêm em faixas de peso. Pese o cachorro antes de comprar. Produto da faixa errada não protege ou pode fazer mal."
+  },
+  {
+   "type": "h2",
+   "text": "Gato é diferente"
+  },
+  {
+   "type": "p",
+   "html": "Alguns produtos para cachorro são tóxicos para gatos. Use sempre o produto com indicação para gatos. Na casa com cão e gato, cuidado para o gato não lamber o cachorro logo depois da pipeta."
+  },
+  {
+   "type": "h2",
+   "text": "O que temos"
+  },
+  {
+   "type": "p",
+   "html": "Frontline Plus, Capstar, shampoo antiparasitário e outros produtos, conforme o estoque. Mande o peso e a espécie pelo WhatsApp (11) 97460-5359 e a gente indica a faixa. A escolha do produto para o seu caso, principalmente para filhote, idosa, gestante ou animal doente, é com a veterinária."
+  },
+  {
+   "type": "h2",
+   "text": "O ambiente também"
+  },
+  {
+   "type": "p",
+   "html": "Corte a grama do quintal, recolha folhas acumuladas e limpe a casinha. Carrapato passa parte da vida no ambiente, não só no cachorro."
+  },
+  {
+   "type": "h2",
+   "text": "O resto da loja"
+  },
+  {
+   "type": "p",
+   "html": "Ração para cães, gatos, pássaros, roedores, galinha, porco e cavalo. Casinhas, caminhas e coleiras. Banho e tosa só para cães, com tosa na máquina, por horário marcado. Você traz e busca o cachorro, porque não temos táxi dog."
+  },
+  {
+   "type": "h2",
+   "text": "Horário e entrega"
+  },
+  {
+   "type": "p",
+   "html": "Segunda a sábado, das 9h às 18h. Pix, débito, crédito ou dinheiro, sem taxa extra no cartão. Entrega no Cabuçu combinada por ligação antes."
+  },
+  {
+   "type": "h2",
+   "text": "Veterinária"
+  },
+  {
+   "type": "p",
+   "html": "A loja não é clínica. Para consulta, vacinas e check-up, indicamos a Pink Vet, na mesma avenida, no número 33."
   }
- ]
+ ],
+ "humanizado": true
 }
