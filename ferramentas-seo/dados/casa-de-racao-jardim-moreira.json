@@ -1,5 +1,117 @@
 {
  "slug": "casa-de-racao-jardim-moreira",
  "keyword": "casa de ração Jardim Moreira",
- "slides": []
+ "slides": [],
+ "title": "Casa de Ração Perto do Jardim Moreira, Guarulhos | Pet Shop Palmira",
+ "description": "Casa de ração a 2,4 km do Jardim Moreira: ração para peixes de aquário, além de ração para cães, gatos, pássaros e criação. Dicas de quantidade.",
+ "ogDescription": "Casa de ração a 2,4 km do Jardim Moreira: ração para peixes de aquário, além de ração para cães, gatos, pássaros e criação. Dicas de quantidade.",
+ "badge": "Ração para peixes",
+ "h1": "Casa de ração perto do <span class=\"acc\">Jardim Moreira</span>",
+ "intro": [
+  "O peixe é o bicho mais fácil de esquecer na hora da compra. E é o que mais sofre com o erro mais comum: comida demais.",
+  "O Pet Shop Palmira fica a 2,4 km do Jardim Moreira e tem ração para peixes, conforme o estoque, junto com ração para cães, gatos, pássaros e criação."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Pouca comida, água limpa"
+  },
+  {
+   "type": "p",
+   "html": "Peixe de aquário come pouco. A regra mais usada é oferecer só o que ele consegue comer em dois ou três minutos, uma ou duas vezes ao dia. O que sobra afunda, apodrece e suja a água. Água suja adoece o peixe muito mais do que um dia de fome."
+  },
+  {
+   "type": "h2",
+   "text": "Tipos de ração"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Tipo",
+    "Para quem"
+   ],
+   "rows": [
+    [
+     "Em flocos",
+     "Peixes que comem na superfície"
+    ],
+    [
+     "Granulada que afunda",
+     "Peixes que comem no meio ou no fundo"
+    ],
+    [
+     "Específica",
+     "Algumas espécies precisam de ração própria"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Se você não sabe que peixe tem, tire uma foto e mande pelo WhatsApp (11) 97460-5359. A gente ajuda a escolher."
+  },
+  {
+   "type": "h2",
+   "text": "Viagem de fim de semana"
+  },
+  {
+   "type": "p",
+   "html": "Peixe adulto e saudável costuma ficar bem um ou dois dias sem comida. Melhor isso do que deixar um punhado de ração no aquário, que vai sujar a água inteira."
+  },
+  {
+   "type": "h2",
+   "text": "Validade depois de aberto"
+  },
+  {
+   "type": "p",
+   "html": "Ração de peixe perde vitamina com o tempo depois de aberta. Compre pote pequeno, feche bem e guarde longe da umidade e do sol."
+  },
+  {
+   "type": "h2",
+   "text": "Para o resto da casa"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Cães",
+     "text": "Golden, Premier, Special Dog, Pedigree, Magnus, Premiatta, Max e Royal Canin."
+    },
+    {
+     "title": "Gatos",
+     "text": "Golden Gatos, CatChow, Whiskas e Royal Canin."
+    },
+    {
+     "title": "Pássaros e roedores",
+     "text": "Misturas de sementes, ração e feno."
+    },
+    {
+     "title": "Criação",
+     "text": "Ração para galinha, porco e cavalo."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Compra e entrega"
+  },
+  {
+   "type": "p",
+   "html": "Loja aberta de segunda a sábado, das 9h às 18h, na Av. Pedro de Souza Lopes, 33B. Pedido pelo WhatsApp e entrega no Jardim Moreira combinada por ligação antes. Pix, débito, crédito ou dinheiro, sem taxa extra no cartão."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Quantas vezes por dia dou comida ao peixe?",
+   "a": "Uma ou duas vezes, só o que ele come em dois ou três minutos."
+  },
+  {
+   "q": "Vocês vendem aquário?",
+   "a": "Consulte pelo WhatsApp o que temos no momento."
+  },
+  {
+   "q": "Entregam no Jardim Moreira?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "humanizado": true
 }

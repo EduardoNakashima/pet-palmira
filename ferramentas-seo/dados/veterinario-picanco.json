@@ -1,5 +1,116 @@
 {
  "slug": "veterinario-picanco",
  "keyword": "veterinário Picanço",
- "slides": []
+ "slides": [],
+ "title": "Veterinário Perto do Picanço, Guarulhos | Pink Vet parceira",
+ "description": "Veterinário a 2,3 km do Picanço: Pink Vet, na Av. Pedro de Souza Lopes, 33. Vômito e diarreia no cão e no gato: quando ir à consulta.",
+ "ogDescription": "Veterinário a 2,3 km do Picanço: Pink Vet, na Av. Pedro de Souza Lopes, 33. Vômito e diarreia no cão e no gato: quando ir à consulta.",
+ "badge": "Vômito e diarreia",
+ "h1": "Veterinário perto do <span class=\"acc\">Picanço</span>",
+ "intro": [
+  "Vômito e diarreia estão entre os motivos mais comuns de ida ao veterinário. Às vezes passam sozinhos em um dia. Às vezes são sinal de algo sério. Saber a diferença ajuda a agir na hora certa.",
+  "O Pet Shop Palmira não é clínica veterinária. Para consulta, vacinas e check-up, indicamos a Pink Vet Consultório Veterinário, nossa parceira, a 2,3 km do Picanço."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Pink Vet"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Endereço",
+     "text": "Av. Pedro de Souza Lopes, 33, Jardim Palmira, na mesma avenida da nossa loja."
+    },
+    {
+     "title": "Atendimento",
+     "text": "Consulta, vacinas e check-up."
+    },
+    {
+     "title": "Horário",
+     "text": "Segunda a sexta, das 9h às 17h. Sábado, das 9h às 16h."
+    },
+    {
+     "title": "Contato",
+     "text": "WhatsApp (11) 93317-1589. Nota 5,0 no Google."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Pode esperar e observar"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Um vômito isolado, com o animal animado depois.",
+    "Fezes um pouco moles por um dia, depois de comer algo diferente.",
+    "Animal comendo, bebendo água e brincando normalmente."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Mesmo assim, fique de olho. Se repetir, marque consulta."
+  },
+  {
+   "type": "h2",
+   "text": "Precisa de consulta logo"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Vômito ou diarreia por mais de um dia.",
+    "Animal que não come ou não bebe água.",
+    "Filhote, idoso ou animal com doença conhecida. Eles desidratam mais rápido.",
+    "Diarreia com sangue ou fezes muito escuras.",
+    "Vômito com sangue.",
+    "Barriga inchada e dolorida.",
+    "Suspeita de que comeu veneno, osso, brinquedo ou remédio."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Fora do horário da Pink Vet, procure um hospital veterinário 24 horas nesses casos."
+  },
+  {
+   "type": "h2",
+   "text": "O que não fazer em casa"
+  },
+  {
+   "type": "p",
+   "html": "Não dê remédio de gente. Vários medicamentos comuns são tóxicos para cães e gatos. Não deixe o animal sem água. E não insista em comida enquanto ele estiver vomitando, sem orientação."
+  },
+  {
+   "type": "h2",
+   "text": "O que levar à consulta"
+  },
+  {
+   "type": "p",
+   "html": "Conte quando começou, quantas vezes aconteceu, o que ele comeu nos últimos dias e se teve acesso a lixo, planta ou produto de limpeza. Uma foto do vômito ou das fezes ajuda a veterinária."
+  },
+  {
+   "type": "h2",
+   "text": "Depois"
+  },
+  {
+   "type": "p",
+   "html": "Se a veterinária indicar ração específica ou remédio, você encontra na farmácia da loja, no número 33B, conforme o estoque."
+  }
+ ],
+ "faq": [
+  {
+   "q": "O Pet Shop Palmira faz consulta?",
+   "a": "Não. A loja não é clínica. Indicamos a Pink Vet."
+  },
+  {
+   "q": "Posso dar remédio de gente para diarreia?",
+   "a": "Não. Muitos remédios humanos são perigosos para animais. Fale com a veterinária."
+  },
+  {
+   "q": "Como marco na Pink Vet?",
+   "a": "Pelo WhatsApp (11) 93317-1589, no botão desta página."
+  }
+ ],
+ "humanizado": true
 }

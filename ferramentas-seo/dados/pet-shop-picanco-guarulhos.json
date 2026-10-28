@@ -5,20 +5,20 @@
  "cluster": "regionalizadas_fase_2",
  "source": "zip",
  "title": "Pet Shop Perto do Picanço, Guarulhos | Pet Shop Palmira",
- "description": "Pet shop perto do Picanço, Guarulhos: ração, farmácia veterinária, banho e tosa para cães e acessórios. A cerca de 2,5 km, no Jardim Palmira.",
- "ogDescription": "Pet shop perto do Picanço, Guarulhos: ração, farmácia veterinária, banho e tosa para cães e acessórios. A cerca de 2,5 km, no Jardim Palmira.",
+ "description": "Pet shop a 2,3 km do Picanço, Guarulhos: banho e tosa para cães com tosa na máquina, ração, farmácia veterinária e acessórios.",
+ "ogDescription": "Pet shop a 2,3 km do Picanço, Guarulhos: banho e tosa para cães com tosa na máquina, ração, farmácia veterinária e acessórios.",
  "faq": [
   {
-   "q": "Vocês entregam no Picanço?",
-   "a": "Entregamos, combinando o local por ligação antes, pelo (11) 2451-1719."
+   "q": "Vocês buscam o cachorro em casa?",
+   "a": "Não. Não temos táxi dog. Você traz e busca o cão na loja."
   },
   {
-   "q": "Qual o horário?",
-   "a": "Segunda a sábado, das 9h às 18h."
+   "q": "Vocês dão banho em gato?",
+   "a": "Não. O banho e tosa é só para cães."
   },
   {
-   "q": "Vocês indicam veterinário?",
-   "a": "Indicamos veterinários e clínicas parceiras de confiança em Guarulhos."
+   "q": "Entregam produtos no Picanço?",
+   "a": "Entregamos, combinando o local por ligação antes."
   }
  ],
  "slides": [
@@ -53,45 +53,100 @@
    "ok": true
   }
  ],
- "badge": "Perto do Picanço",
+ "badge": "Banho e tosa",
  "h1": "Pet shop perto do <span class=\"acc\">Picanço</span>",
  "intro": [
-  "Do Picanço até a nossa loja são uns 2,5 km em linha reta. Dá para vir de carro buscar a ração ou pedir pelo WhatsApp e combinar a entrega.",
-  "O Pet Shop Palmira está na Av. Pedro de Souza Lopes, 33B, no Jardim Palmira, há 25 anos."
+  "Do Picanço até o Pet Shop Palmira são 2,3 km em linha reta. Muita gente do bairro vem pela ração e acaba conhecendo o banho e tosa, que fazemos há anos para os cães da região.",
+  "Esta página explica como ele funciona, para você chegar sabendo."
  ],
  "body": [
   {
    "type": "h2",
-   "text": "O que você encontra"
+   "text": "Como funciona o banho e tosa"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Marque pelo WhatsApp (11) 97460-5359. Diga o porte, a raça e se quer banho ou banho e tosa.",
+    "Traga o cachorro no horário combinado. Não temos táxi dog.",
+    "A gente avisa quando ele estiver pronto.",
+    "Você busca na loja, na Av. Pedro de Souza Lopes, 33B."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Atendemos só cães. Gato, não."
+  },
+  {
+   "type": "h2",
+   "text": "A tosa"
+  },
+  {
+   "type": "p",
+   "html": "A tosa é feita na máquina. Ela deixa o pelo curto e uniforme, bom para o calor e para cão que suja muito. Se você quer um corte de tesoura específico de raça, conte antes, para a gente dizer se dá para fazer."
+  },
+  {
+   "type": "h2",
+   "text": "Antes de trazer"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Passeie antes, para ele chegar com a bexiga vazia.",
+    "Conte se ele tem medo de secador, se morde quando mexem na pata ou se é idoso.",
+    "Avise sobre ferida, caroço ou problema de pele.",
+    "Se ele tem pulga, avise. O banho tira parte delas, mas o antipulgas é que resolve."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "De quanto em quanto tempo"
+  },
+  {
+   "type": "p",
+   "html": "Depende do pelo e da vida do cachorro. Cão de pelo curto que fica dentro de casa pode ir a cada três ou quatro semanas. Cão de quintal ou de pelo longo, às vezes antes. Banho demais resseca a pele."
+  },
+  {
+   "type": "h2",
+   "text": "O que mais tem na loja"
   },
   {
    "type": "cards",
    "items": [
     {
-     "title": "Alimentação",
-     "text": "Ração para cães, gatos, pássaros e roedores."
+     "title": "Ração",
+     "text": "Cães, gatos, pássaros, roedores e criação."
     },
     {
      "title": "Farmácia",
-     "text": "Antipulgas, vermífugos e medicamentos com receita."
+     "text": "Antipulgas, vermífugos e remédios com receita."
     },
     {
      "title": "Higiene",
-     "text": "Shampoo, areia e tapete higiênico."
+     "text": "Shampoo, colônia e tapete higiênico."
     },
     {
-     "title": "Banho e tosa",
-     "text": "Para cães, com tosa na máquina."
+     "title": "Acessórios",
+     "text": "Caminhas, coleiras e caixas de transporte."
     }
    ]
   },
   {
    "type": "h2",
-   "text": "Passeio pelo bairro"
+   "text": "Horário e pagamento"
   },
   {
    "type": "p",
-   "html": "Avenida movimentada pede guia curta e peitoral bem ajustado. Guia retrátil muito longa, perto de carro e moto, é risco. Se o cachorro se assusta fácil, prefira uma guia fixa."
+   "html": "Segunda a sábado, das 9h às 18h. Pix, débito, crédito ou dinheiro, sem taxa extra no cartão. Entrega de produtos no Picanço combinada por ligação antes."
+  },
+  {
+   "type": "h2",
+   "text": "Veterinária"
+  },
+  {
+   "type": "p",
+   "html": "A loja não é clínica. Para consulta, vacinas e check-up, indicamos a Pink Vet, na mesma avenida, no número 33."
   }
- ]
+ ],
+ "humanizado": true
 }

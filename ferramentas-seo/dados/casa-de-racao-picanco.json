@@ -1,5 +1,89 @@
 {
  "slug": "casa-de-racao-picanco",
  "keyword": "casa de ração Picanço",
- "slides": []
+ "slides": [],
+ "title": "Casa de Ração Perto do Picanço, Guarulhos | Pet Shop Palmira",
+ "description": "Casa de ração a 2,3 km do Picanço: ração para cavalos e equinos, além de ração para cães, gatos, pássaros e criação. Entrega combinada.",
+ "ogDescription": "Casa de ração a 2,3 km do Picanço: ração para cavalos e equinos, além de ração para cães, gatos, pássaros e criação. Entrega combinada.",
+ "badge": "Ração para cavalos",
+ "h1": "Casa de ração perto do <span class=\"acc\">Picanço</span>",
+ "intro": [
+  "Nem todo mundo lembra, mas Guarulhos ainda tem cavalo. Em chácara, em sítio da região, em quem trabalha com carroça ou só gosta do bicho. E cavalo come muito.",
+  "O Pet Shop Palmira fica a 2,3 km do Picanço e é casa de ração para cavalo também, além de cães, gatos e outros animais."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Como o cavalo se alimenta"
+  },
+  {
+   "type": "p",
+   "html": "O cavalo foi feito para comer capim quase o dia inteiro. A base da dieta é volumoso: pasto, capim ou feno. A ração entra como complemento, para dar energia e nutrientes que o volumoso sozinho não dá, principalmente em cavalo que trabalha."
+  },
+  {
+   "type": "h2",
+   "text": "Quanto de ração"
+  },
+  {
+   "type": "p",
+   "html": "Depende do peso, da idade e do trabalho do animal. Um cavalo parado precisa de pouca ração. Um que trabalha todo dia precisa de mais. Divida a ração do dia em duas ou mais porções. Muita ração de uma vez faz mal ao intestino do cavalo, que é sensível."
+  },
+  {
+   "type": "h2",
+   "text": "Cuidados que evitam cólica"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Troca de ração sempre aos poucos, ao longo de uma a duas semanas.",
+    "Água limpa à vontade.",
+    "Volumoso disponível, nunca só ração.",
+    "Ração guardada seca. Mofo é perigoso para cavalo.",
+    "Não dê ração logo antes ou logo depois de trabalho pesado."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Cólica em cavalo é emergência. Se ele deitar e rolar, olhar para a barriga ou parar de comer, chame um veterinário de grandes animais na hora."
+  },
+  {
+   "type": "h2",
+   "text": "Guardar ração de cavalo"
+  },
+  {
+   "type": "p",
+   "html": "Saco grande, em lugar seco, fora do chão, longe de rato. Tambor com tampa é uma boa saída para quem tem pouco espaço."
+  },
+  {
+   "type": "h2",
+   "text": "Outros animais"
+  },
+  {
+   "type": "p",
+   "html": "Também temos ração para porco, galinha, pássaros, roedores, cães e gatos. Para cães, Golden, Premier, Special Dog e outras. Para gatos, Golden Gatos, CatChow e Whiskas, conforme o estoque."
+  },
+  {
+   "type": "h2",
+   "text": "Pedido e entrega"
+  },
+  {
+   "type": "p",
+   "html": "Para ração de cavalo, confirme o estoque antes pelo WhatsApp (11) 97460-5359. A entrega no Picanço é combinada por ligação. Loja aberta de segunda a sábado, das 9h às 18h. Pix, débito, crédito ou dinheiro, sem taxa extra no cartão."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Cavalo pode comer só ração?",
+   "a": "Não. A base é capim ou feno. A ração complementa."
+  },
+  {
+   "q": "Vocês têm ração para cavalo sempre?",
+   "a": "Temos, mas o estoque varia. Confirme pelo WhatsApp antes de vir."
+  },
+  {
+   "q": "Entregam no Picanço?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "humanizado": true
 }

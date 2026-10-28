@@ -5,20 +5,20 @@
  "cluster": "regionalizadas_fase_2",
  "source": "zip",
  "title": "Ração para Cachorro no Picanço, Guarulhos | Pet Shop Palmira",
- "description": "Ração para cachorro no Picanço, Guarulhos: como escolher pelo porte e pela fase, marcas em estoque e dicas para conservar o saco aberto.",
- "ogDescription": "Ração para cachorro no Picanço, Guarulhos: como escolher pelo porte e pela fase, marcas em estoque e dicas para conservar o saco aberto.",
+ "description": "Ração para cachorro que come rápido demais no Picanço: riscos de engolir sem mastigar, comedouro lento e como dividir a porção. A 2,3 km.",
+ "ogDescription": "Ração para cachorro que come rápido demais no Picanço: riscos de engolir sem mastigar, comedouro lento e como dividir a porção. A 2,3 km.",
  "faq": [
   {
-   "q": "Como conservar a ração depois de aberta?",
-   "a": "Saco bem fechado ou pote com tampa, em lugar seco e fora do sol."
+   "q": "Comedouro lento funciona?",
+   "a": "Para a maioria dos cães, sim. Ele obriga o cachorro a comer devagar."
   },
   {
-   "q": "Vocês entregam no Picanço?",
-   "a": "Combinando o local por ligação antes."
+   "q": "Posso molhar a ração para ele comer mais devagar?",
+   "a": "Não costuma resolver. Comedouro lento e porções menores funcionam melhor."
   },
   {
-   "q": "Como peço?",
-   "a": "Pelo WhatsApp (11) 97460-5359."
+   "q": "Entregam no Picanço?",
+   "a": "Entregamos, combinando o local por ligação antes."
   }
  ],
  "slides": [
@@ -53,56 +53,80 @@
    "ok": true
   }
  ],
- "badge": "Ração no Picanço",
+ "badge": "Cão que come rápido",
  "h1": "Ração para cachorro no <span class=\"acc\">Picanço</span>",
  "intro": [
-  "Escolher a ração começa por duas perguntas: quantos anos o cachorro tem e qual o tamanho dele. O resto é ajuste fino."
+  "Você coloca a ração no pote e, em menos de um minuto, acabou. O cachorro mal mastiga. Alguns vomitam logo depois. Outros ficam com a barriga estufada.",
+  "Comer rápido demais é comum, principalmente em casa com mais de um cão. O Pet Shop Palmira fica a 2,3 km do Picanço e tem algumas soluções simples."
  ],
  "body": [
   {
    "type": "h2",
-   "text": "Porte e fase"
+   "text": "Por que ele come assim"
   },
   {
-   "type": "table",
-   "head": [
-    "Perfil",
-    "O que procurar"
-   ],
-   "rows": [
-    [
-     "Filhote",
-     "Ração de filhote, com mais energia e grão menor"
-    ],
-    [
-     "Adulto pequeno",
-     "Ração de raça pequena, porção controlada"
-    ],
-    [
-     "Adulto grande",
-     "Grão maior e cuidado com o peso"
-    ],
-    [
-     "Idoso",
-     "Menos caloria e apoio às articulações"
-    ]
+   "type": "p",
+   "html": "Competição é a causa mais comum. Cachorro que divide a casa com outro come como se alguém fosse roubar a comida. Filhote que disputou ração com os irmãos também. E alguns são assim mesmo, de nascença."
+  },
+  {
+   "type": "h2",
+   "text": "Os riscos"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Engolir ar, o que dá gases e desconforto.",
+    "Vomitar a ração inteira logo depois.",
+    "Engasgar com grão grande.",
+    "Em cães grandes de peito fundo, mais risco de torção gástrica, que é emergência."
    ]
   },
   {
    "type": "h2",
-   "text": "Marcas"
+   "text": "O que ajuda"
   },
   {
-   "type": "p",
-   "html": "Golden, Premiatta, Max, Premier, Special Dog, Pedigree, Magnus e Royal Canin, conforme o estoque."
+   "type": "ol",
+   "items": [
+    "Comedouro lento, com divisórias que obrigam o cão a comer devagar.",
+    "Dividir a porção do dia em três refeições menores.",
+    "Alimentar cada cão em um canto, longe dos outros.",
+    "Espalhar a ração em um tapete de farejar ou em brinquedo dispenser.",
+    "Grão do tamanho certo para o porte. Grão grande demais é engolido inteiro."
+   ]
   },
   {
    "type": "h2",
-   "text": "Ração fresca até o fim"
+   "text": "A ração certa"
   },
   {
    "type": "p",
-   "html": "Ração aberta perde cheiro e crocância. Feche bem o saco, guarde longe do sol e do chão. Se o cachorro começar a rejeitar a ração no fim do saco, provavelmente ela pegou ar."
+   "html": "Ração de porte pequeno para cão grande piora o problema, porque ele engole vários grãos de uma vez. Use a linha do porte do seu cachorro. Temos Golden, Premier, Special Dog, Pedigree, Magnus, Premiatta, Max e Royal Canin, conforme o estoque."
+  },
+  {
+   "type": "h2",
+   "text": "Depois de comer"
+  },
+  {
+   "type": "p",
+   "html": "Evite brincadeira forte e passeio longo logo após a refeição, especialmente em cachorro grande. Deixe ele descansar."
+  },
+  {
+   "type": "h2",
+   "text": "Quando procurar veterinário"
+  },
+  {
+   "type": "p",
+   "html": "Barriga dura e inchada, tentativa de vomitar sem sair nada, inquietação e salivação depois de comer podem ser torção gástrica. Leve na hora. Indicamos a Pink Vet, na Av. Pedro de Souza Lopes, 33, e fora do horário dela um hospital veterinário 24 horas."
+  },
+  {
+   "type": "h2",
+   "text": "Compra e entrega"
+  },
+  {
+   "type": "p",
+   "html": "Loja aberta de segunda a sábado, das 9h às 18h. Comedouros e brinquedos dispenser também temos, conforme o estoque. Entrega no Picanço combinada por ligação antes, pelo WhatsApp (11) 97460-5359."
   }
- ]
+ ],
+ "humanizado": true
 }

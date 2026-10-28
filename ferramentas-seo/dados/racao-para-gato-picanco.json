@@ -5,20 +5,20 @@
  "cluster": "regionalizadas_fase_2",
  "source": "zip",
  "title": "Ração para Gato no Picanço, Guarulhos | Pet Shop Palmira",
- "description": "Ração para gato no Picanço, Guarulhos: Golden Gatos, CatChow, Whiskas, sachês e areia. Dicas para o gato beber mais água.",
- "ogDescription": "Ração para gato no Picanço, Guarulhos: Golden Gatos, CatChow, Whiskas, sachês e areia. Dicas para o gato beber mais água.",
+ "description": "Gato que vomita logo depois de comer no Picanço: quando é pressa, quando é bola de pelo e quando é caso de veterinário. Rações e sachês.",
+ "ogDescription": "Gato que vomita logo depois de comer no Picanço: quando é pressa, quando é bola de pelo e quando é caso de veterinário. Rações e sachês.",
  "faq": [
   {
-   "q": "Como faço meu gato beber mais água?",
-   "a": "Potes em vários lugares, longe da comida, e sachê na dieta. Fonte de água também ajuda muitos gatos."
+   "q": "É normal o gato vomitar depois de comer?",
+   "a": "De vez em quando pode acontecer, quase sempre por pressa. Se for frequente, procure a veterinária."
   },
   {
-   "q": "Vocês têm fonte de água?",
-   "a": "Consulte os modelos pelo WhatsApp."
+   "q": "Comedouro lento funciona para gato?",
+   "a": "Funciona para muitos gatos, assim como dividir a comida em porções menores."
   },
   {
-   "q": "Vocês entregam areia no Picanço?",
-   "a": "Combinando o local por ligação antes."
+   "q": "Entregam no Picanço?",
+   "a": "Entregamos, combinando o local por ligação antes."
   }
  ],
  "slides": [
@@ -53,35 +53,95 @@
    "ok": true
   }
  ],
- "badge": "Gatos do Picanço",
+ "badge": "Gato que vomita",
  "h1": "Ração para gato no <span class=\"acc\">Picanço</span>",
  "intro": [
-  "Problema de rim e de bexiga é comum em gato, principalmente porque ele bebe pouca água. A boa notícia é que dá para ajudar com coisas simples."
+  "O gato come, dá alguns passos e vomita a ração quase inteira, ainda com formato de grão. Quem tem gato já viu. Na maioria das vezes, o problema é pressa.",
+  "O Pet Shop Palmira fica a 2,3 km do Picanço e ajuda a entender o que está acontecendo."
  ],
  "body": [
   {
    "type": "h2",
-   "text": "Alimentação"
+   "text": "Comer rápido demais"
   },
   {
    "type": "p",
-   "html": "Ração completa para gatos, como Golden Gatos, CatChow ou Whiskas. Linha para castrados se ele for castrado. E um sachê por dia para aumentar a água da dieta."
+   "html": "Gato com muita fome, ou que divide a comida com outros gatos, come depressa. O estômago enche rápido demais e devolve. A ração sai inteira, sem cheiro de digerida, poucos minutos depois."
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Divida a porção do dia em três ou quatro refeições pequenas.",
+    "Use comedouro lento ou espalhe os grãos em um prato largo.",
+    "Alimente cada gato em um canto, longe dos outros.",
+    "Não deixe o gato ficar muitas horas sem comer. Fome demais traz pressa."
+   ]
   },
   {
    "type": "h2",
-   "text": "Onde colocar a água"
+   "text": "Bola de pelo"
   },
   {
    "type": "p",
-   "html": "Gato prefere a água longe da comida e longe da caixa de areia. Coloque potes em mais de um canto da casa. Muitos gatos bebem mais em fonte de água corrente."
+   "html": "Se o vômito vem com pelo ou em forma de rolinho, é bola de pelo. Escovação frequente e ração para controle de bolas de pelo ajudam. Temos opções da Golden Gatos, CatChow, Whiskas e Royal Canin, conforme o estoque."
   },
   {
    "type": "h2",
-   "text": "Areia"
+   "text": "Troca de ração"
   },
   {
    "type": "p",
-   "html": "Temos areias de tipos diferentes. Caixa limpa todo dia é o que mais evita xixi fora do lugar."
+   "html": "Mudança brusca de ração também pode dar vômito. Faça a troca em uns dez dias, misturando aos poucos."
+  },
+  {
+   "type": "h2",
+   "text": "Quando é caso de veterinário"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Sinal",
+    "O que fazer"
+   ],
+   "rows": [
+    [
+     "Vômito de vez em quando, gato bem",
+     "Observar e ajustar porção"
+    ],
+    [
+     "Vômito várias vezes na semana",
+     "Marcar consulta"
+    ],
+    [
+     "Vômito com sangue ou muitas vezes no dia",
+     "Atendimento no mesmo dia"
+    ],
+    [
+     "Gato sem comer, escondido, abatido",
+     "Atendimento no mesmo dia"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Para consulta, indicamos a Pink Vet, nossa parceira, na Av. Pedro de Souza Lopes, 33."
+  },
+  {
+   "type": "h2",
+   "text": "Sachê ajuda?"
+  },
+  {
+   "type": "p",
+   "html": "Alimento úmido costuma ser comido com mais calma e coloca água na dieta. Um sachê por dia, reduzindo um pouco a ração seca, é uma boa ideia para muitos gatos."
+  },
+  {
+   "type": "h2",
+   "text": "Compra e entrega"
+  },
+  {
+   "type": "p",
+   "html": "Loja aberta de segunda a sábado, das 9h às 18h, na Av. Pedro de Souza Lopes, 33B. Pedido pelo WhatsApp (11) 97460-5359. Entrega no Picanço combinada por ligação antes."
   }
- ]
+ ],
+ "humanizado": true
 }
