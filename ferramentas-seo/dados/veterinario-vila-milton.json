@@ -1,5 +1,121 @@
 {
  "slug": "veterinario-vila-milton",
  "keyword": "veterinário Vila Milton",
- "slides": []
+ "slides": [],
+ "title": "Veterinário Perto da Vila Milton, Guarulhos | Pink Vet parceira",
+ "description": "Veterinário a 2,8 km da Vila Milton: Pink Vet, na Av. Pedro de Souza Lopes, 33. Quando é urgência e quando dá para marcar a consulta.",
+ "ogDescription": "Veterinário a 2,8 km da Vila Milton: Pink Vet, na Av. Pedro de Souza Lopes, 33. Quando é urgência e quando dá para marcar a consulta.",
+ "badge": "Urgência ou consulta",
+ "h1": "Veterinário perto da <span class=\"acc\">Vila Milton</span>",
+ "intro": [
+  "Nem todo problema pode esperar o horário da consulta. E nem todo problema é emergência. Saber separar uma coisa da outra ajuda o tutor a agir certo e com menos aflição.",
+  "O Pet Shop Palmira não é clínica veterinária. Para consulta, vacinas e check-up, indicamos a Pink Vet Consultório Veterinário, nossa parceira, a 2,8 km da Vila Milton."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Pink Vet"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Av. Pedro de Souza Lopes, 33, Jardim Palmira, na mesma avenida da loja.",
+    "Consulta, vacinas e check-up.",
+    "Segunda a sexta, das 9h às 17h. Sábado, das 9h às 16h.",
+    "Nota 5,0 no Google.",
+    "WhatsApp (11) 93317-1589, pelo botão desta página."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Emergência, procure atendimento já"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Respiração",
+     "text": "Falta de ar, boca aberta em gato, gengiva roxa."
+    },
+    {
+     "title": "Urina",
+     "text": "Gato macho fazendo força sem sair xixi."
+    },
+    {
+     "title": "Trauma",
+     "text": "Atropelamento, queda, briga com outro animal."
+    },
+    {
+     "title": "Intoxicação",
+     "text": "Veneno, remédio de gente, planta tóxica, chocolate."
+    },
+    {
+     "title": "Convulsão",
+     "text": "Ou desmaio."
+    },
+    {
+     "title": "Barriga",
+     "text": "Inchada e dura, com tentativa de vomitar sem sucesso."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Nesses casos, fora do horário da Pink Vet, vá a um hospital veterinário 24 horas sem esperar."
+  },
+  {
+   "type": "h2",
+   "text": "Merece consulta nos próximos dias"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Coceira, queda de pelo ou ferida que não melhora.",
+    "Mancar leve, sem dor forte.",
+    "Mudança no apetite por mais de um dia.",
+    "Tosse que vai e volta.",
+    "Mau hálito ou dificuldade para mastigar.",
+    "Caroço novo na pele."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Rotina, para marcar com calma"
+  },
+  {
+   "type": "p",
+   "html": "Vacinas, check-up anual, retorno de tratamento, dúvida sobre ração ou peso."
+  },
+  {
+   "type": "h2",
+   "text": "Como ajudar a veterinária"
+  },
+  {
+   "type": "p",
+   "html": "Anote quando o problema começou e como evoluiu. Filme o comportamento estranho, como tosse, tremor ou mancar, porque no consultório o animal costuma disfarçar. Leve a lista de remédios que ele toma."
+  },
+  {
+   "type": "h2",
+   "text": "Remédio receitado"
+  },
+  {
+   "type": "p",
+   "html": "Com a receita em mãos, você encontra na farmácia da loja, no número 33B, antipulgas, vermífugos e medicamentos como Otovet, Agemoxi, Maxicam e enrofloxacina, conforme o estoque."
+  }
+ ],
+ "faq": [
+  {
+   "q": "O Pet Shop Palmira tem veterinário?",
+   "a": "Não. A loja não é clínica. Indicamos a Pink Vet."
+  },
+  {
+   "q": "A Pink Vet atende emergência à noite?",
+   "a": "O horário é de segunda a sexta, das 9h às 17h, e sábado, das 9h às 16h. Fora disso, procure um hospital veterinário 24 horas."
+  },
+  {
+   "q": "Como marco na Pink Vet?",
+   "a": "Pelo WhatsApp (11) 93317-1589, no botão desta página."
+  }
+ ],
+ "humanizado": true
 }

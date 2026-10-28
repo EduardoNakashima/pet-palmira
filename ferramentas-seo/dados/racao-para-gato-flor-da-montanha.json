@@ -2,52 +2,90 @@
  "slug": "racao-para-gato-flor-da-montanha",
  "keyword": "ração para gato Flor da Montanha",
  "numero": 93,
- "title": "Ração para Gato no Flor da Montanha | Pet Shop Palmira",
- "description": "Ração para gato no Jardim Flor da Montanha, Guarulhos: Golden Gatos, CatChow, Whiskas, sachês e areia. Entrega combinada por ligação.",
- "ogDescription": "Ração para gato no Jardim Flor da Montanha, Guarulhos: Golden Gatos, CatChow, Whiskas, sachês e areia. Entrega combinada por ligação.",
- "badge": "Gatos do Flor da Montanha",
- "h1": "Ração para gato no <span class=\"acc\">Flor da Montanha</span>",
+ "title": "Ração para Gato no Jardim Flor da Montanha | Pet Shop Palmira",
+ "description": "Petiscos para gato no Jardim Flor da Montanha: quanto pode dar por dia, como usar na rotina e por que não substituem a ração. A 2,7 km.",
+ "ogDescription": "Petiscos para gato no Jardim Flor da Montanha: quanto pode dar por dia, como usar na rotina e por que não substituem a ração. A 2,7 km.",
+ "badge": "Petiscos com medida",
+ "h1": "Ração para gato no <span class=\"acc\">Jardim Flor da Montanha</span>",
  "intro": [
-  "Gato que recusa a ração nova não está fazendo manha. Ele estranha cheiro e textura de verdade. Por isso a troca precisa ser lenta."
+  "O gato aprende rápido onde fica o pacote de petisco. Basta ouvir o barulho para aparecer na cozinha. Petisco é ótimo para criar vínculo, mas tem que ter medida.",
+  "O Pet Shop Palmira fica a 2,7 km do Jardim Flor da Montanha e tem ração, sachês e petiscos para gatos."
  ],
  "body": [
   {
    "type": "h2",
-   "text": "O que temos"
+   "text": "Quanto de petisco por dia"
   },
   {
    "type": "p",
-   "html": "Golden Gatos, CatChow e Whiskas, linhas para castrados, sachês, patês e areia."
+   "html": "Uma regra usada por muitos veterinários: petisco não deve passar de cerca de 10% das calorias do dia. Para um gato adulto, isso é pouco. Leia a embalagem, que costuma dizer a quantidade máxima por peso. Se der petisco, diminua um pouco a ração."
   },
   {
    "type": "h2",
-   "text": "Trocando de ração"
+   "text": "Para que serve o petisco"
   },
   {
-   "type": "p",
-   "html": "Misture a nova com a antiga ao longo de 7 a 10 dias. Se o gato parar de comer, volte para a proporção anterior. Gato que fica mais de um dia sem comer precisa de veterinário."
+   "type": "ul",
+   "items": [
+    "Recompensa na hora de entrar na caixa de transporte.",
+    "Distração no corte de unha ou na escovação.",
+    "Brincadeira de caçar, jogando o petisco pela casa.",
+    "Agrado depois de remédio."
+   ]
   },
   {
    "type": "h2",
-   "text": "Hidratação"
+   "text": "O que não serve de petisco"
   },
   {
    "type": "p",
-   "html": "Um sachê por dia ajuda. Potes de água em mais de um lugar também."
+   "html": "Leite de vaca, que dá diarreia em muitos gatos. Comida temperada, com cebola ou alho, que é tóxica. Osso cozido, que lasca. Chocolate, que é tóxico. Prefira petisco próprio para gatos."
+  },
+  {
+   "type": "h2",
+   "text": "A base continua sendo a ração"
+  },
+  {
+   "type": "p",
+   "html": "Gato que enche a barriga de petisco come menos ração e pode ficar sem nutrientes. A ração completa é a base. Temos Golden Gatos, CatChow, Whiskas e Royal Canin, para filhote, adulto, castrado e idoso, conforme o estoque."
+  },
+  {
+   "type": "h2",
+   "text": "Sachê como agrado"
+  },
+  {
+   "type": "p",
+   "html": "Muitos tutores usam o sachê como o momento especial do dia. Funciona bem: o gato fica feliz, bebe água pela comida e você não exagera em petisco. É só descontar da ração seca."
+  },
+  {
+   "type": "h2",
+   "text": "Gato acima do peso"
+  },
+  {
+   "type": "p",
+   "html": "Se o gato está gordinho, troque o petisco por brincadeira. Dez minutos de varinha valem mais do que um petisco. A veterinária ajuda a definir o peso ideal. Indicamos a Pink Vet, na Av. Pedro de Souza Lopes, 33."
+  },
+  {
+   "type": "h2",
+   "text": "Compra e entrega"
+  },
+  {
+   "type": "p",
+   "html": "Segunda a sábado, das 9h às 18h, na Av. Pedro de Souza Lopes, 33B. Pedido pelo WhatsApp (11) 97460-5359. Entrega no Jardim Flor da Montanha combinada por ligação antes."
   }
  ],
  "faq": [
   {
-   "q": "Meu gato não quer a ração nova. O que fazer?",
-   "a": "Vá mais devagar na troca. Um pouco de sachê por cima ajuda no aceite."
+   "q": "Quantos petiscos o gato pode comer por dia?",
+   "a": "Siga a embalagem e não passe de cerca de 10% das calorias do dia."
   },
   {
-   "q": "Vocês vendem sachê avulso?",
-   "a": "Sim."
+   "q": "Leite é bom petisco para gato?",
+   "a": "Não. O leite de vaca dá diarreia em muitos gatos."
   },
   {
-   "q": "Vocês entregam no Flor da Montanha?",
-   "a": "Combinando o local por ligação antes."
+   "q": "Entregam no Jardim Flor da Montanha?",
+   "a": "Entregamos, combinando o local por ligação antes."
   }
  ],
  "slides": [
@@ -76,5 +114,6 @@
    "ok": true
   }
  ],
- "source": "novo"
+ "source": "novo",
+ "humanizado": true
 }
