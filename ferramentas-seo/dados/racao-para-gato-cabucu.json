@@ -1,0 +1,92 @@
+{
+ "slug": "racao-para-gato-cabucu",
+ "keyword": "ração para gato Cabuçu",
+ "numero": 63,
+ "cluster": "regionalizadas_fase_1",
+ "source": "site",
+ "title": "Ração para Gato no Cabuçu, Guarulhos | Pet Shop Palmira",
+ "description": "Ração para gato no Cabuçu, Guarulhos: Golden Gatos, CatChow, Whiskas, sachês e areia. Pet Shop Palmira, entrega combinada por ligação.",
+ "ogDescription": "Ração para gato no Cabuçu, Guarulhos: Golden Gatos, CatChow, Whiskas, sachês e areia. Pet Shop Palmira, entrega combinada por ligação.",
+ "faq": [
+  {
+   "q": "Qual ração para gato que sai de casa?",
+   "a": "Uma ração completa para gato adulto, na porção para o peso dele. Se ele for castrado, a linha para castrados."
+  },
+  {
+   "q": "Vocês entregam areia no Cabuçu?",
+   "a": "Combinando o local por ligação antes."
+  },
+  {
+   "q": "Gato que sai precisa de antipulgas?",
+   "a": "Precisa, no intervalo que o veterinário indicar."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/pouring-pet-food-into-bowl.jpg",
+   "alt": "Nutrição felina especializada com equilíbrio renal",
+   "caption": "Nutrição Equilibrada com Proteção Renal",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/goldencat.webp",
+   "alt": "Ração Golden Gatos Castrados sabor frango e salmão",
+   "caption": "Golden Gatos: Especial para Castrados",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/whiskas.webp",
+   "alt": "Ração Whiskas com recheio crocante e alta aceitação",
+   "caption": "Whiskas Crocante e Saboroso",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/saches.webp",
+   "alt": "Sachês úmidos para hidratação diária do trato renal dos felinos",
+   "caption": "Sachês Úmidos: Hidratação Renal Obrigatória",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Gatos do Cabuçu",
+ "h1": "Ração para gato no <span class=\"acc\">Cabuçu</span>",
+ "intro": [
+  "Gato de casa com quintal sai, caça, volta. Gato de apartamento fica em casa o dia todo. Os dois precisam de ração completa para gatos, mas a quantidade muda."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "O que temos"
+  },
+  {
+   "type": "p",
+   "html": "Golden Gatos, CatChow e Whiskas, linhas para castrados, sachês e areia higiênica."
+  },
+  {
+   "type": "h2",
+   "text": "Gato que sai de casa"
+  },
+  {
+   "type": "p",
+   "html": "Gato que circula no quintal e na rua precisa de antipulgas e vermífugo em dia. E de uma coleira de segurança com fecho que solta se ele enroscar."
+  },
+  {
+   "type": "h2",
+   "text": "Como comprar"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Mande a marca e o peso pelo WhatsApp (11) 97460-5359.",
+    "A gente confirma o estoque e o valor.",
+    "Retire na loja ou combine a entrega por ligação."
+   ]
+  }
+ ],
+ "humanizado": true
+}

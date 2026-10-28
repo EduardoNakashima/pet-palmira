@@ -1,0 +1,101 @@
+{
+ "slug": "acessorios-para-pets-vila-galvao",
+ "keyword": "acessórios para pets Vila Galvão",
+ "numero": 70,
+ "cluster": "regionalizadas_fase_1",
+ "source": "site",
+ "title": "Acessórios para Pets na Vila Galvão, Guarulhos | Pet Shop Palmira",
+ "description": "Acessórios para pets na Vila Galvão, Guarulhos: peitorais e guias para passeio, caminhas, caixas de transporte e brinquedos para gatos.",
+ "ogDescription": "Acessórios para pets na Vila Galvão, Guarulhos: peitorais e guias para passeio, caminhas, caixas de transporte e brinquedos para gatos.",
+ "faq": [
+  {
+   "q": "Qual peitoral para passear no parque?",
+   "a": "Para cão que puxa, o peitoral antipuxão. Para cão tranquilo, um peitoral comum já resolve."
+  },
+  {
+   "q": "Vocês têm brinquedo para gato?",
+   "a": "Temos. Confirme os modelos pelo WhatsApp."
+  },
+  {
+   "q": "Vocês entregam na Vila Galvão?",
+   "a": "Combinando o local por ligação antes."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/transportesecasinhas.jpg",
+   "alt": "Casinhas térmicas plásticas e caixas de transporte resistentes",
+   "caption": "Casinhas Térmicas e Caixas de Transporte",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/colchoes.webp",
+   "alt": "Caminhas confortáveis e almofadões laváveis com zíper",
+   "caption": "Caminhas Confortáveis e Fáceis de Lavar",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/coleira.webp",
+   "alt": "Peitorais ergonômicos antipuxão e guias reforçadas com amortecedor",
+   "caption": "Guias e Peitorais Antipuxão para Passeios",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/transporte.webp",
+   "alt": "Caixas de transporte homologadas para viagens veiculares e aéreas",
+   "caption": "Caixas Homologadas para Carro e Viagens",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Passeio e casa",
+ "h1": "Acessórios para pets na <span class=\"acc\">Vila Galvão</span>",
+ "intro": [
+  "Passear com o cachorro no Lago dos Patos é programa de fim de semana para muita gente da Vila Galvão. Para o passeio ser tranquilo, o peitoral e a guia precisam estar no tamanho certo."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Para passear"
+  },
+  {
+   "type": "p",
+   "html": "Peitoral é mais seguro para cão que puxa e para raças de focinho curto. Guia firme, do comprimento certo, dá controle sem apertar."
+  },
+  {
+   "type": "h2",
+   "text": "Para dentro de casa"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Caminhas e colchões",
+     "text": "Para o descanso de cães e gatos."
+    },
+    {
+     "title": "Brinquedos para gatos",
+     "text": "Varinhas e bolinhas para o gato de apartamento gastar energia."
+    },
+    {
+     "title": "Caixas de transporte",
+     "text": "Para ir ao veterinário com segurança."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Provar ou mandar foto"
+  },
+  {
+   "type": "p",
+   "html": "Traga o cão na loja para provar o peitoral, ou mande foto, peso e raça pelo WhatsApp."
+  }
+ ],
+ "humanizado": true
+}

@@ -1,0 +1,106 @@
+{
+ "slug": "pet-shop-cabucu-guarulhos",
+ "keyword": "pet shop Cabuçu Guarulhos",
+ "numero": 61,
+ "cluster": "regionalizadas_fase_1",
+ "source": "site",
+ "title": "Pet Shop para Quem Mora no Cabuçu, Guarulhos | Pet Shop Palmira",
+ "description": "Pet shop para quem mora no Cabuçu, Guarulhos: ração para cães, gatos e criação, farmácia veterinária e entrega combinada por ligação.",
+ "ogDescription": "Pet shop para quem mora no Cabuçu, Guarulhos: ração para cães, gatos e criação, farmácia veterinária e entrega combinada por ligação.",
+ "faq": [
+  {
+   "q": "Vocês entregam no Cabuçu?",
+   "a": "Combinando o local por ligação antes. Confirmamos na ligação se o endereço está na nossa área."
+  },
+  {
+   "q": "Vocês têm ração para galinha e cavalo?",
+   "a": "Temos Ovomil para galinhas e Top Horse para cavalos, entre outros."
+  },
+  {
+   "q": "Qual o horário?",
+   "a": "Segunda a sábado, das 9h às 18h."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/loja.jpg",
+   "alt": "Atendimento acolhedor e tradição de 25 anos no Pet Shop Palmira",
+   "caption": "Tradição de 25 Anos na Região",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/racaoparacachorro.jpg",
+   "alt": "Sacos de rações Super Premium e Premium Especial com lote fresco",
+   "caption": "Grandes Marcas de Ração Canina e Felina",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/transportesecasinhas.jpg",
+   "alt": "Casinhas plásticas térmicas, caminhas e caixas de transporte",
+   "caption": "Acessórios, Casinhas e Caixas de Transporte",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/loja2.jpg",
+   "alt": "Corredores com farmácia veterinária, antipulgas e artigos de higiene",
+   "caption": "Farmácia Veterinária e Higiene Completa",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Atendimento ao Cabuçu",
+ "h1": "Pet shop para quem mora no <span class=\"acc\">Cabuçu</span>",
+ "intro": [
+  "O Cabuçu fica a uns 4 km da nossa loja, em linha reta, já perto da Serra da Cantareira. Tem casa com quintal grande, chácara e muita gente que cria mais de um tipo de bicho.",
+  "Para esse público, a gente tem ração de cachorro e gato, mas também de galinha, cavalo e coelho."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "O que você encontra"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Cães e gatos",
+     "text": "Ração, antipulgas, vermífugo e acessórios."
+    },
+    {
+     "title": "Criação",
+     "text": "Ração para galinhas e suínos, milho triturado, farelos e sal mineral."
+    },
+    {
+     "title": "Cavalos e roedores",
+     "text": "Top Horse, ração peletizada, feno e alfafa."
+    },
+    {
+     "title": "Farmácia",
+     "text": "Medicamentos com receita."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Entrega no Cabuçu"
+  },
+  {
+   "type": "p",
+   "html": "A entrega é combinada por ligação antes, pelo (11) 2451-1719. Na ligação a gente confirma se o seu endereço está dentro da área de atendimento."
+  },
+  {
+   "type": "h2",
+   "text": "Perto da mata"
+  },
+  {
+   "type": "p",
+   "html": "Quem mora perto de área verde costuma ter mais carrapato. Mantenha o antipulgas do cachorro em dia, no intervalo que o veterinário indicar."
+  }
+ ],
+ "humanizado": true
+}

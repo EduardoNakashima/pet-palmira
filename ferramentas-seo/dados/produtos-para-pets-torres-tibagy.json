@@ -1,0 +1,86 @@
+{
+ "slug": "produtos-para-pets-torres-tibagy",
+ "keyword": "produtos para pets Torres Tibagy",
+ "numero": 99,
+ "title": "Produtos para Pets no Torres Tibagy | Pet Shop Palmira",
+ "description": "Produtos para pets no Torres Tibagy, Guarulhos: farmácia veterinária, higiene, ração e acessórios. Consulte pelo WhatsApp (11) 97460-5359.",
+ "ogDescription": "Produtos para pets no Torres Tibagy, Guarulhos: farmácia veterinária, higiene, ração e acessórios. Consulte pelo WhatsApp (11) 97460-5359.",
+ "badge": "Farmácia e higiene",
+ "h1": "Produtos para pets no <span class=\"acc\">Torres Tibagy</span>",
+ "intro": [
+  "O antipulgas acabou, o vermífugo venceu, a receita do veterinário está na mão. Para essas horas, tem farmácia veterinária no Pet Shop Palmira."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Farmácia"
+  },
+  {
+   "type": "p",
+   "html": "Frontline Plus, Capstar, vermífugos e medicamentos com receita, como Otovet, Agemoxi e Maxicam. Mande a foto da receita pelo WhatsApp e a gente separa."
+  },
+  {
+   "type": "h2",
+   "text": "Higiene e alimentação"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Shampoo, colônia, areia e tapete higiênico.",
+    "Ração, sachê e petisco.",
+    "Caminhas, coleiras e brinquedos.",
+    "Encomenda do que faltar."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Entrega"
+  },
+  {
+   "type": "p",
+   "html": "Para o Torres Tibagy, combinada por ligação antes, pelo (11) 2451-1719."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Como mando a receita?",
+   "a": "Foto legível pelo WhatsApp (11) 97460-5359."
+  },
+  {
+   "q": "Vocês entregam remédio no Torres Tibagy?",
+   "a": "Combinando o local por ligação antes."
+  },
+  {
+   "q": "Qual o horário?",
+   "a": "Segunda a sábado, das 9h às 18h."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/loja2.webp",
+   "alt": "",
+   "caption": "",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/shampoo.webp",
+   "alt": "",
+   "caption": "",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/brinquedos.webp",
+   "alt": "",
+   "caption": "",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/antiparasitario.webp",
+   "alt": "",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "source": "novo",
+ "humanizado": true
+}

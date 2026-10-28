@@ -1,0 +1,122 @@
+{
+ "slug": "caminhas-e-casinhas-para-cachorro-e-gato",
+ "keyword": "caminhas e casinhas para cachorro e gato",
+ "numero": 41,
+ "cluster": "nao_regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Caminhas e Casinhas para Cachorro e Gato | Pet Shop Palmira",
+ "description": "Caminhas e casinhas para cachorro e gato em Guarulhos: colchões almofadados, caminhas e casinha de madeira tratada. Ajuda com o tamanho pelo WhatsApp.",
+ "ogDescription": "Caminhas e casinhas para cachorro e gato em Guarulhos: colchões almofadados, caminhas e casinha de madeira tratada. Ajuda com o tamanho pelo WhatsApp.",
+ "faq": [
+  {
+   "q": "Como escolho o tamanho da caminha?",
+   "a": "Meça o pet deitado e esticado e some uns 15 centímetros."
+  },
+  {
+   "q": "Qual casinha é melhor para quintal com chuva?",
+   "a": "Uma casinha que fique elevada do chão e com a entrada protegida do vento. Pergunte os modelos disponíveis pelo WhatsApp."
+  },
+  {
+   "q": "As caminhas têm capa com zíper?",
+   "a": "Depende do modelo. Consulte pelo WhatsApp."
+  },
+  {
+   "q": "Vocês entregam casinha e caminha?",
+   "a": "Entregamos, combinando o local por ligação antes, pelo (11) 2451-1719."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/images/produtos/casinha.webp",
+   "alt": "Casinhas plásticas reforçadas para cães e gatos em Guarulhos",
+   "caption": "Casinhas plásticas reforçadas para quintais e varandas",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/colchoes.webp",
+   "alt": "Colchonetes acolchoados e caminhas ortopédicas laváveis",
+   "caption": "Colchonetes impermeáveis e almofadados resistentes",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/roupinha.webp",
+   "alt": "Acessórios de inverno, mantas quentinhas e caminhas confortáveis",
+   "caption": "Conforto térmico completo com mantas e caminhas",
+   "ok": true
+  }
+ ],
+ "badge": "Conforto",
+ "h1": "Caminhas e casinhas para <span class=\"acc\">cachorro e gato</span>",
+ "intro": [
+  "Cachorro dorme boa parte do dia. Gato, mais ainda. Um lugar confortável e do tamanho certo faz diferença, principalmente no inverno."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Caminha ou casinha?"
+  },
+  {
+   "type": "p",
+   "html": "Caminha é para dentro de casa. Casinha é para o cão que fica no quintal e precisa de abrigo contra chuva, vento e sol."
+  },
+  {
+   "type": "h2",
+   "text": "O que você encontra"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Colchões e caminhas almofadadas",
+     "text": "Para cães e gatos descansarem dentro de casa."
+    },
+    {
+     "title": "Casinha de madeira tratada",
+     "text": "Para o quintal, com abrigo do tempo."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Escolha pelo tamanho do pet"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Porte",
+    "Caminha",
+    "Casinha"
+   ],
+   "rows": [
+    [
+     "Pequeno",
+     "Caminha redonda ou com borda",
+     "Tamanho em que ele entra e se vira"
+    ],
+    [
+     "Médio",
+     "Colchão ou caminha retangular",
+     "Um pouco maior que o cão deitado"
+    ],
+    [
+     "Grande",
+     "Colchão firme, para não afundar",
+     "Ele precisa ficar em pé lá dentro"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Higiene"
+  },
+  {
+   "type": "p",
+   "html": "Lave a capa a cada uma ou duas semanas e deixe secar bem antes de recolocar o enchimento. Caminha úmida cria mofo e cheiro."
+  },
+  {
+   "type": "p",
+   "html": "Na casinha, levante do chão para a umidade não entrar e confira o telhado depois de chuva forte."
+  }
+ ],
+ "humanizado": true
+}

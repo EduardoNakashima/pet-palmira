@@ -1,0 +1,86 @@
+{
+ "slug": "entrega-de-racao-em-domicilio-com-pagamento-no-pix-ou-cartao",
+ "keyword": "entrega de ração em domicílio com pagamento no Pix ou cartão",
+ "numero": 50,
+ "cluster": "nao_regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Entrega de Ração em Domicílio com Pix ou Cartão | Pet Shop Palmira",
+ "description": "Entrega de ração em domicílio em Guarulhos com pagamento no Pix, cartão ou dinheiro. Entrega combinada por ligação no Jardim Palmira e região.",
+ "ogDescription": "Entrega de ração em domicílio em Guarulhos com pagamento no Pix, cartão ou dinheiro. Entrega combinada por ligação no Jardim Palmira e região.",
+ "faq": [
+  {
+   "q": "Como funciona o agendamento da entrega?",
+   "a": "Por ligação, pelo (11) 2451-1719 ou ligação no WhatsApp. Combinamos endereço, pedido e horário."
+  },
+  {
+   "q": "Quais formas de pagamento vocês aceitam?",
+   "a": "Pix, cartão de débito e crédito e dinheiro."
+  },
+  {
+   "q": "Quais bairros vocês atendem?",
+   "a": "O Jardim Palmira e bairros num raio de uns 10 km, como Parque Continental, Vila Galvão, Rosa de França, Picanço e Vila Rosália."
+  },
+  {
+   "q": "Como são combinadas as condições da entrega?",
+   "a": "Na ligação. Local, horário e demais detalhes são acertados antes."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/images/servicos/delivery.webp",
+   "alt": "Entrega de ração em domicílio no Pet Shop Palmira Guarulhos",
+   "caption": "Entrega pontual combinando por ligação antecipadamente",
+   "ok": true
+  },
+  {
+   "src": "assets/images/organico/racaoparacachorro.jpg",
+   "alt": "Estoque variado de rações secas e medicamentos",
+   "caption": "Estoque amplo com as melhores marcas para cães e gatos",
+   "ok": true
+  },
+  {
+   "src": "assets/images/organico/loja2.jpg",
+   "alt": "Fachada e expedição da loja física no Jardim Palmira",
+   "caption": "Loja física e atendimento humano há mais de 25 anos",
+   "ok": true
+  }
+ ],
+ "badge": "Entrega combinada",
+ "h1": "Entrega de ração em domicílio com pagamento <span class=\"acc\">no Pix ou cartão</span>",
+ "intro": [
+  "Saco de 15 ou 20 kg de ração não é coisa para carregar a pé. O Pet Shop Palmira entrega, e você paga com Pix, cartão de débito, crédito ou dinheiro.",
+  "A regra é uma só: a entrega é combinada por ligação antes. Ligue no (11) 2451-1719 ou faça uma ligação pelo WhatsApp (11) 97460-5359."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "O que dá para pedir"
+  },
+  {
+   "type": "p",
+   "html": "Ração, areia, sachê, tapete higiênico, antipulgas e medicamento com receita. Os itens pesados são os que mais compensam entregar."
+  },
+  {
+   "type": "h2",
+   "text": "Formas de pagamento"
+  },
+  {
+   "type": "p",
+   "html": "Pix, cartão de débito e crédito das principais bandeiras e dinheiro. Não cobramos taxa extra no cartão."
+  },
+  {
+   "type": "h2",
+   "text": "Como pedir"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Mande o produto, a marca e o peso pelo WhatsApp.",
+    "A gente confirma o estoque e o valor.",
+    "Na ligação, combinamos o local e o horário.",
+    "Você recebe e paga com Pix, cartão ou dinheiro."
+   ]
+  }
+ ],
+ "humanizado": true
+}

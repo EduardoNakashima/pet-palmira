@@ -1,0 +1,88 @@
+{
+ "slug": "racao-para-gato-vila-galvao",
+ "keyword": "ração para gato Vila Galvão",
+ "numero": 68,
+ "cluster": "regionalizadas_fase_1",
+ "source": "site",
+ "title": "Ração para Gato na Vila Galvão, Guarulhos | Pet Shop Palmira",
+ "description": "Ração para gato na Vila Galvão, Guarulhos: Golden Gatos, CatChow, Whiskas, sachês e areia para gatos de apartamento.",
+ "ogDescription": "Ração para gato na Vila Galvão, Guarulhos: Golden Gatos, CatChow, Whiskas, sachês e areia para gatos de apartamento.",
+ "faq": [
+  {
+   "q": "Qual areia é melhor para apartamento?",
+   "a": "A que forma torrão ou a de sílica costumam segurar melhor o cheiro. Veja qual o seu gato aceita."
+  },
+  {
+   "q": "Vocês têm ração para castrado?",
+   "a": "Temos. Confirme as linhas disponíveis pelo WhatsApp."
+  },
+  {
+   "q": "Vocês entregam areia na Vila Galvão?",
+   "a": "Combinando o local por ligação antes."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/pouring-pet-food-into-bowl.jpg",
+   "alt": "Nutrição felina especializada com equilíbrio renal",
+   "caption": "Nutrição Equilibrada com Proteção Renal",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/goldencat.webp",
+   "alt": "Ração Golden Gatos Castrados sabor frango e salmão",
+   "caption": "Golden Gatos: Especial para Castrados",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/whiskas.webp",
+   "alt": "Ração Whiskas com recheio crocante e alta aceitação",
+   "caption": "Whiskas Crocante e Saboroso",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/saches.webp",
+   "alt": "Sachês úmidos para hidratação diária do trato renal dos felinos",
+   "caption": "Sachês Úmidos: Hidratação Renal Obrigatória",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Gatos da Vila Galvão",
+ "h1": "Ração para gato na <span class=\"acc\">Vila Galvão</span>",
+ "intro": [
+  "Muitos gatos da Vila Galvão vivem em apartamento. Ficam em casa, dormem bastante e se mexem pouco. A ração e a areia certas deixam a rotina mais fácil para eles e para você."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Ração"
+  },
+  {
+   "type": "p",
+   "html": "Golden Gatos, CatChow e Whiskas, com linhas para castrados. Gato de apartamento castrado é o perfil que mais precisa de controle de peso."
+  },
+  {
+   "type": "h2",
+   "text": "Areia para apartamento"
+  },
+  {
+   "type": "p",
+   "html": "Em apartamento, o cheiro da caixa incomoda mais. Areia que forma torrão facilita tirar só o que sujou. Sílica segura bem o cheiro, mas alguns gatos estranham."
+  },
+  {
+   "type": "h2",
+   "text": "Sachê e água"
+  },
+  {
+   "type": "p",
+   "html": "Um sachê por dia ajuda na hidratação. Água fresca em mais de um lugar da casa também."
+  }
+ ],
+ "humanizado": true
+}

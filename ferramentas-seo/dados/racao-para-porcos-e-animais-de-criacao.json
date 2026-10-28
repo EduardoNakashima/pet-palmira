@@ -1,0 +1,93 @@
+{
+ "slug": "racao-para-porcos-e-animais-de-criacao",
+ "keyword": "ração para porcos e animais de criação",
+ "numero": 48,
+ "cluster": "nao_regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Ração para Porcos e Animais de Criação | Pet Shop Palmira",
+ "description": "Ração para porcos e animais de criação em Guarulhos: ração balanceada para suínos, farelos, milho triturado e sal mineral.",
+ "ogDescription": "Ração para porcos e animais de criação em Guarulhos: ração balanceada para suínos, farelos, milho triturado e sal mineral.",
+ "faq": [
+  {
+   "q": "Ração é melhor que lavagem?",
+   "a": "Para crescimento e saúde, sim. A lavagem pode trazer contaminação e não tem os nutrientes na medida."
+  },
+  {
+   "q": "Qual a diferença entre ração de crescimento e de terminação?",
+   "a": "A de crescimento tem mais proteína para formar músculo. A de terminação é ajustada para a fase final de peso."
+  },
+  {
+   "q": "Vocês entregam saco de ração em chácara?",
+   "a": "Dentro da nossa área, sim, combinando o local por ligação antes."
+  },
+  {
+   "q": "Vocês têm ração para cabra e ovelha?",
+   "a": "Consulte pelo WhatsApp. Se não tivermos, verificamos a encomenda."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/images/produtos/vacas.webp",
+   "alt": "Ração balanceada para suínos e animais de fazenda",
+   "caption": "Nutrição de alta conversão para suínos e animais de criação",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/cavalo.webp",
+   "alt": "Rações concentradas e farelos para chácaras e sítios",
+   "caption": "Farelos de soja, trigo, milho moído e sal mineral",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/galinha.webp",
+   "alt": "Linha completa para pequenos e médios criadores",
+   "caption": "Suprimentos agropecuários com mais de 25 anos de tradição",
+   "ok": true
+  }
+ ],
+ "badge": "Criação",
+ "h1": "Ração para porcos e <span class=\"acc\">animais de criação</span>",
+ "intro": [
+  "Quem cria porco em chácara sabe que a lavagem sai barata, mas o animal cresce menos e adoece mais. Ração balanceada dá resultado mais previsível."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Ração ou lavagem?"
+  },
+  {
+   "type": "p",
+   "html": "A ração balanceada tem a proteína e os minerais na medida para cada fase. O porco cresce de forma mais uniforme e com menos risco de doença. Resto de comida pode trazer contaminação."
+  },
+  {
+   "type": "h2",
+   "text": "Por fase"
+  },
+  {
+   "type": "p",
+   "html": "O leitão desmamado precisa de ração inicial. Na fase de crescimento entra mais proteína para formar músculo. Na terminação, a ração é ajustada para o peso final."
+  },
+  {
+   "type": "h2",
+   "text": "O que você encontra"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Ração balanceada para suínos.",
+    "Milho triturado e farelos.",
+    "Sal mineral para animais de pasto.",
+    "Ração para peixes, como a Alcon Basic."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Manejo"
+  },
+  {
+   "type": "p",
+   "html": "Cocho limpo, água fresca à vontade e chiqueiro seco. Troca de ração aos poucos, como em qualquer animal."
+  }
+ ],
+ "humanizado": true
+}

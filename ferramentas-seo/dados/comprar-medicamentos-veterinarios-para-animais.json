@@ -1,0 +1,101 @@
+{
+ "slug": "comprar-medicamentos-veterinarios-para-animais",
+ "keyword": "comprar medicamentos veterinários para animais",
+ "numero": 12,
+ "cluster": "nao_regionalizadas_fase_1",
+ "source": "site",
+ "title": "Comprar Medicamentos Veterinários | Pet Shop Palmira",
+ "description": "Comprar medicamentos veterinários em Guarulhos: envie a receita pelo WhatsApp, confirme o valor e retire na loja ou combine a entrega por ligação.",
+ "ogDescription": "Comprar medicamentos veterinários em Guarulhos: envie a receita pelo WhatsApp, confirme o valor e retire na loja ou combine a entrega por ligação.",
+ "faq": [
+  {
+   "q": "Vocês vendem o remédio já fracionado para o peso do meu pet?",
+   "a": "Vendemos na apresentação do fabricante. A dose para o peso do seu pet está na receita, e a gente ajuda a conferir."
+  },
+  {
+   "q": "Vocês entregam medicamentos?",
+   "a": "Sim, combinando o local por ligação antes, pelo (11) 2451-1719 ou ligação no WhatsApp."
+  },
+  {
+   "q": "Como mando a receita?",
+   "a": "Tire uma foto com boa luz, mostrando o nome do medicamento e a dose, e envie para o nosso WhatsApp."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/images/produtos/capstar.webp",
+   "alt": "Medicamentos veterinários com ação rápida contra parasitas",
+   "caption": "Farmácia Veterinária com Ação Rápida",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/frontline.webp",
+   "alt": "Antipulgas e carrapatos em pipeta tópica de alta eficácia",
+   "caption": "Antipulgas em Pipeta e Spray",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/agemoxi.webp",
+   "alt": "Antibióticos, anti-inflamatórios e curativos para cães e gatos",
+   "caption": "Antibióticos e Anti-inflamatórios",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/loja2.jpg",
+   "alt": "Prateleiras de farmácia veterinária com orientação farmacêutica básica",
+   "caption": "Farmácia Preventiva Completa",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Receita pelo WhatsApp",
+ "h1": "Comprar medicamentos <span class=\"acc\">veterinários</span> para animais",
+ "intro": [
+  "Para comprar um remédio que o veterinário receitou, mande uma foto legível da receita para (11) 97460-5359. A equipe confere se tem no estoque e passa o valor."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "O que considerar"
+  },
+  {
+   "type": "p",
+   "html": "Siga exatamente a dose e o tempo de tratamento da receita, mesmo que o pet melhore antes. Parar antibiótico no meio do caminho pode fazer a infecção voltar."
+  },
+  {
+   "type": "p",
+   "html": "Se o veterinário indicou uma marca específica e ela estiver em falta, pergunte para ele antes de trocar."
+  },
+  {
+   "type": "h2",
+   "text": "Remédios que você encontra aqui"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Antipulgas: Frontline Plus e Capstar.",
+    "Solução para ouvido: Otovet.",
+    "Antibiótico: Agemoxi e Enrofloxacina.",
+    "Anti-inflamatório: Maxicam."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Como fazer o pedido"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Envie a foto da receita pelo WhatsApp.",
+    "A gente confirma marca, apresentação e valor.",
+    "Você retira na loja ou combina a entrega por ligação."
+   ]
+  }
+ ],
+ "humanizado": true
+}

@@ -1,0 +1,98 @@
+{
+ "slug": "pet-shop-picanco-guarulhos",
+ "keyword": "pet shop Picanço Guarulhos",
+ "numero": 76,
+ "cluster": "regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Pet Shop Perto do Picanço, Guarulhos | Pet Shop Palmira",
+ "description": "Pet shop perto do Picanço, Guarulhos: ração, farmácia veterinária, banho e tosa para cães e acessórios. A cerca de 2,5 km, no Jardim Palmira.",
+ "ogDescription": "Pet shop perto do Picanço, Guarulhos: ração, farmácia veterinária, banho e tosa para cães e acessórios. A cerca de 2,5 km, no Jardim Palmira.",
+ "faq": [
+  {
+   "q": "Vocês entregam no Picanço?",
+   "a": "Entregamos, combinando o local por ligação antes, pelo (11) 2451-1719."
+  },
+  {
+   "q": "Qual o horário?",
+   "a": "Segunda a sábado, das 9h às 18h."
+  },
+  {
+   "q": "Vocês indicam veterinário?",
+   "a": "Indicamos veterinários e clínicas parceiras de confiança em Guarulhos."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/loja.jpg",
+   "alt": "Fachada e corredores repletos de produtos no Pet Shop Palmira",
+   "caption": "Loja Completa com Mais de 25 Anos de Tradição",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/racaoparacachorro.jpg",
+   "alt": "Sacos de rações Super Premium e Premium Especial para cães e gatos",
+   "caption": "Rações Super Premium, Medicamentos e Nutrição",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/frontline.webp",
+   "alt": "Farmácia veterinária completa com antipulgas e carrapaticidas",
+   "caption": "Farmácia Veterinária com Antipulgas e Vermífugos",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/transportesecasinhas.jpg",
+   "alt": "Casinhas plásticas confortáveis, caixas de transporte e caminhas",
+   "caption": "Acessórios, Casinhas Térmicas e Caixas de Transporte",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Perto do Picanço",
+ "h1": "Pet shop perto do <span class=\"acc\">Picanço</span>",
+ "intro": [
+  "Do Picanço até a nossa loja são uns 2,5 km em linha reta. Dá para vir de carro buscar a ração ou pedir pelo WhatsApp e combinar a entrega.",
+  "O Pet Shop Palmira está na Av. Pedro de Souza Lopes, 33B, no Jardim Palmira, há 25 anos."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "O que você encontra"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Alimentação",
+     "text": "Ração para cães, gatos, pássaros e roedores."
+    },
+    {
+     "title": "Farmácia",
+     "text": "Antipulgas, vermífugos e medicamentos com receita."
+    },
+    {
+     "title": "Higiene",
+     "text": "Shampoo, areia e tapete higiênico."
+    },
+    {
+     "title": "Banho e tosa",
+     "text": "Para cães, com tosa na máquina."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Passeio pelo bairro"
+  },
+  {
+   "type": "p",
+   "html": "Avenida movimentada pede guia curta e peitoral bem ajustado. Guia retrátil muito longa, perto de carro e moto, é risco. Se o cachorro se assusta fácil, prefira uma guia fixa."
+  }
+ ],
+ "humanizado": true
+}

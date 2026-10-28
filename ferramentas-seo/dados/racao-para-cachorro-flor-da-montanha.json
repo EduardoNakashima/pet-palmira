@@ -1,0 +1,98 @@
+{
+ "slug": "racao-para-cachorro-flor-da-montanha",
+ "keyword": "ração para cachorro Flor da Montanha",
+ "numero": 92,
+ "title": "Ração para Cachorro no Flor da Montanha | Pet Shop Palmira",
+ "description": "Ração para cachorro no Jardim Flor da Montanha, Guarulhos: filhote, adulto e idoso, em sacos de até 20 kg. Golden, Premier, Pedigree e mais.",
+ "ogDescription": "Ração para cachorro no Jardim Flor da Montanha, Guarulhos: filhote, adulto e idoso, em sacos de até 20 kg. Golden, Premier, Pedigree e mais.",
+ "badge": "Ração no Flor da Montanha",
+ "h1": "Ração para cachorro no <span class=\"acc\">Flor da Montanha</span>",
+ "intro": [
+  "Cada fase do cachorro pede uma ração diferente. O filhote precisa crescer, o adulto precisa manter o peso, o idoso precisa de menos caloria."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Por fase"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Fase",
+    "Exemplos na loja"
+   ],
+   "rows": [
+    [
+     "Filhote",
+     "Golden Filhotes, Premiatta Filhotes, Max Filhotes"
+    ],
+    [
+     "Adulto",
+     "Golden Formula, Premiatta Classic, Max Professional"
+    ],
+    [
+     "Outras marcas",
+     "Premier, Special Dog, Pedigree, Magnus e Royal Canin"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Quantidade"
+  },
+  {
+   "type": "p",
+   "html": "Siga a tabela pelo peso ideal do cachorro e divida em duas refeições. Petisco entra na conta."
+  },
+  {
+   "type": "h2",
+   "text": "Entrega"
+  },
+  {
+   "type": "p",
+   "html": "Saco grande é pesado. Para o Flor da Montanha, a entrega é combinada por ligação antes, pelo (11) 2451-1719."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Quando trocar a ração de filhote para adulto?",
+   "a": "Em geral perto de 1 ano. Raças grandes podem demorar mais. O veterinário confirma."
+  },
+  {
+   "q": "Vocês entregam no Flor da Montanha?",
+   "a": "Combinando o local por ligação antes."
+  },
+  {
+   "q": "Como peço?",
+   "a": "Pelo WhatsApp (11) 97460-5359."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/racaoparacachorro.webp",
+   "alt": "",
+   "caption": "",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/golden.webp",
+   "alt": "",
+   "caption": "",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/premiata.webp",
+   "alt": "",
+   "caption": "",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/max.webp",
+   "alt": "",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "source": "novo",
+ "humanizado": true
+}

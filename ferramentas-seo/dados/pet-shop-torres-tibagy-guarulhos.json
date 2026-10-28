@@ -1,0 +1,81 @@
+{
+ "slug": "pet-shop-torres-tibagy-guarulhos",
+ "keyword": "pet shop Torres Tibagy Guarulhos",
+ "numero": 96,
+ "title": "Pet Shop Perto do Torres Tibagy, Guarulhos | Pet Shop Palmira",
+ "description": "Pet shop perto do Torres Tibagy, Guarulhos: ração, farmácia veterinária, banho e tosa para cães e acessórios. A cerca de 3 km, no Jardim Palmira.",
+ "ogDescription": "Pet shop perto do Torres Tibagy, Guarulhos: ração, farmácia veterinária, banho e tosa para cães e acessórios. A cerca de 3 km, no Jardim Palmira.",
+ "badge": "Perto do Torres Tibagy",
+ "h1": "Pet shop perto do <span class=\"acc\">Torres Tibagy</span>",
+ "intro": [
+  "O Torres Tibagy fica a uns 3 km da nossa loja, em linha reta. Para quem mora lá, o Pet Shop Palmira resolve ração, remédio e acessório sem precisar ir ao centro."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "O que tem na loja"
+  },
+  {
+   "type": "p",
+   "html": "Ração para cães, gatos e outros bichos, farmácia veterinária, higiene, acessórios e banho e tosa para cães."
+  },
+  {
+   "type": "h2",
+   "text": "Por que um pet shop de bairro"
+  },
+  {
+   "type": "p",
+   "html": "Você é atendido por gente que conhece os produtos e lembra do seu pet. Se algo falta, a gente encomenda. Se você não sabe o que levar, a gente pergunta antes de vender."
+  },
+  {
+   "type": "h2",
+   "text": "Entrega"
+  },
+  {
+   "type": "p",
+   "html": "Combinada por ligação antes, pelo (11) 2451-1719 ou ligação no WhatsApp (11) 97460-5359. Na ligação a gente confirma se o endereço está na nossa área."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Vocês entregam no Torres Tibagy?",
+   "a": "Combinando o local por ligação antes."
+  },
+  {
+   "q": "Vocês têm banho e tosa?",
+   "a": "Temos, só para cães, com tosa na máquina."
+  },
+  {
+   "q": "Qual o horário?",
+   "a": "Segunda a sábado, das 9h às 18h."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/loja.webp",
+   "alt": "",
+   "caption": "",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/golden.webp",
+   "alt": "",
+   "caption": "",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/frontline.webp",
+   "alt": "",
+   "caption": "",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/casinha.webp",
+   "alt": "",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "source": "novo",
+ "humanizado": true
+}

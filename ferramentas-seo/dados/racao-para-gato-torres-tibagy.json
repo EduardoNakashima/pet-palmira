@@ -1,0 +1,81 @@
+{
+ "slug": "racao-para-gato-torres-tibagy",
+ "keyword": "ração para gato Torres Tibagy",
+ "numero": 98,
+ "title": "Ração para Gato no Torres Tibagy | Pet Shop Palmira",
+ "description": "Ração para gato no Torres Tibagy, Guarulhos: ração seca, linha para castrados, sachês e areia. Pet Shop Palmira, entrega combinada.",
+ "ogDescription": "Ração para gato no Torres Tibagy, Guarulhos: ração seca, linha para castrados, sachês e areia. Pet Shop Palmira, entrega combinada.",
+ "badge": "Gatos do Torres Tibagy",
+ "h1": "Ração para gato no <span class=\"acc\">Torres Tibagy</span>",
+ "intro": [
+  "Gato gordo parece fofo, mas sofre: diabetes, problema de articulação, dificuldade para se limpar. Manter o peso é uma das melhores coisas que você pode fazer por ele."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Como manter o peso"
+  },
+  {
+   "type": "p",
+   "html": "Ração para castrados se ele for castrado. Porção medida, não pote cheio o dia todo. Brincadeira diária."
+  },
+  {
+   "type": "h2",
+   "text": "O que temos"
+  },
+  {
+   "type": "p",
+   "html": "Golden Gatos, CatChow e Whiskas, sachês, patês e areia."
+  },
+  {
+   "type": "h2",
+   "text": "Como saber se está acima do peso"
+  },
+  {
+   "type": "p",
+   "html": "Você deve sentir as costelas ao passar a mão, sem apertar. Se não sente, converse com o veterinário sobre a porção."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Posso deixar ração à vontade para o gato?",
+   "a": "Para muitos gatos, isso leva ao ganho de peso. Medir a porção é mais seguro."
+  },
+  {
+   "q": "Vocês têm ração para castrado?",
+   "a": "Temos. Confirme as linhas pelo WhatsApp."
+  },
+  {
+   "q": "Vocês entregam no Torres Tibagy?",
+   "a": "Combinando o local por ligação antes."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/cachorroegato.webp",
+   "alt": "",
+   "caption": "",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/goldencat.webp",
+   "alt": "",
+   "caption": "",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/catchow.webp",
+   "alt": "",
+   "caption": "",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/saches.webp",
+   "alt": "",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "source": "novo",
+ "humanizado": true
+}

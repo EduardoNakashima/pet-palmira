@@ -1,0 +1,81 @@
+{
+ "slug": "tapete-higienico-para-cachorro-com-otimo-preco",
+ "keyword": "tapete higiênico para cachorro com ótimo preço",
+ "numero": 39,
+ "cluster": "nao_regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Tapete Higiênico para Cachorro com Ótimo Preço | Pet Shop Palmira",
+ "description": "Tapete higiênico para cachorro com bom preço em Guarulhos. Dicas para o pacote render mais e para ensinar o cão a usar. Pet Shop Palmira.",
+ "ogDescription": "Tapete higiênico para cachorro com bom preço em Guarulhos. Dicas para o pacote render mais e para ensinar o cão a usar. Pet Shop Palmira.",
+ "faq": [
+  {
+   "q": "O atrativo do tapete atrai mosca?",
+   "a": "Não. O atrativo é um cheiro que o cachorro percebe e que ajuda a guiar ele até o tapete."
+  },
+  {
+   "q": "Vocês têm tapete de carvão ativado?",
+   "a": "Consulte os modelos disponíveis pelo WhatsApp."
+  },
+  {
+   "q": "Como peço pacotes com entrega?",
+   "a": "Pelo WhatsApp (11) 97460-5359. A entrega é combinada por ligação."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/images/produtos/colchoes.webp",
+   "alt": "Colchonetes e área higiênica organizada para cães",
+   "caption": "Conforto e Organização do Espaço Sanitário Pet",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/casinha.webp",
+   "alt": "Casinhas e acessórios de higiene para cachorro",
+   "caption": "Bem-Estar, Higiene e Praticidade para Seu Lar",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/transporte.webp",
+   "alt": "Caixas de transporte e tapetes higiênicos para viagens",
+   "caption": "Ideal para Casa e para Forrar Caixas de Transporte",
+   "ok": true
+  }
+ ],
+ "badge": "Higiene",
+ "h1": "Tapete higiênico para cachorro com <span class=\"acc\">ótimo preço</span>",
+ "intro": [
+  "Jornal velho resolve, mas vaza, mancha o chão e deixa cheiro. O tapete higiênico absorve o xixi e segura o odor por mais tempo."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Por que o tapete funciona melhor"
+  },
+  {
+   "type": "p",
+   "html": "O tapete tem uma camada que transforma o líquido em gel. O chão fica seco e o cachorro não pisa no molhado e sai espalhando pela casa."
+  },
+  {
+   "type": "h2",
+   "text": "Para o pacote render mais"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Compre pacotes maiores, que costumam sair mais barato por unidade.",
+    "Deixe o tapete sempre no mesmo lugar, para o cão acertar.",
+    "Troque só quando estiver usado, não por hábito.",
+    "Use um suporte para o tapete não sair do lugar."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Não é só para filhote"
+  },
+  {
+   "type": "p",
+   "html": "Tapete higiênico ajuda em viagem de carro, no pós-operatório e com cachorro idoso que não segura tanto."
+  }
+ ],
+ "humanizado": true
+}

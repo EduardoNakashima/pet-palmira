@@ -1,0 +1,92 @@
+{
+ "slug": "pet-shop-vila-galvao-guarulhos",
+ "keyword": "pet shop Vila Galvão Guarulhos",
+ "numero": 66,
+ "cluster": "regionalizadas_fase_1",
+ "source": "site",
+ "title": "Pet Shop Perto da Vila Galvão, Guarulhos | Pet Shop Palmira",
+ "description": "Pet shop perto da Vila Galvão, Guarulhos: ração, farmácia veterinária, banho e tosa para cães. A cerca de 2 km, no Jardim Palmira.",
+ "ogDescription": "Pet shop perto da Vila Galvão, Guarulhos: ração, farmácia veterinária, banho e tosa para cães. A cerca de 2 km, no Jardim Palmira.",
+ "faq": [
+  {
+   "q": "Vocês entregam na Vila Galvão?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  },
+  {
+   "q": "Qual o horário?",
+   "a": "Segunda a sábado, das 9h às 18h. Domingo fechado."
+  },
+  {
+   "q": "Vocês fazem banho e tosa?",
+   "a": "Só em cães, com tosa na máquina. O tutor traz e busca o cão na loja."
+  },
+  {
+   "q": "Vocês indicam veterinário?",
+   "a": "Indicamos veterinários e clínicas parceiras de confiança em Guarulhos."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/loja.jpg",
+   "alt": "Atendimento acolhedor e tradição de 25 anos no Pet Shop Palmira",
+   "caption": "Tradição de 25 Anos na Região",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/racaoparacachorro.jpg",
+   "alt": "Sacos de rações Super Premium e Premium Especial com lote fresco",
+   "caption": "Grandes Marcas de Ração Canina e Felina",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/transportesecasinhas.jpg",
+   "alt": "Casinhas plásticas térmicas, caminhas e caixas de transporte",
+   "caption": "Acessórios, Casinhas e Caixas de Transporte",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/loja2.jpg",
+   "alt": "Corredores com farmácia veterinária, antipulgas e artigos de higiene",
+   "caption": "Farmácia Veterinária e Higiene Completa",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Perto da Vila Galvão",
+ "h1": "Pet shop perto da <span class=\"acc\">Vila Galvão</span>",
+ "intro": [
+  "A Vila Galvão fica a uns 2 km da nossa loja, em linha reta. É perto o suficiente para passar de carro e longe o suficiente para valer a entrega combinada quando o saco de ração é grande."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "O que você encontra"
+  },
+  {
+   "type": "p",
+   "html": "Rações das principais marcas, farmácia veterinária, higiene, acessórios e banho e tosa para cães. Para outros bichos, ração de pássaro, de roedor e de criação."
+  },
+  {
+   "type": "h2",
+   "text": "Farmácia e antipulgas"
+  },
+  {
+   "type": "p",
+   "html": "Quem passeia com o cachorro no Lago dos Patos ou em praça sabe que pulga e carrapato aparecem. Temos Frontline Plus, Capstar e vermífugos."
+  },
+  {
+   "type": "h2",
+   "text": "Como chegar ou pedir"
+  },
+  {
+   "type": "p",
+   "html": "A loja fica na Av. Pedro de Souza Lopes, 33B, Jardim Palmira. Se preferir receber, combine a entrega por ligação pelo (11) 2451-1719."
+  }
+ ],
+ "humanizado": true
+}

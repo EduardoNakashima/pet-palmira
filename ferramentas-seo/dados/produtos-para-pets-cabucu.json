@@ -1,0 +1,93 @@
+{
+ "slug": "produtos-para-pets-cabucu",
+ "keyword": "produtos para pets Cabuçu",
+ "numero": 64,
+ "cluster": "regionalizadas_fase_1",
+ "source": "site",
+ "title": "Produtos para Pets no Cabuçu, Guarulhos | Pet Shop Palmira",
+ "description": "Produtos para pets no Cabuçu, Guarulhos: antipulgas, carrapaticidas, ração, higiene e acessórios para quem mora perto da Cantareira.",
+ "ogDescription": "Produtos para pets no Cabuçu, Guarulhos: antipulgas, carrapaticidas, ração, higiene e acessórios para quem mora perto da Cantareira.",
+ "faq": [
+  {
+   "q": "Qual antipulgas protege contra carrapato?",
+   "a": "Frontline Plus é uma das opções. O veterinário indica o melhor para o seu cachorro."
+  },
+  {
+   "q": "Vocês entregam remédio no Cabuçu?",
+   "a": "Combinando o local por ligação antes. Para remédio com receita, mande a foto dela pelo WhatsApp."
+  },
+  {
+   "q": "O que fazer se achar carrapato no cachorro?",
+   "a": "Retire com cuidado, sem deixar a cabeça presa, e fale com o veterinário se o cão ficar abatido ou sem apetite."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/loja2.jpg",
+   "alt": "Variedade completa em produtos para cães e gatos no Pet Shop Palmira",
+   "caption": "Sortimento Completo em Produtos Pet",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/shampoo.webp",
+   "alt": "Shampoos hipoalergênicos e sabonetes dermatológicos",
+   "caption": "Shampoos e Higiene Especializada",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/brinquedos.webp",
+   "alt": "Brinquedos mordedores resistentes e cordas para recreação",
+   "caption": "Brinquedos Duráveis e Mordedores",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/capstar.webp",
+   "alt": "Farmácia veterinária preventiva, antipulgas e vermífugos",
+   "caption": "Farmácia e Proteção Antipulgas",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Perto da Cantareira",
+ "h1": "Produtos para pets no <span class=\"acc\">Cabuçu</span>",
+ "intro": [
+  "Morar perto da Cantareira tem suas vantagens, e um desafio para quem tem cachorro: carrapato. Área verde tem mais carrapato, e carrapato transmite doença séria."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Proteção contra carrapato"
+  },
+  {
+   "type": "p",
+   "html": "Mantenha o antipulgas e carrapaticida em dia. Na loja temos Frontline Plus e Capstar, entre outros. Depois de passear no mato, confira as orelhas, o pescoço e entre os dedos."
+  },
+  {
+   "type": "h2",
+   "text": "Outros produtos"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Ração para cães, gatos e animais de criação.",
+    "Shampoo e shampoo antiparasitário.",
+    "Caminhas, casinhas e coleiras.",
+    "Medicamentos com receita."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Comprar de longe"
+  },
+  {
+   "type": "p",
+   "html": "O Cabuçu fica a uns 4 km da loja. Para não precisar vir, consulte pelo WhatsApp e combine a entrega por ligação."
+  }
+ ],
+ "humanizado": true
+}

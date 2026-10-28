@@ -1,0 +1,85 @@
+{
+ "slug": "racao-para-galinhas-e-aves-de-criacao",
+ "keyword": "ração para galinhas e aves de criação",
+ "numero": 47,
+ "cluster": "nao_regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Ração para Galinhas e Aves de Criação | Pet Shop Palmira",
+ "description": "Ração para galinhas e aves de criação em Guarulhos: Ovomil Postura, milho triturado e farelos. Pet Shop Palmira, Jardim Palmira.",
+ "ogDescription": "Ração para galinhas e aves de criação em Guarulhos: Ovomil Postura, milho triturado e farelos. Pet Shop Palmira, Jardim Palmira.",
+ "faq": [
+  {
+   "q": "Qual ração ajuda a galinha a botar ovo com casca firme?",
+   "a": "A ração de postura, que tem o cálcio que a galinha precisa."
+  },
+  {
+   "q": "Posso dar só milho para pintinho?",
+   "a": "Não é o ideal. Pintinho precisa de ração inicial, com mais proteína."
+  },
+  {
+   "q": "Vocês vendem por quilo ou só saco fechado?",
+   "a": "Consulte pelo WhatsApp as embalagens disponíveis."
+  },
+  {
+   "q": "Vocês têm bebedouro e comedouro para galinheiro?",
+   "a": "Consulte os modelos pelo WhatsApp."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/images/produtos/galinha.webp",
+   "alt": "Rações de postura e crescimento para galinhas em Guarulhos",
+   "caption": "Rações de postura fortificadas com cálcio e milho limpo",
+   "ok": true
+  },
+  {
+   "src": "assets/images/categorias/pintinho.webp",
+   "alt": "Ração inicial micropeletizada para pintainhas e frangos",
+   "caption": "Fórmulas iniciais e de crescimento com alto teor proteico",
+   "ok": true
+  },
+  {
+   "src": "assets/images/categorias/codorna.webp",
+   "alt": "Rações balanceadas para codornas e aves de pequeno porte",
+   "caption": "Nutrição sob medida para codornas e aves de criação",
+   "ok": true
+  }
+ ],
+ "badge": "Criação",
+ "h1": "Ração para galinhas e <span class=\"acc\">aves de criação</span>",
+ "intro": [
+  "Galinha no quintal é comum por aqui. Para os ovos virem com casca firme e a ave ficar saudável, ração balanceada faz diferença em relação a só milho e resto de comida."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "As fases da galinha"
+  },
+  {
+   "type": "p",
+   "html": "O pintinho precisa de ração inicial, mais proteica, para crescer. A frangota, de ração de crescimento. A galinha que já bota precisa de ração de postura, com cálcio para a casca do ovo."
+  },
+  {
+   "type": "h2",
+   "text": "O que você encontra"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Ovomil Postura e Criação, com cálcio e minerais.",
+    "Milho triturado.",
+    "Farelos.",
+    "Ração para codornas e outras aves de criação, sob consulta."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Cuidados no galinheiro"
+  },
+  {
+   "type": "p",
+   "html": "Água limpa todo dia. Cocho limpo e protegido da chuva, para a ração não mofar. Galinheiro seco e arejado ajuda a evitar doenças."
+  }
+ ],
+ "humanizado": true
+}

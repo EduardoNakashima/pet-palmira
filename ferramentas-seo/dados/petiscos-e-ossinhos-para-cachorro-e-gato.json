@@ -1,0 +1,105 @@
+{
+ "slug": "petiscos-e-ossinhos-para-cachorro-e-gato",
+ "keyword": "petiscos e ossinhos para cachorro e gato",
+ "numero": 33,
+ "cluster": "nao_regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Petiscos e Ossinhos para Cachorro e Gato | Pet Shop Palmira",
+ "description": "Petiscos e ossinhos para cachorro e gato em Guarulhos: ossos mastigáveis de porte pequeno e grande, bifinhos e petiscos. Pet Shop Palmira.",
+ "ogDescription": "Petiscos e ossinhos para cachorro e gato em Guarulhos: ossos mastigáveis de porte pequeno e grande, bifinhos e petiscos. Pet Shop Palmira.",
+ "faq": [
+  {
+   "q": "Quantos petiscos posso dar por dia?",
+   "a": "Algo em torno de 10% das calorias do dia. Na prática, poucos petiscos pequenos."
+  },
+  {
+   "q": "Osso mastigável limpa os dentes?",
+   "a": "Ajuda a raspar um pouco da placa, mas não substitui a escovação."
+  },
+  {
+   "q": "Vocês têm petisco para gato?",
+   "a": "Temos algumas opções. Confirme os sabores pelo WhatsApp."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/images/produtos/ossosportepequeno.webp",
+   "alt": "Ossinhos mastigáveis para cães de porte pequeno e filhotes para controle de tártaro",
+   "caption": "Ossinhos Mastigáveis: Higiene Oral Pequeno Porte",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/ossosportegrande.webp",
+   "alt": "Ossos resistentes para cães de médio e grande porte roerem com segurança",
+   "caption": "Ossos Resistentes: Alívio de Estresse e Ansiedade",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/pate.webp",
+   "alt": "Bifinhos e snacks saborosos para recompensa e adestramento canino",
+   "caption": "Snacks e Bifinhos para Reforço Positivo",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/saches.webp",
+   "alt": "Petiscos cremosos e crocantes para gatos com erva de gato catnip",
+   "caption": "Petiscos Felinos: Crocância com Catnip e Sabor",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Petiscos",
+ "h1": "Petiscos e ossinhos para <span class=\"acc\">cachorro e gato</span>",
+ "intro": [
+  "Petisco é ótimo para treinar, recompensar e distrair. O problema é o exagero. Um petisco a mais por dia vira quilos a mais em alguns meses."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Para que serve o petisco"
+  },
+  {
+   "type": "p",
+   "html": "No treino, ele reforça o comportamento que você quer. No dia a dia, distrai o cachorro que fica sozinho. E osso mastigável ajuda a satisfazer a vontade de roer."
+  },
+  {
+   "type": "h2",
+   "text": "O que você encontra"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Osso mastigável para porte grande e para porte pequeno.",
+    "Bifinhos e petiscos para cães.",
+    "Petiscos para gatos.",
+    "Patês para rechear brinquedos."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Escolhendo o osso certo"
+  },
+  {
+   "type": "p",
+   "html": "O osso precisa ser maior que a boca do cachorro, para ele não tentar engolir inteiro. Fique por perto nas primeiras vezes e tire quando ficar pequeno."
+  },
+  {
+   "type": "p",
+   "html": "Osso de churrasco cozido nunca. Ele lasca e pode machucar o intestino."
+  },
+  {
+   "type": "h2",
+   "text": "A regra dos 10%"
+  },
+  {
+   "type": "p",
+   "html": "Os petiscos do dia não devem passar de mais ou menos 10% das calorias que o pet come. Se der muitos petiscos, diminua um pouco a ração."
+  }
+ ],
+ "humanizado": true
+}

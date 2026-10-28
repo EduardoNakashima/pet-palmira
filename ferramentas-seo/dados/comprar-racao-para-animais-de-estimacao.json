@@ -1,0 +1,97 @@
+{
+ "slug": "comprar-racao-para-animais-de-estimacao",
+ "keyword": "comprar ração para animais de estimação",
+ "numero": 16,
+ "cluster": "nao_regionalizadas_fase_1",
+ "source": "site",
+ "title": "Comprar Ração para Animais de Estimação | Pet Shop Palmira",
+ "description": "Comprar ração para animais de estimação em Guarulhos com economia: dicas de tamanho de saco, troca de ração e entrega combinada por ligação.",
+ "ogDescription": "Comprar ração para animais de estimação em Guarulhos com economia: dicas de tamanho de saco, troca de ração e entrega combinada por ligação.",
+ "faq": [
+  {
+   "q": "Qual tamanho de saco compensa mais?",
+   "a": "O maior que o seu pet consegue terminar em até dois meses depois de aberto."
+  },
+  {
+   "q": "Como trocar de ração sem dar diarreia?",
+   "a": "Misture a nova com a antiga ao longo de 7 dias, aumentando a nova aos poucos."
+  },
+  {
+   "q": "Como peço entrega da ração?",
+   "a": "Fazemos entrega somente combinando o local por ligação antes, pelo (11) 2451-1719 ou ligação no WhatsApp."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/loja.jpg",
+   "alt": "Atendimento acolhedor e tradição de 25 anos no Pet Shop Palmira",
+   "caption": "Tradição de 25 Anos na Região",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/racaoparacachorro.jpg",
+   "alt": "Sacos de rações Super Premium e Premium Especial com lote fresco",
+   "caption": "Grandes Marcas de Ração Canina e Felina",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/transportesecasinhas.jpg",
+   "alt": "Casinhas plásticas térmicas, caminhas e caixas de transporte",
+   "caption": "Acessórios, Casinhas e Caixas de Transporte",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/loja2.jpg",
+   "alt": "Corredores com farmácia veterinária, antipulgas e artigos de higiene",
+   "caption": "Farmácia Veterinária e Higiene Completa",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Ração do mês",
+ "h1": "Comprar ração para <span class=\"acc\">animais de estimação</span>",
+ "intro": [
+  "Comprar ração todo mês fica mais fácil quando você já sabe quanto o seu pet come e quanto tempo dura cada saco. Com essas duas informações, a gente ajuda a achar o tamanho que compensa."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Como economizar"
+  },
+  {
+   "type": "p",
+   "html": "Para cães médios e grandes, saco de 15 ou 20 kg costuma sair mais barato por quilo. Para cão pequeno ou gato, saco grande demais pode perder o sabor antes de acabar."
+  },
+  {
+   "type": "p",
+   "html": "O ideal é terminar a embalagem em até 40 a 60 dias depois de aberta."
+  },
+  {
+   "type": "h2",
+   "text": "Para cada bicho"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Cães: rações de filhote, adulto e idoso.",
+    "Gatos: rações secas, linha para castrados e sachês.",
+    "Pássaros: sementes e ração extrusada.",
+    "Coelhos e porquinhos-da-índia: ração peletizada e feno."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Por que comprar com a gente"
+  },
+  {
+   "type": "p",
+   "html": "Você confirma marca e preço pelo WhatsApp, paga com Pix, cartão ou dinheiro e retira na loja ou combina a entrega. Se a ração de sempre faltar, a gente encomenda."
+  }
+ ],
+ "humanizado": true
+}

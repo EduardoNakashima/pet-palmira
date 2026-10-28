@@ -1,0 +1,117 @@
+{
+ "slug": "loja-de-racao-para-animais-de-estimacao",
+ "keyword": "loja de ração para animais de estimação",
+ "numero": 15,
+ "cluster": "nao_regionalizadas_fase_1",
+ "source": "site",
+ "title": "Loja de Ração para Animais de Estimação | Pet Shop Palmira",
+ "description": "Loja de ração para animais de estimação em Guarulhos: cães, gatos, pássaros, coelhos e animais de criação. Sacos de 15 e 20 kg no Jardim Palmira.",
+ "ogDescription": "Loja de ração para animais de estimação em Guarulhos: cães, gatos, pássaros, coelhos e animais de criação. Sacos de 15 e 20 kg no Jardim Palmira.",
+ "faq": [
+  {
+   "q": "Qual a diferença entre standard, premium e super premium?",
+   "a": "Qualidade dos ingredientes e quanto o organismo aproveita. Quanto melhor a ração, menor costuma ser a porção diária."
+  },
+  {
+   "q": "Vocês têm saco de 15 e 20 kg para cão grande?",
+   "a": "Temos. Confirme a marca e o sabor pelo WhatsApp antes de vir."
+  },
+  {
+   "q": "Como peço a ração pelo WhatsApp?",
+   "a": "Mande a marca, o sabor e o peso para (11) 97460-5359. A entrega é combinada por ligação."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/loja.jpg",
+   "alt": "Atendimento acolhedor e tradição de 25 anos no Pet Shop Palmira",
+   "caption": "Tradição de 25 Anos na Região",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/racaoparacachorro.jpg",
+   "alt": "Sacos de rações Super Premium e Premium Especial com lote fresco",
+   "caption": "Grandes Marcas de Ração Canina e Felina",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/transportesecasinhas.jpg",
+   "alt": "Casinhas plásticas térmicas, caminhas e caixas de transporte",
+   "caption": "Acessórios, Casinhas e Caixas de Transporte",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/loja2.jpg",
+   "alt": "Corredores com farmácia veterinária, antipulgas e artigos de higiene",
+   "caption": "Farmácia Veterinária e Higiene Completa",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Ração para todos",
+ "h1": "Loja de ração para <span class=\"acc\">animais de estimação</span>",
+ "intro": [
+  "Cachorro, gato, calopsita, coelho, galinha. Cada bicho come de um jeito, e a loja precisa dar conta de todos. É o que a gente faz há 25 anos no Jardim Palmira."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Como escolher a ração"
+  },
+  {
+   "type": "p",
+   "html": "Comece pela espécie, depois pela idade e pelo porte. Uma ração de filhote de cachorro não serve para o cão idoso, e ração de cachorro não serve para gato."
+  },
+  {
+   "type": "p",
+   "html": "Para cães e gatos com algum problema de saúde, quem escolhe a ração é o veterinário."
+  },
+  {
+   "type": "h2",
+   "text": "Os tipos de ração que você encontra"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Espécie",
+    "O que temos"
+   ],
+   "rows": [
+    [
+     "Cães",
+     "Rações de filhote, adulto e idoso, em sacos pequenos e de 15 e 20 kg"
+    ],
+    [
+     "Gatos",
+     "Rações secas, linha para castrados, sachês e patês"
+    ],
+    [
+     "Pássaros",
+     "Misturas de sementes e ração extrusada"
+    ],
+    [
+     "Coelhos e roedores",
+     "Ração peletizada, feno e alfafa"
+    ],
+    [
+     "Criação",
+     "Ração para galinhas, suínos e peixes"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Standard, premium e super premium"
+  },
+  {
+   "type": "p",
+   "html": "A diferença está nos ingredientes e no aproveitamento. Rações super premium costumam ter mais proteína de qualidade, e o pet come menos para ficar satisfeito. As standard são mais baratas, mas a porção diária é maior."
+  }
+ ],
+ "humanizado": true
+}

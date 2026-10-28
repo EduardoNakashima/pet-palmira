@@ -1,0 +1,101 @@
+{
+ "slug": "areia-higienica-e-caixa-de-areia-para-gatos",
+ "keyword": "areia higiênica e caixa de areia para gatos",
+ "numero": 40,
+ "cluster": "nao_regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Areia Higiênica e Caixa de Areia para Gatos | Pet Shop Palmira",
+ "description": "Areia higiênica e caixa de areia para gatos em Guarulhos. Qual areia escolher e o que fazer quando o gato faz xixi fora da caixa.",
+ "ogDescription": "Areia higiênica e caixa de areia para gatos em Guarulhos. Qual areia escolher e o que fazer quando o gato faz xixi fora da caixa.",
+ "faq": [
+  {
+   "q": "Por que meu gato começou a fazer xixi fora da caixa?",
+   "a": "Pode ser caixa suja, areia nova, mudança na casa ou problema de saúde. Se a caixa estiver limpa e ele continuar, procure o veterinário."
+  },
+  {
+   "q": "Areia perfumada é boa?",
+   "a": "Muitos gatos não gostam do perfume. Na dúvida, prefira sem cheiro."
+  },
+  {
+   "q": "Como funciona a entrega de areia?",
+   "a": "Combinamos o local por ligação antes, pelo (11) 2451-1719."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/images/produtos/goldencat.webp",
+   "alt": "Cuidados e alimentação premium para gatos no Pet Shop Palmira",
+   "caption": "Linha Completa de Cuidados e Higiene Felina",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/catchow.webp",
+   "alt": "Produtos essenciais para o dia a dia e saúde do gato",
+   "caption": "Bem-Estar Digestivo e Conforto Sanitário",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/transporte.webp",
+   "alt": "Caixas de transporte e caixas sanitárias para gatos",
+   "caption": "Acessórios, Caixas e Segurança para Seu Pet",
+   "ok": true
+  }
+ ],
+ "badge": "Gatos",
+ "h1": "Areia higiênica e caixa de areia <span class=\"acc\">para gatos</span>",
+ "intro": [
+  "Gato é fiel à caixa de areia. Até o dia em que ela fica suja, muda de lugar ou ganha uma areia com cheiro que ele não gosta."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Que areia escolher"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Tipo",
+    "Como é"
+   ],
+   "rows": [
+    [
+     "Areia comum",
+     "Mais barata, precisa trocar inteira com frequência"
+    ],
+    [
+     "Areia que forma torrão",
+     "O xixi vira bolinha, e você tira só o que sujou"
+    ],
+    [
+     "Sílica",
+     "Absorve bem e segura o cheiro, mas alguns gatos estranham a textura"
+    ],
+    [
+     "Granulado vegetal",
+     "Feito de madeira ou milho, mais leve"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Se o seu gato aceita bem a areia atual, não troque à toa."
+  },
+  {
+   "type": "h2",
+   "text": "Caixa aberta ou fechada"
+  },
+  {
+   "type": "p",
+   "html": "A fechada segura o cheiro e a sujeira, mas muitos gatos preferem a aberta. Teste o que o seu gato aceita."
+  },
+  {
+   "type": "h2",
+   "text": "Para evitar problema"
+  },
+  {
+   "type": "p",
+   "html": "Tire a sujeira todo dia. Tenha uma caixa a mais que o número de gatos. Deixe a caixa num lugar calmo, longe da comida."
+  }
+ ],
+ "humanizado": true
+}

@@ -1,0 +1,96 @@
+{
+ "slug": "brinquedos-mordedores-resistentes-para-cachorro",
+ "keyword": "brinquedos mordedores resistentes para cachorro",
+ "numero": 34,
+ "cluster": "nao_regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Brinquedos Mordedores Resistentes para Cachorro | Pet Shop Palmira",
+ "description": "Brinquedos mordedores resistentes para cachorro em Guarulhos. Como escolher o tamanho e o material para cães que destroem tudo.",
+ "ogDescription": "Brinquedos mordedores resistentes para cachorro em Guarulhos. Como escolher o tamanho e o material para cães que destroem tudo.",
+ "faq": [
+  {
+   "q": "Existe mordedor indestrutível?",
+   "a": "Não existe. Alguns duram muito mais, mas todo brinquedo se desgasta."
+  },
+  {
+   "q": "Mordedor ajuda na ansiedade de separação?",
+   "a": "Ajuda a distrair. Um mordedor recheado com petisco ou ração úmida mantém o cão ocupado por um bom tempo."
+  },
+  {
+   "q": "Como escolher o tamanho?",
+   "a": "Maior que a boca do cachorro. Na dúvida, escolha o tamanho acima."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/images/produtos/brinquedos.webp",
+   "alt": "Variedade de brinquedos mordedores em borracha maciça e nylon para cães fortes",
+   "caption": "Borracha Maciça: Resistência a Mordidas Potentes",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/ossosportegrande.webp",
+   "alt": "Mordedores anatômicos e cordas trançadas reforçadas para cães grandes",
+   "caption": "Nylon Atóxico: Não Solta Lascas Perigosas",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/ossosportepequeno.webp",
+   "alt": "Mordedores texturizados para cães de pequeno porte e filhotes aliviarem a gengiva",
+   "caption": "Mordedores Dentais: Massagem na Gengiva",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/transporte.webp",
+   "alt": "Acessórios e brinquedos para enriquecimento ambiental completo em casa",
+   "caption": "Enriquecimento Ambiental contra o Estresse",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Mordedores",
+ "h1": "Brinquedos mordedores <span class=\"acc\">resistentes</span> para cachorro",
+ "intro": [
+  "Tem cachorro que destrói um brinquedo de pelúcia em dez minutos. Para esse cão, o mordedor certo economiza dinheiro e salva o sofá."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Por que o cachorro rói tudo"
+  },
+  {
+   "type": "p",
+   "html": "Roer é instinto. Ajuda filhote na troca de dente, alivia ansiedade e gasta energia. O cachorro não vai parar de roer, então vale dar a ele algo que pode."
+  },
+  {
+   "type": "h2",
+   "text": "Materiais mais resistentes"
+  },
+  {
+   "type": "p",
+   "html": "Borracha maciça e nylon duro aguentam bem mais do que plástico comum e pelúcia. Corda de algodão trançada também dura, e serve para brincar de puxar."
+  },
+  {
+   "type": "h2",
+   "text": "Revezar os brinquedos"
+  },
+  {
+   "type": "p",
+   "html": "Deixe dois ou três à disposição e guarde o resto. Troque a cada poucos dias. Brinquedo que some e volta parece novo."
+  },
+  {
+   "type": "h2",
+   "text": "Segurança"
+  },
+  {
+   "type": "p",
+   "html": "O mordedor tem que ser maior que a boca do cachorro. Quando começar a se desmanchar ou ficar pequeno, jogue fora. Pedaço engolido pode causar obstrução."
+  }
+ ],
+ "humanizado": true
+}

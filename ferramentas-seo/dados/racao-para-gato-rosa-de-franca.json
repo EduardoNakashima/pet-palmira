@@ -1,0 +1,88 @@
+{
+ "slug": "racao-para-gato-rosa-de-franca",
+ "keyword": "ração para gato Rosa de França",
+ "numero": 73,
+ "cluster": "regionalizadas_fase_1",
+ "source": "site",
+ "title": "Ração para Gato no Rosa de França | Pet Shop Palmira",
+ "description": "Ração para gato no Jardim Rosa de França, Guarulhos: linha para castrados, sachês para hidratação e areia higiênica. Pet Shop Palmira.",
+ "ogDescription": "Ração para gato no Jardim Rosa de França, Guarulhos: linha para castrados, sachês para hidratação e areia higiênica. Pet Shop Palmira.",
+ "faq": [
+  {
+   "q": "Vocês vendem caixa fechada de sachê?",
+   "a": "Consulte pelo WhatsApp. Temos unidades avulsas."
+  },
+  {
+   "q": "Qual ração para gato castrado?",
+   "a": "Uma linha para castrados, como a Golden Gatos Castrados."
+  },
+  {
+   "q": "Qual o horário da loja?",
+   "a": "Segunda a sábado, das 9h às 18h."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/pouring-pet-food-into-bowl.jpg",
+   "alt": "Nutrição felina especializada com equilíbrio renal",
+   "caption": "Nutrição Equilibrada com Proteção Renal",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/goldencat.webp",
+   "alt": "Ração Golden Gatos Castrados sabor frango e salmão",
+   "caption": "Golden Gatos: Especial para Castrados",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/whiskas.webp",
+   "alt": "Ração Whiskas com recheio crocante e alta aceitação",
+   "caption": "Whiskas Crocante e Saboroso",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/saches.webp",
+   "alt": "Sachês úmidos para hidratação diária do trato renal dos felinos",
+   "caption": "Sachês Úmidos: Hidratação Renal Obrigatória",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Gatos do Rosa de França",
+ "h1": "Ração para gato no <span class=\"acc\">Rosa de França</span>",
+ "intro": [
+  "Dois cuidados resolvem boa parte dos problemas de saúde do gato de casa: controlar o peso e fazer ele beber água. A ração e o sachê ajudam nos dois."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Peso"
+  },
+  {
+   "type": "p",
+   "html": "Gato castrado tende a engordar. A ração para castrados tem menos caloria. Meça a porção, não encha o pote."
+  },
+  {
+   "type": "h2",
+   "text": "Água"
+  },
+  {
+   "type": "p",
+   "html": "Gato bebe pouco. O sachê tem muita água na composição. Um por dia, junto com a ração seca, já ajuda os rins e a bexiga."
+  },
+  {
+   "type": "h2",
+   "text": "Areia"
+  },
+  {
+   "type": "p",
+   "html": "Caixa limpa todo dia evita que o gato faça xixi fora. Temos areias de tipos diferentes. Se o seu gato se adaptou a uma, não troque à toa."
+  }
+ ],
+ "humanizado": true
+}

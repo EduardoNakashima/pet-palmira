@@ -1,0 +1,98 @@
+{
+ "slug": "pet-shop-jardim-flor-da-montanha",
+ "keyword": "pet shop Jardim Flor da Montanha",
+ "numero": 91,
+ "title": "Pet Shop Perto do Jardim Flor da Montanha | Pet Shop Palmira",
+ "description": "Pet shop perto do Jardim Flor da Montanha, Guarulhos: ração, farmácia veterinária, banho e tosa para cães e acessórios. A cerca de 3 km.",
+ "ogDescription": "Pet shop perto do Jardim Flor da Montanha, Guarulhos: ração, farmácia veterinária, banho e tosa para cães e acessórios. A cerca de 3 km.",
+ "badge": "Perto do Flor da Montanha",
+ "h1": "Pet shop perto do <span class=\"acc\">Jardim Flor da Montanha</span>",
+ "intro": [
+  "O Jardim Flor da Montanha fica a uns 3 km da nossa loja, em linha reta, do lado do Picanço. Para quem mora lá, o Pet Shop Palmira é um pet shop de bairro com 25 anos no mesmo endereço."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "O que você resolve aqui"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Alimentação",
+     "text": "Ração para cães, gatos, pássaros, roedores e criação."
+    },
+    {
+     "title": "Farmácia",
+     "text": "Antipulgas, vermífugos e medicamentos com receita."
+    },
+    {
+     "title": "Banho e tosa",
+     "text": "Para cães, com tosa na máquina."
+    },
+    {
+     "title": "Acessórios",
+     "text": "Caminhas, casinhas, coleiras e caixas de transporte."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Veterinários parceiros"
+  },
+  {
+   "type": "p",
+   "html": "Para consulta, vacina e exame, indicamos veterinários e clínicas parceiras de confiança em Guarulhos."
+  },
+  {
+   "type": "h2",
+   "text": "Como comprar"
+  },
+  {
+   "type": "p",
+   "html": "Na Av. Pedro de Souza Lopes, 33B, de segunda a sábado. Ou pelo WhatsApp (11) 97460-5359, com entrega combinada por ligação."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Vocês entregam no Flor da Montanha?",
+   "a": "Combinando o local por ligação antes. Na ligação confirmamos se o endereço está na nossa área."
+  },
+  {
+   "q": "Vocês fazem banho em gato?",
+   "a": "Não. O banho e tosa é só para cães."
+  },
+  {
+   "q": "Quais formas de pagamento?",
+   "a": "Pix, cartão de débito e crédito e dinheiro."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/loja.webp",
+   "alt": "",
+   "caption": "",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/golden.webp",
+   "alt": "",
+   "caption": "",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/frontline.webp",
+   "alt": "",
+   "caption": "",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/casinha.webp",
+   "alt": "",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "source": "novo",
+ "humanizado": true
+}

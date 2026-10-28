@@ -1,0 +1,87 @@
+{
+ "slug": "produtos-para-pets-vila-rosalia",
+ "keyword": "produtos para pets Vila Rosália",
+ "numero": 84,
+ "cluster": "regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Produtos para Pets na Vila Rosália | Pet Shop Palmira",
+ "description": "Produtos para pets na Vila Rosália, Guarulhos: antipulgas, vermífugos, higiene, ração e acessórios. Pet Shop Palmira, a menos de 2 km.",
+ "ogDescription": "Produtos para pets na Vila Rosália, Guarulhos: antipulgas, vermífugos, higiene, ração e acessórios. Pet Shop Palmira, a menos de 2 km.",
+ "faq": [
+  {
+   "q": "Como acerto a dose do antipulgas?",
+   "a": "Pelo peso do pet. Pese ele antes de comprar."
+  },
+  {
+   "q": "Vocês vendem remédio com receita?",
+   "a": "Vendemos. Mande a foto da receita pelo WhatsApp."
+  },
+  {
+   "q": "Vocês entregam na Vila Rosália?",
+   "a": "Combinando o local por ligação antes."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/images/produtos/frontline.webp",
+   "alt": "Pipetas e Spray Frontline no Pet Shop Palmira",
+   "caption": "Antipulgas Tópicos Frontline Proteção imediata contra pulgas e carrapatos em cães e gatos.",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/bravecto.webp",
+   "alt": "Bravecto mastigável para cães da Vila Rosália",
+   "caption": "Bravecto Mastigável Até 12 semanas de tranquilidade contra carrapatos e sarnas.",
+   "ok": false
+  },
+  {
+   "src": "assets/images/produtos/tapete.webp",
+   "alt": "Tapetes higiênicos descartáveis para cães",
+   "caption": "Tapetes Higiênicos de Alta Retenção Gel superabsorvente, patinhas secas e casa sem odor de urina.",
+   "ok": false
+  },
+  {
+   "src": "assets/organico/loja.jpg",
+   "alt": "Interior do Pet Shop Palmira com prateleiras cheias",
+   "caption": "Loja Física Completa e Aconchegante Venha tomar um café conosco e escolher os melhores itens para seu pet.",
+   "ok": true
+  }
+ ],
+ "badge": "Prevenção",
+ "h1": "Produtos para pets na <span class=\"acc\">Vila Rosália</span>",
+ "intro": [
+  "Prevenir sai mais barato do que tratar. Antipulgas e vermífugo em dia evitam muita ida ao veterinário."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Prevenção"
+  },
+  {
+   "type": "p",
+   "html": "Temos Frontline Plus, Capstar e vermífugos para cães e gatos. A dose vai pelo peso, então tenha o peso do pet atualizado."
+  },
+  {
+   "type": "h2",
+   "text": "Outros produtos"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Ração, sachê e petisco.",
+    "Shampoo, areia e tapete higiênico.",
+    "Caminhas, coleiras e brinquedos.",
+    "Medicamentos com receita."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Comprar perto"
+  },
+  {
+   "type": "p",
+   "html": "A loja fica a menos de 2 km da Vila Rosália. Passe de segunda a sábado ou combine a entrega por ligação."
+  }
+ ],
+ "humanizado": true
+}

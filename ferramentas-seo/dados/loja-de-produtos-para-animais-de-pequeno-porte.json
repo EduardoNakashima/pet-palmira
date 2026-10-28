@@ -1,0 +1,98 @@
+{
+ "slug": "loja-de-produtos-para-animais-de-pequeno-porte",
+ "keyword": "loja de produtos para animais de pequeno porte",
+ "numero": 19,
+ "cluster": "nao_regionalizadas_fase_1",
+ "source": "site",
+ "title": "Loja de Produtos para Animais de Pequeno Porte | Pet Shop Palmira",
+ "description": "Produtos para animais de pequeno porte em Guarulhos: ração para coelhos e porquinhos-da-índia, feno e alfafa no Pet Shop Palmira.",
+ "ogDescription": "Produtos para animais de pequeno porte em Guarulhos: ração para coelhos e porquinhos-da-índia, feno e alfafa no Pet Shop Palmira.",
+ "faq": [
+  {
+   "q": "Quanto de ração dar para coelho e porquinho?",
+   "a": "Uma pequena porção diária, seguindo a embalagem. O que não pode faltar é feno à vontade."
+  },
+  {
+   "q": "Posso usar qualquer serragem no fundo da gaiola?",
+   "a": "Não. Serragem de marcenaria tem pó e às vezes produto químico. Use forração própria para roedores."
+  },
+  {
+   "q": "Como peço pelo WhatsApp?",
+   "a": "Mande a espécie e o produto para (11) 97460-5359. A entrega é combinada por ligação."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/images/produtos/coelho.webp",
+   "alt": "Alimentos e feno para coelhos, porquinhos-da-índia e hamsters",
+   "caption": "Alimentos para Coelhos e Roedores",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/transportesecasinhas.jpg",
+   "alt": "Gaiolas espaçosas e bebedouros de bico metálico para pequenos animais",
+   "caption": "Gaiolas e Bebedouros Automáticos",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/loja2.jpg",
+   "alt": "Substratos higiênicos de madeira e petiscos naturais",
+   "caption": "Substratos e Higiene Roedora",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/brinquedos.webp",
+   "alt": "Brinquedos de madeira para desgaste dental de roedores",
+   "caption": "Brinquedos para Desgaste Dental",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Pequenos pets",
+ "h1": "Loja de produtos para <span class=\"acc\">animais de pequeno porte</span>",
+ "intro": [
+  "Coelho e porquinho-da-índia parecem fáceis de cuidar, mas têm uma dieta bem diferente de cão e gato. A base é feno, todo dia, à vontade.",
+  "No Pet Shop Palmira você encontra ração peletizada para coelhos e roedores, feno e alfafa."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Cuidados com o pequeno pet"
+  },
+  {
+   "type": "p",
+   "html": "O dente desses bichos cresce a vida toda. Mastigar feno é o que gasta o dente no ritmo certo."
+  },
+  {
+   "type": "p",
+   "html": "Porquinho-da-índia não produz vitamina C sozinho. Precisa receber pela ração própria para a espécie e por verduras frescas."
+  },
+  {
+   "type": "h2",
+   "text": "O que temos"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Ração peletizada para coelhos, como a Ração Criador.",
+    "Feno e alfafa.",
+    "Acessórios para gaiola, como bebedouro e comedouro.",
+    "Brinquedos para roer."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Dicas rápidas"
+  },
+  {
+   "type": "p",
+   "html": "Ração é complemento: uma pequena porção por dia já basta. Verdura escura, bem lavada, ajuda. Alface americana e frutas doces, só de vez em quando."
+  }
+ ],
+ "humanizado": true
+}

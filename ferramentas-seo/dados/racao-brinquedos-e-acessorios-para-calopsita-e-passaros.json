@@ -1,0 +1,89 @@
+{
+ "slug": "racao-brinquedos-e-acessorios-para-calopsita-e-passaros",
+ "keyword": "ração brinquedos e acessórios para calopsita e pássaros",
+ "numero": 49,
+ "cluster": "nao_regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Ração, Brinquedos e Acessórios para Calopsita | Pet Shop Palmira",
+ "description": "Ração, brinquedos e acessórios para calopsita e pássaros em Guarulhos: sementes, ração extrusada, poleiros, gaiolas e brinquedos.",
+ "ogDescription": "Ração, brinquedos e acessórios para calopsita e pássaros em Guarulhos: sementes, ração extrusada, poleiros, gaiolas e brinquedos.",
+ "faq": [
+  {
+   "q": "Ração extrusada é melhor que semente?",
+   "a": "É mais completa. O ideal é combinar as duas, com a extrusada aumentando aos poucos."
+  },
+  {
+   "q": "Por que dar brinquedo para calopsita?",
+   "a": "Bicar e mexer em objetos faz parte do comportamento dela e evita tédio."
+  },
+  {
+   "q": "Vocês têm poleiro de formatos variados?",
+   "a": "Consulte os modelos disponíveis pelo WhatsApp."
+  },
+  {
+   "q": "Vocês têm gaiola para calopsita?",
+   "a": "Temos gaiolas. Confirme os modelos e tamanhos pelo WhatsApp."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/images/categorias/periquito.webp",
+   "alt": "Rações nobres e sementes para calopsitas e periquitos",
+   "caption": "Nutrição equilibrada para calopsitas, canários e psitacídeos",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/brinquedos.webp",
+   "alt": "Brinquedos de madeira atóxica e enriquecimento ambiental",
+   "caption": "Balanços, escadas e brinquedos para forrageamento cognitivo",
+   "ok": true
+  },
+  {
+   "src": "assets/images/categorias/pintinho.webp",
+   "alt": "Linha completa para aves jovens e em reprodução",
+   "caption": "Acessórios, farinhadas e suplementos para aves em geral",
+   "ok": true
+  }
+ ],
+ "badge": "Calopsitas",
+ "h1": "Ração, brinquedos e acessórios para <span class=\"acc\">calopsita e pássaros</span>",
+ "intro": [
+  "Calopsita é curiosa, gosta de companhia e fica entediada fácil. Comida boa e alguma coisa para bicar e mexer deixam ela bem mais feliz."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Da semente para a ração extrusada"
+  },
+  {
+   "type": "p",
+   "html": "Calopsita que come só girassol engorda e fica sem vitaminas. A ração extrusada tem os nutrientes em cada pedacinho."
+  },
+  {
+   "type": "p",
+   "html": "A troca precisa ser lenta. Misture um pouco da ração na semente e aumente ao longo de semanas. Algumas aves demoram para aceitar."
+  },
+  {
+   "type": "h2",
+   "text": "O que você encontra"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Misturas de sementes para calopsita, canário e periquito.",
+    "Ração extrusada.",
+    "Poleiros, bebedouros e comedouros.",
+    "Gaiolas e brinquedos para bicar."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "A gaiola"
+  },
+  {
+   "type": "p",
+   "html": "Gaiola larga o suficiente para a ave abrir as asas. Poleiros de espessuras diferentes, para exercitar as patas. Longe de corrente de ar, de fumaça e da cozinha."
+  }
+ ],
+ "humanizado": true
+}

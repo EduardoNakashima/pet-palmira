@@ -1,0 +1,85 @@
+{
+ "slug": "racao-para-cachorro-torres-tibagy",
+ "keyword": "ração para cachorro Torres Tibagy",
+ "numero": 97,
+ "title": "Ração para Cachorro no Torres Tibagy | Pet Shop Palmira",
+ "description": "Ração para cachorro no Torres Tibagy, Guarulhos: Golden, Premier, Special Dog, Pedigree e Royal Canin. Sacos de 15 e 20 kg com entrega combinada.",
+ "ogDescription": "Ração para cachorro no Torres Tibagy, Guarulhos: Golden, Premier, Special Dog, Pedigree e Royal Canin. Sacos de 15 e 20 kg com entrega combinada.",
+ "badge": "Ração no Torres Tibagy",
+ "h1": "Ração para cachorro no <span class=\"acc\">Torres Tibagy</span>",
+ "intro": [
+  "Saco de 15 kg de ração rende bem mais que três sacos de 5 kg, e costuma sair mais barato por quilo. Para cachorro médio ou grande, quase sempre compensa."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Mas cuidado"
+  },
+  {
+   "type": "p",
+   "html": "Saco grande só vale se o cachorro terminar em até uns dois meses depois de aberto. Para cão pequeno, o saco menor mantém a ração fresca."
+  },
+  {
+   "type": "h2",
+   "text": "Marcas"
+  },
+  {
+   "type": "p",
+   "html": "Golden, Premiatta, Max, Premier, Special Dog, Pedigree, Magnus e Royal Canin. A disponibilidade varia com o estoque."
+  },
+  {
+   "type": "h2",
+   "text": "Pedido"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Mande marca, sabor e peso pelo WhatsApp (11) 97460-5359.",
+    "A gente confirma o valor.",
+    "Combinamos a entrega por ligação."
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "Saco grande sempre compensa?",
+   "a": "Compensa se o cachorro terminar em até uns dois meses depois de aberto."
+  },
+  {
+   "q": "Vocês entregam no Torres Tibagy?",
+   "a": "Combinando o local por ligação antes."
+  },
+  {
+   "q": "Quais formas de pagamento?",
+   "a": "Pix, cartão de débito e crédito e dinheiro."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/racaoparacachorro.webp",
+   "alt": "",
+   "caption": "",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/golden.webp",
+   "alt": "",
+   "caption": "",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/premiata.webp",
+   "alt": "",
+   "caption": "",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/max.webp",
+   "alt": "",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "source": "novo",
+ "humanizado": true
+}

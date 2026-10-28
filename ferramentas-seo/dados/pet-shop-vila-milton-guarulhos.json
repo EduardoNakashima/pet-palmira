@@ -1,0 +1,82 @@
+{
+ "slug": "pet-shop-vila-milton-guarulhos",
+ "keyword": "pet shop Vila Milton Guarulhos",
+ "numero": 86,
+ "cluster": "regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Pet Shop Perto da Vila Milton, Guarulhos | Pet Shop Palmira",
+ "description": "Pet shop perto da Vila Milton, Guarulhos: ração, farmácia veterinária, banho e tosa para cães e acessórios. A cerca de 3 km, no Jardim Palmira.",
+ "ogDescription": "Pet shop perto da Vila Milton, Guarulhos: ração, farmácia veterinária, banho e tosa para cães e acessórios. A cerca de 3 km, no Jardim Palmira.",
+ "faq": [
+  {
+   "q": "Vocês entregam na Vila Milton?",
+   "a": "Entregamos, combinando o local por ligação antes, pelo (11) 2451-1719."
+  },
+  {
+   "q": "Vocês buscam o cachorro para o banho?",
+   "a": "Não. Não fazemos táxi dog. O tutor traz e busca o cão na loja."
+  },
+  {
+   "q": "Qual o horário?",
+   "a": "Segunda a sábado, das 9h às 18h."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/images/produtos/golden.webp",
+   "alt": "Rações para cães adultos e filhotes no Pet Shop Palmira",
+   "caption": "Rações Super Premium e Premium Especial Golden, Premier, Special Dog e opções nutritivas para todas as raças.",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/antiparasitario.webp",
+   "alt": "Farmácia veterinária completa com antipulgas e remédios",
+   "caption": "Farmácia Veterinária com Garantia de Procedência Antipulgas Bravecto, Simparic, vermífugos e medicamentos certificados.",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/transportesecasinhas.webp",
+   "alt": "Acessórios, casinhas e caixas de transporte",
+   "caption": "Casinhas, Caixas de Transporte e Peitorais Conforto térmico e segurança para passeios tranquilos na Vila Milton.",
+   "ok": false
+  },
+  {
+   "src": "assets/images/produtos/goldencat.webp",
+   "alt": "Ração Golden Gatos Castrados no Pet Shop Palmira",
+   "caption": "Nutrição Especializada para Felinos Fórmulas para gatos castrados, controle de bolas de pelo e saúde urinária.",
+   "ok": true
+  }
+ ],
+ "badge": "Perto da Vila Milton",
+ "h1": "Pet shop perto da <span class=\"acc\">Vila Milton</span>",
+ "intro": [
+  "A Vila Milton fica a uns 3 km da nossa loja, em linha reta. Para quem mora lá, o Pet Shop Palmira é um pet shop de bairro a poucos minutos de carro."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "O que você encontra"
+  },
+  {
+   "type": "p",
+   "html": "Ração para cães, gatos e outros bichos. Farmácia veterinária com antipulgas, vermífugos e medicamentos com receita. Higiene e acessórios. Banho e tosa para cães."
+  },
+  {
+   "type": "h2",
+   "text": "Por que vale a viagem curta"
+  },
+  {
+   "type": "p",
+   "html": "Atendimento de quem está no mesmo endereço há 25 anos, encomenda do que faltar e ajuda para escolher. Para não precisar vir, entrega combinada por ligação."
+  },
+  {
+   "type": "h2",
+   "text": "Banho e tosa"
+  },
+  {
+   "type": "p",
+   "html": "Só para cães, com tosa na máquina. Agende pelo WhatsApp e traga o cão até a loja."
+  }
+ ],
+ "humanizado": true
+}

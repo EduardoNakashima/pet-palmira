@@ -1,0 +1,89 @@
+{
+ "slug": "pet-shop-continental-guarulhos",
+ "keyword": "pet shop Continental Guarulhos",
+ "numero": 56,
+ "cluster": "regionalizadas_fase_1",
+ "source": "site",
+ "title": "Pet Shop Perto do Parque Continental, Guarulhos | Pet Shop Palmira",
+ "description": "Pet shop perto do Parque Continental, Guarulhos: ração, farmácia veterinária, banho e tosa para cães. A cerca de 1 km, no Jardim Palmira.",
+ "ogDescription": "Pet shop perto do Parque Continental, Guarulhos: ração, farmácia veterinária, banho e tosa para cães. A cerca de 1 km, no Jardim Palmira.",
+ "faq": [
+  {
+   "q": "Vocês atendem aos domingos?",
+   "a": "Não. Segunda a sábado, das 9h às 18h."
+  },
+  {
+   "q": "Vocês entregam no Continental?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  },
+  {
+   "q": "Tem banho e tosa?",
+   "a": "Tem, só para cães. Você traz o cão até a loja no horário agendado."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/loja.jpg",
+   "alt": "Atendimento acolhedor e tradição de 25 anos no Pet Shop Palmira",
+   "caption": "Tradição de 25 Anos na Região",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/racaoparacachorro.jpg",
+   "alt": "Sacos de rações Super Premium e Premium Especial com lote fresco",
+   "caption": "Grandes Marcas de Ração Canina e Felina",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/transportesecasinhas.jpg",
+   "alt": "Casinhas plásticas térmicas, caminhas e caixas de transporte",
+   "caption": "Acessórios, Casinhas e Caixas de Transporte",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/loja2.jpg",
+   "alt": "Corredores com farmácia veterinária, antipulgas e artigos de higiene",
+   "caption": "Farmácia Veterinária e Higiene Completa",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Vizinho do Continental",
+ "h1": "Pet shop perto do <span class=\"acc\">Parque Continental</span>",
+ "intro": [
+  "O Parque Continental começa a uns 800 metros da nossa loja, em linha reta. Para quem mora no Continental I, II ou III, o Pet Shop Palmira é praticamente vizinho.",
+  "A loja fica na Av. Pedro de Souza Lopes, 33B, Jardim Palmira."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "O que você resolve aqui"
+  },
+  {
+   "type": "p",
+   "html": "Ração, sachê e petisco. Antipulgas e medicamentos com receita. Areia, tapete higiênico e shampoo. Caminha, casinha e caixa de transporte. E banho e tosa para cães, com hora marcada."
+  },
+  {
+   "type": "h2",
+   "text": "Por que não comprar online"
+  },
+  {
+   "type": "p",
+   "html": "Online, você espera dias e não pergunta nada para ninguém. Aqui, mesmo morando no Continental, dá para passar rapidinho ou combinar a entrega por ligação. E a ração chega lacrada, sem rodar o país."
+  },
+  {
+   "type": "h2",
+   "text": "Entrega no Continental"
+  },
+  {
+   "type": "p",
+   "html": "Fazemos entrega somente combinando o local por ligação antes. Ligue no (11) 2451-1719 ou faça uma ligação pelo WhatsApp (11) 97460-5359."
+  }
+ ],
+ "humanizado": true
+}

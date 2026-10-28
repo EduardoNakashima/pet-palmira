@@ -1,0 +1,88 @@
+{
+ "slug": "racao-para-cachorro-rosa-de-franca",
+ "keyword": "ração para cachorro Rosa de França",
+ "numero": 72,
+ "cluster": "regionalizadas_fase_1",
+ "source": "site",
+ "title": "Ração para Cachorro no Rosa de França | Pet Shop Palmira",
+ "description": "Ração para cachorro no Jardim Rosa de França, Guarulhos: opções para cão de casa e de apartamento. Golden, Premier, Pedigree e mais.",
+ "ogDescription": "Ração para cachorro no Jardim Rosa de França, Guarulhos: opções para cão de casa e de apartamento. Golden, Premier, Pedigree e mais.",
+ "faq": [
+  {
+   "q": "Qual ração para cachorro de apartamento?",
+   "a": "Uma ração para raça pequena, com porção controlada. Mande raça e peso pelo WhatsApp que a gente indica opções."
+  },
+  {
+   "q": "Vocês entregam no Rosa de França?",
+   "a": "Combinando o local por ligação antes."
+  },
+  {
+   "q": "Posso trocar a ração de uma vez?",
+   "a": "Melhor não. Misture a nova com a antiga ao longo de 7 dias."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/racaoparacachorro.jpg",
+   "alt": "Sacos de 15kg e 20kg das melhores marcas de ração canina",
+   "caption": "Sacos de 15kg e 20kg em Estoque",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/golden.webp",
+   "alt": "Ração Golden Fórmula para cães adultos e filhotes",
+   "caption": "Golden Fórmula: Sabor e Custo-Benefício",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/premiata.webp",
+   "alt": "Linha Super Premium com nutrientes funcionais e condroitina",
+   "caption": "Super Premium para Saúde Articular",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/pouring-pet-food-into-bowl.jpg",
+   "alt": "Nutrição equilibrada com grãos crocantes servidos na tigela",
+   "caption": "Digestibilidade Máxima e Fezes Menores",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Cães do Rosa de França",
+ "h1": "Ração para cachorro no <span class=\"acc\">Rosa de França</span>",
+ "intro": [
+  "Cachorro de casa com quintal e cachorro de apartamento têm rotinas bem diferentes. O primeiro gasta mais energia. O segundo engorda com mais facilidade."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Cão de quintal"
+  },
+  {
+   "type": "p",
+   "html": "Ração para adulto do porte dele, numa porção que acompanhe a atividade. Se é grande, o saco de 15 ou 20 kg compensa."
+  },
+  {
+   "type": "h2",
+   "text": "Cão de apartamento"
+  },
+  {
+   "type": "p",
+   "html": "Ração de raça pequena, grão menor e porção controlada. Petisco com moderação, porque é aí que o peso costuma subir."
+  },
+  {
+   "type": "h2",
+   "text": "Marcas"
+  },
+  {
+   "type": "p",
+   "html": "Golden, Premiatta, Max, Premier, Special Dog, Pedigree, Magnus e Royal Canin. A disponibilidade varia, então confirme pelo WhatsApp (11) 97460-5359."
+  }
+ ],
+ "humanizado": true
+}

@@ -1,0 +1,836 @@
+{
+  "projeto": "Pet Shop Palmira - 100 Páginas de SEO Estratégico",
+  "diretorio_alvo": "/Informacoes/",
+  "total_paginas_planejadas": 100,
+  "data_atualizacao": "2026-10-14",
+  "clusters": [
+    {
+      "id": "nao_regionalizadas_fase_1",
+      "nome": "1. Rações e Alimentos para Cães e Gatos (Não Regionalizadas 01-25)",
+      "tipo": "Não Regionalizada",
+      "paginas": [
+        {
+          "numero": 1,
+          "palavra_forte": "loja de ração para cachorro e gato",
+          "slug": "loja-de-racao-para-cachorro-e-gato.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "loja-de-racao-para-cachorro-e-gato.html"
+        },
+        {
+          "numero": 2,
+          "palavra_forte": "comprar ração para cachorro e gato",
+          "slug": "comprar-racao-para-cachorro-e-gato.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "comprar-racao-para-cachorro-e-gato.html"
+        },
+        {
+          "numero": 3,
+          "palavra_forte": "ração para cachorro com preço acessível",
+          "slug": "racao-para-cachorro-com-preco-acessivel.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "racao-para-cachorro-com-preco-acessivel.html"
+        },
+        {
+          "numero": 4,
+          "palavra_forte": "ração para gato com preço acessível",
+          "slug": "racao-para-gato-com-preco-acessivel.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "racao-para-gato-com-preco-acessivel.html"
+        },
+        {
+          "numero": 5,
+          "palavra_forte": "loja de produtos para cães e gatos",
+          "slug": "loja-de-produtos-para-caes-e-gatos.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "loja-de-produtos-para-caes-e-gatos.html"
+        },
+        {
+          "numero": 6,
+          "palavra_forte": "comprar produtos para cães e gatos",
+          "slug": "comprar-produtos-para-caes-e-gatos.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "comprar-produtos-para-caes-e-gatos.html"
+        },
+        {
+          "numero": 7,
+          "palavra_forte": "loja de acessórios para cachorro e gato",
+          "slug": "loja-de-acessorios-para-cachorro-e-gato.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "loja-de-acessorios-para-cachorro-e-gato.html"
+        },
+        {
+          "numero": 8,
+          "palavra_forte": "comprar acessórios para cachorro e gato",
+          "slug": "comprar-acessorios-para-cachorro-e-gato.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "comprar-acessorios-para-cachorro-e-gato.html"
+        },
+        {
+          "numero": 9,
+          "palavra_forte": "loja de brinquedos para cães e gatos",
+          "slug": "loja-de-brinquedos-para-caes-e-gatos.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "loja-de-brinquedos-para-caes-e-gatos.html"
+        },
+        {
+          "numero": 10,
+          "palavra_forte": "comprar brinquedos para cachorro e gato",
+          "slug": "comprar-brinquedos-para-cachorro-e-gato.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "comprar-brinquedos-para-cachorro-e-gato.html"
+        },
+        {
+          "numero": 11,
+          "palavra_forte": "loja de medicamentos para animais",
+          "slug": "loja-de-medicamentos-para-animais.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "loja-de-medicamentos-para-animais.html"
+        },
+        {
+          "numero": 12,
+          "palavra_forte": "comprar medicamentos veterinários para animais",
+          "slug": "comprar-medicamentos-veterinarios-para-animais.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "comprar-medicamentos-veterinarios-para-animais.html"
+        },
+        {
+          "numero": 13,
+          "palavra_forte": "loja de produtos para animais domésticos",
+          "slug": "loja-de-produtos-para-animais-domesticos.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "loja-de-produtos-para-animais-domesticos.html"
+        },
+        {
+          "numero": 14,
+          "palavra_forte": "onde comprar produtos para animais domésticos",
+          "slug": "onde-comprar-produtos-para-animais-domesticos.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "onde-comprar-produtos-para-animais-domesticos.html"
+        },
+        {
+          "numero": 15,
+          "palavra_forte": "loja de ração para animais de estimação",
+          "slug": "loja-de-racao-para-animais-de-estimacao.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "loja-de-racao-para-animais-de-estimacao.html"
+        },
+        {
+          "numero": 16,
+          "palavra_forte": "comprar ração para animais de estimação",
+          "slug": "comprar-racao-para-animais-de-estimacao.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "comprar-racao-para-animais-de-estimacao.html"
+        },
+        {
+          "numero": 17,
+          "palavra_forte": "loja de ração para pássaros e aves",
+          "slug": "loja-de-racao-para-passaros-e-aves.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "loja-de-racao-para-passaros-e-aves.html"
+        },
+        {
+          "numero": 18,
+          "palavra_forte": "comprar ração para pássaros e aves",
+          "slug": "comprar-racao-para-passaros-e-aves.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "comprar-racao-para-passaros-e-aves.html"
+        },
+        {
+          "numero": 19,
+          "palavra_forte": "loja de produtos para animais de pequeno porte",
+          "slug": "loja-de-produtos-para-animais-de-pequeno-porte.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "loja-de-produtos-para-animais-de-pequeno-porte.html"
+        },
+        {
+          "numero": 20,
+          "palavra_forte": "pet shop com variedade de produtos para animais",
+          "slug": "pet-shop-com-variedade-de-produtos-para-animais.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "pet-shop-com-variedade-de-produtos-para-animais.html"
+        },
+        {
+          "numero": 21,
+          "palavra_forte": "pet shop com ração e acessórios para animais",
+          "slug": "pet-shop-com-racao-e-acessorios-para-animais.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "pet-shop-com-racao-e-acessorios-para-animais.html"
+        },
+        {
+          "numero": 22,
+          "palavra_forte": "pet shop com produtos para cães e gatos",
+          "slug": "pet-shop-com-produtos-para-caes-e-gatos.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "pet-shop-com-produtos-para-caes-e-gatos.html"
+        },
+        {
+          "numero": 23,
+          "palavra_forte": "pet shop com entrega de produtos para animais",
+          "slug": "pet-shop-com-entrega-de-produtos-para-animais.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "pet-shop-com-entrega-de-produtos-para-animais.html"
+        },
+        {
+          "numero": 24,
+          "palavra_forte": "comprar produtos para pets pelo WhatsApp",
+          "slug": "comprar-produtos-para-pets-pelo-whatsapp.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "comprar-produtos-para-pets-pelo-whatsapp.html"
+        },
+        {
+          "numero": 25,
+          "palavra_forte": "pedir ração e produtos para pets pelo WhatsApp",
+          "slug": "pedir-racao-e-produtos-para-pets-pelo-whatsapp.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "pedir-racao-e-produtos-para-pets-pelo-whatsapp.html"
+        }
+      ]
+    },
+    {
+      "id": "nao_regionalizadas_fase_2",
+      "nome": "2. Especialidades, Saúde, Espécies e Conveniência (Não Regionalizadas 26-50)",
+      "tipo": "Não Regionalizada",
+      "paginas": [
+        {
+          "numero": 26,
+          "palavra_forte": "ração super premium e premium especial para cães",
+          "slug": "racao-super-premium-e-premium-especial-para-caes.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "racao-super-premium-e-premium-especial-para-caes.html"
+        },
+        {
+          "numero": 27,
+          "palavra_forte": "ração premium e super premium para gatos",
+          "slug": "racao-premium-e-super-premium-para-gatos.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "racao-premium-e-super-premium-para-gatos.html"
+        },
+        {
+          "numero": 28,
+          "palavra_forte": "ração para cachorro adulto de todos os portes",
+          "slug": "racao-para-cachorro-adulto-de-todos-os-portes.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "racao-para-cachorro-adulto-de-todos-os-portes.html"
+        },
+        {
+          "numero": 29,
+          "palavra_forte": "ração para gatos castrados e controle de bolas de pelo",
+          "slug": "racao-para-gatos-castrados-e-controle-de-bolas-de-pelo.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "racao-para-gatos-castrados-e-controle-de-bolas-de-pelo.html"
+        },
+        {
+          "numero": 30,
+          "palavra_forte": "ração para cachorro filhote e raças pequenas",
+          "slug": "racao-para-cachorro-filhote-e-racas-pequenas.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "racao-para-cachorro-filhote-e-racas-pequenas.html"
+        },
+        {
+          "numero": 31,
+          "palavra_forte": "ração para cães idosos e saúde articular",
+          "slug": "racao-para-caes-idosos-e-saude-articular.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "racao-para-caes-idosos-e-saude-articular.html"
+        },
+        {
+          "numero": 32,
+          "palavra_forte": "sachês patês e alimentos úmidos para cães e gatos",
+          "slug": "saches-pates-e-alimentos-umidos-para-caes-e-gatos.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "saches-pates-e-alimentos-umidos-para-caes-e-gatos.html"
+        },
+        {
+          "numero": 33,
+          "palavra_forte": "petiscos e ossinhos para cachorro e gato",
+          "slug": "petiscos-e-ossinhos-para-cachorro-e-gato.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "petiscos-e-ossinhos-para-cachorro-e-gato.html"
+        },
+        {
+          "numero": 34,
+          "palavra_forte": "brinquedos mordedores resistentes para cachorro",
+          "slug": "brinquedos-mordedores-resistentes-para-cachorro.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "brinquedos-mordedores-resistentes-para-cachorro.html"
+        },
+        {
+          "numero": 35,
+          "palavra_forte": "antipulgas e carrapatos para cães e gatos",
+          "slug": "antipulgas-e-carrapatos-para-caes-e-gatos.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "antipulgas-e-carrapatos-para-caes-e-gatos.html"
+        },
+        {
+          "numero": 36,
+          "palavra_forte": "vermífugos e vitaminas para cachorro e gato",
+          "slug": "vermifugos-e-vitaminas-para-cachorro-e-gato.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "vermifugos-e-vitaminas-para-cachorro-e-gato.html"
+        },
+        {
+          "numero": 37,
+          "palavra_forte": "farmácia veterinária com receita pelo WhatsApp",
+          "slug": "farmacia-veterinaria-com-receita-pelo-whatsapp.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "farmacia-veterinaria-com-receita-pelo-whatsapp.html"
+        },
+        {
+          "numero": 38,
+          "palavra_forte": "shampoo hipoalergênico e dermatológico para cães",
+          "slug": "shampoo-hipoalergenico-e-dermatologico-para-caes.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "shampoo-hipoalergenico-e-dermatologico-para-caes.html"
+        },
+        {
+          "numero": 39,
+          "palavra_forte": "tapete higiênico para cachorro com ótimo preço",
+          "slug": "tapete-higienico-para-cachorro-com-otimo-preco.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "tapete-higienico-para-cachorro-com-otimo-preco.html"
+        },
+        {
+          "numero": 40,
+          "palavra_forte": "areia higiênica e caixa de areia para gatos",
+          "slug": "areia-higienica-e-caixa-de-areia-para-gatos.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "areia-higienica-e-caixa-de-areia-para-gatos.html"
+        },
+        {
+          "numero": 41,
+          "palavra_forte": "caminhas e casinhas para cachorro e gato",
+          "slug": "caminhas-e-casinhas-para-cachorro-e-gato.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "caminhas-e-casinhas-para-cachorro-e-gato.html"
+        },
+        {
+          "numero": 42,
+          "palavra_forte": "caixa de transporte para cães e gatos",
+          "slug": "caixa-de-transporte-para-caes-e-gatos.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "caixa-de-transporte-para-caes-e-gatos.html"
+        },
+        {
+          "numero": 43,
+          "palavra_forte": "coleiras guias e peitorais para cachorro",
+          "slug": "coleiras-guias-e-peitorais-para-cachorro.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "coleiras-guias-e-peitorais-para-cachorro.html"
+        },
+        {
+          "numero": 44,
+          "palavra_forte": "comedouros e bebedouros para cães e gatos",
+          "slug": "comedouros-e-bebedouros-para-caes-e-gatos.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "comedouros-e-bebedouros-para-caes-e-gatos.html"
+        },
+        {
+          "numero": 45,
+          "palavra_forte": "ração e acessórios para porquinho-da-índia e roedores",
+          "slug": "racao-e-acessorios-para-porquinho-da-india-e-roedores.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "racao-e-acessorios-para-porquinho-da-india-e-roedores.html"
+        },
+        {
+          "numero": 46,
+          "palavra_forte": "ração e produtos para cavalos e equinos",
+          "slug": "racao-e-produtos-para-cavalos-e-equinos.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "racao-e-produtos-para-cavalos-e-equinos.html"
+        },
+        {
+          "numero": 47,
+          "palavra_forte": "ração para galinhas e aves de criação",
+          "slug": "racao-para-galinhas-e-aves-de-criacao.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "racao-para-galinhas-e-aves-de-criacao.html"
+        },
+        {
+          "numero": 48,
+          "palavra_forte": "ração para porcos e animais de criação",
+          "slug": "racao-para-porcos-e-animais-de-criacao.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "racao-para-porcos-e-animais-de-criacao.html"
+        },
+        {
+          "numero": 49,
+          "palavra_forte": "ração brinquedos e acessórios para calopsita e pássaros",
+          "slug": "racao-brinquedos-e-acessorios-para-calopsita-e-passaros.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "racao-brinquedos-e-acessorios-para-calopsita-e-passaros.html"
+        },
+        {
+          "numero": 50,
+          "palavra_forte": "entrega de ração em domicílio com pagamento no Pix ou cartão",
+          "slug": "entrega-de-racao-em-domicilio-com-pagamento-no-pix-ou-cartao.html",
+          "tipo": "Não Regionalizada",
+          "status": "publicada",
+          "href": "entrega-de-racao-em-domicilio-com-pagamento-no-pix-ou-cartao.html"
+        }
+      ]
+    },
+    {
+      "id": "regionalizadas_fase_1",
+      "nome": "3. SEO Local Regionalizado Fase 1 (Jardim Palmira, Cabuçu, Continental, Vila Galvão, Rosa de França 51-75)",
+      "tipo": "Regionalizada",
+      "paginas": [
+        {
+          "numero": 51,
+          "palavra_forte": "pet shop Jardim Palmira Guarulhos",
+          "slug": "pet-shop-jardim-palmira-guarulhos.html",
+          "tipo": "Regionalizada",
+          "status": "publicada",
+          "href": "pet-shop-jardim-palmira-guarulhos.html"
+        },
+        {
+          "numero": 52,
+          "palavra_forte": "ração para cachorro Jardim Palmira",
+          "slug": "racao-para-cachorro-jardim-palmira.html",
+          "tipo": "Regionalizada",
+          "status": "publicada",
+          "href": "racao-para-cachorro-jardim-palmira.html"
+        },
+        {
+          "numero": 53,
+          "palavra_forte": "ração para gato Jardim Palmira",
+          "slug": "racao-para-gato-jardim-palmira.html",
+          "tipo": "Regionalizada",
+          "status": "publicada",
+          "href": "racao-para-gato-jardim-palmira.html"
+        },
+        {
+          "numero": 54,
+          "palavra_forte": "produtos para pets Jardim Palmira",
+          "slug": "produtos-para-pets-jardim-palmira.html",
+          "tipo": "Regionalizada",
+          "status": "publicada",
+          "href": "produtos-para-pets-jardim-palmira.html"
+        },
+        {
+          "numero": 55,
+          "palavra_forte": "acessórios para pets Jardim Palmira",
+          "slug": "acessorios-para-pets-jardim-palmira.html",
+          "tipo": "Regionalizada",
+          "status": "publicada",
+          "href": "acessorios-para-pets-jardim-palmira.html"
+        },
+        {
+          "numero": 56,
+          "palavra_forte": "pet shop Continental Guarulhos",
+          "slug": "pet-shop-continental-guarulhos.html",
+          "tipo": "Regionalizada",
+          "status": "publicada",
+          "href": "pet-shop-continental-guarulhos.html"
+        },
+        {
+          "numero": 57,
+          "palavra_forte": "ração para cachorro Continental",
+          "slug": "racao-para-cachorro-continental.html",
+          "tipo": "Regionalizada",
+          "status": "publicada",
+          "href": "racao-para-cachorro-continental.html"
+        },
+        {
+          "numero": 58,
+          "palavra_forte": "ração para gato Continental",
+          "slug": "racao-para-gato-continental.html",
+          "tipo": "Regionalizada",
+          "status": "publicada",
+          "href": "racao-para-gato-continental.html"
+        },
+        {
+          "numero": 59,
+          "palavra_forte": "produtos para pets Continental",
+          "slug": "produtos-para-pets-continental.html",
+          "tipo": "Regionalizada",
+          "status": "publicada",
+          "href": "produtos-para-pets-continental.html"
+        },
+        {
+          "numero": 60,
+          "palavra_forte": "acessórios para pets Continental",
+          "slug": "acessorios-para-pets-continental.html",
+          "tipo": "Regionalizada",
+          "status": "publicada",
+          "href": "acessorios-para-pets-continental.html"
+        },
+        {
+          "numero": 61,
+          "palavra_forte": "pet shop Cabuçu Guarulhos",
+          "slug": "pet-shop-cabucu-guarulhos.html",
+          "tipo": "Regionalizada",
+          "status": "publicada",
+          "href": "pet-shop-cabucu-guarulhos.html"
+        },
+        {
+          "numero": 62,
+          "palavra_forte": "ração para cachorro Cabuçu",
+          "slug": "racao-para-cachorro-cabucu.html",
+          "tipo": "Regionalizada",
+          "status": "publicada",
+          "href": "racao-para-cachorro-cabucu.html"
+        },
+        {
+          "numero": 63,
+          "palavra_forte": "ração para gato Cabuçu",
+          "slug": "racao-para-gato-cabucu.html",
+          "tipo": "Regionalizada",
+          "status": "publicada",
+          "href": "racao-para-gato-cabucu.html"
+        },
+        {
+          "numero": 64,
+          "palavra_forte": "produtos para pets Cabuçu",
+          "slug": "produtos-para-pets-cabucu.html",
+          "tipo": "Regionalizada",
+          "status": "publicada",
+          "href": "produtos-para-pets-cabucu.html"
+        },
+        {
+          "numero": 65,
+          "palavra_forte": "acessórios para pets Cabuçu",
+          "slug": "acessorios-para-pets-cabucu.html",
+          "tipo": "Regionalizada",
+          "status": "publicada",
+          "href": "acessorios-para-pets-cabucu.html"
+        },
+        {
+          "numero": 66,
+          "palavra_forte": "pet shop Vila Galvão Guarulhos",
+          "slug": "pet-shop-vila-galvao-guarulhos.html",
+          "tipo": "Regionalizada",
+          "status": "publicada",
+          "href": "pet-shop-vila-galvao-guarulhos.html"
+        },
+        {
+          "numero": 67,
+          "palavra_forte": "ração para cachorro Vila Galvão",
+          "slug": "racao-para-cachorro-vila-galvao.html",
+          "tipo": "Regionalizada",
+          "status": "publicada",
+          "href": "racao-para-cachorro-vila-galvao.html"
+        },
+        {
+          "numero": 68,
+          "palavra_forte": "ração para gato Vila Galvão",
+          "slug": "racao-para-gato-vila-galvao.html",
+          "tipo": "Regionalizada",
+          "status": "publicada",
+          "href": "racao-para-gato-vila-galvao.html"
+        },
+        {
+          "numero": 69,
+          "palavra_forte": "produtos para pets Vila Galvão",
+          "slug": "produtos-para-pets-vila-galvao.html",
+          "tipo": "Regionalizada",
+          "status": "publicada",
+          "href": "produtos-para-pets-vila-galvao.html"
+        },
+        {
+          "numero": 70,
+          "palavra_forte": "acessórios para pets Vila Galvão",
+          "slug": "acessorios-para-pets-vila-galvao.html",
+          "tipo": "Regionalizada",
+          "status": "publicada",
+          "href": "acessorios-para-pets-vila-galvao.html"
+        },
+        {
+          "numero": 71,
+          "palavra_forte": "pet shop Jardim Rosa de França",
+          "slug": "pet-shop-jardim-rosa-de-franca.html",
+          "tipo": "Regionalizada",
+          "status": "publicada",
+          "href": "pet-shop-jardim-rosa-de-franca.html"
+        },
+        {
+          "numero": 72,
+          "palavra_forte": "ração para cachorro Rosa de França",
+          "slug": "racao-para-cachorro-rosa-de-franca.html",
+          "tipo": "Regionalizada",
+          "status": "publicada",
+          "href": "racao-para-cachorro-rosa-de-franca.html"
+        },
+        {
+          "numero": 73,
+          "palavra_forte": "ração para gato Rosa de França",
+          "slug": "racao-para-gato-rosa-de-franca.html",
+          "tipo": "Regionalizada",
+          "status": "publicada",
+          "href": "racao-para-gato-rosa-de-franca.html"
+        },
+        {
+          "numero": 74,
+          "palavra_forte": "produtos para pets Rosa de França",
+          "slug": "produtos-para-pets-rosa-de-franca.html",
+          "tipo": "Regionalizada",
+          "status": "publicada",
+          "href": "produtos-para-pets-rosa-de-franca.html"
+        },
+        {
+          "numero": 75,
+          "palavra_forte": "acessórios para pets Rosa de França",
+          "slug": "acessorios-para-pets-rosa-de-franca.html",
+          "tipo": "Regionalizada",
+          "status": "publicada",
+          "href": "acessorios-para-pets-rosa-de-franca.html"
+        }
+      ]
+    },
+    {
+      "id": "regionalizadas_fase_2",
+      "nome": "4. SEO Local Regionalizado Fase 2 (Picanço, Vila Rosália, Vila Milton, Flor da Montanha, Torres Tibagy 76-100)",
+      "tipo": "Regionalizada",
+      "paginas": [
+        {
+          "numero": 76,
+          "palavra_forte": "pet shop Picanço Guarulhos",
+          "slug": "pet-shop-picanco-guarulhos.html",
+          "tipo": "Regionalizada",
+          "status": "publicada",
+          "href": "pet-shop-picanco-guarulhos.html"
+        },
+        {
+          "numero": 77,
+          "palavra_forte": "ração para cachorro Picanço",
+          "slug": "racao-para-cachorro-picanco.html",
+          "tipo": "Regionalizada",
+          "status": "publicada",
+          "href": "racao-para-cachorro-picanco.html"
+        },
+        {
+          "numero": 78,
+          "palavra_forte": "ração para gato Picanço",
+          "slug": "racao-para-gato-picanco.html",
+          "tipo": "Regionalizada",
+          "status": "publicada",
+          "href": "racao-para-gato-picanco.html"
+        },
+        {
+          "numero": 79,
+          "palavra_forte": "produtos para pets Picanço",
+          "slug": "produtos-para-pets-picanco.html",
+          "tipo": "Regionalizada",
+          "status": "publicada",
+          "href": "produtos-para-pets-picanco.html"
+        },
+        {
+          "numero": 80,
+          "palavra_forte": "acessórios para pets Picanço",
+          "slug": "acessorios-para-pets-picanco.html",
+          "tipo": "Regionalizada",
+          "status": "publicada",
+          "href": "acessorios-para-pets-picanco.html"
+        },
+        {
+          "numero": 81,
+          "palavra_forte": "pet shop Vila Rosália Guarulhos",
+          "slug": "pet-shop-vila-rosalia-guarulhos.html",
+          "tipo": "Regionalizada",
+          "status": "publicada",
+          "href": "pet-shop-vila-rosalia-guarulhos.html"
+        },
+        {
+          "numero": 82,
+          "palavra_forte": "ração para cachorro Vila Rosália",
+          "slug": "racao-para-cachorro-vila-rosalia.html",
+          "tipo": "Regionalizada",
+          "status": "publicada",
+          "href": "racao-para-cachorro-vila-rosalia.html"
+        },
+        {
+          "numero": 83,
+          "palavra_forte": "ração para gato Vila Rosália",
+          "slug": "racao-para-gato-vila-rosalia.html",
+          "tipo": "Regionalizada",
+          "status": "publicada",
+          "href": "racao-para-gato-vila-rosalia.html"
+        },
+        {
+          "numero": 84,
+          "palavra_forte": "produtos para pets Vila Rosália",
+          "slug": "produtos-para-pets-vila-rosalia.html",
+          "tipo": "Regionalizada",
+          "status": "publicada",
+          "href": "produtos-para-pets-vila-rosalia.html"
+        },
+        {
+          "numero": 85,
+          "palavra_forte": "acessórios para pets Vila Rosália",
+          "slug": "acessorios-para-pets-vila-rosalia.html",
+          "tipo": "Regionalizada",
+          "status": "publicada",
+          "href": "acessorios-para-pets-vila-rosalia.html"
+        },
+        {
+          "numero": 86,
+          "palavra_forte": "pet shop Vila Milton Guarulhos",
+          "slug": "pet-shop-vila-milton-guarulhos.html",
+          "tipo": "Regionalizada",
+          "status": "publicada",
+          "href": "pet-shop-vila-milton-guarulhos.html"
+        },
+        {
+          "numero": 87,
+          "palavra_forte": "ração para cachorro Vila Milton",
+          "slug": "racao-para-cachorro-vila-milton.html",
+          "tipo": "Regionalizada",
+          "status": "publicada",
+          "href": "racao-para-cachorro-vila-milton.html"
+        },
+        {
+          "numero": 88,
+          "palavra_forte": "ração para gato Vila Milton",
+          "slug": "racao-para-gato-vila-milton.html",
+          "tipo": "Regionalizada",
+          "status": "publicada",
+          "href": "racao-para-gato-vila-milton.html"
+        },
+        {
+          "numero": 89,
+          "palavra_forte": "produtos para pets Vila Milton",
+          "slug": "produtos-para-pets-vila-milton.html",
+          "tipo": "Regionalizada",
+          "status": "publicada",
+          "href": "produtos-para-pets-vila-milton.html"
+        },
+        {
+          "numero": 90,
+          "palavra_forte": "acessórios para pets Vila Milton",
+          "slug": "acessorios-para-pets-vila-milton.html",
+          "tipo": "Regionalizada",
+          "status": "publicada",
+          "href": "acessorios-para-pets-vila-milton.html"
+        },
+        {
+          "numero": 91,
+          "palavra_forte": "pet shop Jardim Flor da Montanha",
+          "slug": "pet-shop-jardim-flor-da-montanha.html",
+          "tipo": "Regionalizada",
+          "status": "planejada",
+          "href": "#"
+        },
+        {
+          "numero": 92,
+          "palavra_forte": "ração para cachorro Flor da Montanha",
+          "slug": "racao-para-cachorro-flor-da-montanha.html",
+          "tipo": "Regionalizada",
+          "status": "planejada",
+          "href": "#"
+        },
+        {
+          "numero": 93,
+          "palavra_forte": "ração para gato Flor da Montanha",
+          "slug": "racao-para-gato-flor-da-montanha.html",
+          "tipo": "Regionalizada",
+          "status": "planejada",
+          "href": "#"
+        },
+        {
+          "numero": 94,
+          "palavra_forte": "produtos para pets Flor da Montanha",
+          "slug": "produtos-para-pets-flor-da-montanha.html",
+          "tipo": "Regionalizada",
+          "status": "planejada",
+          "href": "#"
+        },
+        {
+          "numero": 95,
+          "palavra_forte": "acessórios para pets Flor da Montanha",
+          "slug": "acessorios-para-pets-flor-da-montanha.html",
+          "tipo": "Regionalizada",
+          "status": "planejada",
+          "href": "#"
+        },
+        {
+          "numero": 96,
+          "palavra_forte": "pet shop Torres Tibagy Guarulhos",
+          "slug": "pet-shop-torres-tibagy-guarulhos.html",
+          "tipo": "Regionalizada",
+          "status": "planejada",
+          "href": "#"
+        },
+        {
+          "numero": 97,
+          "palavra_forte": "ração para cachorro Torres Tibagy",
+          "slug": "racao-para-cachorro-torres-tibagy.html",
+          "tipo": "Regionalizada",
+          "status": "planejada",
+          "href": "#"
+        },
+        {
+          "numero": 98,
+          "palavra_forte": "ração para gato Torres Tibagy",
+          "slug": "racao-para-gato-torres-tibagy.html",
+          "tipo": "Regionalizada",
+          "status": "planejada",
+          "href": "#"
+        },
+        {
+          "numero": 99,
+          "palavra_forte": "produtos para pets Torres Tibagy",
+          "slug": "produtos-para-pets-torres-tibagy.html",
+          "tipo": "Regionalizada",
+          "status": "planejada",
+          "href": "#"
+        },
+        {
+          "numero": 100,
+          "palavra_forte": "acessórios para pets Torres Tibagy",
+          "slug": "acessorios-para-pets-torres-tibagy.html",
+          "tipo": "Regionalizada",
+          "status": "planejada",
+          "href": "#"
+        }
+      ]
+    }
+  ]
+}

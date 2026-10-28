@@ -1,0 +1,94 @@
+{
+ "slug": "racao-para-gato-com-preco-acessivel",
+ "keyword": "ração para gato com preço acessível",
+ "numero": 4,
+ "cluster": "nao_regionalizadas_fase_1",
+ "source": "site",
+ "title": "Ração para Gato com Preço Acessível | Pet Shop Palmira",
+ "description": "Ração para gato com preço acessível em Guarulhos. Whiskas, CatChow e Golden Gatos no Pet Shop Palmira, com dicas para gatos castrados.",
+ "ogDescription": "Ração para gato com preço acessível em Guarulhos. Whiskas, CatChow e Golden Gatos no Pet Shop Palmira, com dicas para gatos castrados.",
+ "faq": [
+  {
+   "q": "Gato pode comer ração de cachorro se faltar em casa?",
+   "a": "Uma refeição não faz mal, mas não deve virar hábito. A ração de cachorro não tem a taurina e as vitaminas que o gato precisa."
+  },
+  {
+   "q": "Vocês entregam sachê e areia junto com a ração?",
+   "a": "Sim. Fazemos entrega somente combinando o local por ligação antes, pelo (11) 2451-1719 ou ligação no WhatsApp."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/pouring-pet-food-into-bowl.jpg",
+   "alt": "Nutrição felina especializada com equilíbrio renal",
+   "caption": "Nutrição Equilibrada com Proteção Renal",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/goldencat.webp",
+   "alt": "Ração Golden Gatos Castrados sabor frango e salmão",
+   "caption": "Golden Gatos: Especial para Castrados",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/whiskas.webp",
+   "alt": "Ração Whiskas com recheio crocante e alta aceitação",
+   "caption": "Whiskas Crocante e Saboroso",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/saches.webp",
+   "alt": "Sachês úmidos para hidratação diária do trato renal dos felinos",
+   "caption": "Sachês Úmidos: Hidratação Renal Obrigatória",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Gato bem alimentado",
+ "h1": "Ração para gato com <span class=\"acc\">preço acessível</span>",
+ "intro": [
+  "Gato é exigente. Às vezes ele rejeita uma ração mais barata, às vezes torce o nariz para a mais cara. Por isso a gente prefere conversar antes de indicar.",
+  "No Pet Shop Palmira você encontra Whiskas, CatChow e Golden Gatos, com opções para filhote, adulto e castrado."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "O que não pode faltar"
+  },
+  {
+   "type": "p",
+   "html": "Mesmo numa ração em conta, procure uma fórmula completa para gatos. Ração de cachorro não serve, porque não tem a taurina que o gato precisa."
+  },
+  {
+   "type": "p",
+   "html": "Se o gato é castrado, vale a linha para castrados. Ela tem menos caloria e ajuda a evitar o ganho de peso que costuma vir depois da cirurgia."
+  },
+  {
+   "type": "h2",
+   "text": "Gastar menos sem prejudicar o gato"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Compre o tamanho que ele termina em até dois meses depois de aberto.",
+    "Guarde o saco bem fechado, porque gato rejeita ração que perdeu o cheiro.",
+    "Ofereça sachê como complemento, não como refeição principal o dia inteiro.",
+    "Na dúvida entre duas marcas, peça uma indicação pelo WhatsApp."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Água também é alimentação"
+  },
+  {
+   "type": "p",
+   "html": "Muitos gatos bebem pouca água. Um sachê por dia junto com a ração seca ajuda na hidratação e faz bem para o trato urinário."
+  }
+ ],
+ "humanizado": true
+}

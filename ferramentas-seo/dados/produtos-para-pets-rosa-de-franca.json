@@ -1,0 +1,93 @@
+{
+ "slug": "produtos-para-pets-rosa-de-franca",
+ "keyword": "produtos para pets Rosa de França",
+ "numero": 74,
+ "cluster": "regionalizadas_fase_1",
+ "source": "site",
+ "title": "Produtos para Pets no Rosa de França | Pet Shop Palmira",
+ "description": "Produtos para pets no Jardim Rosa de França, Guarulhos: higiene, tapete higiênico, shampoo, farmácia veterinária e ração.",
+ "ogDescription": "Produtos para pets no Jardim Rosa de França, Guarulhos: higiene, tapete higiênico, shampoo, farmácia veterinária e ração.",
+ "faq": [
+  {
+   "q": "Vocês têm tapete higiênico?",
+   "a": "Temos. Confirme os tamanhos e pacotes pelo WhatsApp."
+  },
+  {
+   "q": "Como peço entrega?",
+   "a": "Pelo WhatsApp (11) 97460-5359, combinando o local por ligação."
+  },
+  {
+   "q": "Posso usar meu shampoo no cachorro?",
+   "a": "Não. Use shampoo próprio para pets."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/loja2.jpg",
+   "alt": "Variedade completa em produtos para cães e gatos no Pet Shop Palmira",
+   "caption": "Sortimento Completo em Produtos Pet",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/shampoo.webp",
+   "alt": "Shampoos hipoalergênicos e sabonetes dermatológicos",
+   "caption": "Shampoos e Higiene Especializada",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/brinquedos.webp",
+   "alt": "Brinquedos mordedores resistentes e cordas para recreação",
+   "caption": "Brinquedos Duráveis e Mordedores",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/capstar.webp",
+   "alt": "Farmácia veterinária preventiva, antipulgas e vermífugos",
+   "caption": "Farmácia e Proteção Antipulgas",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Casa limpa",
+ "h1": "Produtos para pets no <span class=\"acc\">Rosa de França</span>",
+ "intro": [
+  "Casa com pet tem cheiro de pet. Dá para diminuir bastante com tapete higiênico bom, areia trocada no tempo certo e banho com produto adequado."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Higiene"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Tapete higiênico para cães.",
+    "Areia higiênica para gatos.",
+    "Shampoo, condicionador e colônia.",
+    "Shampoo antiparasitário."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Xixi no lugar errado"
+  },
+  {
+   "type": "p",
+   "html": "Limpe com produto sem amônia. O cheiro de amônia lembra urina e atrai o cachorro de volta para o mesmo lugar."
+  },
+  {
+   "type": "h2",
+   "text": "Saúde e alimentação"
+  },
+  {
+   "type": "p",
+   "html": "Ração das principais marcas, antipulgas, vermífugos e medicamentos com receita. Para quem mora no Rosa de França, a entrega é combinada por ligação antes."
+  }
+ ],
+ "humanizado": true
+}

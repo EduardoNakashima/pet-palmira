@@ -1,0 +1,523 @@
+@@ pet-shop-picanco-guarulhos
+title: Pet Shop Perto do Picanço, Guarulhos | Pet Shop Palmira
+desc: Pet shop perto do Picanço, Guarulhos: ração, farmácia veterinária, banho e tosa para cães e acessórios. A cerca de 2,5 km, no Jardim Palmira.
+badge: Perto do Picanço
+h1: Pet shop perto do [Picanço]
+Do Picanço até a nossa loja são uns 2,5 km em linha reta. Dá para vir de carro buscar a ração ou pedir pelo WhatsApp e combinar a entrega.
+O Pet Shop Palmira está na Av. Pedro de Souza Lopes, 33B, no Jardim Palmira, há 25 anos.
+## O que você encontra
+* Alimentação | Ração para cães, gatos, pássaros e roedores.
+* Farmácia | Antipulgas, vermífugos e medicamentos com receita.
+* Higiene | Shampoo, areia e tapete higiênico.
+* Banho e tosa | Para cães, com tosa na máquina.
+## Passeio pelo bairro
+Avenida movimentada pede guia curta e peitoral bem ajustado. Guia retrátil muito longa, perto de carro e moto, é risco. Se o cachorro se assusta fácil, prefira uma guia fixa.
+? Vocês entregam no Picanço?
+= Entregamos, combinando o local por ligação antes, pelo (11) 2451-1719.
+? Qual o horário?
+= Segunda a sábado, das 9h às 18h.
+? Vocês indicam veterinário?
+= Indicamos veterinários e clínicas parceiras de confiança em Guarulhos.
+
+@@ racao-para-cachorro-picanco
+title: Ração para Cachorro no Picanço, Guarulhos | Pet Shop Palmira
+desc: Ração para cachorro no Picanço, Guarulhos: como escolher pelo porte e pela fase, marcas em estoque e dicas para conservar o saco aberto.
+badge: Ração no Picanço
+h1: Ração para cachorro no [Picanço]
+Escolher a ração começa por duas perguntas: quantos anos o cachorro tem e qual o tamanho dele. O resto é ajuste fino.
+## Porte e fase
+| Perfil | O que procurar |
+| Filhote | Ração de filhote, com mais energia e grão menor |
+| Adulto pequeno | Ração de raça pequena, porção controlada |
+| Adulto grande | Grão maior e cuidado com o peso |
+| Idoso | Menos caloria e apoio às articulações |
+## Marcas
+Golden, Premiatta, Max, Premier, Special Dog, Pedigree, Magnus e Royal Canin, conforme o estoque.
+## Ração fresca até o fim
+Ração aberta perde cheiro e crocância. Feche bem o saco, guarde longe do sol e do chão. Se o cachorro começar a rejeitar a ração no fim do saco, provavelmente ela pegou ar.
+? Como conservar a ração depois de aberta?
+= Saco bem fechado ou pote com tampa, em lugar seco e fora do sol.
+? Vocês entregam no Picanço?
+= Combinando o local por ligação antes.
+? Como peço?
+= Pelo WhatsApp (11) 97460-5359.
+
+@@ racao-para-gato-picanco
+title: Ração para Gato no Picanço, Guarulhos | Pet Shop Palmira
+desc: Ração para gato no Picanço, Guarulhos: Golden Gatos, CatChow, Whiskas, sachês e areia. Dicas para o gato beber mais água.
+badge: Gatos do Picanço
+h1: Ração para gato no [Picanço]
+Problema de rim e de bexiga é comum em gato, principalmente porque ele bebe pouca água. A boa notícia é que dá para ajudar com coisas simples.
+## Alimentação
+Ração completa para gatos, como Golden Gatos, CatChow ou Whiskas. Linha para castrados se ele for castrado. E um sachê por dia para aumentar a água da dieta.
+## Onde colocar a água
+Gato prefere a água longe da comida e longe da caixa de areia. Coloque potes em mais de um canto da casa. Muitos gatos bebem mais em fonte de água corrente.
+## Areia
+Temos areias de tipos diferentes. Caixa limpa todo dia é o que mais evita xixi fora do lugar.
+? Como faço meu gato beber mais água?
+= Potes em vários lugares, longe da comida, e sachê na dieta. Fonte de água também ajuda muitos gatos.
+? Vocês têm fonte de água?
+= Consulte os modelos pelo WhatsApp.
+? Vocês entregam areia no Picanço?
+= Combinando o local por ligação antes.
+
+@@ produtos-para-pets-picanco
+title: Produtos para Pets no Picanço, Guarulhos | Pet Shop Palmira
+desc: Produtos para pets no Picanço, Guarulhos: antipulgas, farmácia veterinária, higiene e ração. Pet Shop Palmira, entrega combinada por ligação.
+badge: Farmácia e higiene
+h1: Produtos para pets no [Picanço]
+Pulga em casa é dor de cabeça. Some do cachorro e volta dias depois, porque os ovos ficaram no tapete e na caminha.
+## Antipulgas e farmácia
+Temos Frontline Plus, Capstar, shampoo antiparasitário e vermífugos. Para a pulga não voltar, trate todos os animais da casa no mesmo dia e lave a caminha.
+Medicamento com receita? Mande a foto pelo WhatsApp (11) 97460-5359.
+## Higiene da casa
+- Tapete higiênico e areia.
+- Shampoo e colônia.
+- Limpeza do xixi com produto sem amônia.
+- Caminha lavada com frequência.
+## Ração e acessórios
+Rações das principais marcas, caminhas, coleiras e brinquedos. Se faltar, encomendamos.
+? Por que a pulga volta?
+= Porque ovos e larvas ficam no ambiente. Trate a casa e todos os animais.
+? Vocês entregam no Picanço?
+= Combinando o local por ligação antes.
+? Formas de pagamento?
+= Pix, cartão de débito e crédito e dinheiro.
+
+@@ acessorios-para-pets-picanco
+title: Acessórios para Pets no Picanço, Guarulhos | Pet Shop Palmira
+desc: Acessórios para pets no Picanço, Guarulhos: casinhas, caminhas, guias e peitorais para passear com segurança e caixas de transporte.
+badge: Passeio seguro
+h1: Acessórios para pets no [Picanço]
+Para passear perto de avenida, o equipamento conta mais do que parece. Um peitoral frouxo, um susto com buzina, e o cachorro sai correndo.
+## Para passear
+Peitoral bem ajustado, com dois dedos de folga. Guia fixa, de tamanho médio, dá mais controle do que a retrátil em rua movimentada.
+## Para casa
+* Casinha de madeira tratada | Para o cão de quintal.
+* Caminhas e colchões | Para dentro de casa.
+* Caixas de transporte | Para ir ao veterinário.
+## Tamanho
+Traga o cão para provar ou mande peso e raça pelo WhatsApp. Se não tivermos o tamanho, encomendamos.
+? Guia retrátil é segura?
+= Em rua movimentada, a guia fixa dá mais controle. A retrátil funciona melhor em lugar aberto e tranquilo.
+? Posso provar o peitoral na loja?
+= Pode. Traga o cachorro na guia.
+? Vocês entregam casinha no Picanço?
+= Combinando o local por ligação antes.
+
+@@ pet-shop-vila-rosalia-guarulhos
+title: Pet Shop Perto da Vila Rosália, Guarulhos | Pet Shop Palmira
+desc: Pet shop perto da Vila Rosália, Guarulhos: ração, farmácia veterinária, banho e tosa para cães e acessórios. A menos de 2 km, no Jardim Palmira.
+badge: Perto da Vila Rosália
+h1: Pet shop perto da [Vila Rosália]
+Da Vila Rosália até a nossa loja são menos de 2 km em linha reta. É um dos bairros mais próximos do Jardim Palmira.
+## O que tem na loja
+Ração para cães, gatos, pássaros e roedores. Farmácia veterinária. Higiene. Acessórios. E banho e tosa para cães, com hora marcada.
+## Atendimento
+A gente gosta de conversar antes de vender. Se você não sabe qual ração, qual antipulgas ou qual tamanho de caminha, pergunte. Se não tivermos, encomendamos.
+## Como comprar
+Na loja, na Av. Pedro de Souza Lopes, 33B, de segunda a sábado. Ou pelo WhatsApp (11) 97460-5359, com entrega combinada por ligação.
+? Vocês entregam na Vila Rosália?
+= Entregamos, combinando o local por ligação antes.
+? Tem estacionamento?
+= A loja fica na avenida. Melhor ligar antes se for buscar algo pesado, que a gente deixa separado.
+? Quais formas de pagamento?
+= Pix, cartão de débito e crédito e dinheiro.
+? Qual o horário?
+= Segunda a sábado, das 9h às 18h.
+
+@@ racao-para-cachorro-vila-rosalia
+title: Ração para Cachorro na Vila Rosália | Pet Shop Palmira
+desc: Ração para cachorro na Vila Rosália, Guarulhos: Golden, Premier, Special Dog, Pedigree e Royal Canin. Sacos de 15 e 20 kg com entrega combinada.
+badge: Ração na Vila Rosália
+h1: Ração para cachorro na [Vila Rosália]
+Ração boa aparece no cachorro: pelo bonito, fezes firmes, energia para brincar. Ração ruim também aparece, só que do jeito contrário.
+## Sinais de que a ração está funcionando
+Pelo brilhante, fezes bem formadas e peso estável. Se o cachorro tem coceira, pelo opaco ou fezes moles com frequência, vale conversar com o veterinário sobre a ração.
+## Marcas
+Golden Formula, Premiatta, Max, Premier, Special Dog, Pedigree, Magnus e Royal Canin. Confirme o estoque pelo WhatsApp (11) 97460-5359.
+## Na hora de trocar
+Ao longo de 7 dias, aumentando aos poucos a nova ração misturada com a antiga.
+? Como sei se a ração está fazendo bem?
+= Pelo bonito, fezes firmes e peso estável são bons sinais.
+? Vocês entregam na Vila Rosália?
+= Combinando o local por ligação antes.
+? Quais formas de pagamento?
+= Pix, cartão de débito e crédito e dinheiro.
+
+@@ racao-para-gato-vila-rosalia
+title: Ração para Gato na Vila Rosália | Pet Shop Palmira
+desc: Ração para gato na Vila Rosália, Guarulhos: ração seca, sachês e areia. Golden Gatos, CatChow e Whiskas no Pet Shop Palmira.
+badge: Gatos da Vila Rosália
+h1: Ração para gato na [Vila Rosália]
+Gato vive bem mais quando come direito e bebe água suficiente. Parece óbvio, mas a maioria dos gatos bebe menos do que deveria.
+## Seca e úmida
+A ração seca é a base. O sachê complementa com água. Juntos, ajudam a proteger os rins e a bexiga.
+## O que temos
+- Golden Gatos, CatChow e Whiskas.
+- Linhas para castrados.
+- Sachês e patês avulsos.
+- Areia higiênica.
+## Idade conta
+Filhote precisa de ração de filhote. Gato idoso costuma precisar de acompanhamento do veterinário para ajustar a dieta.
+? Sachê todo dia faz mal?
+= Não, se você diminuir a ração seca na mesma proporção.
+? Vocês entregam na Vila Rosália?
+= Combinando o local por ligação antes.
+? Vocês têm ração para filhote de gato?
+= Consulte as opções disponíveis pelo WhatsApp.
+
+@@ produtos-para-pets-vila-rosalia
+title: Produtos para Pets na Vila Rosália | Pet Shop Palmira
+desc: Produtos para pets na Vila Rosália, Guarulhos: antipulgas, vermífugos, higiene, ração e acessórios. Pet Shop Palmira, a menos de 2 km.
+badge: Prevenção
+h1: Produtos para pets na [Vila Rosália]
+Prevenir sai mais barato do que tratar. Antipulgas e vermífugo em dia evitam muita ida ao veterinário.
+## Prevenção
+Temos Frontline Plus, Capstar e vermífugos para cães e gatos. A dose vai pelo peso, então tenha o peso do pet atualizado.
+## Outros produtos
+- Ração, sachê e petisco.
+- Shampoo, areia e tapete higiênico.
+- Caminhas, coleiras e brinquedos.
+- Medicamentos com receita.
+## Comprar perto
+A loja fica a menos de 2 km da Vila Rosália. Passe de segunda a sábado ou combine a entrega por ligação.
+? Como acerto a dose do antipulgas?
+= Pelo peso do pet. Pese ele antes de comprar.
+? Vocês vendem remédio com receita?
+= Vendemos. Mande a foto da receita pelo WhatsApp.
+? Vocês entregam na Vila Rosália?
+= Combinando o local por ligação antes.
+
+@@ acessorios-para-pets-vila-rosalia
+title: Acessórios para Pets na Vila Rosália | Pet Shop Palmira
+desc: Acessórios para pets na Vila Rosália, Guarulhos: coleiras, peitorais, caminhas, casinhas e caixas de transporte. Prove o tamanho na loja.
+badge: Acessórios
+h1: Acessórios para pets na [Vila Rosália]
+Um acessório mal escolhido vira um acessório esquecido no armário. Peitoral que aperta, caminha pequena, caixa de transporte que o gato odeia.
+## Para acertar na primeira
+Traga o cachorro para provar. Para gato, mande o peso. Para caminha, meça o pet deitado.
+## O que temos
+* Coleiras, guias e peitorais | Para passear com conforto.
+* Caminhas e colchões | Para o descanso dentro de casa.
+* Casinha de madeira tratada | Para o quintal.
+* Caixas de transporte | Para o veterinário e viagens.
+## Caixa de transporte sem trauma
+Deixe a caixa aberta em casa alguns dias antes, com uma manta dentro. O gato passa a ver a caixa como um lugar comum.
+? Como faço o gato aceitar a caixa de transporte?
+= Deixe ela aberta em casa, com manta e petisco dentro, alguns dias antes de usar.
+? Posso trazer o cachorro para provar?
+= Pode. Traga ele na guia.
+? Vocês entregam na Vila Rosália?
+= Combinando o local por ligação antes.
+
+@@ pet-shop-vila-milton-guarulhos
+title: Pet Shop Perto da Vila Milton, Guarulhos | Pet Shop Palmira
+desc: Pet shop perto da Vila Milton, Guarulhos: ração, farmácia veterinária, banho e tosa para cães e acessórios. A cerca de 3 km, no Jardim Palmira.
+badge: Perto da Vila Milton
+h1: Pet shop perto da [Vila Milton]
+A Vila Milton fica a uns 3 km da nossa loja, em linha reta. Para quem mora lá, o Pet Shop Palmira é um pet shop de bairro a poucos minutos de carro.
+## O que você encontra
+Ração para cães, gatos e outros bichos. Farmácia veterinária com antipulgas, vermífugos e medicamentos com receita. Higiene e acessórios. Banho e tosa para cães.
+## Por que vale a viagem curta
+Atendimento de quem está no mesmo endereço há 25 anos, encomenda do que faltar e ajuda para escolher. Para não precisar vir, entrega combinada por ligação.
+## Banho e tosa
+Só para cães, com tosa na máquina. Agende pelo WhatsApp e traga o cão até a loja.
+? Vocês entregam na Vila Milton?
+= Entregamos, combinando o local por ligação antes, pelo (11) 2451-1719.
+? Vocês buscam o cachorro para o banho?
+= Não. Não fazemos táxi dog. O tutor traz e busca o cão na loja.
+? Qual o horário?
+= Segunda a sábado, das 9h às 18h.
+
+@@ racao-para-cachorro-vila-milton
+title: Ração para Cachorro na Vila Milton | Pet Shop Palmira
+desc: Ração para cachorro na Vila Milton, Guarulhos: premium especial e super premium, Golden, Premier, Royal Canin e mais. Entrega combinada.
+badge: Ração na Vila Milton
+h1: Ração para cachorro na [Vila Milton]
+Ração cara não é garantia de ração certa. O melhor para o seu cachorro depende da idade, do porte e da saúde dele.
+## Linhas de ração
+As premium especial, como Golden Formula e Premiatta Classic, atendem bem a maioria dos cães saudáveis. As super premium, da Premier e da Royal Canin, têm fórmulas para raças e necessidades específicas.
+Para cão com problema de saúde, quem define é o veterinário.
+## Porção
+A tabela da embalagem é um ponto de partida. Se o cachorro está ganhando peso, diminua um pouco. Se está magro, aumente. Pese de vez em quando.
+## Pedido
+Mande a marca e o peso para (11) 97460-5359. Retire na loja ou combine a entrega por ligação.
+? Ração mais cara é sempre melhor?
+= Não necessariamente. A melhor é a que serve para a idade, o porte e a saúde do seu cachorro.
+? Vocês entregam na Vila Milton?
+= Combinando o local por ligação antes.
+? Como troco de ração?
+= Aos poucos, ao longo de 7 dias.
+
+@@ racao-para-gato-vila-milton
+title: Ração para Gato na Vila Milton | Pet Shop Palmira
+desc: Ração para gato na Vila Milton, Guarulhos: cuidado com o trato urinário, linha para castrados, sachês e areia. Pet Shop Palmira.
+badge: Gatos da Vila Milton
+h1: Ração para gato na [Vila Milton]
+Se tem uma coisa que todo dono de gato deveria saber é o sinal de problema urinário: o gato vai à caixa várias vezes e sai pouco ou nada. Nesse caso, é veterinário no mesmo dia.
+## Prevenção pela alimentação
+Ração completa para gatos, porção na medida e água. O sachê ajuda a aumentar a água da dieta.
+## O que temos
+Golden Gatos, CatChow, Whiskas, linhas para castrados, sachês e areia.
+## Areia e caixa
+Uma caixa a mais que o número de gatos. Limpeza diária. Lugar calmo, longe da comida.
+? Quais os sinais de problema urinário no gato?
+= Ir à caixa muitas vezes, fazer pouco xixi, xixi com sangue ou miar ao urinar. Procure o veterinário logo.
+? Vocês têm ração para castrado?
+= Temos. Confirme as linhas pelo WhatsApp.
+? Vocês entregam na Vila Milton?
+= Combinando o local por ligação antes.
+
+@@ produtos-para-pets-vila-milton
+title: Produtos para Pets na Vila Milton | Pet Shop Palmira
+desc: Produtos para pets na Vila Milton, Guarulhos: ração, farmácia veterinária, higiene e acessórios. Consulte pelo WhatsApp e combine a entrega.
+badge: Variedade
+h1: Produtos para pets na [Vila Milton]
+Da ração ao antipulgas, do shampoo à caminha. Para quem mora na Vila Milton, o Pet Shop Palmira reúne as compras do pet num lugar só, a uns 3 km.
+## O que tem na loja
+- Ração, sachê e petisco.
+- Antipulgas, vermífugos e medicamentos com receita.
+- Shampoo, areia e tapete higiênico.
+- Caminhas, coleiras e brinquedos.
+## Rotina de prevenção
+Antipulgas e vermífugo no intervalo indicado pelo veterinário, vacinas em dia e check-up anual. Para consultas, indicamos veterinários parceiros de confiança em Guarulhos.
+## Comprar sem sair de casa
+Consulte pelo WhatsApp (11) 97460-5359 e combine a entrega por ligação.
+? Vocês indicam veterinário?
+= Indicamos veterinários e clínicas parceiras de confiança em Guarulhos.
+? Vocês entregam na Vila Milton?
+= Combinando o local por ligação antes.
+? Posso encomendar um produto?
+= Pode. Pergunte pelo WhatsApp.
+
+@@ acessorios-para-pets-vila-milton
+title: Acessórios para Pets na Vila Milton | Pet Shop Palmira
+desc: Acessórios para pets na Vila Milton, Guarulhos: peitorais, guias, caminhas, casinhas e caixas de transporte. Ajuda com o tamanho pelo WhatsApp.
+badge: Acessórios
+h1: Acessórios para pets na [Vila Milton]
+Filhote cresce e perde o peitoral em poucos meses. Cão idoso precisa de caminha mais firme. Os acessórios mudam junto com o pet.
+## Fase por fase
+- Filhote: peitoral leve e ajustável, que acompanhe o crescimento.
+- Adulto: peitoral ou coleira do tamanho certo, guia firme.
+- Idoso: caminha firme, que facilite levantar.
+- Gato: caixa de transporte e brinquedos.
+## O que temos
+Coleiras, guias, peitorais, caminhas, colchões, casinha de madeira tratada e caixas de transporte.
+## Tamanho
+Mande peso e raça pelo WhatsApp (11) 97460-5359 ou traga o cão para provar. Se não tivermos o tamanho, encomendamos.
+? Peitoral para filhote precisa ser trocado?
+= Sim, conforme ele cresce. Um modelo ajustável dura mais.
+? Qual caminha para cão idoso?
+= Uma caminha firme, que não afunde, para facilitar levantar.
+? Vocês entregam na Vila Milton?
+= Combinando o local por ligação antes.
+
+@@ pet-shop-jardim-flor-da-montanha
+title: Pet Shop Perto do Jardim Flor da Montanha | Pet Shop Palmira
+desc: Pet shop perto do Jardim Flor da Montanha, Guarulhos: ração, farmácia veterinária, banho e tosa para cães e acessórios. A cerca de 3 km.
+badge: Perto do Flor da Montanha
+h1: Pet shop perto do [Jardim Flor da Montanha]
+O Jardim Flor da Montanha fica a uns 3 km da nossa loja, em linha reta, do lado do Picanço. Para quem mora lá, o Pet Shop Palmira é um pet shop de bairro com 25 anos no mesmo endereço.
+## O que você resolve aqui
+* Alimentação | Ração para cães, gatos, pássaros, roedores e criação.
+* Farmácia | Antipulgas, vermífugos e medicamentos com receita.
+* Banho e tosa | Para cães, com tosa na máquina.
+* Acessórios | Caminhas, casinhas, coleiras e caixas de transporte.
+## Veterinários parceiros
+Para consulta, vacina e exame, indicamos veterinários e clínicas parceiras de confiança em Guarulhos.
+## Como comprar
+Na Av. Pedro de Souza Lopes, 33B, de segunda a sábado. Ou pelo WhatsApp (11) 97460-5359, com entrega combinada por ligação.
+? Vocês entregam no Flor da Montanha?
+= Combinando o local por ligação antes. Na ligação confirmamos se o endereço está na nossa área.
+? Vocês fazem banho em gato?
+= Não. O banho e tosa é só para cães.
+? Quais formas de pagamento?
+= Pix, cartão de débito e crédito e dinheiro.
+
+@@ racao-para-cachorro-flor-da-montanha
+title: Ração para Cachorro no Flor da Montanha | Pet Shop Palmira
+desc: Ração para cachorro no Jardim Flor da Montanha, Guarulhos: filhote, adulto e idoso, em sacos de até 20 kg. Golden, Premier, Pedigree e mais.
+badge: Ração no Flor da Montanha
+h1: Ração para cachorro no [Flor da Montanha]
+Cada fase do cachorro pede uma ração diferente. O filhote precisa crescer, o adulto precisa manter o peso, o idoso precisa de menos caloria.
+## Por fase
+| Fase | Exemplos na loja |
+| Filhote | Golden Filhotes, Premiatta Filhotes, Max Filhotes |
+| Adulto | Golden Formula, Premiatta Classic, Max Professional |
+| Outras marcas | Premier, Special Dog, Pedigree, Magnus e Royal Canin |
+## Quantidade
+Siga a tabela pelo peso ideal do cachorro e divida em duas refeições. Petisco entra na conta.
+## Entrega
+Saco grande é pesado. Para o Flor da Montanha, a entrega é combinada por ligação antes, pelo (11) 2451-1719.
+? Quando trocar a ração de filhote para adulto?
+= Em geral perto de 1 ano. Raças grandes podem demorar mais. O veterinário confirma.
+? Vocês entregam no Flor da Montanha?
+= Combinando o local por ligação antes.
+? Como peço?
+= Pelo WhatsApp (11) 97460-5359.
+
+@@ racao-para-gato-flor-da-montanha
+title: Ração para Gato no Flor da Montanha | Pet Shop Palmira
+desc: Ração para gato no Jardim Flor da Montanha, Guarulhos: Golden Gatos, CatChow, Whiskas, sachês e areia. Entrega combinada por ligação.
+badge: Gatos do Flor da Montanha
+h1: Ração para gato no [Flor da Montanha]
+Gato que recusa a ração nova não está fazendo manha. Ele estranha cheiro e textura de verdade. Por isso a troca precisa ser lenta.
+## O que temos
+Golden Gatos, CatChow e Whiskas, linhas para castrados, sachês, patês e areia.
+## Trocando de ração
+Misture a nova com a antiga ao longo de 7 a 10 dias. Se o gato parar de comer, volte para a proporção anterior. Gato que fica mais de um dia sem comer precisa de veterinário.
+## Hidratação
+Um sachê por dia ajuda. Potes de água em mais de um lugar também.
+? Meu gato não quer a ração nova. O que fazer?
+= Vá mais devagar na troca. Um pouco de sachê por cima ajuda no aceite.
+? Vocês vendem sachê avulso?
+= Sim.
+? Vocês entregam no Flor da Montanha?
+= Combinando o local por ligação antes.
+
+@@ produtos-para-pets-flor-da-montanha
+title: Produtos para Pets no Flor da Montanha | Pet Shop Palmira
+desc: Produtos para pets no Jardim Flor da Montanha, Guarulhos: ração, higiene, farmácia veterinária e acessórios. Pet Shop Palmira.
+badge: Tudo para o pet
+h1: Produtos para pets no [Flor da Montanha]
+Tem bicho que não é cachorro nem gato. Calopsita, coelho, galinha no quintal. Para quem mora no Flor da Montanha, o Pet Shop Palmira atende todos eles.
+## Por espécie
+* Cães e gatos | Ração, higiene, farmácia e acessórios.
+* Pássaros | Sementes, ração extrusada e acessórios de gaiola.
+* Coelhos e roedores | Ração peletizada, feno e alfafa.
+* Criação | Ração para galinhas e suínos, e sal mineral.
+## Encomenda
+Se o que você procura não está na prateleira, a gente encomenda com os fornecedores.
+## Pedido
+Consulte pelo WhatsApp (11) 97460-5359 e combine a entrega por ligação.
+? Vocês têm produto para pássaro?
+= Temos sementes, ração extrusada, poleiros, bebedouros e gaiolas.
+? Vocês têm feno para coelho?
+= Temos feno e alfafa. Confirme pelo WhatsApp.
+? Vocês entregam no Flor da Montanha?
+= Combinando o local por ligação antes.
+
+@@ acessorios-para-pets-flor-da-montanha
+title: Acessórios para Pets no Flor da Montanha | Pet Shop Palmira
+desc: Acessórios para pets no Jardim Flor da Montanha, Guarulhos: coleiras, peitorais, caminhas, casinhas e caixas de transporte.
+badge: Acessórios
+h1: Acessórios para pets no [Flor da Montanha]
+Comprar acessório pela internet é loteria de tamanho. Na loja você prova, ou pelo menos pergunta para quem já viu muito cachorro passar pelo balcão.
+## O que temos
+- Coleiras, guias e peitorais.
+- Caminhas e colchões.
+- Casinha de madeira tratada.
+- Caixas de transporte.
+## Como medir
+Peitoral: tórax logo atrás das patas da frente. Coleira: pescoço, com dois dedos de folga. Caminha: o pet deitado esticado.
+## Itens grandes
+Casinha e caixa de transporte grande a gente entrega, combinando o local por ligação antes.
+? Como meço o meu cachorro para o peitoral?
+= Passe a fita no tórax, logo atrás das patas da frente.
+? Vocês entregam casinha no Flor da Montanha?
+= Combinando o local por ligação antes.
+? Se não tiver o tamanho, vocês encomendam?
+= Encomendamos.
+
+@@ pet-shop-torres-tibagy-guarulhos
+title: Pet Shop Perto do Torres Tibagy, Guarulhos | Pet Shop Palmira
+desc: Pet shop perto do Torres Tibagy, Guarulhos: ração, farmácia veterinária, banho e tosa para cães e acessórios. A cerca de 3 km, no Jardim Palmira.
+badge: Perto do Torres Tibagy
+h1: Pet shop perto do [Torres Tibagy]
+O Torres Tibagy fica a uns 3 km da nossa loja, em linha reta. Para quem mora lá, o Pet Shop Palmira resolve ração, remédio e acessório sem precisar ir ao centro.
+## O que tem na loja
+Ração para cães, gatos e outros bichos, farmácia veterinária, higiene, acessórios e banho e tosa para cães.
+## Por que um pet shop de bairro
+Você é atendido por gente que conhece os produtos e lembra do seu pet. Se algo falta, a gente encomenda. Se você não sabe o que levar, a gente pergunta antes de vender.
+## Entrega
+Combinada por ligação antes, pelo (11) 2451-1719 ou ligação no WhatsApp (11) 97460-5359. Na ligação a gente confirma se o endereço está na nossa área.
+? Vocês entregam no Torres Tibagy?
+= Combinando o local por ligação antes.
+? Vocês têm banho e tosa?
+= Temos, só para cães, com tosa na máquina.
+? Qual o horário?
+= Segunda a sábado, das 9h às 18h.
+
+@@ racao-para-cachorro-torres-tibagy
+title: Ração para Cachorro no Torres Tibagy | Pet Shop Palmira
+desc: Ração para cachorro no Torres Tibagy, Guarulhos: Golden, Premier, Special Dog, Pedigree e Royal Canin. Sacos de 15 e 20 kg com entrega combinada.
+badge: Ração no Torres Tibagy
+h1: Ração para cachorro no [Torres Tibagy]
+Saco de 15 kg de ração rende bem mais que três sacos de 5 kg, e costuma sair mais barato por quilo. Para cachorro médio ou grande, quase sempre compensa.
+## Mas cuidado
+Saco grande só vale se o cachorro terminar em até uns dois meses depois de aberto. Para cão pequeno, o saco menor mantém a ração fresca.
+## Marcas
+Golden, Premiatta, Max, Premier, Special Dog, Pedigree, Magnus e Royal Canin. A disponibilidade varia com o estoque.
+## Pedido
+1. Mande marca, sabor e peso pelo WhatsApp (11) 97460-5359.
+2. A gente confirma o valor.
+3. Combinamos a entrega por ligação.
+? Saco grande sempre compensa?
+= Compensa se o cachorro terminar em até uns dois meses depois de aberto.
+? Vocês entregam no Torres Tibagy?
+= Combinando o local por ligação antes.
+? Quais formas de pagamento?
+= Pix, cartão de débito e crédito e dinheiro.
+
+@@ racao-para-gato-torres-tibagy
+title: Ração para Gato no Torres Tibagy | Pet Shop Palmira
+desc: Ração para gato no Torres Tibagy, Guarulhos: ração seca, linha para castrados, sachês e areia. Pet Shop Palmira, entrega combinada.
+badge: Gatos do Torres Tibagy
+h1: Ração para gato no [Torres Tibagy]
+Gato gordo parece fofo, mas sofre: diabetes, problema de articulação, dificuldade para se limpar. Manter o peso é uma das melhores coisas que você pode fazer por ele.
+## Como manter o peso
+Ração para castrados se ele for castrado. Porção medida, não pote cheio o dia todo. Brincadeira diária.
+## O que temos
+Golden Gatos, CatChow e Whiskas, sachês, patês e areia.
+## Como saber se está acima do peso
+Você deve sentir as costelas ao passar a mão, sem apertar. Se não sente, converse com o veterinário sobre a porção.
+? Posso deixar ração à vontade para o gato?
+= Para muitos gatos, isso leva ao ganho de peso. Medir a porção é mais seguro.
+? Vocês têm ração para castrado?
+= Temos. Confirme as linhas pelo WhatsApp.
+? Vocês entregam no Torres Tibagy?
+= Combinando o local por ligação antes.
+
+@@ produtos-para-pets-torres-tibagy
+title: Produtos para Pets no Torres Tibagy | Pet Shop Palmira
+desc: Produtos para pets no Torres Tibagy, Guarulhos: farmácia veterinária, higiene, ração e acessórios. Consulte pelo WhatsApp (11) 97460-5359.
+badge: Farmácia e higiene
+h1: Produtos para pets no [Torres Tibagy]
+O antipulgas acabou, o vermífugo venceu, a receita do veterinário está na mão. Para essas horas, tem farmácia veterinária no Pet Shop Palmira.
+## Farmácia
+Frontline Plus, Capstar, vermífugos e medicamentos com receita, como Otovet, Agemoxi e Maxicam. Mande a foto da receita pelo WhatsApp e a gente separa.
+## Higiene e alimentação
+- Shampoo, colônia, areia e tapete higiênico.
+- Ração, sachê e petisco.
+- Caminhas, coleiras e brinquedos.
+- Encomenda do que faltar.
+## Entrega
+Para o Torres Tibagy, combinada por ligação antes, pelo (11) 2451-1719.
+? Como mando a receita?
+= Foto legível pelo WhatsApp (11) 97460-5359.
+? Vocês entregam remédio no Torres Tibagy?
+= Combinando o local por ligação antes.
+? Qual o horário?
+= Segunda a sábado, das 9h às 18h.
+
+@@ acessorios-para-pets-torres-tibagy
+title: Acessórios para Pets no Torres Tibagy | Pet Shop Palmira
+desc: Acessórios para pets no Torres Tibagy, Guarulhos: caixas de transporte, peitorais, caminhas e casinhas. Ajuda com o tamanho pelo WhatsApp.
+badge: Acessórios
+h1: Acessórios para pets no [Torres Tibagy]
+Levar o pet ao veterinário fica muito mais fácil com uma boa caixa de transporte. E passear fica mais tranquilo com um peitoral que não escapa.
+## Caixa de transporte
+O pet precisa ficar em pé e se virar lá dentro. Mande o peso e a raça pelo WhatsApp que a gente indica o tamanho.
+## Outros acessórios
+* Peitorais e guias | Para passear com controle.
+* Caminhas e colchões | Para o descanso.
+* Casinha de madeira tratada | Para o quintal.
+## Encomenda
+Se não tivermos o modelo ou o tamanho, encomendamos com os fornecedores.
+? Qual caixa de transporte para gato?
+= A pequena atende a maioria dos gatos. Para gato grande, a média.
+? Vocês entregam no Torres Tibagy?
+= Combinando o local por ligação antes.
+? Posso trazer o cachorro para provar?
+= Pode. Traga ele na guia.

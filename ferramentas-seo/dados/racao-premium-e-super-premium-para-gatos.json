@@ -1,0 +1,96 @@
+{
+ "slug": "racao-premium-e-super-premium-para-gatos",
+ "keyword": "ração premium e super premium para gatos",
+ "numero": 27,
+ "cluster": "nao_regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Ração Premium e Super Premium para Gatos | Pet Shop Palmira",
+ "description": "Ração premium e super premium para gatos em Guarulhos: Golden Gatos, Premier e Royal Canin. Dicas para gatos exigentes e para o trato urinário.",
+ "ogDescription": "Ração premium e super premium para gatos em Guarulhos: Golden Gatos, Premier e Royal Canin. Dicas para gatos exigentes e para o trato urinário.",
+ "faq": [
+  {
+   "q": "Por que gatos precisam de ração que cuide do trato urinário?",
+   "a": "Porque bebem pouca água e têm tendência a formar cristais na urina. Ração equilibrada e sachê ajudam na prevenção."
+  },
+  {
+   "q": "Como trocar a ração de um gato exigente?",
+   "a": "Bem devagar, misturando a nova com a antiga por 7 a 10 dias."
+  },
+  {
+   "q": "Como funciona a entrega de ração para gato?",
+   "a": "Fazemos entrega somente combinando o local por ligação antes, pelo (11) 2451-1719 ou ligação no WhatsApp."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/images/produtos/goldencat.webp",
+   "alt": "Ração Golden Gatos Castrados sabor frango com equilíbrio urinário",
+   "caption": "Golden Gatos: Cuidado Completo do Trato Urinário",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/catchow.webp",
+   "alt": "Ração Cat Chow com defesa hidronutricional para gatos adultos",
+   "caption": "Cat Chow: Defesa e Vitalidade Diária",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/whiskas.webp",
+   "alt": "Ração Whiskas crocante com recheio macio de alta aceitação",
+   "caption": "Whiskas: Sabor e Alta Palatabilidade",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/saches.webp",
+   "alt": "Sachês úmidos para hidratação e proteção renal dos felinos",
+   "caption": "Sachês Úmidos: Hidratação Renal Obrigatória",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Ração para gatos",
+ "h1": "Ração premium e super premium <span class=\"acc\">para gatos</span>",
+ "intro": [
+  "Gato é carnívoro de verdade. Precisa de proteína animal de qualidade e de taurina, e sente quando a ração muda. Por isso a escolha da ração pesa mais para ele do que para o cachorro."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Por que a qualidade da ração importa tanto"
+  },
+  {
+   "type": "p",
+   "html": "Gato bebe pouca água por natureza. Uma ração com minerais equilibrados ajuda a evitar problemas no trato urinário, que são comuns, principalmente nos machos castrados."
+  },
+  {
+   "type": "h2",
+   "text": "Premium ou super premium?"
+  },
+  {
+   "type": "p",
+   "html": "A Golden Gatos é uma premium que atende bem a maioria dos gatos adultos. Premier e Royal Canin têm linhas super premium e opções para necessidades específicas."
+  },
+  {
+   "type": "p",
+   "html": "Se o seu gato já teve problema urinário, a escolha da ração é com o veterinário."
+  },
+  {
+   "type": "h2",
+   "text": "Gato que não quer comer a ração nova"
+  },
+  {
+   "type": "p",
+   "html": "Faça a troca devagar, ao longo de 7 a 10 dias. Se ele empacar, volte um passo e vá mais devagar. Ração fresca, com o saco bem fechado, faz diferença no aceite."
+  },
+  {
+   "type": "p",
+   "html": "Sachê ajuda: misturado um pouquinho por cima, deixa o cheiro mais atraente."
+  }
+ ],
+ "humanizado": true
+}

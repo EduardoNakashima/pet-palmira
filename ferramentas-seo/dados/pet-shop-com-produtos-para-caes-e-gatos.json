@@ -1,0 +1,89 @@
+{
+ "slug": "pet-shop-com-produtos-para-caes-e-gatos",
+ "keyword": "pet shop com produtos para cães e gatos",
+ "numero": 22,
+ "cluster": "nao_regionalizadas_fase_1",
+ "source": "site",
+ "title": "Pet Shop com Produtos para Cães e Gatos | Pet Shop Palmira",
+ "description": "Pet shop com produtos para cães e gatos no Jardim Palmira, Guarulhos: ração, sachês, petiscos, antipulgas, higiene e acessórios. Há 25 anos.",
+ "ogDescription": "Pet shop com produtos para cães e gatos no Jardim Palmira, Guarulhos: ração, sachês, petiscos, antipulgas, higiene e acessórios. Há 25 anos.",
+ "faq": [
+  {
+   "q": "Posso levar o cachorro para provar peitoral e guia?",
+   "a": "Pode. Traga ele na guia que a gente ajuda a achar o tamanho."
+  },
+  {
+   "q": "Vocês têm sachê e petisco para gato exigente?",
+   "a": "Temos alguns sabores e marcas. Vale testar unidades avulsas antes de comprar caixa."
+  },
+  {
+   "q": "Como peço entrega no Jardim Palmira?",
+   "a": "Mande o pedido pelo WhatsApp e combine o local por ligação, pelo (11) 2451-1719."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/pouring-pet-food-into-bowl.jpg",
+   "alt": "Nutrição felina especializada com equilíbrio renal",
+   "caption": "Nutrição Equilibrada com Proteção Renal",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/goldencat.webp",
+   "alt": "Ração Golden Gatos Castrados sabor frango e salmão",
+   "caption": "Golden Gatos: Especial para Castrados",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/whiskas.webp",
+   "alt": "Ração Whiskas com recheio crocante e alta aceitação",
+   "caption": "Whiskas Crocante e Saboroso",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/saches.webp",
+   "alt": "Sachês úmidos para hidratação diária do trato renal dos felinos",
+   "caption": "Sachês Úmidos: Hidratação Renal Obrigatória",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Cães e gatos",
+ "h1": "Pet shop com produtos para <span class=\"acc\">cães e gatos</span>",
+ "intro": [
+  "Atendimento de bairro tem uma vantagem que loja grande não tem: a gente lembra do seu cachorro. Lembra que ele tem pele sensível, que o gato só come um sabor de sachê.",
+  "Faz 25 anos que o Pet Shop Palmira atende cães e gatos no Jardim Palmira."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Para cães"
+  },
+  {
+   "type": "p",
+   "html": "Ração de filhote, adulto e idoso, petisco, osso mastigável, antipulgas, shampoo, coleira, peitoral e caminha."
+  },
+  {
+   "type": "h2",
+   "text": "Para gatos"
+  },
+  {
+   "type": "p",
+   "html": "Ração seca, linha para castrados, sachê e patê, areia, caixa de transporte e brinquedo. Gato exigente costuma aceitar melhor quando você varia o sabor do sachê."
+  },
+  {
+   "type": "h2",
+   "text": "Por que comprar aqui"
+  },
+  {
+   "type": "p",
+   "html": "Você pode trazer o pet para provar o acessório, conversar sobre a ração e pedir uma encomenda quando faltar algo. Pagamento por Pix, cartão ou dinheiro."
+  }
+ ],
+ "humanizado": true
+}

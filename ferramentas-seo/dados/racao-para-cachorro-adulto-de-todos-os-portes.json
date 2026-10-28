@@ -1,0 +1,117 @@
+{
+ "slug": "racao-para-cachorro-adulto-de-todos-os-portes",
+ "keyword": "ração para cachorro adulto de todos os portes",
+ "numero": 28,
+ "cluster": "nao_regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Ração para Cachorro Adulto de Todos os Portes | Pet Shop Palmira",
+ "description": "Ração para cachorro adulto de todos os portes em Guarulhos: como escolher pelo tamanho do cão e controlar a porção. Golden, Premiatta, Max e mais.",
+ "ogDescription": "Ração para cachorro adulto de todos os portes em Guarulhos: como escolher pelo tamanho do cão e controlar a porção. Golden, Premiatta, Max e mais.",
+ "faq": [
+  {
+   "q": "Por que respeitar o porte na ração?",
+   "a": "Porque o tamanho do grão e a energia da fórmula são pensados para cada porte."
+  },
+  {
+   "q": "Quantas vezes por dia o cão adulto deve comer?",
+   "a": "Duas vezes por dia funciona bem para a maioria dos cães adultos."
+  },
+  {
+   "q": "Posso misturar sachê na ração seca?",
+   "a": "Pode, desde que você diminua um pouco a ração seca."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/images/produtos/golden.webp",
+   "alt": "Ração Golden Formula Cães Adultos sabor frango e arroz com alta digestibilidade",
+   "caption": "Golden Formula Adultos: Sabor e Alta Energia",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/max.webp",
+   "alt": "Ração Max Cães Adultos nutrição balanceada e ótimo custo-benefício",
+   "caption": "Max Adultos: Preço Acessível e Qualidade",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/premiata.webp",
+   "alt": "Ração Premiatta Adultos de Raças Médias e Grandes com condroprotetores",
+   "caption": "Premiatta Adultos: Proteção para Cartilagens",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/racaoparacachorro.jpg",
+   "alt": "Grãos crocantes adaptados para a mandíbula de cães adultos",
+   "caption": "Partículas Desenvolvidas para Cada Mandíbula",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Cão adulto",
+ "h1": "Ração para cachorro adulto de <span class=\"acc\">todos os portes</span>",
+ "intro": [
+  "Um yorkshire e um pastor-alemão adultos não podem comer a mesma ração na mesma quantidade. O porte muda o tamanho do grão, a energia e a porção do dia."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "O que muda de um porte para outro"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Porte",
+    "O que observar"
+   ],
+   "rows": [
+    [
+     "Pequeno",
+     "Grão menor e mais energia por grama, porque o metabolismo é mais rápido"
+    ],
+    [
+     "Médio",
+     "Equilíbrio entre energia e controle de peso"
+    ],
+    [
+     "Grande",
+     "Grão maior e cuidado com articulações e peso"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Como acertar a porção"
+  },
+  {
+   "type": "p",
+   "html": "Use a tabela da embalagem pelo peso que o cachorro deveria ter, não pelo peso atual se ele estiver acima. Divida em duas refeições por dia."
+  },
+  {
+   "type": "p",
+   "html": "Um teste simples: você deve sentir as costelas ao passar a mão, sem ver os ossos."
+  },
+  {
+   "type": "h2",
+   "text": "Opções que você encontra"
+  },
+  {
+   "type": "p",
+   "html": "Golden Formula, Premiatta Classic e Max Professional Line para adultos, além de Premier, Special Dog, Pedigree e Royal Canin. Confirme o estoque pelo WhatsApp."
+  },
+  {
+   "type": "h2",
+   "text": "Ração úmida junto?"
+  },
+  {
+   "type": "p",
+   "html": "Pode. Um sachê ou patê misturado à ração seca deixa a refeição mais atraente. Só desconte a quantidade da porção seca para não engordar."
+  }
+ ],
+ "humanizado": true
+}

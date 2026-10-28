@@ -1,0 +1,88 @@
+{
+ "slug": "racao-para-gato-jardim-palmira",
+ "keyword": "ração para gato Jardim Palmira",
+ "numero": 53,
+ "cluster": "regionalizadas_fase_1",
+ "source": "site",
+ "title": "Ração para Gato no Jardim Palmira | Pet Shop Palmira",
+ "description": "Ração para gato no Jardim Palmira, Guarulhos: Golden Gatos, CatChow, Whiskas e sachês. Areia higiênica e entrega combinada por ligação.",
+ "ogDescription": "Ração para gato no Jardim Palmira, Guarulhos: Golden Gatos, CatChow, Whiskas e sachês. Areia higiênica e entrega combinada por ligação.",
+ "faq": [
+  {
+   "q": "Qual ração para gato castrado vocês têm?",
+   "a": "Temos linhas para castrados, como a Golden Gatos Castrados. Confirme o estoque pelo WhatsApp."
+  },
+  {
+   "q": "Vocês entregam areia?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  },
+  {
+   "q": "Vocês vendem sachê avulso?",
+   "a": "Sim, em unidades avulsas."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/pouring-pet-food-into-bowl.jpg",
+   "alt": "Nutrição felina especializada com equilíbrio renal",
+   "caption": "Nutrição Equilibrada com Proteção Renal",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/goldencat.webp",
+   "alt": "Ração Golden Gatos Castrados sabor frango e salmão",
+   "caption": "Golden Gatos: Especial para Castrados",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/whiskas.webp",
+   "alt": "Ração Whiskas com recheio crocante e alta aceitação",
+   "caption": "Whiskas Crocante e Saboroso",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/saches.webp",
+   "alt": "Sachês úmidos para hidratação diária do trato renal dos felinos",
+   "caption": "Sachês Úmidos: Hidratação Renal Obrigatória",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Gatos do bairro",
+ "h1": "Ração para gato no <span class=\"acc\">Jardim Palmira</span>",
+ "intro": [
+  "Gato não gosta de mudança. Quando a ração de sempre acaba, é bom ter onde comprar perto de casa. No Jardim Palmira, a loja fica na Av. Pedro de Souza Lopes, 33B."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Ração, sachê e areia no mesmo lugar"
+  },
+  {
+   "type": "p",
+   "html": "Temos Golden Gatos, CatChow e Whiskas, com opções para filhote, adulto e castrado. Sachês e patês avulsos para variar o cardápio. E areia, que é pesada, dá para receber em casa."
+  },
+  {
+   "type": "h2",
+   "text": "Gato castrado"
+  },
+  {
+   "type": "p",
+   "html": "Depois da castração o gato engorda com facilidade. A ração para castrados tem menos caloria. Junto com brincadeira diária, ajuda a manter o peso."
+  },
+  {
+   "type": "h2",
+   "text": "Hidratação"
+  },
+  {
+   "type": "p",
+   "html": "Gato bebe pouca água. Um sachê por dia e água fresca em mais de um canto da casa ajudam o trato urinário."
+  }
+ ],
+ "humanizado": true
+}

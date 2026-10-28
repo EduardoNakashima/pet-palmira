@@ -1,0 +1,88 @@
+{
+ "slug": "racao-para-gato-continental",
+ "keyword": "ração para gato Continental",
+ "numero": 58,
+ "cluster": "regionalizadas_fase_1",
+ "source": "site",
+ "title": "Ração para Gato no Parque Continental | Pet Shop Palmira",
+ "description": "Ração para gato no Parque Continental, Guarulhos: Golden Gatos, CatChow, Whiskas, sachês e areia. Pet Shop Palmira, a cerca de 1 km.",
+ "ogDescription": "Ração para gato no Parque Continental, Guarulhos: Golden Gatos, CatChow, Whiskas, sachês e areia. Pet Shop Palmira, a cerca de 1 km.",
+ "faq": [
+  {
+   "q": "Vocês têm ração para gato castrado?",
+   "a": "Temos. Confirme as linhas disponíveis pelo WhatsApp."
+  },
+  {
+   "q": "Posso pedir caixa de sachê pelo WhatsApp?",
+   "a": "Pode consultar. Caixa fechada é sob consulta."
+  },
+  {
+   "q": "Como peço entrega?",
+   "a": "Pelo WhatsApp (11) 97460-5359, combinando o local por ligação."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/pouring-pet-food-into-bowl.jpg",
+   "alt": "Nutrição felina especializada com equilíbrio renal",
+   "caption": "Nutrição Equilibrada com Proteção Renal",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/goldencat.webp",
+   "alt": "Ração Golden Gatos Castrados sabor frango e salmão",
+   "caption": "Golden Gatos: Especial para Castrados",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/whiskas.webp",
+   "alt": "Ração Whiskas com recheio crocante e alta aceitação",
+   "caption": "Whiskas Crocante e Saboroso",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/saches.webp",
+   "alt": "Sachês úmidos para hidratação diária do trato renal dos felinos",
+   "caption": "Sachês Úmidos: Hidratação Renal Obrigatória",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Gatos do Continental",
+ "h1": "Ração para gato no <span class=\"acc\">Parque Continental</span>",
+ "intro": [
+  "Gato de sobrado ou apartamento passa o dia em casa, se mexe pouco e engorda fácil. A ração certa e o sachê para hidratar fazem diferença."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "O que temos para gatos"
+  },
+  {
+   "type": "p",
+   "html": "Golden Gatos, CatChow e Whiskas, com opções para filhote, adulto e castrado. Sachês e patês avulsos. E areia higiênica."
+  },
+  {
+   "type": "h2",
+   "text": "Gato que fica em casa"
+  },
+  {
+   "type": "p",
+   "html": "Ração para castrado, porção na medida e brincadeira todo dia. Uma varinha com pena por dez minutos já ajuda o gato a gastar energia."
+  },
+  {
+   "type": "h2",
+   "text": "Entrega no Continental"
+  },
+  {
+   "type": "p",
+   "html": "A areia e o saco de ração são os itens que mais vale receber em casa. A entrega é combinada por ligação, pelo (11) 2451-1719."
+  }
+ ],
+ "humanizado": true
+}

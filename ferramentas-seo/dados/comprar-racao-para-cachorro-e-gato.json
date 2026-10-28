@@ -1,0 +1,98 @@
+{
+ "slug": "comprar-racao-para-cachorro-e-gato",
+ "keyword": "comprar ração para cachorro e gato",
+ "numero": 2,
+ "cluster": "nao_regionalizadas_fase_1",
+ "source": "site",
+ "title": "Comprar Ração para Cachorro e Gato | Pet Shop Palmira",
+ "description": "Quer comprar ração para cachorro e gato em Guarulhos? Consulte marcas e preços pelo WhatsApp e retire na loja ou combine a entrega por ligação.",
+ "ogDescription": "Quer comprar ração para cachorro e gato em Guarulhos? Consulte marcas e preços pelo WhatsApp e retire na loja ou combine a entrega por ligação.",
+ "faq": [
+  {
+   "q": "Quanto de ração vale comprar de uma vez?",
+   "a": "O suficiente para o seu pet terminar em até 40 a 60 dias depois de abrir. Guarde o saco bem fechado, longe do sol."
+  },
+  {
+   "q": "Vocês vendem sachê e patê avulso?",
+   "a": "Sim, temos unidades avulsas. Caixa fechada você consulta pelo WhatsApp."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/pouring-pet-food-into-bowl.jpg",
+   "alt": "Nutrição felina especializada com equilíbrio renal",
+   "caption": "Nutrição Equilibrada com Proteção Renal",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/goldencat.webp",
+   "alt": "Ração Golden Gatos Castrados sabor frango e salmão",
+   "caption": "Golden Gatos: Especial para Castrados",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/whiskas.webp",
+   "alt": "Ração Whiskas com recheio crocante e alta aceitação",
+   "caption": "Whiskas Crocante e Saboroso",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/saches.webp",
+   "alt": "Sachês úmidos para hidratação diária do trato renal dos felinos",
+   "caption": "Sachês Úmidos: Hidratação Renal Obrigatória",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Compra simples",
+ "h1": "Comprar ração para <span class=\"acc\">cachorro e gato</span> sem complicação",
+ "intro": [
+  "Para comprar ração para cachorro e gato com a gente, basta uma mensagem no WhatsApp (11) 97460-5359 dizendo a marca e o peso. A equipe confirma se tem e passa o valor.",
+  "Depois é só passar na loja do Jardim Palmira ou combinar a entrega por ligação."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Antes de comprar, faça essa conta"
+  },
+  {
+   "type": "p",
+   "html": "O preço do saco engana. Uma ração com melhor aproveitamento rende mais, porque o pet come menos para ficar satisfeito. No fim do mês, a mais barata nem sempre sai mais em conta."
+  },
+  {
+   "type": "p",
+   "html": "Outra conta útil: quanto tempo o saco dura na sua casa. Depois de aberto, o ideal é terminar em 40 a 60 dias para a ração não perder sabor."
+  },
+  {
+   "type": "h2",
+   "text": "Por que comprar no bairro"
+  },
+  {
+   "type": "p",
+   "html": "Você não fica esperando transportadora com o pote vazio. E o saco chega lacrado, sem o risco de umidade de uma embalagem que rodou o país."
+  },
+  {
+   "type": "p",
+   "html": "Tem também a conversa. Muita gente chega aqui sem saber se o gato precisa de ração para castrado ou se o cachorro já passou da fase de filhote, e sai sabendo."
+  },
+  {
+   "type": "h2",
+   "text": "Como funciona o pedido"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Mande a marca, o sabor e o peso pelo WhatsApp.",
+    "A gente confirma se tem no estoque e o valor.",
+    "Você paga com Pix, cartão ou dinheiro.",
+    "Retira na loja ou combina a entrega por ligação."
+   ]
+  }
+ ],
+ "humanizado": true
+}

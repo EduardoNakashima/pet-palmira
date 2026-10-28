@@ -1,0 +1,88 @@
+{
+ "slug": "pet-shop-jardim-rosa-de-franca",
+ "keyword": "pet shop Jardim Rosa de França",
+ "numero": 71,
+ "cluster": "regionalizadas_fase_1",
+ "source": "site",
+ "title": "Pet Shop Perto do Jardim Rosa de França | Pet Shop Palmira",
+ "description": "Pet shop perto do Jardim Rosa de França, Guarulhos: ração, farmácia veterinária, higiene e acessórios. A cerca de 2 km, no Jardim Palmira.",
+ "ogDescription": "Pet shop perto do Jardim Rosa de França, Guarulhos: ração, farmácia veterinária, higiene e acessórios. A cerca de 2 km, no Jardim Palmira.",
+ "faq": [
+  {
+   "q": "Vocês entregam no Rosa de França?",
+   "a": "Combinando o local por ligação antes, pelo (11) 2451-1719."
+  },
+  {
+   "q": "Vocês fazem banho em gato?",
+   "a": "Não. O banho e tosa é só para cães."
+  },
+  {
+   "q": "Quais formas de pagamento?",
+   "a": "Pix, cartão de débito e crédito e dinheiro."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/loja.jpg",
+   "alt": "Atendimento acolhedor e tradição de 25 anos no Pet Shop Palmira",
+   "caption": "Tradição de 25 Anos na Região",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/racaoparacachorro.jpg",
+   "alt": "Sacos de rações Super Premium e Premium Especial com lote fresco",
+   "caption": "Grandes Marcas de Ração Canina e Felina",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/transportesecasinhas.jpg",
+   "alt": "Casinhas plásticas térmicas, caminhas e caixas de transporte",
+   "caption": "Acessórios, Casinhas e Caixas de Transporte",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/loja2.jpg",
+   "alt": "Corredores com farmácia veterinária, antipulgas e artigos de higiene",
+   "caption": "Farmácia Veterinária e Higiene Completa",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Perto do Rosa de França",
+ "h1": "Pet shop perto do <span class=\"acc\">Jardim Rosa de França</span>",
+ "intro": [
+  "O Jardim Rosa de França fica a uns 2 km da nossa loja, em linha reta. Para quem mora lá, o Pet Shop Palmira é uma opção de bairro, com atendimento de quem está há 25 anos no mesmo endereço."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Para todas as fases do pet"
+  },
+  {
+   "type": "p",
+   "html": "Ração de filhote, adulto e idoso. Antipulgas e vermífugo no peso certo. Caminha, coleira e brinquedo do tamanho dele. E, quando falta alguma coisa, encomenda."
+  },
+  {
+   "type": "h2",
+   "text": "Banho e tosa"
+  },
+  {
+   "type": "p",
+   "html": "Para cães, com tosa na máquina. Você agenda pelo WhatsApp, traz o cão até a loja e a gente avisa quando estiver pronto."
+  },
+  {
+   "type": "h2",
+   "text": "Como comprar"
+  },
+  {
+   "type": "p",
+   "html": "Na loja, de segunda a sábado, das 9h às 18h. Ou pelo WhatsApp (11) 97460-5359, com entrega combinada por ligação."
+  }
+ ],
+ "humanizado": true
+}

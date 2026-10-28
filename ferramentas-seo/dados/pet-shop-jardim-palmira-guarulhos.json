@@ -1,0 +1,106 @@
+{
+ "slug": "pet-shop-jardim-palmira-guarulhos",
+ "keyword": "pet shop Jardim Palmira Guarulhos",
+ "numero": 51,
+ "cluster": "regionalizadas_fase_1",
+ "source": "site",
+ "title": "Pet Shop no Jardim Palmira, Guarulhos | Pet Shop Palmira",
+ "description": "Pet shop no Jardim Palmira, Guarulhos, há 25 anos na Av. Pedro de Souza Lopes, 33B. Ração, farmácia veterinária, banho e tosa para cães.",
+ "ogDescription": "Pet shop no Jardim Palmira, Guarulhos, há 25 anos na Av. Pedro de Souza Lopes, 33B. Ração, farmácia veterinária, banho e tosa para cães.",
+ "faq": [
+  {
+   "q": "Qual o horário da loja?",
+   "a": "Segunda a sábado, das 9h às 18h. Domingo e feriado fechado."
+  },
+  {
+   "q": "Vocês fazem banho e tosa em gato?",
+   "a": "Não. O banho e tosa é só para cães, com tosa na máquina e sem táxi dog."
+  },
+  {
+   "q": "Vocês entregam no Jardim Palmira?",
+   "a": "Entregamos, combinando o local por ligação antes, pelo (11) 2451-1719."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/loja.jpg",
+   "alt": "Atendimento acolhedor e tradição de 25 anos no Pet Shop Palmira",
+   "caption": "Tradição de 25 Anos na Região",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/racaoparacachorro.jpg",
+   "alt": "Sacos de rações Super Premium e Premium Especial com lote fresco",
+   "caption": "Grandes Marcas de Ração Canina e Felina",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/transportesecasinhas.jpg",
+   "alt": "Casinhas plásticas térmicas, caminhas e caixas de transporte",
+   "caption": "Acessórios, Casinhas e Caixas de Transporte",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/loja2.jpg",
+   "alt": "Corredores com farmácia veterinária, antipulgas e artigos de higiene",
+   "caption": "Farmácia Veterinária e Higiene Completa",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "O pet shop do bairro",
+ "h1": "Pet shop no Jardim Palmira, <span class=\"acc\">Guarulhos</span>",
+ "intro": [
+  "A gente está no Jardim Palmira há 25 anos, na Av. Pedro de Souza Lopes, 33B. Tem cliente que começou comprando ração para o primeiro cachorro e hoje traz o neto para escolher o brinquedo do filhote.",
+  "Para quem mora no bairro, dá para vir a pé buscar a ração ou combinar a entrega por ligação."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "O que tem na loja"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Ração e alimentação",
+     "text": "Cães, gatos, pássaros, roedores e animais de criação."
+    },
+    {
+     "title": "Farmácia veterinária",
+     "text": "Antipulgas, vermífugos e medicamentos com receita."
+    },
+    {
+     "title": "Banho e tosa",
+     "text": "Só para cães, com tosa na máquina. Você traz e busca."
+    },
+    {
+     "title": "Acessórios",
+     "text": "Caminhas, casinhas, coleiras, caixas de transporte e brinquedos."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Por que os vizinhos compram aqui"
+  },
+  {
+   "type": "p",
+   "html": "Porque é perto, porque a gente conhece o seu bicho e porque, quando falta alguma coisa, a gente encomenda. Pagamento por Pix, cartão ou dinheiro."
+  },
+  {
+   "type": "h2",
+   "text": "Saúde do pet"
+  },
+  {
+   "type": "p",
+   "html": "Para consulta, vacina e exame, indicamos veterinários e clínicas parceiras de confiança em Guarulhos. Na loja você encontra os remédios que eles receitarem."
+  }
+ ],
+ "humanizado": true
+}

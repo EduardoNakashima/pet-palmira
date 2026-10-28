@@ -1,0 +1,86 @@
+{
+ "slug": "pet-shop-vila-rosalia-guarulhos",
+ "keyword": "pet shop Vila Rosália Guarulhos",
+ "numero": 81,
+ "cluster": "regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Pet Shop Perto da Vila Rosália, Guarulhos | Pet Shop Palmira",
+ "description": "Pet shop perto da Vila Rosália, Guarulhos: ração, farmácia veterinária, banho e tosa para cães e acessórios. A menos de 2 km, no Jardim Palmira.",
+ "ogDescription": "Pet shop perto da Vila Rosália, Guarulhos: ração, farmácia veterinária, banho e tosa para cães e acessórios. A menos de 2 km, no Jardim Palmira.",
+ "faq": [
+  {
+   "q": "Vocês entregam na Vila Rosália?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  },
+  {
+   "q": "Tem estacionamento?",
+   "a": "A loja fica na avenida. Melhor ligar antes se for buscar algo pesado, que a gente deixa separado."
+  },
+  {
+   "q": "Quais formas de pagamento?",
+   "a": "Pix, cartão de débito e crédito e dinheiro."
+  },
+  {
+   "q": "Qual o horário?",
+   "a": "Segunda a sábado, das 9h às 18h."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/images/produtos/goldenformula.webp",
+   "alt": "Rações de alta qualidade no Pet Shop Palmira perto da Vila Rosália",
+   "caption": "Rações Super Premium e Premium Especial GoldeN, Premier, Special Dog e GranPlus para vitalidade diária.",
+   "ok": false
+  },
+  {
+   "src": "assets/images/produtos/bravecto.webp",
+   "alt": "Farmácia Veterinária com Bravecto no Pet Shop Palmira",
+   "caption": "Farmácia Veterinária Completa Antipulgas Bravecto, Simparic, vermífugos e medicamentos certificados.",
+   "ok": false
+  },
+  {
+   "src": "assets/images/produtos/transportesecasinhas.webp",
+   "alt": "Acessórios, casinhas e caixas de transporte",
+   "caption": "Casinhas, Caixas de Transporte e Peitorais Conforto térmico e segurança para caminhar no Lago dos Patos.",
+   "ok": false
+  },
+  {
+   "src": "assets/images/produtos/goldencat.webp",
+   "alt": "Ração Golden Gatos Castrados no Pet Shop Palmira",
+   "caption": "Nutrição Especializada para Felinos Fórmulas para gatos castrados, controle de bolas de pelo e saúde urinária.",
+   "ok": true
+  }
+ ],
+ "badge": "Perto da Vila Rosália",
+ "h1": "Pet shop perto da <span class=\"acc\">Vila Rosália</span>",
+ "intro": [
+  "Da Vila Rosália até a nossa loja são menos de 2 km em linha reta. É um dos bairros mais próximos do Jardim Palmira."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "O que tem na loja"
+  },
+  {
+   "type": "p",
+   "html": "Ração para cães, gatos, pássaros e roedores. Farmácia veterinária. Higiene. Acessórios. E banho e tosa para cães, com hora marcada."
+  },
+  {
+   "type": "h2",
+   "text": "Atendimento"
+  },
+  {
+   "type": "p",
+   "html": "A gente gosta de conversar antes de vender. Se você não sabe qual ração, qual antipulgas ou qual tamanho de caminha, pergunte. Se não tivermos, encomendamos."
+  },
+  {
+   "type": "h2",
+   "text": "Como comprar"
+  },
+  {
+   "type": "p",
+   "html": "Na loja, na Av. Pedro de Souza Lopes, 33B, de segunda a sábado. Ou pelo WhatsApp (11) 97460-5359, com entrega combinada por ligação."
+  }
+ ],
+ "humanizado": true
+}

@@ -1,0 +1,102 @@
+{
+ "slug": "coleiras-guias-e-peitorais-para-cachorro",
+ "keyword": "coleiras guias e peitorais para cachorro",
+ "numero": 43,
+ "cluster": "nao_regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Coleiras, Guias e Peitorais para Cachorro | Pet Shop Palmira",
+ "description": "Coleiras, guias e peitorais para cachorro em Guarulhos. Como escolher e regular o peitoral. Traga o cão para provar no Pet Shop Palmira.",
+ "ogDescription": "Coleiras, guias e peitorais para cachorro em Guarulhos. Como escolher e regular o peitoral. Traga o cão para provar no Pet Shop Palmira.",
+ "faq": [
+  {
+   "q": "Qual a diferença entre peitoral comum e antipuxão?",
+   "a": "O antipuxão tem a argola de prender a guia na frente do peito, o que tira a força do puxão."
+  },
+  {
+   "q": "Qual é mais seguro para pug e buldogue?",
+   "a": "O peitoral, porque não aperta o pescoço."
+  },
+  {
+   "q": "Vocês têm guia com amortecedor?",
+   "a": "Consulte os modelos disponíveis pelo WhatsApp."
+  },
+  {
+   "q": "Posso levar o cachorro para provar?",
+   "a": "Pode. Traga ele na guia."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/images/produtos/coleira.webp",
+   "alt": "Coleiras ajustáveis, peitorais e guias de alta resistência",
+   "caption": "Coleiras reguláveis, peitorais em H e guias resistentes",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/roupinha.webp",
+   "alt": "Conjuntos de passeio, capas de chuva e peitorais confortáveis",
+   "caption": "Acessórios completos para passeios confortáveis e seguros",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/brinquedos.webp",
+   "alt": "Brinquedos interativos e acessórios para enriquecimento",
+   "caption": "Estímulo e diversão completa para a rotina do seu cão",
+   "ok": true
+  }
+ ],
+ "badge": "Passeio seguro",
+ "h1": "Coleiras, guias e <span class=\"acc\">peitorais</span> para cachorro",
+ "intro": [
+  "O passeio fica bem melhor quando o equipamento é certo. Coleira apertada machuca, peitoral frouxo escapa, guia curta demais irrita o cachorro.",
+  "Aqui na loja você pode trazer o cão para provar."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Coleira ou peitoral?"
+  },
+  {
+   "type": "p",
+   "html": "A coleira é boa para a plaquinha de identificação e para cães que andam bem na guia. O peitoral distribui a força no peito e é mais seguro para quem puxa."
+  },
+  {
+   "type": "p",
+   "html": "Cães de focinho curto, como pug, buldogue e shih-tzu, devem passear de peitoral. A coleira aperta a garganta e piora a respiração."
+  },
+  {
+   "type": "h2",
+   "text": "Por porte"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Perfil",
+    "Indicação"
+   ],
+   "rows": [
+    [
+     "Filhote",
+     "Peitoral leve e guia simples"
+    ],
+    [
+     "Cão pequeno",
+     "Peitoral, principalmente se tiver focinho curto"
+    ],
+    [
+     "Cão grande que puxa",
+     "Peitoral antipuxão e guia firme"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Como regular o peitoral"
+  },
+  {
+   "type": "p",
+   "html": "Deve passar dois dedos entre a fita e o corpo. Se passar a mão inteira, está frouxo. Se não passar nenhum dedo, está apertado."
+  }
+ ],
+ "humanizado": true
+}

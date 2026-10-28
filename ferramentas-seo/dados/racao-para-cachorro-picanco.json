@@ -1,0 +1,109 @@
+{
+ "slug": "racao-para-cachorro-picanco",
+ "keyword": "ração para cachorro Picanço",
+ "numero": 77,
+ "cluster": "regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Ração para Cachorro no Picanço, Guarulhos | Pet Shop Palmira",
+ "description": "Ração para cachorro no Picanço, Guarulhos: como escolher pelo porte e pela fase, marcas em estoque e dicas para conservar o saco aberto.",
+ "ogDescription": "Ração para cachorro no Picanço, Guarulhos: como escolher pelo porte e pela fase, marcas em estoque e dicas para conservar o saco aberto.",
+ "faq": [
+  {
+   "q": "Como conservar a ração depois de aberta?",
+   "a": "Saco bem fechado ou pote com tampa, em lugar seco e fora do sol."
+  },
+  {
+   "q": "Vocês entregam no Picanço?",
+   "a": "Combinando o local por ligação antes."
+  },
+  {
+   "q": "Como peço?",
+   "a": "Pelo WhatsApp (11) 97460-5359."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/racaoparacachorro.jpg",
+   "alt": "Ampla variedade de rações caninas no Pet Shop Palmira",
+   "caption": "Variedade Completa de Rações Caninas",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/golden.webp",
+   "alt": "Ração Golden Formula Adultos para cães de médio e grande porte",
+   "caption": "Golden Formula: Alta Digestibilidade e Sabor",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/goldenFilhote.webp",
+   "alt": "Ração Golden Filhotes rica em cálcio, fósforo e DHA",
+   "caption": "Linha Filhotes: Crescimento Forte e Saudável",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/premiata.webp",
+   "alt": "Rações da categoria Super Premium para máxima absorção",
+   "caption": "Linha Super Premium: Proteção Articular e Vitalidade",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Ração no Picanço",
+ "h1": "Ração para cachorro no <span class=\"acc\">Picanço</span>",
+ "intro": [
+  "Escolher a ração começa por duas perguntas: quantos anos o cachorro tem e qual o tamanho dele. O resto é ajuste fino."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Porte e fase"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Perfil",
+    "O que procurar"
+   ],
+   "rows": [
+    [
+     "Filhote",
+     "Ração de filhote, com mais energia e grão menor"
+    ],
+    [
+     "Adulto pequeno",
+     "Ração de raça pequena, porção controlada"
+    ],
+    [
+     "Adulto grande",
+     "Grão maior e cuidado com o peso"
+    ],
+    [
+     "Idoso",
+     "Menos caloria e apoio às articulações"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Marcas"
+  },
+  {
+   "type": "p",
+   "html": "Golden, Premiatta, Max, Premier, Special Dog, Pedigree, Magnus e Royal Canin, conforme o estoque."
+  },
+  {
+   "type": "h2",
+   "text": "Ração fresca até o fim"
+  },
+  {
+   "type": "p",
+   "html": "Ração aberta perde cheiro e crocância. Feche bem o saco, guarde longe do sol e do chão. Se o cachorro começar a rejeitar a ração no fim do saco, provavelmente ela pegou ar."
+  }
+ ],
+ "humanizado": true
+}

@@ -1,0 +1,87 @@
+{
+ "slug": "racao-para-gato-vila-rosalia",
+ "keyword": "ração para gato Vila Rosália",
+ "numero": 83,
+ "cluster": "regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Ração para Gato na Vila Rosália | Pet Shop Palmira",
+ "description": "Ração para gato na Vila Rosália, Guarulhos: ração seca, sachês e areia. Golden Gatos, CatChow e Whiskas no Pet Shop Palmira.",
+ "ogDescription": "Ração para gato na Vila Rosália, Guarulhos: ração seca, sachês e areia. Golden Gatos, CatChow e Whiskas no Pet Shop Palmira.",
+ "faq": [
+  {
+   "q": "Sachê todo dia faz mal?",
+   "a": "Não, se você diminuir a ração seca na mesma proporção."
+  },
+  {
+   "q": "Vocês entregam na Vila Rosália?",
+   "a": "Combinando o local por ligação antes."
+  },
+  {
+   "q": "Vocês têm ração para filhote de gato?",
+   "a": "Consulte as opções disponíveis pelo WhatsApp."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/images/produtos/goldencat.webp",
+   "alt": "Ração Golden Gatos Castrados sabor Frango",
+   "caption": "GoldeN Gatos Castrados Frango ou Salmão Controle calórico ideal, L-carnitina e proteção renal contínua.",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/granplusgato.webp",
+   "alt": "Ração GranPlus Gatos Castrados para Vila Rosália",
+   "caption": "GranPlus Gourmet Gatos Crocantes refinados com alto teor de carne e sabor inigualável.",
+   "ok": false
+  },
+  {
+   "src": "assets/images/produtos/royalcanin.webp",
+   "alt": "Ração Royal Canin Gatos Específicos",
+   "caption": "Royal Canin Feline Nutrition Precisão científica nutricional para gatos indoor e pelagens densas.",
+   "ok": false
+  },
+  {
+   "src": "assets/organico/loja.jpg",
+   "alt": "Pet Shop Palmira atendendo a Vila Rosália",
+   "caption": "25 Anos Cuidando de Gatos em Guarulhos Atendimento acolhedor, areias sanitárias e arranhadores completos.",
+   "ok": true
+  }
+ ],
+ "badge": "Gatos da Vila Rosália",
+ "h1": "Ração para gato na <span class=\"acc\">Vila Rosália</span>",
+ "intro": [
+  "Gato vive bem mais quando come direito e bebe água suficiente. Parece óbvio, mas a maioria dos gatos bebe menos do que deveria."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Seca e úmida"
+  },
+  {
+   "type": "p",
+   "html": "A ração seca é a base. O sachê complementa com água. Juntos, ajudam a proteger os rins e a bexiga."
+  },
+  {
+   "type": "h2",
+   "text": "O que temos"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Golden Gatos, CatChow e Whiskas.",
+    "Linhas para castrados.",
+    "Sachês e patês avulsos.",
+    "Areia higiênica."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Idade conta"
+  },
+  {
+   "type": "p",
+   "html": "Filhote precisa de ração de filhote. Gato idoso costuma precisar de acompanhamento do veterinário para ajustar a dieta."
+  }
+ ],
+ "humanizado": true
+}

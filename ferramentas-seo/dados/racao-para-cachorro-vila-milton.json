@@ -1,0 +1,86 @@
+{
+ "slug": "racao-para-cachorro-vila-milton",
+ "keyword": "ração para cachorro Vila Milton",
+ "numero": 87,
+ "cluster": "regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Ração para Cachorro na Vila Milton | Pet Shop Palmira",
+ "description": "Ração para cachorro na Vila Milton, Guarulhos: premium especial e super premium, Golden, Premier, Royal Canin e mais. Entrega combinada.",
+ "ogDescription": "Ração para cachorro na Vila Milton, Guarulhos: premium especial e super premium, Golden, Premier, Royal Canin e mais. Entrega combinada.",
+ "faq": [
+  {
+   "q": "Ração mais cara é sempre melhor?",
+   "a": "Não necessariamente. A melhor é a que serve para a idade, o porte e a saúde do seu cachorro."
+  },
+  {
+   "q": "Vocês entregam na Vila Milton?",
+   "a": "Combinando o local por ligação antes."
+  },
+  {
+   "q": "Como troco de ração?",
+   "a": "Aos poucos, ao longo de 7 dias."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/images/produtos/golden.webp",
+   "alt": "Ração GoldeN Fórmula Adultos Frango e Arroz no Pet Shop Palmira",
+   "caption": "GoldeN Fórmula Adultos e Filhotes Alimento Premium Especial com alta aceitação e excelente custo-benefício.",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/premiata.webp",
+   "alt": "Ração Premiatta Super Premium no Pet Shop Palmira",
+   "caption": "Super Premium para Alta Digestibilidade Ingredientes nobres, proteção articular e digestão otimizada.",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/max.webp",
+   "alt": "Ração Max para cães adultos em sacos econômicos",
+   "caption": "Embalagens Econômicas de 10kg, 15kg e 20kg Mais rendimento para famílias com múltiplos cães ou portes maiores.",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/goldenFilhote.webp",
+   "alt": "Ração GoldeN Filhotes para desenvolvimento saudável",
+   "caption": "Fórmulas Especiais para Filhotes Rica em DHA para desenvolvimento cerebral, ossos fortes e imunidade.",
+   "ok": true
+  }
+ ],
+ "badge": "Ração na Vila Milton",
+ "h1": "Ração para cachorro na <span class=\"acc\">Vila Milton</span>",
+ "intro": [
+  "Ração cara não é garantia de ração certa. O melhor para o seu cachorro depende da idade, do porte e da saúde dele."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Linhas de ração"
+  },
+  {
+   "type": "p",
+   "html": "As premium especial, como Golden Formula e Premiatta Classic, atendem bem a maioria dos cães saudáveis. As super premium, da Premier e da Royal Canin, têm fórmulas para raças e necessidades específicas."
+  },
+  {
+   "type": "p",
+   "html": "Para cão com problema de saúde, quem define é o veterinário."
+  },
+  {
+   "type": "h2",
+   "text": "Porção"
+  },
+  {
+   "type": "p",
+   "html": "A tabela da embalagem é um ponto de partida. Se o cachorro está ganhando peso, diminua um pouco. Se está magro, aumente. Pese de vez em quando."
+  },
+  {
+   "type": "h2",
+   "text": "Pedido"
+  },
+  {
+   "type": "p",
+   "html": "Mande a marca e o peso para (11) 97460-5359. Retire na loja ou combine a entrega por ligação."
+  }
+ ],
+ "humanizado": true
+}

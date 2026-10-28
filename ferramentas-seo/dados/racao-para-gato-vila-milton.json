@@ -1,0 +1,82 @@
+{
+ "slug": "racao-para-gato-vila-milton",
+ "keyword": "ração para gato Vila Milton",
+ "numero": 88,
+ "cluster": "regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Ração para Gato na Vila Milton | Pet Shop Palmira",
+ "description": "Ração para gato na Vila Milton, Guarulhos: cuidado com o trato urinário, linha para castrados, sachês e areia. Pet Shop Palmira.",
+ "ogDescription": "Ração para gato na Vila Milton, Guarulhos: cuidado com o trato urinário, linha para castrados, sachês e areia. Pet Shop Palmira.",
+ "faq": [
+  {
+   "q": "Quais os sinais de problema urinário no gato?",
+   "a": "Ir à caixa muitas vezes, fazer pouco xixi, xixi com sangue ou miar ao urinar. Procure o veterinário logo."
+  },
+  {
+   "q": "Vocês têm ração para castrado?",
+   "a": "Temos. Confirme as linhas pelo WhatsApp."
+  },
+  {
+   "q": "Vocês entregam na Vila Milton?",
+   "a": "Combinando o local por ligação antes."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/images/produtos/goldencat.webp",
+   "alt": "Ração GoldeN Gatos Castrados Frango no Pet Shop Palmira",
+   "caption": "GoldeN Gatos Castrados Frango e Salmão Controle calórico e minerais balanceados para a saúde renal felina.",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/catchow.webp",
+   "alt": "Ração Cat Chow com Defesa Plus para gatos adultos",
+   "caption": "Cat Chow e Whiskas Selecionadas Nutrição diária com excelente aceitação até para os paladares mais exigentes.",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/saches.webp",
+   "alt": "Sachês úmidos para hidratação de gatos no Pet Shop Palmira",
+   "caption": "Sachês e Patês Úmidos Indispensáveis para aumentar o consumo de água e proteger os rins.",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/brinquedos.webp",
+   "alt": "Arranhadores e acessórios para gatos na Vila Milton",
+   "caption": "Arranhadores, Brinquedos e Areias Enriquecimento ambiental completo para seu felino viver relaxado e ativo.",
+   "ok": true
+  }
+ ],
+ "badge": "Gatos da Vila Milton",
+ "h1": "Ração para gato na <span class=\"acc\">Vila Milton</span>",
+ "intro": [
+  "Se tem uma coisa que todo dono de gato deveria saber é o sinal de problema urinário: o gato vai à caixa várias vezes e sai pouco ou nada. Nesse caso, é veterinário no mesmo dia."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Prevenção pela alimentação"
+  },
+  {
+   "type": "p",
+   "html": "Ração completa para gatos, porção na medida e água. O sachê ajuda a aumentar a água da dieta."
+  },
+  {
+   "type": "h2",
+   "text": "O que temos"
+  },
+  {
+   "type": "p",
+   "html": "Golden Gatos, CatChow, Whiskas, linhas para castrados, sachês e areia."
+  },
+  {
+   "type": "h2",
+   "text": "Areia e caixa"
+  },
+  {
+   "type": "p",
+   "html": "Uma caixa a mais que o número de gatos. Limpeza diária. Lugar calmo, longe da comida."
+  }
+ ],
+ "humanizado": true
+}

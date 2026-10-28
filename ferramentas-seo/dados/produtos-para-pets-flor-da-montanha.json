@@ -1,0 +1,98 @@
+{
+ "slug": "produtos-para-pets-flor-da-montanha",
+ "keyword": "produtos para pets Flor da Montanha",
+ "numero": 94,
+ "title": "Produtos para Pets no Flor da Montanha | Pet Shop Palmira",
+ "description": "Produtos para pets no Jardim Flor da Montanha, Guarulhos: ração, higiene, farmácia veterinária e acessórios. Pet Shop Palmira.",
+ "ogDescription": "Produtos para pets no Jardim Flor da Montanha, Guarulhos: ração, higiene, farmácia veterinária e acessórios. Pet Shop Palmira.",
+ "badge": "Tudo para o pet",
+ "h1": "Produtos para pets no <span class=\"acc\">Flor da Montanha</span>",
+ "intro": [
+  "Tem bicho que não é cachorro nem gato. Calopsita, coelho, galinha no quintal. Para quem mora no Flor da Montanha, o Pet Shop Palmira atende todos eles."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Por espécie"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Cães e gatos",
+     "text": "Ração, higiene, farmácia e acessórios."
+    },
+    {
+     "title": "Pássaros",
+     "text": "Sementes, ração extrusada e acessórios de gaiola."
+    },
+    {
+     "title": "Coelhos e roedores",
+     "text": "Ração peletizada, feno e alfafa."
+    },
+    {
+     "title": "Criação",
+     "text": "Ração para galinhas e suínos, e sal mineral."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Encomenda"
+  },
+  {
+   "type": "p",
+   "html": "Se o que você procura não está na prateleira, a gente encomenda com os fornecedores."
+  },
+  {
+   "type": "h2",
+   "text": "Pedido"
+  },
+  {
+   "type": "p",
+   "html": "Consulte pelo WhatsApp (11) 97460-5359 e combine a entrega por ligação."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Vocês têm produto para pássaro?",
+   "a": "Temos sementes, ração extrusada, poleiros, bebedouros e gaiolas."
+  },
+  {
+   "q": "Vocês têm feno para coelho?",
+   "a": "Temos feno e alfafa. Confirme pelo WhatsApp."
+  },
+  {
+   "q": "Vocês entregam no Flor da Montanha?",
+   "a": "Combinando o local por ligação antes."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/loja2.webp",
+   "alt": "",
+   "caption": "",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/shampoo.webp",
+   "alt": "",
+   "caption": "",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/brinquedos.webp",
+   "alt": "",
+   "caption": "",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/antiparasitario.webp",
+   "alt": "",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "source": "novo",
+ "humanizado": true
+}

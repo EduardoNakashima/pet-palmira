@@ -1,0 +1,98 @@
+{
+ "slug": "loja-de-racao-para-passaros-e-aves",
+ "keyword": "loja de ração para pássaros e aves",
+ "numero": 17,
+ "cluster": "nao_regionalizadas_fase_1",
+ "source": "site",
+ "title": "Loja de Ração para Pássaros e Aves | Pet Shop Palmira",
+ "description": "Loja de ração para pássaros e aves em Guarulhos: misturas de sementes, ração extrusada, bebedouros, poleiros e gaiolas para calopsita, canário e periquito.",
+ "ogDescription": "Loja de ração para pássaros e aves em Guarulhos: misturas de sementes, ração extrusada, bebedouros, poleiros e gaiolas para calopsita, canário e periquito.",
+ "faq": [
+  {
+   "q": "Por que a ração extrusada é indicada?",
+   "a": "Porque cada pedacinho tem os mesmos nutrientes, e a ave não escolhe só o que gosta, como acontece com as sementes."
+  },
+  {
+   "q": "Vocês vendem semente a granel?",
+   "a": "Consulte pelo WhatsApp as opções e embalagens disponíveis no momento."
+  },
+  {
+   "q": "Como peço ração para pássaros pelo WhatsApp?",
+   "a": "Mande a espécie da ave e o produto para (11) 97460-5359."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/loja2.jpg",
+   "alt": "Misturas de sementes limpas e selecionadas para pássaros",
+   "caption": "Misturas de Sementes Selecionadas",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/galinha.webp",
+   "alt": "Rações balanceadas e suplementos para aves e galináceos",
+   "caption": "Nutrição Balanceada para Aves",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/loja.jpg",
+   "alt": "Gaiolas, bebedouros e acessórios para calopsitas, canários e periquitos",
+   "caption": "Gaiolas, Poleiros e Bebedouros",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/transportesecasinhas.jpg",
+   "alt": "Comedouros automáticos e vitaminas para aves cantoras",
+   "caption": "Comedouros e Vitaminas Avícolas",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Pássaros e aves",
+ "h1": "Loja de ração para <span class=\"acc\">pássaros e aves</span>",
+ "intro": [
+  "Calopsita, canário, periquito. Quem cria passarinho sabe que semente velha ou cheia de pó faz mal, e que a ave percebe quando a mistura mudou.",
+  "No Pet Shop Palmira você encontra misturas de sementes, ração extrusada e os acessórios da gaiola."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Alimentar bem a ave"
+  },
+  {
+   "type": "p",
+   "html": "Só semente de girassol não basta. É gordurosa demais e deixa a ave sem vitaminas. Uma mistura variada, com ração extrusada aos poucos, deixa a dieta mais completa."
+  },
+  {
+   "type": "p",
+   "html": "Folhas verdes e frutas, em pequena quantidade, também entram no cardápio. Abacate e chocolate nunca."
+  },
+  {
+   "type": "h2",
+   "text": "O que temos para aves"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Misturas de sementes para calopsita, canário e periquito.",
+    "Ração extrusada.",
+    "Bebedouros e comedouros.",
+    "Poleiros e gaiolas."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Cuidados com a gaiola"
+  },
+  {
+   "type": "p",
+   "html": "Troque a água todo dia e limpe o fundo da gaiola com frequência. Deixe a gaiola longe de corrente de ar e do sol forte do meio da tarde."
+  }
+ ],
+ "humanizado": true
+}

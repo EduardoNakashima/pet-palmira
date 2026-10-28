@@ -1,0 +1,93 @@
+{
+ "slug": "produtos-para-pets-vila-galvao",
+ "keyword": "produtos para pets Vila Galvão",
+ "numero": 69,
+ "cluster": "regionalizadas_fase_1",
+ "source": "site",
+ "title": "Produtos para Pets na Vila Galvão, Guarulhos | Pet Shop Palmira",
+ "description": "Produtos para pets na Vila Galvão, Guarulhos: ração, higiene, tapete higiênico, farmácia veterinária e acessórios. Pet Shop Palmira.",
+ "ogDescription": "Produtos para pets na Vila Galvão, Guarulhos: ração, higiene, tapete higiênico, farmácia veterinária e acessórios. Pet Shop Palmira.",
+ "faq": [
+  {
+   "q": "Vocês têm tapete higiênico?",
+   "a": "Temos. Confirme os tamanhos pelo WhatsApp."
+  },
+  {
+   "q": "De quanto em quanto tempo dar banho no cachorro?",
+   "a": "Depende do pelo e da rotina. Banho demais resseca a pele. Para pele com problema, siga o veterinário."
+  },
+  {
+   "q": "Vocês entregam na Vila Galvão?",
+   "a": "Combinando o local por ligação antes."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/loja2.jpg",
+   "alt": "Variedade completa em produtos para cães e gatos no Pet Shop Palmira",
+   "caption": "Sortimento Completo em Produtos Pet",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/shampoo.webp",
+   "alt": "Shampoos hipoalergênicos e sabonetes dermatológicos",
+   "caption": "Shampoos e Higiene Especializada",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/brinquedos.webp",
+   "alt": "Brinquedos mordedores resistentes e cordas para recreação",
+   "caption": "Brinquedos Duráveis e Mordedores",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/capstar.webp",
+   "alt": "Farmácia veterinária preventiva, antipulgas e vermífugos",
+   "caption": "Farmácia e Proteção Antipulgas",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Variedade",
+ "h1": "Produtos para pets na <span class=\"acc\">Vila Galvão</span>",
+ "intro": [
+  "Quem mora na Vila Galvão e tem cachorro ou gato sabe a lista de cor: ração, areia ou tapete, antipulgas, petisco. A gente tem tudo isso a uns 2 km de distância."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "O que você encontra"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Ração, sachê e petisco.",
+    "Tapete higiênico, areia, shampoo e colônia.",
+    "Antipulgas, vermífugos e medicamentos com receita.",
+    "Caminhas, coleiras e brinquedos."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Casa e condomínio"
+  },
+  {
+   "type": "p",
+   "html": "Para quem mora em apartamento, tapete higiênico e areia de boa absorção fazem diferença no cheiro. Banho em casa? Use shampoo próprio para pets, nunca o de gente."
+  },
+  {
+   "type": "h2",
+   "text": "Pedido"
+  },
+  {
+   "type": "p",
+   "html": "Consulte pelo WhatsApp (11) 97460-5359 e combine a entrega por ligação. Ou passe na loja, de segunda a sábado."
+  }
+ ],
+ "humanizado": true
+}

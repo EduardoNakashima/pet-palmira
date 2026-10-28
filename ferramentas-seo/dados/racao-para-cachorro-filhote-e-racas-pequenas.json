@@ -1,0 +1,96 @@
+{
+ "slug": "racao-para-cachorro-filhote-e-racas-pequenas",
+ "keyword": "ração para cachorro filhote e raças pequenas",
+ "numero": 30,
+ "cluster": "nao_regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Ração para Cachorro Filhote e Raças Pequenas | Pet Shop Palmira",
+ "description": "Ração para cachorro filhote e raças pequenas em Guarulhos: Golden Filhotes, Premiatta Filhotes e Max Filhotes. Dicas de desmame e grão pequeno.",
+ "ogDescription": "Ração para cachorro filhote e raças pequenas em Guarulhos: Golden Filhotes, Premiatta Filhotes e Max Filhotes. Dicas de desmame e grão pequeno.",
+ "faq": [
+  {
+   "q": "Até quando dar ração de filhote para raça pequena?",
+   "a": "Em geral até uns 10 a 12 meses. O veterinário confirma o momento certo de trocar."
+  },
+  {
+   "q": "Por que grão mini?",
+   "a": "Porque o filhote de raça pequena mastiga melhor e aceita mais fácil um grão do tamanho da boca dele."
+  },
+  {
+   "q": "Como começar a ração no desmame?",
+   "a": "Com a ração amolecida em água morna, diminuindo a água aos poucos."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/images/produtos/goldenFilhote.webp",
+   "alt": "Ração Golden Filhotes Mini Bits sabor frango e arroz para cães de pequeno porte",
+   "caption": "Golden Filhotes Mini Bits: Crescimento Forte",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/premiattaFilhote.webp",
+   "alt": "Ração Premiatta Filhotes Pequeno Porte com máxima digestibilidade e DHA",
+   "caption": "Premiatta Filhotes: Máxima Densidade Nutricional",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/maxFilhote.webp",
+   "alt": "Ração Max Filhotes Raças Pequenas com proteínas nobres e grãos fáceis de mastigar",
+   "caption": "Max Filhotes: Nutrição Completa e Acessível",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/racaoparacachorro.jpg",
+   "alt": "Partículas pequenas adaptadas para mandíbulas delicadas de filhotes",
+   "caption": "Partículas Mini Bits Ricas em Minerais Quelatados",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Filhotes",
+ "h1": "Ração para cachorro filhote e <span class=\"acc\">raças pequenas</span>",
+ "intro": [
+  "Filhote cresce rápido, principalmente os de raça pequena, que chegam ao tamanho adulto em poucos meses. Nessa fase a ração precisa de mais energia e de grão do tamanho da boca dele."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "O que a ração de filhote tem de diferente"
+  },
+  {
+   "type": "p",
+   "html": "Mais proteína e mais caloria por porção, além de cálcio na medida para os ossos. Ração de adulto não dá conta dessa fase."
+  },
+  {
+   "type": "h2",
+   "text": "Grão pequeno"
+  },
+  {
+   "type": "p",
+   "html": "Cão de raça pequena tem boca e dente pequenos. Grão grande faz ele engolir sem mastigar ou recusar a comida. Por isso existem as rações de grão mini."
+  },
+  {
+   "type": "h2",
+   "text": "Do leite para a ração"
+  },
+  {
+   "type": "p",
+   "html": "No desmame, comece com a ração seca amolecida em água morna. Aos poucos, diminua a água até o filhote comer o grão seco. Ofereça três a quatro refeições pequenas por dia."
+  },
+  {
+   "type": "h2",
+   "text": "Marcas que você encontra"
+  },
+  {
+   "type": "p",
+   "html": "Golden Filhotes, Premiatta Filhotes e Max Filhotes, além de linhas da Premier e da Royal Canin. Confirme o estoque pelo WhatsApp."
+  }
+ ],
+ "humanizado": true
+}

@@ -1,0 +1,101 @@
+{
+ "slug": "acessorios-para-pets-cabucu",
+ "keyword": "acessórios para pets Cabuçu",
+ "numero": 65,
+ "cluster": "regionalizadas_fase_1",
+ "source": "site",
+ "title": "Acessórios para Pets no Cabuçu, Guarulhos | Pet Shop Palmira",
+ "description": "Acessórios para pets no Cabuçu, Guarulhos: casinhas para quintal e chácara, guias, peitorais, caminhas e caixas de transporte.",
+ "ogDescription": "Acessórios para pets no Cabuçu, Guarulhos: casinhas para quintal e chácara, guias, peitorais, caminhas e caixas de transporte.",
+ "faq": [
+  {
+   "q": "Vocês entregam casinha no Cabuçu?",
+   "a": "Combinando o local por ligação antes."
+  },
+  {
+   "q": "Posso levar o cachorro para provar peitoral?",
+   "a": "Pode. Traga ele na guia."
+  },
+  {
+   "q": "Qual o horário?",
+   "a": "Segunda a sábado, das 9h às 18h."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/transportesecasinhas.jpg",
+   "alt": "Casinhas térmicas plásticas e caixas de transporte resistentes",
+   "caption": "Casinhas Térmicas e Caixas de Transporte",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/colchoes.webp",
+   "alt": "Caminhas confortáveis e almofadões laváveis com zíper",
+   "caption": "Caminhas Confortáveis e Fáceis de Lavar",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/coleira.webp",
+   "alt": "Peitorais ergonômicos antipuxão e guias reforçadas com amortecedor",
+   "caption": "Guias e Peitorais Antipuxão para Passeios",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/transporte.webp",
+   "alt": "Caixas de transporte homologadas para viagens veiculares e aéreas",
+   "caption": "Caixas Homologadas para Carro e Viagens",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Quintal e chácara",
+ "h1": "Acessórios para pets no <span class=\"acc\">Cabuçu</span>",
+ "intro": [
+  "Perto da serra, a noite esfria mais. Cachorro que dorme no quintal precisa de casinha de verdade, elevada do chão e protegida do vento."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Casinha para quintal e chácara"
+  },
+  {
+   "type": "p",
+   "html": "Temos casinha de madeira tratada. Coloque num lugar alto, com a entrada virada para o lado oposto ao vento. Uma manta no inverno ajuda."
+  },
+  {
+   "type": "h2",
+   "text": "Para o passeio e o transporte"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Guias e peitorais",
+     "text": "Para os passeios nas ladeiras do bairro, com controle."
+    },
+    {
+     "title": "Caixas de transporte",
+     "text": "Para ir ao veterinário sem fuga."
+    },
+    {
+     "title": "Caminhas",
+     "text": "Para o cão que dorme dentro de casa."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Entrega de itens grandes"
+  },
+  {
+   "type": "p",
+   "html": "Casinha é volumosa. A gente entrega no Cabuçu combinando o local por ligação antes, pelo (11) 2451-1719."
+  }
+ ],
+ "humanizado": true
+}

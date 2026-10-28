@@ -1,0 +1,105 @@
+{
+ "slug": "racao-para-cachorro-vila-galvao",
+ "keyword": "ração para cachorro Vila Galvão",
+ "numero": 67,
+ "cluster": "regionalizadas_fase_1",
+ "source": "site",
+ "title": "Ração para Cachorro na Vila Galvão, Guarulhos | Pet Shop Palmira",
+ "description": "Ração para cachorro na Vila Galvão, Guarulhos: super premium e premium especial, Golden, Premier, Royal Canin. Entrega combinada por ligação.",
+ "ogDescription": "Ração para cachorro na Vila Galvão, Guarulhos: super premium e premium especial, Golden, Premier, Royal Canin. Entrega combinada por ligação.",
+ "faq": [
+  {
+   "q": "Super premium ou premium especial?",
+   "a": "Premium especial atende bem a maioria dos cães saudáveis. Super premium vale para necessidades específicas ou por indicação do veterinário."
+  },
+  {
+   "q": "Vocês entregam na Vila Galvão?",
+   "a": "Combinando o local por ligação antes."
+  },
+  {
+   "q": "Como peço?",
+   "a": "Pelo WhatsApp (11) 97460-5359."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/racaoparacachorro.jpg",
+   "alt": "Sacos de 15kg e 20kg das melhores marcas de ração canina",
+   "caption": "Sacos de 15kg e 20kg em Estoque",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/golden.webp",
+   "alt": "Ração Golden Fórmula para cães adultos e filhotes",
+   "caption": "Golden Fórmula: Sabor e Custo-Benefício",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/premiata.webp",
+   "alt": "Linha Super Premium com nutrientes funcionais e condroitina",
+   "caption": "Super Premium para Saúde Articular",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/pouring-pet-food-into-bowl.jpg",
+   "alt": "Nutrição equilibrada com grãos crocantes servidos na tigela",
+   "caption": "Digestibilidade Máxima e Fezes Menores",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Ração na Vila Galvão",
+ "h1": "Ração para cachorro na <span class=\"acc\">Vila Galvão</span>",
+ "intro": [
+  "Tem cachorro que come qualquer coisa e tem cachorro que torce o nariz para a ração nova. Para os dois, ajuda ter uma loja por perto onde dá para perguntar antes de trocar."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Qual levar"
+  },
+  {
+   "type": "p",
+   "html": "Para cão saudável, uma premium especial como Golden Formula ou Premiatta Classic atende bem. Para pele sensível ou necessidade específica, linhas super premium da Premier e da Royal Canin, com orientação do veterinário."
+  },
+  {
+   "type": "h2",
+   "text": "Marcas e fases"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Fase",
+    "Exemplos"
+   ],
+   "rows": [
+    [
+     "Filhote",
+     "Golden Filhotes, Premiatta Filhotes, Max Filhotes"
+    ],
+    [
+     "Adulto",
+     "Golden Formula, Premiatta Classic, Max Professional"
+    ],
+    [
+     "Outras",
+     "Premier, Special Dog, Pedigree, Magnus e Royal Canin"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Trocando de ração"
+  },
+  {
+   "type": "p",
+   "html": "Faça a troca em 7 dias, misturando a nova com a antiga. Mudança de uma vez costuma dar diarreia."
+  }
+ ],
+ "humanizado": true
+}

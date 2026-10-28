@@ -1,0 +1,98 @@
+{
+ "slug": "loja-de-produtos-para-caes-e-gatos",
+ "keyword": "loja de produtos para cães e gatos",
+ "numero": 5,
+ "cluster": "nao_regionalizadas_fase_1",
+ "source": "site",
+ "title": "Loja de Produtos para Cães e Gatos em Guarulhos | Pet Shop Palmira",
+ "description": "Loja de produtos para cães e gatos no Jardim Palmira: ração, petisco, higiene, antipulgas, caminhas e brinquedos. Pet Shop Palmira, há 25 anos em Guarulhos.",
+ "ogDescription": "Loja de produtos para cães e gatos no Jardim Palmira: ração, petisco, higiene, antipulgas, caminhas e brinquedos. Pet Shop Palmira, há 25 anos em Guarulhos.",
+ "faq": [
+  {
+   "q": "Posso levar meu cachorro na loja para provar peitoral?",
+   "a": "Pode sim. Traga o cão na guia que a gente ajuda a achar o tamanho certo."
+  },
+  {
+   "q": "Vocês entregam medicamentos e antipulgas?",
+   "a": "Entregamos, combinando o local por ligação antes. Para medicamento com receita, mande uma foto dela pelo WhatsApp."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/pouring-pet-food-into-bowl.jpg",
+   "alt": "Nutrição felina especializada com equilíbrio renal",
+   "caption": "Nutrição Equilibrada com Proteção Renal",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/goldencat.webp",
+   "alt": "Ração Golden Gatos Castrados sabor frango e salmão",
+   "caption": "Golden Gatos: Especial para Castrados",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/whiskas.webp",
+   "alt": "Ração Whiskas com recheio crocante e alta aceitação",
+   "caption": "Whiskas Crocante e Saboroso",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/saches.webp",
+   "alt": "Sachês úmidos para hidratação diária do trato renal dos felinos",
+   "caption": "Sachês Úmidos: Hidratação Renal Obrigatória",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Tudo para cães e gatos",
+ "h1": "Loja de produtos para <span class=\"acc\">cães e gatos</span> no Jardim Palmira",
+ "intro": [
+  "Ração, petisco, shampoo, antipulgas, caminha, brinquedo. A ideia da loja sempre foi essa: resolver numa ida só o que o seu cão ou gato precisa.",
+  "Estamos na Av. Pedro de Souza Lopes, 33B, e atendemos de segunda a sábado, das 9h às 18h."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "O que tem na loja"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Alimentação",
+     "text": "Rações das principais marcas, sachês, patês e petiscos."
+    },
+    {
+     "title": "Higiene",
+     "text": "Shampoo, condicionador, colônia, tapete higiênico e areia."
+    },
+    {
+     "title": "Saúde",
+     "text": "Antipulgas, vermífugos e medicamentos prescritos pelo veterinário."
+    },
+    {
+     "title": "Conforto e passeio",
+     "text": "Caminhas, casinhas, caixas de transporte, coleiras e guias."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Por que comprar numa loja de confiança"
+  },
+  {
+   "type": "p",
+   "html": "Produto pet tem tamanho, idade e porte certos. Um peitoral grande demais escapa no passeio. Um antipulgas para cão grande não serve para um filhote."
+  },
+  {
+   "type": "p",
+   "html": "Na loja você pode tirar essas dúvidas antes de pagar, e se o produto não estiver na prateleira a gente encomenda."
+  }
+ ],
+ "humanizado": true
+}

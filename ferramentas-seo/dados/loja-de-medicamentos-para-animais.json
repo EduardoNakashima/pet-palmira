@@ -1,0 +1,110 @@
+{
+ "slug": "loja-de-medicamentos-para-animais",
+ "keyword": "loja de medicamentos para animais",
+ "numero": 11,
+ "cluster": "nao_regionalizadas_fase_1",
+ "source": "site",
+ "title": "Loja de Medicamentos para Animais em Guarulhos | Pet Shop Palmira",
+ "description": "Farmácia veterinária no Jardim Palmira: antipulgas, vermífugos e medicamentos prescritos como Frontline, Capstar, Otovet, Agemoxi e Maxicam.",
+ "ogDescription": "Farmácia veterinária no Jardim Palmira: antipulgas, vermífugos e medicamentos prescritos como Frontline, Capstar, Otovet, Agemoxi e Maxicam.",
+ "faq": [
+  {
+   "q": "De quanto em quanto tempo dar vermífugo?",
+   "a": "Depende da idade e da rotina do pet. O veterinário define o intervalo certo."
+  },
+  {
+   "q": "Vocês entregam medicamento aos domingos?",
+   "a": "Não. Atendemos e combinamos entregas de segunda a sábado, das 9h às 18h."
+  },
+  {
+   "q": "Como tiro dúvida sobre um produto?",
+   "a": "Mande uma mensagem no WhatsApp (11) 97460-5359. Sobre dose e tratamento, a palavra final é do veterinário."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/images/produtos/capstar.webp",
+   "alt": "Medicamentos veterinários com ação rápida contra parasitas",
+   "caption": "Farmácia Veterinária com Ação Rápida",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/frontline.webp",
+   "alt": "Antipulgas e carrapatos em pipeta tópica de alta eficácia",
+   "caption": "Antipulgas em Pipeta e Spray",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/agemoxi.webp",
+   "alt": "Antibióticos, anti-inflamatórios e curativos para cães e gatos",
+   "caption": "Antibióticos e Anti-inflamatórios",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/loja2.jpg",
+   "alt": "Prateleiras de farmácia veterinária com orientação farmacêutica básica",
+   "caption": "Farmácia Preventiva Completa",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Farmácia veterinária",
+ "h1": "Loja de medicamentos para <span class=\"acc\">animais</span> no Jardim Palmira",
+ "intro": [
+  "O Pet Shop Palmira tem farmácia veterinária no balcão. Você encontra antipulgas, vermífugos e os medicamentos que o veterinário receitou, como Frontline, Capstar, Otovet, Agemoxi e Maxicam.",
+  "Remédio não é produto para comprar no chute. A gente respeita a receita e, quando o assunto é diagnóstico, indica veterinários parceiros de confiança em Guarulhos."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "O que observar ao comprar remédio para o pet"
+  },
+  {
+   "type": "p",
+   "html": "A dose depende do peso. Então tenha o peso atualizado do seu pet antes de comprar antipulgas ou vermífugo."
+  },
+  {
+   "type": "p",
+   "html": "Confira também a validade e se o produto é para cão ou para gato. Alguns antipulgas de cachorro são perigosos para gatos."
+  },
+  {
+   "type": "h2",
+   "text": "O que tem na farmácia"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Antipulgas e carrapatos",
+     "text": "Pipetas e comprimidos, como Frontline Plus e Capstar."
+    },
+    {
+     "title": "Vermífugos",
+     "text": "Para cães e gatos, conforme o peso."
+    },
+    {
+     "title": "Medicamentos prescritos",
+     "text": "Antibióticos, anti-inflamatórios e soluções como Otovet, Agemoxi e Maxicam."
+    },
+    {
+     "title": "Higiene",
+     "text": "Shampoo antiparasitário e produtos de cuidado diário."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Dar remédio sem estresse"
+  },
+  {
+   "type": "p",
+   "html": "Comprimido escondido num petisco costuma passar. Para gato, às vezes funciona melhor colocar o comprimido no fundo da boca e oferecer um sachê logo depois."
+  }
+ ],
+ "humanizado": true
+}

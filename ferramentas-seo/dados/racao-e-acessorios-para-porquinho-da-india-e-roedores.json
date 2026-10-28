@@ -1,0 +1,93 @@
+{
+ "slug": "racao-e-acessorios-para-porquinho-da-india-e-roedores",
+ "keyword": "ração e acessórios para porquinho-da-índia e roedores",
+ "numero": 45,
+ "cluster": "nao_regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Ração e Acessórios para Porquinho-da-Índia e Roedores | Pet Shop Palmira",
+ "description": "Ração e acessórios para porquinho-da-índia e roedores em Guarulhos: ração peletizada, feno e alfafa. Dicas de dieta e vitamina C.",
+ "ogDescription": "Ração e acessórios para porquinho-da-índia e roedores em Guarulhos: ração peletizada, feno e alfafa. Dicas de dieta e vitamina C.",
+ "faq": [
+  {
+   "q": "Por que o porquinho precisa de vitamina C?",
+   "a": "Porque o organismo dele não produz. Sem ela, ele pode ter escorbuto."
+  },
+  {
+   "q": "Por que feno à vontade?",
+   "a": "Ele faz o intestino funcionar e gasta os dentes, que crescem sem parar."
+  },
+  {
+   "q": "Posso usar serragem comum na gaiola?",
+   "a": "Não. Use forração própria para roedores, sem pó."
+  },
+  {
+   "q": "Vocês entregam feno e ração para roedores?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/images/categorias/prea.webp",
+   "alt": "Rações balanceadas para porquinhos-da-índia e roedores",
+   "caption": "Nutrição e bem-estar para porquinhos-da-índia e roedores",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/coelho.webp",
+   "alt": "Alimentos peletizados ricos em fibras e feno",
+   "caption": "Feno fresco e alimentos peletizados com alto teor de fibras",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/brinquedos.webp",
+   "alt": "Acessórios, tocas e brinquedos de madeira para desgaste dental",
+   "caption": "Acessórios de desgaste dental e enriquecimento ambiental",
+   "ok": true
+  }
+ ],
+ "badge": "Roedores",
+ "h1": "Ração e acessórios para <span class=\"acc\">porquinho-da-índia</span> e roedores",
+ "intro": [
+  "Porquinho-da-índia é um bicho dócil e barulhento, que assobia quando ouve o saco de feno. E é justamente o feno que precisa estar no centro da dieta dele."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "O que o porquinho precisa"
+  },
+  {
+   "type": "p",
+   "html": "Feno à vontade, todos os dias. Ração própria para a espécie, em pequena quantidade. Verdura fresca e bem lavada."
+  },
+  {
+   "type": "p",
+   "html": "Ele não produz vitamina C. Sem ela, adoece. Por isso a ração precisa ser específica para porquinho-da-índia, e pimentão e couve ajudam."
+  },
+  {
+   "type": "h2",
+   "text": "O que temos para roedores"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Ração peletizada, como a Ração Criador para coelhos e roedores.",
+    "Feno e alfafa.",
+    "Bebedouro e comedouro para gaiola.",
+    "Brinquedos para roer."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Dente que não para de crescer"
+  },
+  {
+   "type": "p",
+   "html": "O dente dos roedores cresce a vida inteira. Mastigar feno desgasta o dente no ritmo certo. Sem feno, o dente cresce torto e o bicho para de comer."
+  },
+  {
+   "type": "p",
+   "html": "Baba no queixo e perda de apetite são sinais de alerta. Procure um veterinário que atenda animais exóticos."
+  }
+ ],
+ "humanizado": true
+}

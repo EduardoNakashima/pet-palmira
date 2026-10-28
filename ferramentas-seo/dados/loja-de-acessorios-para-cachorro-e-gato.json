@@ -1,0 +1,106 @@
+{
+ "slug": "loja-de-acessorios-para-cachorro-e-gato",
+ "keyword": "loja de acessórios para cachorro e gato",
+ "numero": 7,
+ "cluster": "nao_regionalizadas_fase_1",
+ "source": "site",
+ "title": "Loja de Acessórios para Cachorro e Gato | Pet Shop Palmira",
+ "description": "Coleiras, guias, peitorais, caminhas, casinhas e caixas de transporte para cachorro e gato no Jardim Palmira, Guarulhos. Prove o tamanho na loja.",
+ "ogDescription": "Coleiras, guias, peitorais, caminhas, casinhas e caixas de transporte para cachorro e gato no Jardim Palmira, Guarulhos. Prove o tamanho na loja.",
+ "faq": [
+  {
+   "q": "Peitoral ou coleira?",
+   "a": "Para cachorro que puxa muito, ou de focinho curto como pug e buldogue, o peitoral é mais seguro, porque não aperta o pescoço."
+  },
+  {
+   "q": "Gato precisa mesmo de caixa de transporte?",
+   "a": "Precisa. É a forma mais segura de levar o gato para fora de casa sem risco de fuga."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/pouring-pet-food-into-bowl.jpg",
+   "alt": "Nutrição felina especializada com equilíbrio renal",
+   "caption": "Nutrição Equilibrada com Proteção Renal",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/goldencat.webp",
+   "alt": "Ração Golden Gatos Castrados sabor frango e salmão",
+   "caption": "Golden Gatos: Especial para Castrados",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/whiskas.webp",
+   "alt": "Ração Whiskas com recheio crocante e alta aceitação",
+   "caption": "Whiskas Crocante e Saboroso",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/saches.webp",
+   "alt": "Sachês úmidos para hidratação diária do trato renal dos felinos",
+   "caption": "Sachês Úmidos: Hidratação Renal Obrigatória",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Acessórios",
+ "h1": "Loja de acessórios para <span class=\"acc\">cachorro e gato</span>",
+ "intro": [
+  "Acessório bom é o que serve. Por isso a gente prefere que você traga o cachorro na loja para provar o peitoral, em vez de adivinhar o tamanho.",
+  "No Pet Shop Palmira tem coleira, guia, peitoral, caminha, casinha, caixa de transporte e roupinha."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Os acessórios que fazem falta no dia a dia"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Coleiras, guias e peitorais",
+     "text": "Para passear com controle. Peitoral é mais confortável para quem puxa."
+    },
+    {
+     "title": "Caminhas e colchões",
+     "text": "Para o descanso dentro de casa, com capa que dá para lavar."
+    },
+    {
+     "title": "Casinhas",
+     "text": "Para o cão que fica no quintal se proteger do frio e da chuva."
+    },
+    {
+     "title": "Caixas de transporte",
+     "text": "Para ir ao veterinário ou viajar com segurança."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Gato também precisa de caixa de transporte"
+  },
+  {
+   "type": "p",
+   "html": "Gato no colo, fora de casa, é fuga quase certa no primeiro susto. A caixa de transporte é o jeito seguro de levar ele ao veterinário."
+  },
+  {
+   "type": "p",
+   "html": "O tamanho certo deixa o gato ficar em pé e virar o corpo lá dentro."
+  },
+  {
+   "type": "h2",
+   "text": "Como acertar o tamanho"
+  },
+  {
+   "type": "p",
+   "html": "Para peitoral, meça o tórax logo atrás das patas da frente. Para caminha, o pet tem que conseguir deitar esticado. Se não der para trazer o pet, mande foto e peso pelo WhatsApp."
+  }
+ ],
+ "humanizado": true
+}

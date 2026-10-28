@@ -1,0 +1,88 @@
+{
+ "slug": "racao-para-gato-picanco",
+ "keyword": "ração para gato Picanço",
+ "numero": 78,
+ "cluster": "regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Ração para Gato no Picanço, Guarulhos | Pet Shop Palmira",
+ "description": "Ração para gato no Picanço, Guarulhos: Golden Gatos, CatChow, Whiskas, sachês e areia. Dicas para o gato beber mais água.",
+ "ogDescription": "Ração para gato no Picanço, Guarulhos: Golden Gatos, CatChow, Whiskas, sachês e areia. Dicas para o gato beber mais água.",
+ "faq": [
+  {
+   "q": "Como faço meu gato beber mais água?",
+   "a": "Potes em vários lugares, longe da comida, e sachê na dieta. Fonte de água também ajuda muitos gatos."
+  },
+  {
+   "q": "Vocês têm fonte de água?",
+   "a": "Consulte os modelos pelo WhatsApp."
+  },
+  {
+   "q": "Vocês entregam areia no Picanço?",
+   "a": "Combinando o local por ligação antes."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/images/produtos/goldencat.webp",
+   "alt": "Ração Golden Gatos Castrados para proteção urinária e peso ideal",
+   "caption": "Golden Gatos Castrados: Saúde Urinária Garantida",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/whiskas.webp",
+   "alt": "Ração Whiskas com recheio crocante e ômega 6 para pelos sedosos",
+   "caption": "Whiskas: Sabor Incomparável e Grãos Crocantes",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/catchow.webp",
+   "alt": "Ração Cat Chow com prebióticos naturais para digestão sensível",
+   "caption": "Cat Chow: Defesa Natural e Equilíbrio Digestivo",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/saches.webp",
+   "alt": "Sachês de ração úmida para hidratação constante de gatos",
+   "caption": "Sachês e Patês: Hidratação e Prazer Diário",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Gatos do Picanço",
+ "h1": "Ração para gato no <span class=\"acc\">Picanço</span>",
+ "intro": [
+  "Problema de rim e de bexiga é comum em gato, principalmente porque ele bebe pouca água. A boa notícia é que dá para ajudar com coisas simples."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Alimentação"
+  },
+  {
+   "type": "p",
+   "html": "Ração completa para gatos, como Golden Gatos, CatChow ou Whiskas. Linha para castrados se ele for castrado. E um sachê por dia para aumentar a água da dieta."
+  },
+  {
+   "type": "h2",
+   "text": "Onde colocar a água"
+  },
+  {
+   "type": "p",
+   "html": "Gato prefere a água longe da comida e longe da caixa de areia. Coloque potes em mais de um canto da casa. Muitos gatos bebem mais em fonte de água corrente."
+  },
+  {
+   "type": "h2",
+   "text": "Areia"
+  },
+  {
+   "type": "p",
+   "html": "Temos areias de tipos diferentes. Caixa limpa todo dia é o que mais evita xixi fora do lugar."
+  }
+ ],
+ "humanizado": true
+}

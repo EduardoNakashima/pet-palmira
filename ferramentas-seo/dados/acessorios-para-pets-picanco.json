@@ -1,0 +1,101 @@
+{
+ "slug": "acessorios-para-pets-picanco",
+ "keyword": "acessórios para pets Picanço",
+ "numero": 80,
+ "cluster": "regionalizadas_fase_2",
+ "source": "zip",
+ "title": "Acessórios para Pets no Picanço, Guarulhos | Pet Shop Palmira",
+ "description": "Acessórios para pets no Picanço, Guarulhos: casinhas, caminhas, guias e peitorais para passear com segurança e caixas de transporte.",
+ "ogDescription": "Acessórios para pets no Picanço, Guarulhos: casinhas, caminhas, guias e peitorais para passear com segurança e caixas de transporte.",
+ "faq": [
+  {
+   "q": "Guia retrátil é segura?",
+   "a": "Em rua movimentada, a guia fixa dá mais controle. A retrátil funciona melhor em lugar aberto e tranquilo."
+  },
+  {
+   "q": "Posso provar o peitoral na loja?",
+   "a": "Pode. Traga o cachorro na guia."
+  },
+  {
+   "q": "Vocês entregam casinha no Picanço?",
+   "a": "Combinando o local por ligação antes."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/transportesecasinhas.jpg",
+   "alt": "Casinhas plásticas e caixas de transporte reforçadas",
+   "caption": "Casinhas Térmicas e Caixas de Transporte",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/colchoes.webp",
+   "alt": "Caminhas acolchoadas e colchonetes ortopédicos com capa lavável",
+   "caption": "Caminhas Confortáveis e Fáceis de Limpar",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/coleira.webp",
+   "alt": "Peitorais antipuxão ajustáveis e guias em fita reforçada com trava",
+   "caption": "Guias e Peitorais Antipuxão para Passeios Seguros",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/transporte.webp",
+   "alt": "Caixas de transporte homologadas com porta de metal e trava",
+   "caption": "Caixas Homologadas para Carro e Consultas",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Passeio seguro",
+ "h1": "Acessórios para pets no <span class=\"acc\">Picanço</span>",
+ "intro": [
+  "Para passear perto de avenida, o equipamento conta mais do que parece. Um peitoral frouxo, um susto com buzina, e o cachorro sai correndo."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Para passear"
+  },
+  {
+   "type": "p",
+   "html": "Peitoral bem ajustado, com dois dedos de folga. Guia fixa, de tamanho médio, dá mais controle do que a retrátil em rua movimentada."
+  },
+  {
+   "type": "h2",
+   "text": "Para casa"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Casinha de madeira tratada",
+     "text": "Para o cão de quintal."
+    },
+    {
+     "title": "Caminhas e colchões",
+     "text": "Para dentro de casa."
+    },
+    {
+     "title": "Caixas de transporte",
+     "text": "Para ir ao veterinário."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Tamanho"
+  },
+  {
+   "type": "p",
+   "html": "Traga o cão para provar ou mande peso e raça pelo WhatsApp. Se não tivermos o tamanho, encomendamos."
+  }
+ ],
+ "humanizado": true
+}

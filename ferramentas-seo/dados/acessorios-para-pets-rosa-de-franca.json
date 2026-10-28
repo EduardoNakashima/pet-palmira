@@ -1,0 +1,101 @@
+{
+ "slug": "acessorios-para-pets-rosa-de-franca",
+ "keyword": "acessórios para pets Rosa de França",
+ "numero": 75,
+ "cluster": "regionalizadas_fase_1",
+ "source": "site",
+ "title": "Acessórios para Pets no Rosa de França | Pet Shop Palmira",
+ "description": "Acessórios para pets no Jardim Rosa de França, Guarulhos: casinhas, caminhas, peitorais, caixas de transporte e brinquedos para gatos.",
+ "ogDescription": "Acessórios para pets no Jardim Rosa de França, Guarulhos: casinhas, caminhas, peitorais, caixas de transporte e brinquedos para gatos.",
+ "faq": [
+  {
+   "q": "Como escolho o tamanho da casinha?",
+   "a": "O cão precisa ficar em pé e se virar lá dentro."
+  },
+  {
+   "q": "Vocês têm coleira com fecho de segurança para gato?",
+   "a": "Consulte os modelos pelo WhatsApp."
+  },
+  {
+   "q": "Vocês entregam no Rosa de França?",
+   "a": "Combinando o local por ligação antes."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/transportesecasinhas.jpg",
+   "alt": "Casinhas térmicas plásticas e caixas de transporte resistentes",
+   "caption": "Casinhas Térmicas e Caixas de Transporte",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/colchoes.webp",
+   "alt": "Caminhas confortáveis e almofadões laváveis com zíper",
+   "caption": "Caminhas Confortáveis e Fáceis de Lavar",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/coleira.webp",
+   "alt": "Peitorais ergonômicos antipuxão e guias reforçadas com amortecedor",
+   "caption": "Guias e Peitorais Antipuxão para Passeios",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/transporte.webp",
+   "alt": "Caixas de transporte homologadas para viagens veiculares e aéreas",
+   "caption": "Caixas Homologadas para Carro e Viagens",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Conforto",
+ "h1": "Acessórios para pets no <span class=\"acc\">Rosa de França</span>",
+ "intro": [
+  "Cão no quintal precisa de casinha. Cão dentro de casa precisa de caminha. Gato precisa de algo para arranhar que não seja o sofá. Cada casa tem a sua lista."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Para cães"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Casinha de madeira tratada",
+     "text": "Para o quintal, elevada do chão."
+    },
+    {
+     "title": "Caminhas e colchões",
+     "text": "Para o descanso dentro de casa."
+    },
+    {
+     "title": "Peitorais e guias",
+     "text": "Para passear com controle."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Para gatos"
+  },
+  {
+   "type": "p",
+   "html": "Brinquedos para gastar energia e caixa de transporte para ir ao veterinário. Coleira para gato só com fecho de segurança, que solta se ele enroscar."
+  },
+  {
+   "type": "h2",
+   "text": "Tamanho certo"
+  },
+  {
+   "type": "p",
+   "html": "Mande peso e raça pelo WhatsApp (11) 97460-5359. Se não tivermos o tamanho, encomendamos."
+  }
+ ],
+ "humanizado": true
+}

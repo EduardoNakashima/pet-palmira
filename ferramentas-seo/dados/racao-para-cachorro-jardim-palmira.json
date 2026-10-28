@@ -1,0 +1,109 @@
+{
+ "slug": "racao-para-cachorro-jardim-palmira",
+ "keyword": "ração para cachorro Jardim Palmira",
+ "numero": 52,
+ "cluster": "regionalizadas_fase_1",
+ "source": "site",
+ "title": "Ração para Cachorro no Jardim Palmira | Pet Shop Palmira",
+ "description": "Ração para cachorro no Jardim Palmira, Guarulhos: Golden, Premier, Special Dog, Pedigree e mais, em sacos de até 20 kg. Retire ou combine a entrega.",
+ "ogDescription": "Ração para cachorro no Jardim Palmira, Guarulhos: Golden, Premier, Special Dog, Pedigree e mais, em sacos de até 20 kg. Retire ou combine a entrega.",
+ "faq": [
+  {
+   "q": "Vocês têm saco de 15 e 20 kg?",
+   "a": "Temos de várias marcas. Confirme pelo WhatsApp."
+  },
+  {
+   "q": "Como peço entrega no Jardim Palmira?",
+   "a": "Fazemos entrega somente combinando o local por ligação antes, pelo (11) 2451-1719 ou ligação no WhatsApp."
+  },
+  {
+   "q": "Quais formas de pagamento vocês aceitam?",
+   "a": "Pix, cartão de débito e crédito e dinheiro."
+  }
+ ],
+ "slides": [
+  {
+   "src": "assets/organico/racaoparacachorro.jpg",
+   "alt": "Sacos de 15kg e 20kg das melhores marcas de ração canina",
+   "caption": "Sacos de 15kg e 20kg em Estoque",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/golden.webp",
+   "alt": "Ração Golden Fórmula para cães adultos e filhotes",
+   "caption": "Golden Fórmula: Sabor e Custo-Benefício",
+   "ok": true
+  },
+  {
+   "src": "assets/images/produtos/premiata.webp",
+   "alt": "Linha Super Premium com nutrientes funcionais e condroitina",
+   "caption": "Super Premium para Saúde Articular",
+   "ok": true
+  },
+  {
+   "src": "assets/organico/pouring-pet-food-into-bowl.jpg",
+   "alt": "Nutrição equilibrada com grãos crocantes servidos na tigela",
+   "caption": "Digestibilidade Máxima e Fezes Menores",
+   "ok": true
+  },
+  {
+   "src": "assets/images/favicon-logo.png",
+   "alt": "Pet Shop Palmira",
+   "caption": "",
+   "ok": true
+  }
+ ],
+ "badge": "Ração no bairro",
+ "h1": "Ração para cachorro no <span class=\"acc\">Jardim Palmira</span>",
+ "intro": [
+  "Se você mora no Jardim Palmira, a ração do seu cachorro está a poucas quadras de casa. E se o saco for de 20 kg, a gente combina a entrega para você não carregar."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "O que temos"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Fase",
+    "Exemplos"
+   ],
+   "rows": [
+    [
+     "Filhote",
+     "Golden Filhotes, Premiatta Filhotes, Max Filhotes"
+    ],
+    [
+     "Adulto",
+     "Golden Formula, Premiatta Classic, Max Professional"
+    ],
+    [
+     "Outras marcas",
+     "Premier, Magnus, Special Dog, Pedigree e Royal Canin"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "html": "A disponibilidade muda com o estoque. Confirme pelo WhatsApp antes de vir."
+  },
+  {
+   "type": "h2",
+   "text": "Saco grande compensa?"
+  },
+  {
+   "type": "p",
+   "html": "Para cachorro médio ou grande, quase sempre. O preço por quilo cai. Só guarde bem fechado para a ração não perder o cheiro."
+  },
+  {
+   "type": "h2",
+   "text": "Pedido rápido"
+  },
+  {
+   "type": "p",
+   "html": "Mande a marca, o sabor e o peso para (11) 97460-5359. A gente confirma e você escolhe se retira ou recebe."
+  }
+ ],
+ "humanizado": true
+}
