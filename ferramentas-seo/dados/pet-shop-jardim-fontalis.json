@@ -1,0 +1,121 @@
+{
+ "slug": "pet-shop-jardim-fontalis",
+ "keyword": "pet shop Jardim Fontalis",
+ "slides": [],
+ "title": "Pet Shop Perto do Jardim Fontalis, São Paulo | Pet Shop Palmira",
+ "description": "Pet shop perto do Jardim Fontalis, zona norte de São Paulo: a 1,2 km, no Jardim Palmira, Guarulhos. Ração, farmácia veterinária e banho e tosa.",
+ "ogDescription": "Pet shop perto do Jardim Fontalis, zona norte de São Paulo: a 1,2 km, no Jardim Palmira, Guarulhos. Ração, farmácia veterinária e banho e tosa.",
+ "badge": "Do outro lado da divisa",
+ "h1": "Pet shop perto do <span class=\"acc\">Jardim Fontalis</span>",
+ "intro": [
+  "O Jardim Fontalis fica em São Paulo, mas a 1,2 km da nossa loja em linha reta. A divisa entre as cidades passa no meio do caminho, e para muita gente do bairro o Pet Shop Palmira é o pet shop mais perto de casa.",
+  "Estamos na Av. Pedro de Souza Lopes, 33B, no Jardim Palmira, em Guarulhos, há 25 anos."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Muda alguma coisa ser de São Paulo?"
+  },
+  {
+   "type": "p",
+   "html": "Para comprar, não muda nada. O atendimento, o preço e as formas de pagamento são os mesmos. Para entregar, também atendemos, combinando o local por ligação antes, como fazemos com qualquer bairro. A entrega cobre um raio de cerca de 10 km da loja, e o Jardim Fontalis está bem dentro dele. O que pedimos é só essa ligação, para acertar endereço, horário e quem vai receber."
+  },
+  {
+   "type": "h2",
+   "text": "Formas de pagamento"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Forma",
+    "Como funciona"
+   ],
+   "rows": [
+    [
+     "Pix",
+     "Na loja ou antes da entrega, combinado no WhatsApp"
+    ],
+    [
+     "Débito",
+     "Na loja"
+    ],
+    [
+     "Crédito",
+     "Na loja, sem taxa extra"
+    ],
+    [
+     "Dinheiro",
+     "Na loja"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Se for entrega, combine a forma de pagamento na ligação, antes de o pedido sair."
+  },
+  {
+   "type": "h2",
+   "text": "O que tem na loja"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Ração",
+     "text": "Cães, gatos, pássaros, roedores e criação."
+    },
+    {
+     "title": "Farmácia veterinária",
+     "text": "Antipulgas, vermífugos e medicamentos com receita."
+    },
+    {
+     "title": "Banho e tosa",
+     "text": "Só para cães, com tosa na máquina."
+    },
+    {
+     "title": "Acessórios",
+     "text": "Caminhas, coleiras, comedouros e caixas de transporte."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Banho e tosa para quem vem de São Paulo"
+  },
+  {
+   "type": "p",
+   "html": "O banho funciona por horário marcado pelo WhatsApp (11) 97460-5359. Você traz e busca o cachorro, porque não temos táxi dog. Do Jardim Fontalis a ida é curta, então dá para deixar o cão e resolver outra coisa enquanto ele fica pronto."
+  },
+  {
+   "type": "h2",
+   "text": "Horário"
+  },
+  {
+   "type": "p",
+   "html": "Segunda a sábado, das 9h às 18h. Domingo e feriado fechado. Atenção aos feriados municipais: Guarulhos e São Paulo não têm exatamente as mesmas datas. Na dúvida, mande mensagem antes."
+  },
+  {
+   "type": "h2",
+   "text": "Veterinária"
+  },
+  {
+   "type": "p",
+   "html": "A loja não é clínica. Para consulta, vacinas e check-up, indicamos a Pink Vet, na mesma avenida, no número 33."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Vocês entregam no Jardim Fontalis?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  },
+  {
+   "q": "O preço muda para quem é de São Paulo?",
+   "a": "Não. É o mesmo preço para todo mundo."
+  },
+  {
+   "q": "A loja abre em feriado?",
+   "a": "Não abrimos em feriado. Na dúvida sobre uma data, mande mensagem pelo WhatsApp."
+  }
+ ],
+ "humanizado": true
+}

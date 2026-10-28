@@ -1,10 +1,14 @@
-// Gera as 100 páginas SEO em Informacoes/ a partir de data/*.json, todas com o mesmo modelo.
-// Uso: node render.cjs <projeto> <data> <planejamento.json>
+// Gera as páginas SEO em Informacoes/ a partir de data/*.json, todas com o mesmo modelo.
+// Também refaz a lista do índice de Informações e as URLs de Informações no sitemap.
+// Uso: node render.cjs <projeto> <data> <lista-paginas.json>
 const fs = require('fs');
 const path = require('path');
 const [PROJ, DATA, PLAN] = process.argv.slice(2);
 const SITE = 'https://petshoppalmira.com.br';
 const WA = '5511974605359';
+// Parceira veterinária: botão principal das páginas veterinario-{bairro}
+const VET = { wa: '5511933171589', fone: '(11) 93317-1589', nome: 'Pink Vet Consultório Veterinário', end: 'Av. Pedro de Souza Lopes, 33' };
+const BAIRROS_LISTA = JSON.parse(fs.readFileSync(path.join(__dirname, 'bairros.json'), 'utf8'));
 
 // Script do carrossel/menu e ícone do WhatsApp reaproveitados da página-modelo atual
 const modelo = fs.readFileSync(path.join(PROJ, 'Informacoes', 'comprar-racao-para-cachorro-e-gato.html'), 'utf8');
@@ -15,7 +19,7 @@ const waSvg = (cls, size) => `<svg${cls ? ` class="${cls}"` : ''} viewBox="0 0 2
 const esc = s => String(s).replace(/&(?!amp;|lt;|gt;|quot;|#\d+;|rarr;)/g, '&amp;').replace(/"/g, '&quot;');
 const text = s => String(s).replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
 const cap = s => s.charAt(0).toUpperCase() + s.slice(1);
-const waLink = msg => `https://api.whatsapp.com/send?phone=${WA}&text=${encodeURIComponent(msg)}`;
+const waLink = (msg, fone = WA) => `https://api.whatsapp.com/send?phone=${fone}&text=${encodeURIComponent(msg)}`;
 
 // Catálogo de imagens existentes: texto alternativo e legenda padrão
 const IMG = {
@@ -78,6 +82,8 @@ const TROCA = {
 };
 const P = 'assets/images/produtos/', O = 'assets/organico/';
 const POOLS = [
+  [/^veterinario-/, [O + 'cachorroegato.webp', P + 'transporte.webp', O + 'loja.webp', P + 'antiparasitario.webp']],
+  [/^casa-de-racao-/, [O + 'loja2.webp', O + 'racaoparacachorro.webp', O + 'pouring-pet-food-into-bowl.webp', P + 'galinha.webp', P + 'goldencat.webp']],
   [/gato|felin|castrad|areia/, [O + 'cachorroegato.webp', P + 'goldencat.webp', P + 'catchow.webp', P + 'whiskas.webp', P + 'saches.webp']],
   [/passaro|aves|calopsita/, [O + 'loja2.webp', P + 'galinha.webp', O + 'loja.webp', P + 'peixe.webp']],
   [/galinha|porco|criacao/, [P + 'galinha.webp', P + 'vacas.webp', P + 'peixe.webp', O + 'loja2.webp']],
@@ -127,13 +133,15 @@ function block(b) {
 }
 
 const BADGE = [
-  [/^pet-shop-(jardim-palmira|continental|cabucu|vila|jardim-rosa|picanco|torres|jardim-flor)/, 'Pet Shop de Bairro em Guarulhos'],
+  [/^veterinario-/, 'Veterinária parceira'],
+  [/^pet-shop-/, 'Pet Shop de Bairro em Guarulhos'],
   [/medicament|farmacia|antipulga|vermifug/, 'Farmácia Veterinária'],
   [/acessorio|caminha|casinha|coleira|transporte|comedouro/, 'Conforto e Segurança'],
   [/racao|sache|petisco/, 'Nutrição de Qualidade'],
   [/./, 'Pet Shop Palmira'],
 ];
-const BAIRROS = 'Jardim Palmira, Continental, Cabuçu, Vila Galvão, Rosa de França, Picanço, Vila Rosália, Vila Milton, Flor da Montanha, Torres Tibagy';
+const nomes = BAIRROS_LISTA.map(b => b.nome);
+const BAIRROS = nomes.slice(0, -1).join(', ') + ' e ' + nomes[nomes.length - 1];
 
 function page(d) {
   const url = `${SITE}/informacoes/${d.slug}`;
@@ -141,7 +149,12 @@ function page(d) {
   const label = cap(kw);
   const sl = slides(d);
   const badge = d.badge || BADGE.find(([re]) => re.test(d.slug))[1];
+  const vet = /^veterinario-/.test(d.slug);
   const msg = `Olá! Vim pela página "${label}" do site e gostaria de mais informações.`;
+  // Nas páginas de veterinário o botão principal vai para a Pink Vet
+  const cta = vet
+    ? waLink('Olá, Pink Vet! Vim pelo site do Pet Shop Palmira e gostaria de agendar uma consulta para o meu pet. Podem me ajudar?', VET.wa)
+    : waLink(msg);
   const faq = (d.faq || []).filter(f => f.q && f.a);
   const intro = (d.intro && d.intro.length ? d.intro : [`Procurando <strong>${kw}</strong>? O Pet Shop Palmira atende Guarulhos há 25 anos com produto de confiança, preço acessível e atendimento de bairro.`]).slice(0, 4);
   const title = d.title || `${label} | Pet Shop Palmira`;
@@ -157,6 +170,11 @@ function page(d) {
       { '@type': 'PetStore', name: 'Pet Shop Palmira', image: SITE + '/assets/images/logopetshoppalmira.png', telephone: '+551124511719', priceRange: '$',
         address: { '@type': 'PostalAddress', streetAddress: 'Av. Pedro de Souza Lopes, 33B', addressLocality: 'Guarulhos', addressRegion: 'SP', postalCode: '07074-000', addressCountry: 'BR' },
         openingHoursSpecification: [{ '@type': 'OpeningHoursSpecification', dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'], opens: '09:00', closes: '18:00' }] },
+      ...(vet ? [{ '@type': 'VeterinaryCare', name: VET.nome, telephone: '+' + VET.wa,
+        address: { '@type': 'PostalAddress', streetAddress: VET.end, addressLocality: 'Guarulhos', addressRegion: 'SP', addressCountry: 'BR' },
+        openingHoursSpecification: [
+          { '@type': 'OpeningHoursSpecification', dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'], opens: '09:00', closes: '17:00' },
+          { '@type': 'OpeningHoursSpecification', dayOfWeek: ['Saturday'], opens: '09:00', closes: '16:00' }] }] : []),
       ...(faq.length ? [{ '@type': 'FAQPage', mainEntity: faq.map(f => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) }] : []),
     ],
   };
@@ -191,7 +209,7 @@ ${JSON.stringify(ld, null, 2)}
 </head>
 <body>
 
-<a href="${waLink(msg)}" class="float-whatsapp" target="_blank" rel="noopener" aria-label="Chamar o Pet Shop Palmira no WhatsApp">
+<a href="${cta}" class="float-whatsapp" target="_blank" rel="noopener" aria-label="${vet ? 'Chamar a Pink Vet no WhatsApp' : 'Chamar o Pet Shop Palmira no WhatsApp'}">
   ${waSvg('', 24).replace('currentColor', 'white')}
 </a>
 
@@ -245,17 +263,19 @@ ${JSON.stringify(ld, null, 2)}
           <div class="seo-intro-text">
 ${intro.map(p => `            <p>${p}</p>`).join('\n')}
             <div class="seo-quick-info">
-              <span>Entrega combinada por ligação</span>
+${vet ? `              <span>Pink Vet: seg a sex, 9h às 17h</span>
+              <span>Sábado, 9h às 16h</span>
+              <span>${VET.end}, Jardim Palmira</span>` : `              <span>Entrega combinada por ligação</span>
               <span>Seg a sáb, 9h às 18h</span>
-              <span>Av. Pedro de Souza Lopes, 33B, Jardim Palmira</span>
+              <span>Av. Pedro de Souza Lopes, 33B, Jardim Palmira</span>`}
             </div>
           </div>
           <div class="seo-intro-cta-wrapper">
-            <a href="${waLink(msg)}" class="seo-cta-btn" target="_blank" rel="noopener">
+            <a href="${cta}" class="seo-cta-btn" target="_blank" rel="noopener">
               ${waSvg('', 20)}
-              <span>Chamar no WhatsApp</span>
+              <span>${vet ? 'Agendar com a Pink Vet' : 'Chamar no WhatsApp'}</span>
             </a>
-            <span class="seo-cta-subtext">Ou ligue: (11) 2451-1719</span>
+            <span class="seo-cta-subtext">${vet ? `WhatsApp da Pink Vet: ${VET.fone}` : 'Ou ligue: (11) 2451-1719'}</span>
           </div>
         </div>
 
@@ -298,11 +318,15 @@ ${faq.map(f => `            <div class="seo-faq-item">
 ` : ''}
           <!-- 5. CHAMADA FINAL -->
           <div class="seo-bottom-banner">
-            <div>
+${vet ? `            <div>
+              <h3>Quer marcar a consulta?</h3>
+              <p>Chame a Pink Vet no WhatsApp ${VET.fone}. Atendimento de segunda a sexta, das 9h às 17h, e sábado, das 9h às 16h.</p>
+            </div>
+            <a href="${cta}" class="seo-cta-btn" target="_blank" rel="noopener">Agendar com a Pink Vet</a>` : `            <div>
               <h3>Ficou alguma dúvida?</h3>
               <p>Manda uma mensagem no WhatsApp ou liga no (11) 2451-1719. A gente atende de segunda a sábado, das 9h às 18h.</p>
             </div>
-            <a href="${waLink(msg)}" class="seo-cta-btn" target="_blank" rel="noopener">Chamar no WhatsApp</a>
+            <a href="${cta}" class="seo-cta-btn" target="_blank" rel="noopener">Chamar no WhatsApp</a>`}
           </div>
 
         </div>
@@ -357,8 +381,7 @@ ${SCRIPT}
 `;
 }
 
-const plan = JSON.parse(fs.readFileSync(PLAN, 'utf8'));
-const list = plan.clusters.flatMap(c => c.paginas.map(p => ({ slug: p.slug.replace(/\.html$/, ''), kw: p.palavra_forte, n: p.numero })));
+const list = JSON.parse(fs.readFileSync(PLAN, 'utf8'));
 let n = 0;
 for (const it of list) {
   const d = JSON.parse(fs.readFileSync(path.join(DATA, it.slug + '.json'), 'utf8'));
@@ -366,5 +389,43 @@ for (const it of list) {
   fs.writeFileSync(path.join(PROJ, 'Informacoes', it.slug + '.html'), page(d));
   n++;
 }
-fs.writeFileSync(path.join(DATA, '_lista.json'), JSON.stringify(list));
+fs.writeFileSync(path.join(DATA, '_lista.json'), JSON.stringify(list.map(({ slug, kw, n }) => ({ slug, kw, n }))));
 console.log('paginas geradas:', n);
+
+// Índice de Informações: guias gerais e páginas por bairro
+const item = it => `        <a href="${it.slug}.html" class="seo-vertical-item">
+          <div class="seo-item-left">
+            <span class="seo-item-num">${String(it.n).padStart(2, '0')}</span>
+            <span class="seo-item-title">${esc(it.kw)}</span>
+          </div>
+          <span class="seo-item-arrow" aria-hidden="true">&rarr;</span>
+        </a>`;
+const gerais = list.filter(it => it.grupo === 'geral');
+const porBairro = BAIRROS_LISTA.map(b => `      <h3 class="seo-list-subtitle">${esc(b.nome)}${b.cidade === 'São Paulo' ? ' (São Paulo)' : ''}</h3>
+      <div class="seo-vertical-list">
+${list.filter(it => it.bairro === b.id).map(item).join('\n')}
+      </div>`).join('\n\n');
+const LISTA = `<!-- LISTA:INICIO -->
+      <h2 class="seo-list-title">Guias gerais</h2>
+      <div class="seo-vertical-list">
+${gerais.map(item).join('\n')}
+      </div>
+
+      <h2 class="seo-list-title">Por bairro</h2>
+      <p class="seo-list-note">Pet shop, casa de ração, ração para cachorro, ração para gato e veterinária perto de você, nos ${BAIRROS_LISTA.length} bairros mais próximos da loja.</p>
+${porBairro}
+      <!-- LISTA:FIM -->`;
+const idxFile = path.join(PROJ, 'Informacoes', 'index.html');
+const idx = fs.readFileSync(idxFile, 'utf8');
+if (!/<!-- LISTA:INICIO -->[\s\S]*<!-- LISTA:FIM -->/.test(idx)) throw new Error('marcadores da lista não encontrados no índice');
+fs.writeFileSync(idxFile, idx.replace(/<!-- LISTA:INICIO -->[\s\S]*<!-- LISTA:FIM -->/, () => LISTA));
+
+// Sitemap: troca todas as URLs de páginas de Informações pela lista atual
+const smFile = path.join(PROJ, 'sitemap.xml');
+const sm = fs.readFileSync(smFile, 'utf8').replace(/\s*<url>\s*<loc>[^<]*\/informacoes\/[^<]+<\/loc>[\s\S]*?<\/url>/g, '');
+const urls = list.map(it => `  <url>
+    <loc>${SITE}/informacoes/${it.slug}</loc>
+    <priority>0.8</priority>
+  </url>`).join('\n');
+fs.writeFileSync(smFile, sm.replace('</urlset>', urls + '\n</urlset>'));
+console.log('índice e sitemap atualizados:', list.length, 'páginas');

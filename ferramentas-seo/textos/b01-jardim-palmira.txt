@@ -1,0 +1,144 @@
+@@ pet-shop-jardim-palmira-guarulhos
+title: Pet Shop no Jardim Palmira, Guarulhos | Pet Shop Palmira
+desc: Pet shop no Jardim Palmira, Guarulhos, há 25 anos na Av. Pedro de Souza Lopes, 33B. Ração, farmácia veterinária, acessórios e banho e tosa para cães.
+badge: O pet shop do bairro
+h1: Pet shop no [Jardim Palmira]
+A gente está no Jardim Palmira há 25 anos, na Av. Pedro de Souza Lopes, 33B. Tem cliente que começou comprando ração para o primeiro cachorro e hoje traz o neto para escolher o brinquedo do filhote.
+Para quem mora no bairro, dá para vir a pé, pegar a ração e voltar com o saco no ombro. Se o saco for pesado demais, a gente combina a entrega por ligação.
+## O que tem na loja
+* Ração | Cães, gatos, pássaros, roedores e animais de criação, como galinha, porco e cavalo.
+* Farmácia veterinária | Antipulgas, vermífugos e medicamentos com receita, como Frontline, Capstar, Otovet e Maxicam.
+* Banho e tosa | Só para cães, com tosa na máquina. Você traz e busca o cachorro na loja.
+* Acessórios | Caminhas, casinhas, coleiras, guias, comedouros e caixas de transporte.
+## Como funciona o dia a dia
+A loja abre de segunda a sábado, das 9h às 18h. Domingo e feriado fica fechada, então vale deixar a ração do fim de semana garantida até sábado à tarde.
+Quem prefere não sair de casa pode mandar o pedido pelo WhatsApp (11) 97460-5359. A gente confere o estoque, passa o valor e, se for entrega, liga para combinar o local e o horário. Sem essa ligação, a entrega não sai.
+Aceitamos Pix, cartão de débito, cartão de crédito e dinheiro, sem taxa extra no cartão.
+## Vizinho também ajuda vizinho
+Muita gente do Jardim Palmira chega com uma dúvida, não com uma lista. O cachorro parou de comer a ração de sempre, o gato começou a fazer xixi fora da caixa, apareceu pulga depois da chuva. A gente escuta, mostra as opções e explica a diferença de preço entre elas.
+Quando o caso é de saúde, a resposta é outra: a gente indica veterinário. A Pink Vet, nossa parceira, atende aqui mesmo na avenida, no número 33.
+## Banho e tosa sem complicação
+Marque pelo WhatsApp, traga o cão no horário combinado e busque quando avisarmos. Como não temos táxi dog, o banho funciona melhor para quem mora perto, e no Jardim Palmira isso é o que não falta.
+? Onde fica o Pet Shop Palmira?
+= Na Av. Pedro de Souza Lopes, 33B, no Jardim Palmira, em Guarulhos.
+? Vocês abrem no domingo?
+= Não. Abrimos de segunda a sábado, das 9h às 18h.
+? Dá para pedir ração sem ir até a loja?
+= Dá. Mande o pedido pelo WhatsApp (11) 97460-5359 e a gente combina a entrega por ligação.
+? Vocês dão banho em gato?
+= Não. O banho e tosa é só para cães.
+
+@@ casa-de-racao-jardim-palmira
+title: Casa de Ração no Jardim Palmira, Guarulhos | Pet Shop Palmira
+desc: Casa de ração no Jardim Palmira, Guarulhos: ração para cão, gato, pássaro, roedor, galinha, porco e cavalo. Há 25 anos na Av. Pedro de Souza Lopes.
+badge: Ração para todo bicho
+h1: Casa de ração no [Jardim Palmira]
+Antes de virar pet shop no jeito que se fala hoje, loja de bairro era casa de ração. Era onde se comprava o milho da galinha, o alpiste do canário e a ração do cachorro no mesmo balcão.
+O Pet Shop Palmira continua assim. Há 25 anos no Jardim Palmira, a gente vende ração para o cachorro do apartamento e para a criação do quintal.
+## Ração para cada bicho
+| Animal | O que você encontra |
+| Cachorro | Golden, Premier, Special Dog, Pedigree, Magnus, Premiatta, Max e Royal Canin, conforme o estoque |
+| Gato | Golden Gatos, CatChow, Whiskas e linhas para castrados |
+| Pássaros | Misturas de sementes e ração para calopsita, periquito e canário |
+| Roedores | Ração e feno para porquinho-da-índia e coelho |
+| Criação | Ração para galinha, porco e cavalo |
+## Para quem cria no quintal
+No bairro ainda tem casa com quintal de terra, galinheiro no fundo e passarinho na varanda. Para esse público, a pergunta costuma ser de quantidade: quanto a galinha come por dia, quanto tempo dura um saco, como guardar sem dar bicho.
+A regra geral é simples. Ração de criação deve ficar em lugar seco, fora do chão e bem fechada, porque umidade e rato estragam o saco rápido. Se a sua criação é maior, conte para a gente quantos animais são e ajudamos a calcular o tamanho do saco.
+## Preço de casa de ração
+Quem compra ração todo mês olha o preço. A gente mostra as linhas de cada marca e explica a diferença. Às vezes a ração um pouco mais cara rende mais, porque o animal precisa comer menos para ficar satisfeito.
+## Pedido e retirada
+Você pode passar na loja de segunda a sábado, das 9h às 18h, ou mandar o pedido pelo WhatsApp (11) 97460-5359. Para saco grande, a entrega é combinada por ligação antes. Pagamento no Pix, débito, crédito ou dinheiro, sem taxa extra no cartão.
+? Vocês vendem ração para galinha?
+= Vendemos. Temos ração para galinha e outras aves de criação, além de porco e cavalo.
+? Tem alpiste e semente para pássaro?
+= Tem. Consulte as misturas disponíveis pelo WhatsApp.
+? Como guardar ração de criação?
+= Em lugar seco, fora do chão e com o saco bem fechado, longe de umidade e de rato.
+
+@@ racao-para-cachorro-jardim-palmira
+title: Ração para Cachorro no Jardim Palmira, Guarulhos | Pet Shop Palmira
+desc: Ração para cachorro no Jardim Palmira: Golden, Premier, Special Dog, Pedigree e mais. Ajuda para trocar de ração sem dar dor de barriga no cão.
+badge: Ração no bairro
+h1: Ração para cachorro no [Jardim Palmira]
+Trocar a ração do cachorro parece simples. Abre o saco novo, enche o pote e pronto. Só que muito cão responde com fezes moles, vômito ou recusa de comida nos primeiros dias.
+A gente vê isso toda semana no balcão. Por isso, junto com a ração, explicamos como fazer a troca com calma.
+## Marcas em estoque
+Trabalhamos com Golden, Premier, Special Dog, Pedigree, Magnus, Premiatta, Max e Royal Canin. O estoque muda, então vale confirmar pelo WhatsApp (11) 97460-5359 antes de vir buscar um saco específico.
+## Troca de ração em uma semana
+1. Dias 1 e 2: três partes da ração antiga e uma parte da nova.
+2. Dias 3 e 4: metade de cada.
+3. Dias 5 e 6: uma parte da antiga e três da nova.
+4. Dia 7 em diante: só a ração nova.
+Se o cachorro tiver diarreia forte, sangue nas fezes ou ficar sem comer, pare a troca e procure o veterinário.
+## Por que trocar
+Os motivos mais comuns são três: o filhote virou adulto, o cachorro foi castrado e começou a engordar, ou o veterinário pediu uma linha diferente. Trocar só porque a embalagem mudou de cor não é motivo. Se o cão está bem, com pelo bonito e fezes firmes, a ração atual está funcionando.
+## Quantidade certa
+A tabela da embalagem é um ponto de partida. Cachorro que passa o dia deitado precisa de menos do que a tabela diz. Cachorro de quintal, que corre o dia inteiro, às vezes precisa de um pouco mais. Pese a porção com um copo medidor, porque olho de tutor sempre erra para cima.
+## Para quem é do bairro
+Morando no Jardim Palmira, dá para comprar um saco menor, testar e voltar para o tamanho grande quando o cachorro aceitar bem. A loja abre de segunda a sábado, das 9h às 18h.
+? Posso misturar duas marcas de ração?
+= Na transição, sim. Depois, o melhor é manter uma ração só, para saber o que o cachorro está comendo.
+? Quanto tempo leva a troca?
+= Em geral uma semana. Cães mais sensíveis podem precisar de dez dias.
+? Vocês entregam no Jardim Palmira?
+= Entregamos, combinando o local por ligação antes.
+
+@@ racao-para-gato-jardim-palmira
+title: Ração para Gato no Jardim Palmira, Guarulhos | Pet Shop Palmira
+desc: Ração para gato no Jardim Palmira: Golden Gatos, CatChow, Whiskas, linha para castrados, sachês e areia. Dicas para gato que enjoa da ração.
+badge: Gatos do bairro
+h1: Ração para gato no [Jardim Palmira]
+Todo dono de gato já ouviu isso: ele enjoou da ração. O gato cheira o pote, dá as costas e vai embora. Antes de trocar de marca, vale entender o que está acontecendo.
+## O gato enjoou mesmo?
+Na maioria das vezes, o problema não é a marca. É a ração que ficou muito tempo no pote, perdeu o cheiro e amoleceu. Gato come pelo nariz. Ração velha, para ele, é comida sem graça.
+- Coloque porções menores, mais vezes ao dia.
+- Lave o pote com frequência, porque gordura velha deixa cheiro ruim.
+- Guarde o saco aberto bem fechado, longe do sol.
+- Prefira pote largo e raso. Muito gato não gosta de encostar o bigode na borda.
+Se mesmo assim ele ficar mais de um dia sem comer, não espere. Gato em jejum prolongado pode ter problema no fígado. É caso de veterinário.
+## Rações que temos
+Golden Gatos, CatChow, Whiskas e Royal Canin, conforme o estoque, com opções para filhote, adulto e castrado. Gato castrado tende a engordar, por isso a linha própria para ele tem menos caloria.
+## Sachê ajuda
+Um sachê por dia deixa a refeição mais interessante e ainda coloca água na dieta. Gato bebe pouca água por natureza, e isso pesa no rim e na bexiga com o tempo. Temos sachês e patês de várias marcas.
+## Areia e caixa
+Gato que gosta da caixa faz xixi no lugar certo. Temos areias de tipos diferentes. Se ele começou a fazer fora, olhe primeiro a limpeza da caixa e a posição dela, longe da comida.
+## Compra perto de casa
+No Jardim Palmira, o saco de ração do gato está a poucos minutos. Você pode vir de segunda a sábado, das 9h às 18h, ou pedir pelo WhatsApp (11) 97460-5359 e combinar a entrega por ligação.
+? Meu gato só come sachê. É problema?
+= Sachê sozinho costuma não ser completo, a não ser que a embalagem diga que é. O ideal é ração seca completa com um sachê por dia.
+? Quanto tempo a ração dura aberta?
+= Bem fechada e longe do sol, algumas semanas. Saco pequeno ajuda a manter a ração sempre fresca.
+? Vocês têm ração para gato castrado?
+= Temos. Consulte as marcas disponíveis pelo WhatsApp.
+
+@@ veterinario-jardim-palmira
+title: Veterinário no Jardim Palmira, Guarulhos | Pink Vet e Pet Shop Palmira
+desc: Procurando veterinário no Jardim Palmira? Conheça a Pink Vet Consultório Veterinário, na Av. Pedro de Souza Lopes, 33. Consulta, vacinas e check-up.
+badge: Veterinária parceira
+h1: Veterinário no [Jardim Palmira]
+Muita gente entra na loja perguntando se a gente atende como clínica veterinária. Não atendemos. O Pet Shop Palmira vende ração, produtos e remédios com receita, mas não faz consulta nem diagnóstico.
+Para isso, a gente indica a Pink Vet Consultório Veterinário, nossa parceira. Ela fica na mesma avenida da loja, na Av. Pedro de Souza Lopes, 33, aqui no Jardim Palmira.
+## Sobre a Pink Vet
+* Consulta | Avaliação do cão ou do gato com veterinária.
+* Vacinas | Para manter a carteirinha do pet em dia.
+* Check-up | Para acompanhar a saúde mesmo quando parece tudo bem.
+O atendimento é de segunda a sexta, das 9h às 17h, e sábado, das 9h às 16h. A Pink Vet tem nota 5,0 no Google. Para marcar, chame no WhatsApp (11) 93317-1589 pelo botão desta página.
+## Por que indicamos uma clínica vizinha
+Em 25 anos de balcão, a gente aprendeu o limite do nosso trabalho. Dá para explicar a diferença entre duas rações. Não dá para saber, só olhando, por que o cachorro está mancando ou por que o gato emagreceu. Isso exige exame, e exame é com veterinária.
+Ter a clínica na mesma avenida facilita a vida de quem mora no bairro. Você sai da consulta com a receita e, se precisar do remédio, passa na farmácia veterinária da loja.
+## Quando marcar uma consulta
+- Filhote recém-chegado em casa, para a primeira avaliação e as vacinas.
+- Cão ou gato que parou de comer ou de beber água.
+- Vômito ou diarreia que não passam em um dia.
+- Coceira forte, queda de pelo ou ferida na pele.
+- Check-up anual, mesmo sem sintoma.
+Em emergência fora do horário da Pink Vet, procure um hospital veterinário 24 horas. Não espere o dia seguinte se o animal estiver muito mal.
+## Remédio com receita na loja
+Com a receita em mãos, você encontra na nossa farmácia antipulgas, vermífugos e medicamentos como Otovet, Agemoxi, Maxicam e enrofloxacina, conforme o estoque. Mande a foto da receita pelo WhatsApp (11) 97460-5359 para confirmar.
+? O Pet Shop Palmira tem veterinário?
+= Não. A loja não é clínica. Para consulta, vacinas e check-up, indicamos a Pink Vet, na Av. Pedro de Souza Lopes, 33.
+? Qual o horário da Pink Vet?
+= De segunda a sexta, das 9h às 17h, e sábado, das 9h às 16h.
+? Como marco uma consulta?
+= Pelo WhatsApp da Pink Vet, (11) 93317-1589. O botão desta página já abre a conversa.

@@ -1,0 +1,86 @@
+{
+ "slug": "veterinario-continental",
+ "keyword": "veterinário Parque Continental",
+ "slides": [],
+ "title": "Veterinário no Parque Continental, Guarulhos | Pink Vet perto de você",
+ "description": "Veterinário perto do Parque Continental: a Pink Vet atende na Av. Pedro de Souza Lopes, 33. Primeira consulta do filhote, vacinas e check-up.",
+ "ogDescription": "Veterinário perto do Parque Continental: a Pink Vet atende na Av. Pedro de Souza Lopes, 33. Primeira consulta do filhote, vacinas e check-up.",
+ "badge": "Veterinária parceira",
+ "h1": "Veterinário perto do <span class=\"acc\">Parque Continental</span>",
+ "intro": [
+  "Chegou filhote em casa no Parque Continental? A primeira consulta é a que mais gera dúvida. O que levar, quando ir, o que perguntar.",
+  "Antes de tudo, um aviso: o Pet Shop Palmira não é clínica veterinária. A gente vende ração, produtos e remédios com receita. Para consulta, indicamos a Pink Vet Consultório Veterinário, nossa parceira, na Av. Pedro de Souza Lopes, 33, no Jardim Palmira."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Pink Vet em resumo"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Consulta, vacinas e check-up para cães e gatos.",
+    "Segunda a sexta, das 9h às 17h. Sábado, das 9h às 16h.",
+    "Nota 5,0 no Google.",
+    "WhatsApp (11) 93317-1589, pelo botão desta página."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Do Parque Continental até lá são de 0,8 a 1,8 km em linha reta, conforme a rua."
+  },
+  {
+   "type": "h2",
+   "text": "Quando levar o filhote"
+  },
+  {
+   "type": "p",
+   "html": "O ideal é marcar a primeira consulta logo nos primeiros dias em casa. A veterinária avalia o estado geral, confere se há verme ou pulga e monta o calendário de vacinas. Até a vacinação terminar, evite chão de rua e contato com animais desconhecidos."
+  },
+  {
+   "type": "h2",
+   "text": "O que levar na consulta"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "A carteirinha de vacinas, se o filhote veio com uma.",
+    "O nome da ração que ele come e quanto come por dia.",
+    "Fotos das fezes, se estiverem estranhas. Parece esquisito, mas ajuda.",
+    "Uma lista de dúvidas. Na hora, a gente sempre esquece alguma.",
+    "Guia e coleira para cachorro, caixa de transporte para gato."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Perguntas comuns na primeira consulta"
+  },
+  {
+   "type": "p",
+   "html": "Quando dar vermífugo de novo. Quantas vezes por dia dar comida. Quando pode tomar banho. Quando pode passear na rua. Cada filhote é um caso, e quem responde é a veterinária depois de examinar."
+  },
+  {
+   "type": "h2",
+   "text": "Depois da consulta"
+  },
+  {
+   "type": "p",
+   "html": "Com a receita ou a orientação em mãos, você encontra na nossa loja a ração de filhote, o vermífugo e o antipulgas indicados, conforme o estoque. É na mesma avenida, no número 33B."
+  }
+ ],
+ "faq": [
+  {
+   "q": "O Pet Shop Palmira faz consulta?",
+   "a": "Não. A loja não é clínica. Indicamos a Pink Vet para consulta, vacinas e check-up."
+  },
+  {
+   "q": "Com quantos dias levo o filhote ao veterinário?",
+   "a": "O quanto antes, nos primeiros dias em casa. A veterinária indica o calendário de vacinas."
+  },
+  {
+   "q": "Como marco na Pink Vet?",
+   "a": "Pelo WhatsApp (11) 93317-1589. O botão desta página já abre a conversa."
+  }
+ ],
+ "humanizado": true
+}

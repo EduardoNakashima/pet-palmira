@@ -4,21 +4,21 @@
  "numero": 58,
  "cluster": "regionalizadas_fase_1",
  "source": "site",
- "title": "Ração para Gato no Parque Continental | Pet Shop Palmira",
- "description": "Ração para gato no Parque Continental, Guarulhos: Golden Gatos, CatChow, Whiskas, sachês e areia. Pet Shop Palmira, a cerca de 1 km.",
- "ogDescription": "Ração para gato no Parque Continental, Guarulhos: Golden Gatos, CatChow, Whiskas, sachês e areia. Pet Shop Palmira, a cerca de 1 km.",
+ "title": "Ração para Gato no Parque Continental, Guarulhos | Pet Shop Palmira",
+ "description": "Ração para gato no Parque Continental, Guarulhos: Golden Gatos, CatChow, Whiskas e sachês. Como fazer o gato beber mais água e cuidar do rim.",
+ "ogDescription": "Ração para gato no Parque Continental, Guarulhos: Golden Gatos, CatChow, Whiskas e sachês. Como fazer o gato beber mais água e cuidar do rim.",
  "faq": [
   {
-   "q": "Vocês têm ração para gato castrado?",
-   "a": "Temos. Confirme as linhas disponíveis pelo WhatsApp."
+   "q": "Quantos sachês por dia posso dar?",
+   "a": "Em geral um, junto com a ração seca. Diminua um pouco a ração para o gato não engordar."
   },
   {
-   "q": "Posso pedir caixa de sachê pelo WhatsApp?",
-   "a": "Pode consultar. Caixa fechada é sob consulta."
+   "q": "Fonte de água vale a pena?",
+   "a": "Para muitos gatos, sim. Consulte os modelos disponíveis pelo WhatsApp."
   },
   {
-   "q": "Como peço entrega?",
-   "a": "Pelo WhatsApp (11) 97460-5359, combinando o local por ligação."
+   "q": "Vocês entregam no Parque Continental?",
+   "a": "Entregamos, combinando o local por ligação antes."
   }
  ],
  "slides": [
@@ -56,32 +56,55 @@
  "badge": "Gatos do Continental",
  "h1": "Ração para gato no <span class=\"acc\">Parque Continental</span>",
  "intro": [
-  "Gato de sobrado ou apartamento passa o dia em casa, se mexe pouco e engorda fácil. A ração certa e o sachê para hidratar fazem diferença."
+  "O gato descende de animais do deserto. Por isso bebe pouca água e tira boa parte dela da comida. Com ração seca o dia inteiro, muitos gatos passam a vida bebendo menos do que deveriam, e o rim e a bexiga sentem com os anos.",
+  "Dá para ajudar com hábitos simples, e a ração entra nessa conta."
  ],
  "body": [
   {
    "type": "h2",
-   "text": "O que temos para gatos"
+   "text": "Ração seca e sachê"
   },
   {
    "type": "p",
-   "html": "Golden Gatos, CatChow e Whiskas, com opções para filhote, adulto e castrado. Sachês e patês avulsos. E areia higiênica."
+   "html": "A ração seca completa continua sendo a base. Temos Golden Gatos, CatChow, Whiskas e Royal Canin, conforme o estoque. O que muda o jogo é o alimento úmido. Um sachê por dia coloca água na dieta sem o gato perceber."
+  },
+  {
+   "type": "p",
+   "html": "Se o seu gato estranhar o sachê, comece com uma colher de chá misturada na ração. Em poucos dias, muitos já esperam pela hora do úmido."
   },
   {
    "type": "h2",
-   "text": "Gato que fica em casa"
+   "text": "A água fora da tigela da comida"
   },
   {
-   "type": "p",
-   "html": "Ração para castrado, porção na medida e brincadeira todo dia. Uma varinha com pena por dez minutos já ajuda o gato a gastar energia."
+   "type": "ul",
+   "items": [
+    "Coloque o pote de água longe da ração. Na natureza, o gato não bebe perto de onde come.",
+    "Espalhe mais de um pote pela casa.",
+    "Troque a água todo dia. Gato percebe água parada.",
+    "Teste uma fonte de água. Muitos gatos bebem mais em água corrente.",
+    "Use pote largo, que não encoste no bigode."
+   ]
   },
   {
    "type": "h2",
-   "text": "Entrega no Continental"
+   "text": "Sinais para ficar de olho"
   },
   {
    "type": "p",
-   "html": "A areia e o saco de ração são os itens que mais vale receber em casa. A entrega é combinada por ligação, pelo (11) 2451-1719."
+   "html": "Gato que vai muitas vezes à caixa e faz pouco xixi, que chora ao urinar ou que tem sangue na urina precisa de veterinário logo. Em gato macho, ficar sem conseguir urinar é emergência. Não espere o dia seguinte."
+  },
+  {
+   "type": "p",
+   "html": "Para consulta e check-up, indicamos a Pink Vet, na Av. Pedro de Souza Lopes, 33, perto da loja."
+  },
+  {
+   "type": "h2",
+   "text": "Compra perto do Continental"
+  },
+  {
+   "type": "p",
+   "html": "O Pet Shop Palmira fica de 0,8 a 1,8 km do Parque Continental, no Jardim Palmira. Você pode buscar a ração e os sachês de segunda a sábado, das 9h às 18h, ou pedir pelo WhatsApp (11) 97460-5359 e combinar a entrega por ligação."
   }
  ],
  "humanizado": true

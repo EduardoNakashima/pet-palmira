@@ -4,21 +4,21 @@
  "numero": 53,
  "cluster": "regionalizadas_fase_1",
  "source": "site",
- "title": "Ração para Gato no Jardim Palmira | Pet Shop Palmira",
- "description": "Ração para gato no Jardim Palmira, Guarulhos: Golden Gatos, CatChow, Whiskas e sachês. Areia higiênica e entrega combinada por ligação.",
- "ogDescription": "Ração para gato no Jardim Palmira, Guarulhos: Golden Gatos, CatChow, Whiskas e sachês. Areia higiênica e entrega combinada por ligação.",
+ "title": "Ração para Gato no Jardim Palmira, Guarulhos | Pet Shop Palmira",
+ "description": "Ração para gato no Jardim Palmira: Golden Gatos, CatChow, Whiskas, linha para castrados, sachês e areia. Dicas para gato que enjoa da ração.",
+ "ogDescription": "Ração para gato no Jardim Palmira: Golden Gatos, CatChow, Whiskas, linha para castrados, sachês e areia. Dicas para gato que enjoa da ração.",
  "faq": [
   {
-   "q": "Qual ração para gato castrado vocês têm?",
-   "a": "Temos linhas para castrados, como a Golden Gatos Castrados. Confirme o estoque pelo WhatsApp."
+   "q": "Meu gato só come sachê. É problema?",
+   "a": "Sachê sozinho costuma não ser completo, a não ser que a embalagem diga que é. O ideal é ração seca completa com um sachê por dia."
   },
   {
-   "q": "Vocês entregam areia?",
-   "a": "Entregamos, combinando o local por ligação antes."
+   "q": "Quanto tempo a ração dura aberta?",
+   "a": "Bem fechada e longe do sol, algumas semanas. Saco pequeno ajuda a manter a ração sempre fresca."
   },
   {
-   "q": "Vocês vendem sachê avulso?",
-   "a": "Sim, em unidades avulsas."
+   "q": "Vocês têm ração para gato castrado?",
+   "a": "Temos. Consulte as marcas disponíveis pelo WhatsApp."
   }
  ],
  "slides": [
@@ -56,32 +56,61 @@
  "badge": "Gatos do bairro",
  "h1": "Ração para gato no <span class=\"acc\">Jardim Palmira</span>",
  "intro": [
-  "Gato não gosta de mudança. Quando a ração de sempre acaba, é bom ter onde comprar perto de casa. No Jardim Palmira, a loja fica na Av. Pedro de Souza Lopes, 33B."
+  "Todo dono de gato já ouviu isso: ele enjoou da ração. O gato cheira o pote, dá as costas e vai embora. Antes de trocar de marca, vale entender o que está acontecendo."
  ],
  "body": [
   {
    "type": "h2",
-   "text": "Ração, sachê e areia no mesmo lugar"
+   "text": "O gato enjoou mesmo?"
   },
   {
    "type": "p",
-   "html": "Temos Golden Gatos, CatChow e Whiskas, com opções para filhote, adulto e castrado. Sachês e patês avulsos para variar o cardápio. E areia, que é pesada, dá para receber em casa."
+   "html": "Na maioria das vezes, o problema não é a marca. É a ração que ficou muito tempo no pote, perdeu o cheiro e amoleceu. Gato come pelo nariz. Ração velha, para ele, é comida sem graça."
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Coloque porções menores, mais vezes ao dia.",
+    "Lave o pote com frequência, porque gordura velha deixa cheiro ruim.",
+    "Guarde o saco aberto bem fechado, longe do sol.",
+    "Prefira pote largo e raso. Muito gato não gosta de encostar o bigode na borda."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Se mesmo assim ele ficar mais de um dia sem comer, não espere. Gato em jejum prolongado pode ter problema no fígado. É caso de veterinário."
   },
   {
    "type": "h2",
-   "text": "Gato castrado"
+   "text": "Rações que temos"
   },
   {
    "type": "p",
-   "html": "Depois da castração o gato engorda com facilidade. A ração para castrados tem menos caloria. Junto com brincadeira diária, ajuda a manter o peso."
+   "html": "Golden Gatos, CatChow, Whiskas e Royal Canin, conforme o estoque, com opções para filhote, adulto e castrado. Gato castrado tende a engordar, por isso a linha própria para ele tem menos caloria."
   },
   {
    "type": "h2",
-   "text": "Hidratação"
+   "text": "Sachê ajuda"
   },
   {
    "type": "p",
-   "html": "Gato bebe pouca água. Um sachê por dia e água fresca em mais de um canto da casa ajudam o trato urinário."
+   "html": "Um sachê por dia deixa a refeição mais interessante e ainda coloca água na dieta. Gato bebe pouca água por natureza, e isso pesa no rim e na bexiga com o tempo. Temos sachês e patês de várias marcas."
+  },
+  {
+   "type": "h2",
+   "text": "Areia e caixa"
+  },
+  {
+   "type": "p",
+   "html": "Gato que gosta da caixa faz xixi no lugar certo. Temos areias de tipos diferentes. Se ele começou a fazer fora, olhe primeiro a limpeza da caixa e a posição dela, longe da comida."
+  },
+  {
+   "type": "h2",
+   "text": "Compra perto de casa"
+  },
+  {
+   "type": "p",
+   "html": "No Jardim Palmira, o saco de ração do gato está a poucos minutos. Você pode vir de segunda a sábado, das 9h às 18h, ou pedir pelo WhatsApp (11) 97460-5359 e combinar a entrega por ligação."
   }
  ],
  "humanizado": true

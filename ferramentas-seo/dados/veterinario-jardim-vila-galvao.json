@@ -1,0 +1,101 @@
+{
+ "slug": "veterinario-jardim-vila-galvao",
+ "keyword": "veterinário Jardim Vila Galvão",
+ "slides": [],
+ "title": "Veterinário no Jardim Vila Galvão, Guarulhos | Pink Vet perto de você",
+ "description": "Veterinário perto do Jardim Vila Galvão: Pink Vet Consultório Veterinário, na Av. Pedro de Souza Lopes, 33. Vacinas, consulta e check-up.",
+ "ogDescription": "Veterinário perto do Jardim Vila Galvão: Pink Vet Consultório Veterinário, na Av. Pedro de Souza Lopes, 33. Vacinas, consulta e check-up.",
+ "badge": "Vacinas em dia",
+ "h1": "Veterinário perto do <span class=\"acc\">Jardim Vila Galvão</span>",
+ "intro": [
+  "A carteirinha de vacinas do cachorro ou do gato vive esquecida na gaveta. Até o dia em que você precisa dela para uma viagem, um hotelzinho ou um banho, e percebe que a última dose venceu.",
+  "Para quem mora no Jardim Vila Galvão, a nossa indicação para vacinas é a Pink Vet Consultório Veterinário, na Av. Pedro de Souza Lopes, 33, no Jardim Palmira."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "O Pet Shop Palmira não é clínica"
+  },
+  {
+   "type": "p",
+   "html": "A gente vende ração, acessórios e remédios com receita. Não aplicamos vacina e não fazemos consulta. Por isso trabalhamos com uma veterinária parceira de confiança, que fica na mesma avenida da loja."
+  },
+  {
+   "type": "h2",
+   "text": "A Pink Vet"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Consulta",
+     "text": "Avaliação clínica de cães e gatos."
+    },
+    {
+     "title": "Vacinas",
+     "text": "Aplicação e controle da carteirinha."
+    },
+    {
+     "title": "Check-up",
+     "text": "Acompanhamento periódico da saúde."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Atendimento de segunda a sexta, das 9h às 17h, e sábado, das 9h às 16h. Nota 5,0 no Google. Para marcar, use o botão desta página, que abre o WhatsApp (11) 93317-1589."
+  },
+  {
+   "type": "h2",
+   "text": "Como funciona a vacinação"
+  },
+  {
+   "type": "p",
+   "html": "Filhote recebe uma sequência de doses nas primeiras semanas de vida. Depois, o reforço costuma ser anual. Cães e gatos têm vacinas diferentes, e a raiva entra para os dois. Qual vacina, quando e quantas doses é decisão da veterinária, que olha a idade e o histórico do animal."
+  },
+  {
+   "type": "h2",
+   "text": "Dicas para não perder a data"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Tire uma foto da carteirinha depois de cada vacina.",
+    "Coloque um lembrete no celular para o mês do reforço.",
+    "Leve a carteirinha em toda consulta, mesmo que não seja de vacina.",
+    "Se perdeu a carteirinha, conte para a veterinária. Ela orienta como seguir."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Antes de vacinar"
+  },
+  {
+   "type": "p",
+   "html": "Animal com febre, diarreia ou muito abatido pode precisar esperar. Conte na hora da consulta como ele está, se tomou vermífugo e se teve alguma reação em vacinas anteriores."
+  },
+  {
+   "type": "h2",
+   "text": "Depois da consulta"
+  },
+  {
+   "type": "p",
+   "html": "Se a veterinária receitar remédio, antipulgas ou vermífugo, você encontra na nossa farmácia veterinária, conforme o estoque, no número 33B da mesma avenida."
+  }
+ ],
+ "faq": [
+  {
+   "q": "O Pet Shop Palmira aplica vacina?",
+   "a": "Não. A loja não é clínica. Para vacinas, indicamos a Pink Vet."
+  },
+  {
+   "q": "De quanto em quanto tempo o cão toma vacina?",
+   "a": "Depois das doses de filhote, o reforço costuma ser anual. A veterinária define o calendário."
+  },
+  {
+   "q": "Qual o horário da Pink Vet?",
+   "a": "Segunda a sexta, das 9h às 17h, e sábado, das 9h às 16h."
+  }
+ ],
+ "humanizado": true
+}

@@ -4,21 +4,21 @@
  "numero": 52,
  "cluster": "regionalizadas_fase_1",
  "source": "site",
- "title": "Ração para Cachorro no Jardim Palmira | Pet Shop Palmira",
- "description": "Ração para cachorro no Jardim Palmira, Guarulhos: Golden, Premier, Special Dog, Pedigree e mais, em sacos de até 20 kg. Retire ou combine a entrega.",
- "ogDescription": "Ração para cachorro no Jardim Palmira, Guarulhos: Golden, Premier, Special Dog, Pedigree e mais, em sacos de até 20 kg. Retire ou combine a entrega.",
+ "title": "Ração para Cachorro no Jardim Palmira, Guarulhos | Pet Shop Palmira",
+ "description": "Ração para cachorro no Jardim Palmira: Golden, Premier, Special Dog, Pedigree e mais. Ajuda para trocar de ração sem dar dor de barriga no cão.",
+ "ogDescription": "Ração para cachorro no Jardim Palmira: Golden, Premier, Special Dog, Pedigree e mais. Ajuda para trocar de ração sem dar dor de barriga no cão.",
  "faq": [
   {
-   "q": "Vocês têm saco de 15 e 20 kg?",
-   "a": "Temos de várias marcas. Confirme pelo WhatsApp."
+   "q": "Posso misturar duas marcas de ração?",
+   "a": "Na transição, sim. Depois, o melhor é manter uma ração só, para saber o que o cachorro está comendo."
   },
   {
-   "q": "Como peço entrega no Jardim Palmira?",
-   "a": "Fazemos entrega somente combinando o local por ligação antes, pelo (11) 2451-1719 ou ligação no WhatsApp."
+   "q": "Quanto tempo leva a troca?",
+   "a": "Em geral uma semana. Cães mais sensíveis podem precisar de dez dias."
   },
   {
-   "q": "Quais formas de pagamento vocês aceitam?",
-   "a": "Pix, cartão de débito e crédito e dinheiro."
+   "q": "Vocês entregam no Jardim Palmira?",
+   "a": "Entregamos, combinando o local por ligação antes."
   }
  ],
  "slides": [
@@ -56,53 +56,58 @@
  "badge": "Ração no bairro",
  "h1": "Ração para cachorro no <span class=\"acc\">Jardim Palmira</span>",
  "intro": [
-  "Se você mora no Jardim Palmira, a ração do seu cachorro está a poucas quadras de casa. E se o saco for de 20 kg, a gente combina a entrega para você não carregar."
+  "Trocar a ração do cachorro parece simples. Abre o saco novo, enche o pote e pronto. Só que muito cão responde com fezes moles, vômito ou recusa de comida nos primeiros dias.",
+  "A gente vê isso toda semana no balcão. Por isso, junto com a ração, explicamos como fazer a troca com calma."
  ],
  "body": [
   {
    "type": "h2",
-   "text": "O que temos"
+   "text": "Marcas em estoque"
   },
   {
-   "type": "table",
-   "head": [
-    "Fase",
-    "Exemplos"
-   ],
-   "rows": [
-    [
-     "Filhote",
-     "Golden Filhotes, Premiatta Filhotes, Max Filhotes"
-    ],
-    [
-     "Adulto",
-     "Golden Formula, Premiatta Classic, Max Professional"
-    ],
-    [
-     "Outras marcas",
-     "Premier, Magnus, Special Dog, Pedigree e Royal Canin"
-    ]
+   "type": "p",
+   "html": "Trabalhamos com Golden, Premier, Special Dog, Pedigree, Magnus, Premiatta, Max e Royal Canin. O estoque muda, então vale confirmar pelo WhatsApp (11) 97460-5359 antes de vir buscar um saco específico."
+  },
+  {
+   "type": "h2",
+   "text": "Troca de ração em uma semana"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Dias 1 e 2: três partes da ração antiga e uma parte da nova.",
+    "Dias 3 e 4: metade de cada.",
+    "Dias 5 e 6: uma parte da antiga e três da nova.",
+    "Dia 7 em diante: só a ração nova."
    ]
   },
   {
    "type": "p",
-   "html": "A disponibilidade muda com o estoque. Confirme pelo WhatsApp antes de vir."
+   "html": "Se o cachorro tiver diarreia forte, sangue nas fezes ou ficar sem comer, pare a troca e procure o veterinário."
   },
   {
    "type": "h2",
-   "text": "Saco grande compensa?"
+   "text": "Por que trocar"
   },
   {
    "type": "p",
-   "html": "Para cachorro médio ou grande, quase sempre. O preço por quilo cai. Só guarde bem fechado para a ração não perder o cheiro."
+   "html": "Os motivos mais comuns são três: o filhote virou adulto, o cachorro foi castrado e começou a engordar, ou o veterinário pediu uma linha diferente. Trocar só porque a embalagem mudou de cor não é motivo. Se o cão está bem, com pelo bonito e fezes firmes, a ração atual está funcionando."
   },
   {
    "type": "h2",
-   "text": "Pedido rápido"
+   "text": "Quantidade certa"
   },
   {
    "type": "p",
-   "html": "Mande a marca, o sabor e o peso para (11) 97460-5359. A gente confirma e você escolhe se retira ou recebe."
+   "html": "A tabela da embalagem é um ponto de partida. Cachorro que passa o dia deitado precisa de menos do que a tabela diz. Cachorro de quintal, que corre o dia inteiro, às vezes precisa de um pouco mais. Pese a porção com um copo medidor, porque olho de tutor sempre erra para cima."
+  },
+  {
+   "type": "h2",
+   "text": "Para quem é do bairro"
+  },
+  {
+   "type": "p",
+   "html": "Morando no Jardim Palmira, dá para comprar um saco menor, testar e voltar para o tamanho grande quando o cachorro aceitar bem. A loja abre de segunda a sábado, das 9h às 18h."
   }
  ],
  "humanizado": true

@@ -1,0 +1,104 @@
+{
+ "slug": "pet-shop-jardim-vila-galvao",
+ "keyword": "pet shop Jardim Vila Galvão",
+ "slides": [],
+ "title": "Pet Shop no Jardim Vila Galvão, Guarulhos | Pet Shop Palmira",
+ "description": "Pet shop perto do Jardim Vila Galvão, Guarulhos: ração, farmácia veterinária, acessórios e banho e tosa para cães. Há 25 anos no Jardim Palmira.",
+ "ogDescription": "Pet shop perto do Jardim Vila Galvão, Guarulhos: ração, farmácia veterinária, acessórios e banho e tosa para cães. Há 25 anos no Jardim Palmira.",
+ "badge": "Perto do Jardim Vila Galvão",
+ "h1": "Pet shop perto do <span class=\"acc\">Jardim Vila Galvão</span>",
+ "intro": [
+  "Quem mora no Jardim Vila Galvão tem o Pet Shop Palmira aqui na região, no Jardim Palmira. Estamos na Av. Pedro de Souza Lopes, 33B, há 25 anos.",
+  "Se é a sua primeira vez na loja, esta página conta o que esperar e como aproveitar melhor a visita."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Na primeira visita"
+  },
+  {
+   "type": "p",
+   "html": "Traga o nome da ração que o seu animal come, ou uma foto do saco. Se ele usa algum remédio, traga a receita. Com isso, a gente encontra o produto certo sem chute."
+  },
+  {
+   "type": "p",
+   "html": "Se a ideia é comprar coleira, peitoral ou roupinha, traga o cachorro junto. Provar na hora evita volta para trocar. Para caminha e caixa de transporte, a medida do animal deitado ajuda bastante."
+  },
+  {
+   "type": "h2",
+   "text": "O que você encontra"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Ração",
+     "text": "Cães, gatos, pássaros, roedores e animais de criação."
+    },
+    {
+     "title": "Farmácia veterinária",
+     "text": "Antipulgas, vermífugos e medicamentos com receita."
+    },
+    {
+     "title": "Higiene",
+     "text": "Shampoo, colônia, areia e tapete higiênico."
+    },
+    {
+     "title": "Acessórios",
+     "text": "Caminhas, casinhas, coleiras, guias, brinquedos e caixas de transporte."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Banho e tosa para cães"
+  },
+  {
+   "type": "p",
+   "html": "O banho e tosa é só para cachorro, com tosa na máquina. Funciona por horário marcado pelo WhatsApp (11) 97460-5359. Você traz o cão, a gente avisa quando estiver pronto e você busca. Não temos táxi dog."
+  },
+  {
+   "type": "p",
+   "html": "Na primeira vez, conte se o cachorro tem medo de secador, se tem alguma ferida na pele ou se é idoso. Isso muda o jeito de manusear e deixa o banho mais tranquilo para ele."
+  },
+  {
+   "type": "h2",
+   "text": "Horário e pagamento"
+  },
+  {
+   "type": "p",
+   "html": "A loja abre de segunda a sábado, das 9h às 18h. Domingo e feriado fica fechada. Aceitamos Pix, cartão de débito, cartão de crédito e dinheiro, sem taxa extra no cartão."
+  },
+  {
+   "type": "h2",
+   "text": "Entrega"
+  },
+  {
+   "type": "p",
+   "html": "Entregamos no Jardim Vila Galvão combinando o local por ligação antes. Mande o pedido pelo WhatsApp e a gente liga para acertar endereço e horário. Sem essa ligação, a entrega não sai."
+  },
+  {
+   "type": "h2",
+   "text": "Quando procurar veterinário"
+  },
+  {
+   "type": "p",
+   "html": "A loja não faz consulta. Para isso, indicamos a Pink Vet, nossa parceira, na mesma avenida, no número 33."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Onde fica a loja?",
+   "a": "Na Av. Pedro de Souza Lopes, 33B, no Jardim Palmira, em Guarulhos."
+  },
+  {
+   "q": "Preciso marcar o banho?",
+   "a": "Sim. Marque pelo WhatsApp (11) 97460-5359."
+  },
+  {
+   "q": "Vocês entregam no Jardim Vila Galvão?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "humanizado": true
+}

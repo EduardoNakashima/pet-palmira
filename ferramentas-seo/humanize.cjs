@@ -1,4 +1,4 @@
-// Lê os textos reescritos à mão (content/*.txt) e grava nos dados das páginas (data/*.json).
+// Lê os textos escritos à mão (textos/*.txt) e grava nos dados das páginas (dados/*.json).
 // Também aponta padrões de escrita de IA que a skill humanizer-pt-br proíbe.
 // Uso: node humanize.cjs <content> <data>
 //
@@ -79,7 +79,7 @@ for (const [slug, p] of Object.entries(pages)) {
   fs.writeFileSync(file, JSON.stringify(d, null, 1));
   ok++;
 }
-const lista = JSON.parse(fs.readFileSync(path.join(DATA, '_lista.json'), 'utf8'));
+const lista = JSON.parse(fs.readFileSync(path.join(__dirname, 'lista-paginas.json'), 'utf8'));
 const faltam = lista.filter(it => !JSON.parse(fs.readFileSync(path.join(DATA, it.slug + '.json'), 'utf8')).humanizado).map(it => it.n);
 console.log(`páginas gravadas agora: ${ok} | ainda sem reescrita: ${faltam.length}${faltam.length && faltam.length < 30 ? ' (' + faltam.join(', ') + ')' : ''}`);
 console.log(avisos.length ? 'AVISOS:\n' + avisos.join('\n') : 'nenhum padrão de IA encontrado');

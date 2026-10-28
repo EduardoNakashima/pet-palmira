@@ -1,0 +1,94 @@
+{
+ "slug": "veterinario-jardim-palmira",
+ "keyword": "veterinário Jardim Palmira",
+ "slides": [],
+ "title": "Veterinário no Jardim Palmira, Guarulhos | Pink Vet e Pet Shop Palmira",
+ "description": "Procurando veterinário no Jardim Palmira? Conheça a Pink Vet Consultório Veterinário, na Av. Pedro de Souza Lopes, 33. Consulta, vacinas e check-up.",
+ "ogDescription": "Procurando veterinário no Jardim Palmira? Conheça a Pink Vet Consultório Veterinário, na Av. Pedro de Souza Lopes, 33. Consulta, vacinas e check-up.",
+ "badge": "Veterinária parceira",
+ "h1": "Veterinário no <span class=\"acc\">Jardim Palmira</span>",
+ "intro": [
+  "Muita gente entra na loja perguntando se a gente atende como clínica veterinária. Não atendemos. O Pet Shop Palmira vende ração, produtos e remédios com receita, mas não faz consulta nem diagnóstico.",
+  "Para isso, a gente indica a Pink Vet Consultório Veterinário, nossa parceira. Ela fica na mesma avenida da loja, na Av. Pedro de Souza Lopes, 33, aqui no Jardim Palmira."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Sobre a Pink Vet"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Consulta",
+     "text": "Avaliação do cão ou do gato com veterinária."
+    },
+    {
+     "title": "Vacinas",
+     "text": "Para manter a carteirinha do pet em dia."
+    },
+    {
+     "title": "Check-up",
+     "text": "Para acompanhar a saúde mesmo quando parece tudo bem."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "html": "O atendimento é de segunda a sexta, das 9h às 17h, e sábado, das 9h às 16h. A Pink Vet tem nota 5,0 no Google. Para marcar, chame no WhatsApp (11) 93317-1589 pelo botão desta página."
+  },
+  {
+   "type": "h2",
+   "text": "Por que indicamos uma clínica vizinha"
+  },
+  {
+   "type": "p",
+   "html": "Em 25 anos de balcão, a gente aprendeu o limite do nosso trabalho. Dá para explicar a diferença entre duas rações. Não dá para saber, só olhando, por que o cachorro está mancando ou por que o gato emagreceu. Isso exige exame, e exame é com veterinária."
+  },
+  {
+   "type": "p",
+   "html": "Ter a clínica na mesma avenida facilita a vida de quem mora no bairro. Você sai da consulta com a receita e, se precisar do remédio, passa na farmácia veterinária da loja."
+  },
+  {
+   "type": "h2",
+   "text": "Quando marcar uma consulta"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Filhote recém-chegado em casa, para a primeira avaliação e as vacinas.",
+    "Cão ou gato que parou de comer ou de beber água.",
+    "Vômito ou diarreia que não passam em um dia.",
+    "Coceira forte, queda de pelo ou ferida na pele.",
+    "Check-up anual, mesmo sem sintoma."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Em emergência fora do horário da Pink Vet, procure um hospital veterinário 24 horas. Não espere o dia seguinte se o animal estiver muito mal."
+  },
+  {
+   "type": "h2",
+   "text": "Remédio com receita na loja"
+  },
+  {
+   "type": "p",
+   "html": "Com a receita em mãos, você encontra na nossa farmácia antipulgas, vermífugos e medicamentos como Otovet, Agemoxi, Maxicam e enrofloxacina, conforme o estoque. Mande a foto da receita pelo WhatsApp (11) 97460-5359 para confirmar."
+  }
+ ],
+ "faq": [
+  {
+   "q": "O Pet Shop Palmira tem veterinário?",
+   "a": "Não. A loja não é clínica. Para consulta, vacinas e check-up, indicamos a Pink Vet, na Av. Pedro de Souza Lopes, 33."
+  },
+  {
+   "q": "Qual o horário da Pink Vet?",
+   "a": "De segunda a sexta, das 9h às 17h, e sábado, das 9h às 16h."
+  },
+  {
+   "q": "Como marco uma consulta?",
+   "a": "Pelo WhatsApp da Pink Vet, (11) 93317-1589. O botão desta página já abre a conversa."
+  }
+ ],
+ "humanizado": true
+}

@@ -1,0 +1,148 @@
+@@ pet-shop-continental-guarulhos
+title: Pet Shop Perto do Parque Continental, Guarulhos | Pet Shop Palmira
+desc: Pet shop perto do Parque Continental, Guarulhos: ração, farmácia veterinária, acessórios e banho e tosa para cães. De 0,8 a 1,8 km, no Jardim Palmira.
+badge: Vizinho do Continental
+h1: Pet shop perto do [Parque Continental]
+O Parque Continental é grande, e a distância até a loja muda conforme a rua. Em linha reta, fica entre 0,8 e 1,8 km do Pet Shop Palmira. Para boa parte dos moradores, somos o pet shop mais perto de casa.
+Estamos na Av. Pedro de Souza Lopes, 33B, no Jardim Palmira, há 25 anos.
+## Pedido pelo WhatsApp, passo a passo
+Muita gente do Continental prefere pedir sem sair de casa. Funciona assim:
+1. Mande uma mensagem para (11) 97460-5359 com o que precisa: marca, tamanho do saco, remédio ou acessório.
+2. A gente confere o estoque e responde com o valor.
+3. Se for retirar, é só passar na loja de segunda a sábado, das 9h às 18h.
+4. Se for entrega, a gente liga para combinar o local e o horário. A entrega só sai depois dessa ligação.
+Pagamento no Pix, débito, crédito ou dinheiro, sem taxa extra no cartão.
+## O que pedir
+* Ração | Para cães, gatos, pássaros, roedores e animais de criação.
+* Farmácia | Antipulgas, vermífugos e remédios com receita. Mande a foto da receita junto.
+* Higiene | Shampoo, areia de gato e tapete higiênico.
+* Acessórios | Coleira, guia, caminha, comedouro e caixa de transporte.
+## Dica para o pedido sair certo
+Escreva o nome da ração como está na embalagem, com a linha e a fase. Golden Adulto e Golden Filhote são produtos diferentes, e o mesmo vale para raça pequena e raça grande. Se tiver dúvida, mande a foto do saco vazio. Fica mais fácil e evita troca depois.
+Para remédio, a foto da receita resolve. A gente confirma se tem o produto e a apresentação certa, como comprimido ou gotas.
+## Banho e tosa
+Fazemos banho e tosa só em cães, com tosa na máquina. Você traz e busca o cachorro, porque não temos táxi dog. Do Parque Continental, a ida e a volta são rápidas.
+## Quando é caso de veterinário
+A loja não é clínica. Para consulta, vacinas e check-up, indicamos a Pink Vet, que fica na mesma avenida da loja, no número 33.
+? Vocês entregam no Parque Continental?
+= Entregamos, combinando o local por ligação antes, pelo (11) 2451-1719 ou pelo WhatsApp.
+? Precisa mandar receita para comprar remédio?
+= Para medicamento que exige receita, sim. Mande a foto pelo WhatsApp.
+? Qual o horário da loja?
+= Segunda a sábado, das 9h às 18h. Domingo e feriado fechado.
+
+@@ casa-de-racao-continental
+title: Casa de Ração no Parque Continental, Guarulhos | Pet Shop Palmira
+desc: Casa de ração perto do Parque Continental, Guarulhos: como comparar o preço da ração pelo quilo e pelo rendimento. Marcas para cão, gato e criação.
+badge: Ração com bom preço
+h1: Casa de ração perto do [Parque Continental]
+Quem tem cachorro grande ou mais de um animal sente a ração no orçamento do mês. Do Parque Continental até a nossa loja são de 0,8 a 1,8 km, e muita gente vem justamente para comparar preço antes de levar o saco.
+A gente gosta dessa conversa. Comparar direito evita gastar mais achando que está economizando.
+## Preço do saco, preço do quilo
+O primeiro passo é dividir o valor do saco pelo peso. Um saco de 15 kg pode sair mais barato por quilo do que um de 3 kg da mesma linha. Se o seu cachorro come bem e você tem onde guardar, o saco maior costuma compensar.
+O cuidado é com o tempo. Ração aberta perde cheiro e crocância com as semanas. Para um cachorro pequeno, um saco enorme pode passar do ponto antes de acabar.
+## Preço do quilo, preço do mês
+O segundo passo é olhar o rendimento. Rações de linha mais alta costumam ser mais aproveitadas pelo organismo, então a porção diária recomendada é menor. Veja a tabela da embalagem e faça a conta:
+- Porção diária em gramas para o peso do seu cão.
+- Quantos dias o saco dura com essa porção.
+- Valor do saco dividido pelos dias.
+Às vezes a ração mais cara no balcão sai parecida ou até mais barata no mês.
+## Marcas para comparar
+Para cães: Golden, Premier, Special Dog, Pedigree, Magnus, Premiatta, Max e Royal Canin. Para gatos: Golden Gatos, CatChow, Whiskas e Royal Canin. Também temos ração para pássaros, roedores, galinha, porco e cavalo. O estoque varia, então confirme antes pelo WhatsApp (11) 97460-5359.
+## Sem taxa no cartão
+Pix, débito, crédito ou dinheiro, com o mesmo preço. Não cobramos taxa extra no cartão. Para saco grande, a entrega é combinada por ligação antes.
+? Qual o saco que mais compensa?
+= Depende do tamanho do animal e de quanto tempo o saco vai ficar aberto. A gente ajuda a fazer a conta no balcão ou pelo WhatsApp.
+? Ração mais barata é pior?
+= Nem sempre. Compare a porção diária e o resultado no seu cachorro: pelo, fezes e peso.
+? Vocês entregam ração no Parque Continental?
+= Entregamos, combinando o local por ligação antes.
+
+@@ racao-para-cachorro-continental
+title: Ração para Cachorro no Parque Continental | Pet Shop Palmira
+desc: Ração para cachorro no Parque Continental: como escolher pelo porte, do mini ao gigante. Golden, Premier, Special Dog e mais, a cerca de 1 km.
+badge: Ração por porte
+h1: Ração para cachorro no [Parque Continental]
+Um yorkshire e um pastor-alemão não comem do mesmo jeito. Muda o tamanho do grão, a quantidade e até o tipo de nutriente que a ração reforça. Escolher pelo porte é o primeiro filtro.
+O Pet Shop Palmira fica a uma distância de 0,8 a 1,8 km do Parque Continental, no Jardim Palmira, e tem ração para todos os tamanhos.
+## Porte e ração
+| Porte | Peso adulto aproximado | O que observar |
+| Mini e pequeno | até 10 kg | Grão pequeno, porção pequena, atenção ao tártaro |
+| Médio | de 10 a 25 kg | Ração de linha geral costuma servir bem |
+| Grande | de 25 a 45 kg | Grão maior e controle de peso para poupar as articulações |
+| Gigante | acima de 45 kg | Linha específica, crescimento lento no filhote |
+Cachorro sem raça definida entra na faixa pelo peso que ele tem, ou que vai ter quando adulto.
+## Por que o grão importa
+Cachorro pequeno com grão grande tem dificuldade para mastigar e às vezes engole inteiro. Cachorro grande com grão pequeno come rápido demais, engole ar e pode passar mal. Ração do porte certo resolve as duas coisas.
+## Filhote de porte grande
+Filhote de cão grande precisa crescer devagar. Ração de filhote para porte grande tem quantidade controlada de energia e cálcio. Dar ração de filhote pequeno, ou exagerar na porção, pode prejudicar o osso em formação. Siga a tabela e, se tiver dúvida, pergunte ao veterinário.
+## Marcas que temos
+Golden, Premier, Special Dog, Pedigree, Magnus, Premiatta, Max e Royal Canin, em linhas por porte e por fase, conforme o estoque. Confirme pelo WhatsApp (11) 97460-5359 antes de vir.
+## Saco pesado
+Ração de porte grande vem em saco grande. Do Continental, você pode buscar de carro ou combinar a entrega por ligação.
+? Meu cachorro é vira-lata. Qual porte escolho?
+= Pelo peso adulto. Até 10 kg, pequeno. De 10 a 25 kg, médio. Acima disso, grande.
+? Posso dar ração de porte pequeno para cão grande?
+= Não é o ideal. O grão pequeno faz o cão grande comer rápido demais, e a fórmula foi feita para outro tamanho.
+? Vocês entregam no Parque Continental?
+= Entregamos, combinando o local por ligação antes.
+
+@@ racao-para-gato-continental
+title: Ração para Gato no Parque Continental, Guarulhos | Pet Shop Palmira
+desc: Ração para gato no Parque Continental, Guarulhos: Golden Gatos, CatChow, Whiskas e sachês. Como fazer o gato beber mais água e cuidar do rim.
+badge: Gatos do Continental
+h1: Ração para gato no [Parque Continental]
+O gato descende de animais do deserto. Por isso bebe pouca água e tira boa parte dela da comida. Com ração seca o dia inteiro, muitos gatos passam a vida bebendo menos do que deveriam, e o rim e a bexiga sentem com os anos.
+Dá para ajudar com hábitos simples, e a ração entra nessa conta.
+## Ração seca e sachê
+A ração seca completa continua sendo a base. Temos Golden Gatos, CatChow, Whiskas e Royal Canin, conforme o estoque. O que muda o jogo é o alimento úmido. Um sachê por dia coloca água na dieta sem o gato perceber.
+Se o seu gato estranhar o sachê, comece com uma colher de chá misturada na ração. Em poucos dias, muitos já esperam pela hora do úmido.
+## A água fora da tigela da comida
+- Coloque o pote de água longe da ração. Na natureza, o gato não bebe perto de onde come.
+- Espalhe mais de um pote pela casa.
+- Troque a água todo dia. Gato percebe água parada.
+- Teste uma fonte de água. Muitos gatos bebem mais em água corrente.
+- Use pote largo, que não encoste no bigode.
+## Sinais para ficar de olho
+Gato que vai muitas vezes à caixa e faz pouco xixi, que chora ao urinar ou que tem sangue na urina precisa de veterinário logo. Em gato macho, ficar sem conseguir urinar é emergência. Não espere o dia seguinte.
+Para consulta e check-up, indicamos a Pink Vet, na Av. Pedro de Souza Lopes, 33, perto da loja.
+## Compra perto do Continental
+O Pet Shop Palmira fica de 0,8 a 1,8 km do Parque Continental, no Jardim Palmira. Você pode buscar a ração e os sachês de segunda a sábado, das 9h às 18h, ou pedir pelo WhatsApp (11) 97460-5359 e combinar a entrega por ligação.
+? Quantos sachês por dia posso dar?
+= Em geral um, junto com a ração seca. Diminua um pouco a ração para o gato não engordar.
+? Fonte de água vale a pena?
+= Para muitos gatos, sim. Consulte os modelos disponíveis pelo WhatsApp.
+? Vocês entregam no Parque Continental?
+= Entregamos, combinando o local por ligação antes.
+
+@@ veterinario-continental
+title: Veterinário no Parque Continental, Guarulhos | Pink Vet perto de você
+desc: Veterinário perto do Parque Continental: a Pink Vet atende na Av. Pedro de Souza Lopes, 33. Primeira consulta do filhote, vacinas e check-up.
+badge: Veterinária parceira
+h1: Veterinário perto do [Parque Continental]
+Chegou filhote em casa no Parque Continental? A primeira consulta é a que mais gera dúvida. O que levar, quando ir, o que perguntar.
+Antes de tudo, um aviso: o Pet Shop Palmira não é clínica veterinária. A gente vende ração, produtos e remédios com receita. Para consulta, indicamos a Pink Vet Consultório Veterinário, nossa parceira, na Av. Pedro de Souza Lopes, 33, no Jardim Palmira.
+## Pink Vet em resumo
+- Consulta, vacinas e check-up para cães e gatos.
+- Segunda a sexta, das 9h às 17h. Sábado, das 9h às 16h.
+- Nota 5,0 no Google.
+- WhatsApp (11) 93317-1589, pelo botão desta página.
+Do Parque Continental até lá são de 0,8 a 1,8 km em linha reta, conforme a rua.
+## Quando levar o filhote
+O ideal é marcar a primeira consulta logo nos primeiros dias em casa. A veterinária avalia o estado geral, confere se há verme ou pulga e monta o calendário de vacinas. Até a vacinação terminar, evite chão de rua e contato com animais desconhecidos.
+## O que levar na consulta
+1. A carteirinha de vacinas, se o filhote veio com uma.
+2. O nome da ração que ele come e quanto come por dia.
+3. Fotos das fezes, se estiverem estranhas. Parece esquisito, mas ajuda.
+4. Uma lista de dúvidas. Na hora, a gente sempre esquece alguma.
+5. Guia e coleira para cachorro, caixa de transporte para gato.
+## Perguntas comuns na primeira consulta
+Quando dar vermífugo de novo. Quantas vezes por dia dar comida. Quando pode tomar banho. Quando pode passear na rua. Cada filhote é um caso, e quem responde é a veterinária depois de examinar.
+## Depois da consulta
+Com a receita ou a orientação em mãos, você encontra na nossa loja a ração de filhote, o vermífugo e o antipulgas indicados, conforme o estoque. É na mesma avenida, no número 33B.
+? O Pet Shop Palmira faz consulta?
+= Não. A loja não é clínica. Indicamos a Pink Vet para consulta, vacinas e check-up.
+? Com quantos dias levo o filhote ao veterinário?
+= O quanto antes, nos primeiros dias em casa. A veterinária indica o calendário de vacinas.
+? Como marco na Pink Vet?
+= Pelo WhatsApp (11) 93317-1589. O botão desta página já abre a conversa.
