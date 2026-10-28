@@ -3,51 +3,118 @@
  "keyword": "pet shop Torres Tibagy Guarulhos",
  "numero": 96,
  "title": "Pet Shop Perto do Torres Tibagy, Guarulhos | Pet Shop Palmira",
- "description": "Pet shop perto do Torres Tibagy, Guarulhos: ração, farmácia veterinária, banho e tosa para cães e acessórios. A cerca de 3 km, no Jardim Palmira.",
- "ogDescription": "Pet shop perto do Torres Tibagy, Guarulhos: ração, farmácia veterinária, banho e tosa para cães e acessórios. A cerca de 3 km, no Jardim Palmira.",
- "badge": "Perto do Torres Tibagy",
+ "description": "Pet shop a 2,9 km do Torres Tibagy, Guarulhos: tapete higiênico, ração, farmácia e acessórios para quem tem cachorro em apartamento.",
+ "ogDescription": "Pet shop a 2,9 km do Torres Tibagy, Guarulhos: tapete higiênico, ração, farmácia e acessórios para quem tem cachorro em apartamento.",
+ "badge": "Cachorro de apartamento",
  "h1": "Pet shop perto do <span class=\"acc\">Torres Tibagy</span>",
  "intro": [
-  "O Torres Tibagy fica a uns 3 km da nossa loja, em linha reta. Para quem mora lá, o Pet Shop Palmira resolve ração, remédio e acessório sem precisar ir ao centro."
+  "Cachorro em apartamento é cada vez mais comum, e a rotina é diferente da do cão de quintal. Xixi no tapete, passeio no elevador, vizinho do lado. O Pet Shop Palmira fica a 2,9 km do Torres Tibagy em linha reta e atende muita gente nessa situação.",
+  "Estamos na Av. Pedro de Souza Lopes, 33B, no Jardim Palmira, há 25 anos."
  ],
  "body": [
+  {
+   "type": "h2",
+   "text": "Tapete higiênico"
+  },
+  {
+   "type": "p",
+   "html": "É o item que mais sai para quem mora em apartamento. Algumas dicas:"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Deixe o tapete sempre no mesmo lugar, longe da comida e da caminha.",
+    "Troque assim que estiver sujo. Cão evita tapete molhado e procura outro canto.",
+    "Elogie e dê um petisco pequeno quando ele acertar.",
+    "Se errou, limpe sem bronca, com produto sem amônia. O cheiro de amônia lembra urina e atrai o cão de volta."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Passeio, mesmo com tapete"
+  },
+  {
+   "type": "p",
+   "html": "Tapete resolve o xixi, mas não a energia. Cachorro de apartamento que não passeia fica entediado, late mais e destrói objetos. Duas saídas curtas por dia já ajudam muito. Peitoral bem ajustado e guia curta facilitam no elevador e na portaria."
+  },
+  {
+   "type": "h2",
+   "text": "Barulho"
+  },
+  {
+   "type": "p",
+   "html": "Cão que late quando fica sozinho costuma estar entediado ou ansioso. Brinquedo para morder, brinquedo recheável com petisco e um passeio antes de sair de casa ajudam."
+  },
   {
    "type": "h2",
    "text": "O que tem na loja"
   },
   {
-   "type": "p",
-   "html": "Ração para cães, gatos e outros bichos, farmácia veterinária, higiene, acessórios e banho e tosa para cães."
+   "type": "cards",
+   "items": [
+    {
+     "title": "Higiene",
+     "text": "Tapete higiênico, shampoo e eliminador de odor."
+    },
+    {
+     "title": "Ração",
+     "text": "Para cães, gatos, pássaros e roedores."
+    },
+    {
+     "title": "Acessórios",
+     "text": "Peitoral, guia, caminha, brinquedos e comedouros."
+    },
+    {
+     "title": "Farmácia",
+     "text": "Antipulgas, vermífugos e remédios com receita."
+    }
+   ]
   },
   {
    "type": "h2",
-   "text": "Por que um pet shop de bairro"
+   "text": "Banho e tosa"
   },
   {
    "type": "p",
-   "html": "Você é atendido por gente que conhece os produtos e lembra do seu pet. Se algo falta, a gente encomenda. Se você não sabe o que levar, a gente pergunta antes de vender."
+   "html": "Só para cães, com tosa na máquina, por horário marcado pelo WhatsApp (11) 97460-5359. Você traz e busca o cachorro, porque não temos táxi dog."
   },
   {
    "type": "h2",
-   "text": "Entrega"
+   "text": "Pacote de tapete pesa"
   },
   {
    "type": "p",
-   "html": "Combinada por ligação antes, pelo (11) 2451-1719 ou ligação no WhatsApp (11) 97460-5359. Na ligação a gente confirma se o endereço está na nossa área."
+   "html": "Pacote grande de tapete e saco de ração no mesmo pedido pesam bastante para subir. Muita gente prefere a entrega, que combinamos por ligação antes. Com a ligação, a gente acerta o local de entrega no condomínio e quem vai receber."
+  },
+  {
+   "type": "h2",
+   "text": "Horário e pagamento"
+  },
+  {
+   "type": "p",
+   "html": "Segunda a sábado, das 9h às 18h. Pix, débito, crédito ou dinheiro, sem taxa extra no cartão."
+  },
+  {
+   "type": "h2",
+   "text": "Veterinária"
+  },
+  {
+   "type": "p",
+   "html": "A loja não é clínica. Para consulta, vacinas e check-up, indicamos a Pink Vet, na mesma avenida, no número 33."
   }
  ],
  "faq": [
   {
-   "q": "Vocês entregam no Torres Tibagy?",
-   "a": "Combinando o local por ligação antes."
+   "q": "Como ensino o filhote a usar o tapete?",
+   "a": "Leve ele ao tapete depois de comer, beber e acordar. Elogie quando acertar."
   },
   {
-   "q": "Vocês têm banho e tosa?",
-   "a": "Temos, só para cães, com tosa na máquina."
+   "q": "Que produto uso para limpar o xixi?",
+   "a": "Um sem amônia. A amônia lembra urina e atrai o cão para o mesmo lugar."
   },
   {
-   "q": "Qual o horário?",
-   "a": "Segunda a sábado, das 9h às 18h."
+   "q": "Entregam no Torres Tibagy?",
+   "a": "Entregamos, combinando o local por ligação antes."
   }
  ],
  "slides": [
@@ -76,5 +143,6 @@
    "ok": true
   }
  ],
- "source": "novo"
+ "source": "novo",
+ "humanizado": true
 }

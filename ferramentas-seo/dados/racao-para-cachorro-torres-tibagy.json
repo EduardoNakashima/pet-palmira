@@ -2,56 +2,97 @@
  "slug": "racao-para-cachorro-torres-tibagy",
  "keyword": "ração para cachorro Torres Tibagy",
  "numero": 97,
- "title": "Ração para Cachorro no Torres Tibagy | Pet Shop Palmira",
- "description": "Ração para cachorro no Torres Tibagy, Guarulhos: Golden, Premier, Special Dog, Pedigree e Royal Canin. Sacos de 15 e 20 kg com entrega combinada.",
- "ogDescription": "Ração para cachorro no Torres Tibagy, Guarulhos: Golden, Premier, Special Dog, Pedigree e Royal Canin. Sacos de 15 e 20 kg com entrega combinada.",
- "badge": "Ração no Torres Tibagy",
+ "title": "Ração para Cachorro no Torres Tibagy, Guarulhos | Pet Shop Palmira",
+ "description": "Ração para cachorro de apartamento no Torres Tibagy: porção para cão que se mexe pouco, controle de peso e petiscos. A 2,9 km.",
+ "ogDescription": "Ração para cachorro de apartamento no Torres Tibagy: porção para cão que se mexe pouco, controle de peso e petiscos. A 2,9 km.",
+ "badge": "Cão de apartamento",
  "h1": "Ração para cachorro no <span class=\"acc\">Torres Tibagy</span>",
  "intro": [
-  "Saco de 15 kg de ração rende bem mais que três sacos de 5 kg, e costuma sair mais barato por quilo. Para cachorro médio ou grande, quase sempre compensa."
+  "Cachorro de apartamento gasta menos energia do que cachorro de quintal. Ele dorme bastante, anda pouco e passa o dia esperando a família voltar. Se a comida não acompanha essa rotina, o peso sobe.",
+  "O Pet Shop Palmira fica a 2,9 km do Torres Tibagy e ajuda a acertar a ração."
  ],
  "body": [
   {
    "type": "h2",
-   "text": "Mas cuidado"
+   "text": "Use a faixa de baixa atividade"
   },
   {
    "type": "p",
-   "html": "Saco grande só vale se o cachorro terminar em até uns dois meses depois de aberto. Para cão pequeno, o saco menor mantém a ração fresca."
+   "html": "Muitas embalagens trazem a porção diária em faixas de atividade. Para cão de apartamento que passeia pouco, comece pela faixa mais baixa e observe por três semanas. Se ele emagrecer demais, aumente um pouco. Se ganhar barriga, diminua."
   },
   {
    "type": "h2",
-   "text": "Marcas"
+   "text": "Ração para pouca atividade"
   },
   {
    "type": "p",
-   "html": "Golden, Premiatta, Max, Premier, Special Dog, Pedigree, Magnus e Royal Canin. A disponibilidade varia com o estoque."
+   "html": "Algumas marcas têm linhas para cães de ambiente interno, de controle de peso ou light. Elas têm menos caloria por porção. Temos opções da Golden, Premier, Premiatta e Royal Canin, entre outras, conforme o estoque. Confirme pelo WhatsApp (11) 97460-5359."
   },
   {
    "type": "h2",
-   "text": "Pedido"
+   "text": "Petisco de apartamento"
   },
   {
-   "type": "ol",
+   "type": "p",
+   "html": "Cão sozinho em casa ganha petisco para não ficar triste. A família inteira dá um pouquinho. No fim do dia, foi uma refeição a mais. Combine em casa quem dá petisco e quanto, e desconte da ração."
+  },
+  {
+   "type": "h2",
+   "text": "Comida como brincadeira"
+  },
+  {
+   "type": "p",
+   "html": "Em vez de dar a ração toda no pote, use parte dela em:"
+  },
+  {
+   "type": "ul",
    "items": [
-    "Mande marca, sabor e peso pelo WhatsApp (11) 97460-5359.",
-    "A gente confirma o valor.",
-    "Combinamos a entrega por ligação."
+    "Brinquedo recheável, que o cão precisa empurrar para soltar os grãos.",
+    "Tapete de farejar, que faz o cão procurar a comida com o focinho.",
+    "Treino de comandos, com grãos da própria ração como recompensa."
    ]
+  },
+  {
+   "type": "p",
+   "html": "Isso gasta energia mental, diminui o tédio e não aumenta a comida do dia."
+  },
+  {
+   "type": "h2",
+   "text": "Passeio conta"
+  },
+  {
+   "type": "p",
+   "html": "Duas caminhadas por dia ajudam no peso e no comportamento. Cão que passeia late menos e destrói menos."
+  },
+  {
+   "type": "h2",
+   "text": "Sinais de que está acima do peso"
+  },
+  {
+   "type": "p",
+   "html": "Costelas difíceis de sentir, sem cintura vista de cima, cansaço no passeio curto. A veterinária confirma e define o peso ideal. Indicamos a Pink Vet, na Av. Pedro de Souza Lopes, 33."
+  },
+  {
+   "type": "h2",
+   "text": "Compra e entrega"
+  },
+  {
+   "type": "p",
+   "html": "Segunda a sábado, das 9h às 18h, na Av. Pedro de Souza Lopes, 33B. Entrega no Torres Tibagy combinada por ligação antes."
   }
  ],
  "faq": [
   {
-   "q": "Saco grande sempre compensa?",
-   "a": "Compensa se o cachorro terminar em até uns dois meses depois de aberto."
+   "q": "Cão de apartamento precisa de ração especial?",
+   "a": "Não é obrigatório. Ajustar a porção resolve na maioria dos casos. Ração de baixa caloria ajuda se ele engorda fácil."
   },
   {
-   "q": "Vocês entregam no Torres Tibagy?",
-   "a": "Combinando o local por ligação antes."
+   "q": "Brinquedo recheável funciona com ração seca?",
+   "a": "Funciona. Use parte da porção do dia dentro dele."
   },
   {
-   "q": "Quais formas de pagamento?",
-   "a": "Pix, cartão de débito e crédito e dinheiro."
+   "q": "Entregam no Torres Tibagy?",
+   "a": "Entregamos, combinando o local por ligação antes."
   }
  ],
  "slides": [
@@ -80,5 +121,6 @@
    "ok": true
   }
  ],
- "source": "novo"
+ "source": "novo",
+ "humanizado": true
 }

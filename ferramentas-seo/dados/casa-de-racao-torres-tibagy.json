@@ -1,5 +1,117 @@
 {
  "slug": "casa-de-racao-torres-tibagy",
  "keyword": "casa de ração Torres Tibagy",
- "slides": []
+ "slides": [],
+ "title": "Casa de Ração Perto do Torres Tibagy, Guarulhos | Pet Shop Palmira",
+ "description": "Casa de ração a 2,9 km do Torres Tibagy: como funciona a entrega de saco de ração combinada por ligação. Marcas para cães, gatos e outros bichos.",
+ "ogDescription": "Casa de ração a 2,9 km do Torres Tibagy: como funciona a entrega de saco de ração combinada por ligação. Marcas para cães, gatos e outros bichos.",
+ "badge": "Entrega combinada",
+ "h1": "Casa de ração perto do <span class=\"acc\">Torres Tibagy</span>",
+ "intro": [
+  "Saco de 15 kg no ombro, escada, elevador, porta. Para muita gente do Torres Tibagy, carregar a ração é a parte mais chata de ter um cachorro grande. A entrega resolve.",
+  "O Pet Shop Palmira fica a 2,9 km do bairro. Explicamos aqui como funciona a entrega, para não ter surpresa."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Como funciona"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Você manda o pedido pelo WhatsApp (11) 97460-5359: marca, linha, tamanho e quantidade.",
+    "A gente confere o estoque e passa o valor.",
+    "A gente liga para combinar o endereço, o horário e quem vai receber.",
+    "O pedido sai depois dessa ligação. Sem ela, não sai."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "O raio de entrega é de cerca de 10 km da loja, e o Torres Tibagy está dentro dele."
+  },
+  {
+   "type": "h2",
+   "text": "Por que a ligação"
+  },
+  {
+   "type": "p",
+   "html": "Endereço escrito às vezes falha: bloco, apartamento, portaria, ponto de referência. Na ligação, a gente tira essas dúvidas e combina um horário em que alguém esteja em casa. Isso evita o entregador voltar com o saco."
+  },
+  {
+   "type": "h2",
+   "text": "Pagamento"
+  },
+  {
+   "type": "p",
+   "html": "Pix, débito, crédito ou dinheiro, sem taxa extra no cartão. Combine a forma de pagamento na ligação."
+  },
+  {
+   "type": "h2",
+   "text": "O que dá para pedir"
+  },
+  {
+   "type": "table",
+   "head": [
+    "Para",
+    "Exemplos"
+   ],
+   "rows": [
+    [
+     "Cães",
+     "Golden, Premier, Special Dog, Pedigree, Magnus, Premiatta, Max e Royal Canin"
+    ],
+    [
+     "Gatos",
+     "Golden Gatos, CatChow, Whiskas, Royal Canin, sachês e areia"
+    ],
+    [
+     "Pássaros e roedores",
+     "Sementes, ração e feno"
+    ],
+    [
+     "Criação",
+     "Ração para galinha, porco e cavalo"
+    ],
+    [
+     "Farmácia",
+     "Antipulgas, vermífugos e remédios, com receita quando exigir"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Tudo conforme o estoque."
+  },
+  {
+   "type": "h2",
+   "text": "Peça antes de acabar"
+  },
+  {
+   "type": "p",
+   "html": "Faça o pedido com alguns dias de folga. Assim dá tempo de combinar a entrega com calma, e o seu animal não fica sem comer nem passa por troca de ração às pressas. A loja fecha domingo e feriado."
+  },
+  {
+   "type": "h2",
+   "text": "Prefere buscar?"
+  },
+  {
+   "type": "p",
+   "html": "A loja abre de segunda a sábado, das 9h às 18h, na Av. Pedro de Souza Lopes, 33B, no Jardim Palmira. Se você avisar pelo WhatsApp, a gente deixa o pedido separado."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Vocês entregam no domingo?",
+   "a": "Não. A loja e as entregas funcionam de segunda a sábado."
+  },
+  {
+   "q": "Precisa ter um valor mínimo para entrega?",
+   "a": "Combine pelo WhatsApp. A gente explica as condições na hora do pedido."
+  },
+  {
+   "q": "Entregam no Torres Tibagy?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "humanizado": true
 }

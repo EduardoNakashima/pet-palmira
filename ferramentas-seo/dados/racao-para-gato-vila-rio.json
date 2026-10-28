@@ -1,5 +1,101 @@
 {
  "slug": "racao-para-gato-vila-rio",
  "keyword": "ração para gato Vila Rio",
- "slides": []
+ "slides": [],
+ "title": "Ração para Gato na Vila Rio, Guarulhos | Pet Shop Palmira",
+ "description": "Gato no verão, na Vila Rio: como manter o gato hidratado, cuidados com a ração no calor e sachês. Golden Gatos, CatChow, Whiskas, a 3,2 km.",
+ "ogDescription": "Gato no verão, na Vila Rio: como manter o gato hidratado, cuidados com a ração no calor e sachês. Golden Gatos, CatChow, Whiskas, a 3,2 km.",
+ "badge": "Gato no verão",
+ "h1": "Ração para gato na <span class=\"acc\">Vila Rio</span>",
+ "intro": [
+  "Gato gosta de calor, mas até certo ponto. Nos dias mais quentes, ele procura o piso frio, dorme mais e às vezes come menos. O ponto que mais preocupa é a água, porque gato já bebe pouco em dia normal.",
+  "O Pet Shop Palmira fica a 3,2 km da Vila Rio e tem ração, sachês e fonte de água para gatos."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Hidratação em primeiro lugar"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Troque a água duas vezes ao dia no verão.",
+    "Coloque potes em vários cômodos, na sombra.",
+    "Use pote largo e raso.",
+    "Ofereça sachê todo dia. É água que o gato come sem perceber.",
+    "Teste uma fonte de água. Muitos gatos preferem água em movimento."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Ração no calor"
+  },
+  {
+   "type": "p",
+   "html": "Ração seca parada no pote perde cheiro e atrai formiga. Ofereça porções menores, mais vezes. O sachê aberto estraga rápido no calor: recolha depois de uns 30 minutos e guarde o resto na geladeira, bem fechado."
+  },
+  {
+   "type": "h2",
+   "text": "Comer menos é normal?"
+  },
+  {
+   "type": "p",
+   "html": "Um pouco menos, sim. Ficar sem comer, não. Gato que passa mais de um dia sem comer corre risco de problema no fígado. Procure a veterinária."
+  },
+  {
+   "type": "h2",
+   "text": "Gato de pelo longo"
+  },
+  {
+   "type": "p",
+   "html": "Persa, maine coon e gatos de pelo longo sofrem mais no calor. Escove com frequência para tirar o pelo morto, que esquenta. Tosa em gato não é algo que fazemos na loja, já que o banho e tosa é só para cães."
+  },
+  {
+   "type": "h2",
+   "text": "Sinais de que o calor passou do limite"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Gato respirando de boca aberta, ofegante como cachorro.",
+    "Gengiva muito vermelha.",
+    "Desequilíbrio, vômito ou fraqueza."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Leve para um lugar fresco, molhe as patas e o corpo com água fresca e procure atendimento na hora. Indicamos a Pink Vet, na Av. Pedro de Souza Lopes, 33."
+  },
+  {
+   "type": "h2",
+   "text": "Rações que temos"
+  },
+  {
+   "type": "p",
+   "html": "Golden Gatos, CatChow, Whiskas e Royal Canin, para filhote, adulto, castrado e idoso. Sachês e patês de várias marcas. Tudo conforme o estoque."
+  },
+  {
+   "type": "h2",
+   "text": "Compra e entrega"
+  },
+  {
+   "type": "p",
+   "html": "Segunda a sábado, das 9h às 18h, na Av. Pedro de Souza Lopes, 33B. Pedido pelo WhatsApp (11) 97460-5359. Entrega na Vila Rio combinada por ligação antes."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Gato respirando de boca aberta é normal?",
+   "a": "Não. Em gato, é sinal de alerta. Procure atendimento."
+  },
+  {
+   "q": "Vocês têm fonte de água?",
+   "a": "Consulte os modelos disponíveis pelo WhatsApp."
+  },
+  {
+   "q": "Entregam na Vila Rio?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "humanizado": true
 }

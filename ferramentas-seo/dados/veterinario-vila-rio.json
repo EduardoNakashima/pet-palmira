@@ -1,5 +1,95 @@
 {
  "slug": "veterinario-vila-rio",
  "keyword": "veterinário Vila Rio",
- "slides": []
+ "slides": [],
+ "title": "Veterinário Perto da Vila Rio, Guarulhos | Pink Vet parceira",
+ "description": "Veterinário a 3,2 km da Vila Rio: Pink Vet, na Av. Pedro de Souza Lopes, 33. Dúvidas sobre castração: o que perguntar na consulta.",
+ "ogDescription": "Veterinário a 3,2 km da Vila Rio: Pink Vet, na Av. Pedro de Souza Lopes, 33. Dúvidas sobre castração: o que perguntar na consulta.",
+ "badge": "Dúvidas sobre castração",
+ "h1": "Veterinário perto da <span class=\"acc\">Vila Rio</span>",
+ "intro": [
+  "Castrar ou não castrar? Com quantos meses? Ela precisa ter uma cria antes? Ele vai ficar parado? Essas perguntas aparecem toda semana no nosso balcão. A resposta certa vem de uma consulta com a veterinária.",
+  "Para quem mora na Vila Rio, a nossa indicação é a Pink Vet Consultório Veterinário, a 3,2 km, na Av. Pedro de Souza Lopes, 33, no Jardim Palmira."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Primeiro, um esclarecimento"
+  },
+  {
+   "type": "p",
+   "html": "O Pet Shop Palmira não é clínica veterinária. A gente vende ração, produtos e remédios com receita. Consulta, vacinas e check-up são com a Pink Vet, nossa parceira, que atende de segunda a sexta, das 9h às 17h, e sábado, das 9h às 16h. Ela tem nota 5,0 no Google. Para agendar, chame no WhatsApp (11) 93317-1589 pelo botão desta página."
+  },
+  {
+   "type": "h2",
+   "text": "Leve as dúvidas para a consulta"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Qual a melhor idade para castrar o meu animal?",
+    "Que exames ele precisa fazer antes?",
+    "Como é o jejum antes da cirurgia?",
+    "Como é a recuperação em casa?",
+    "O que muda na alimentação depois?",
+    "Onde e como a cirurgia seria feita?"
+   ]
+  },
+  {
+   "type": "p",
+   "html": "A veterinária avalia a idade, o porte, a saúde e o histórico antes de indicar o melhor caminho."
+  },
+  {
+   "type": "h2",
+   "text": "Mitos comuns"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Precisa ter uma cria antes",
+     "text": "Não há essa necessidade. Pergunte à veterinária."
+    },
+    {
+     "title": "Castrado fica preguiçoso",
+     "text": "O gasto de energia cai, mas o comportamento depende muito de rotina e brincadeira."
+    },
+    {
+     "title": "Castrado engorda sempre",
+     "text": "Engorda se continuar comendo igual. A porção precisa mudar."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Depois da castração"
+  },
+  {
+   "type": "p",
+   "html": "O animal castrado gasta menos energia e costuma sentir mais fome. É comum a veterinária indicar ração para castrados ou uma porção menor. Na nossa loja, no número 33B, temos linhas para castrados de cães e gatos, como Golden, Premier, Golden Gatos e Royal Canin, conforme o estoque."
+  },
+  {
+   "type": "h2",
+   "text": "Na recuperação"
+  },
+  {
+   "type": "p",
+   "html": "Siga a orientação de repouso, de remédio e de proteção dos pontos. Colar elisabetano e roupa cirúrgica são comuns nessa fase. Se a veterinária pedir algum desses itens, consulte a loja pelo WhatsApp (11) 97460-5359."
+  }
+ ],
+ "faq": [
+  {
+   "q": "O Pet Shop Palmira faz castração?",
+   "a": "Não. A loja não é clínica. Para tirar dúvidas, indicamos uma consulta na Pink Vet."
+  },
+  {
+   "q": "A Pink Vet faz castração?",
+   "a": "Pergunte diretamente à Pink Vet pelo WhatsApp (11) 93317-1589."
+  },
+  {
+   "q": "Depois de castrar, preciso trocar a ração?",
+   "a": "Muitas vezes sim, ou ajustar a porção. A veterinária orienta."
+  }
+ ],
+ "humanizado": true
 }

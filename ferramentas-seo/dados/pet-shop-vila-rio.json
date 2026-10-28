@@ -1,5 +1,108 @@
 {
  "slug": "pet-shop-vila-rio",
  "keyword": "pet shop Vila Rio",
- "slides": []
+ "slides": [],
+ "title": "Pet Shop Perto da Vila Rio, Guarulhos | Pet Shop Palmira",
+ "description": "Pet shop a 3,2 km da Vila Rio, Guarulhos: coleira com identificação, guias e cuidados para o cachorro não fugir. Ração, farmácia e banho para cães.",
+ "ogDescription": "Pet shop a 3,2 km da Vila Rio, Guarulhos: coleira com identificação, guias e cuidados para o cachorro não fugir. Ração, farmácia e banho para cães.",
+ "badge": "Cão seguro",
+ "h1": "Pet shop perto da <span class=\"acc\">Vila Rio</span>",
+ "intro": [
+  "Portão aberto, um susto com fogos, uma guia que escapa. Cachorro foge em segundos, e muitos não voltam. A maior parte dessas histórias poderia ter outro final com coisas simples.",
+  "O Pet Shop Palmira fica a 3,2 km da Vila Rio em linha reta, na Av. Pedro de Souza Lopes, 33B, no Jardim Palmira, e tem o que ajuda a manter o cachorro seguro."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Identificação"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Coleira com plaquinha e o seu telefone. Simples e barata.",
+    "Telefone atualizado. Trocou de número, troque a plaquinha.",
+    "Foto recente do cachorro no celular, para espalhar rápido se ele sumir."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Equipamento que não escapa"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Peitoral bem ajustado",
+     "text": "Dois dedos de folga, sem sobrar."
+    },
+    {
+     "title": "Guia em bom estado",
+     "text": "Troque se o mosquetão estiver frouxo ou a fita gasta."
+    },
+    {
+     "title": "Coleira do tamanho certo",
+     "text": "Cachorro com pescoço fino escapa de coleira larga."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Traga o cachorro para provar. Se não der, mande peso, raça e medidas pelo WhatsApp (11) 97460-5359."
+  },
+  {
+   "type": "h2",
+   "text": "Fogos e trovão"
+  },
+  {
+   "type": "p",
+   "html": "Em dia de jogo, festa e virada de ano, muito cachorro foge de medo. Feche portão e janela, deixe ele em um cômodo protegido, com a caminha e água, e não prenda em corrente no quintal. Para cão muito medroso, converse com a veterinária antes da data."
+  },
+  {
+   "type": "h2",
+   "text": "Portão e muro"
+  },
+  {
+   "type": "p",
+   "html": "Cachorro pequeno passa por grade, cachorro grande pula muro baixo. Vale olhar a casa com olho de cachorro: onde ele passaria?"
+  },
+  {
+   "type": "h2",
+   "text": "O que mais tem na loja"
+  },
+  {
+   "type": "p",
+   "html": "Ração para cães, gatos, pássaros, roedores e criação. Farmácia veterinária. Caminhas, casinhas e caixas de transporte. Banho e tosa só para cães, com tosa na máquina, por horário marcado. Você traz e busca o cachorro, porque não temos táxi dog."
+  },
+  {
+   "type": "h2",
+   "text": "Horário, pagamento e entrega"
+  },
+  {
+   "type": "p",
+   "html": "Segunda a sábado, das 9h às 18h. Pix, débito, crédito ou dinheiro, sem taxa extra no cartão. Entrega na Vila Rio combinada por ligação antes."
+  },
+  {
+   "type": "h2",
+   "text": "Veterinária"
+  },
+  {
+   "type": "p",
+   "html": "A loja não é clínica. Para consulta, vacinas e check-up, indicamos a Pink Vet, na mesma avenida, no número 33."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Vocês têm plaquinha de identificação?",
+   "a": "Consulte os modelos disponíveis pelo WhatsApp."
+  },
+  {
+   "q": "Peitoral ou coleira para cão que escapa?",
+   "a": "Peitoral bem ajustado costuma ser mais seguro. Traga o cão para provar."
+  },
+  {
+   "q": "Entregam na Vila Rio?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "humanizado": true
 }
