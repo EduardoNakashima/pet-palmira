@@ -1,5 +1,92 @@
 {
  "slug": "veterinario-santa-mena",
  "keyword": "veterinário Jardim Santa Mena",
- "slides": []
+ "slides": [],
+ "title": "Veterinário Perto do Jardim Santa Mena | Pink Vet parceira",
+ "description": "Veterinário a 3,4 km do Jardim Santa Mena: Pink Vet, na Av. Pedro de Souza Lopes, 33. Gato com problema para fazer xixi: sinais e urgência.",
+ "ogDescription": "Veterinário a 3,4 km do Jardim Santa Mena: Pink Vet, na Av. Pedro de Souza Lopes, 33. Gato com problema para fazer xixi: sinais e urgência.",
+ "badge": "Xixi do gato",
+ "h1": "Veterinário perto do <span class=\"acc\">Jardim Santa Mena</span>",
+ "intro": [
+  "O gato entra na caixa de areia, faz força, sai, volta. Às vezes chora. Às vezes faz xixi fora, em lugar estranho, como a pia ou o tapete do banheiro. Isso não é manha. É um dos sinais que mais pedem atenção em gatos.",
+  "O Pet Shop Palmira não é clínica veterinária. Para consulta, vacinas e check-up, a gente indica a Pink Vet Consultório Veterinário, a 3,4 km do Jardim Santa Mena."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Onde fica e como marcar"
+  },
+  {
+   "type": "p",
+   "html": "A Pink Vet fica na Av. Pedro de Souza Lopes, 33, no Jardim Palmira, na mesma avenida da nossa loja. Atende de segunda a sexta, das 9h às 17h, e sábado, das 9h às 16h, com consulta, vacinas e check-up. Tem nota 5,0 no Google. O botão desta página abre o WhatsApp (11) 93317-1589, com uma mensagem avisando que você veio pelo site do Pet Shop Palmira."
+  },
+  {
+   "type": "h2",
+   "text": "Sinais no xixi do gato"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Vai muitas vezes à caixa e sai pouco xixi.",
+    "Faz força ou chora ao urinar.",
+    "Sangue na urina ou na areia.",
+    "Xixi fora da caixa, de repente.",
+    "Lambe muito a região genital."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Quando é emergência"
+  },
+  {
+   "type": "p",
+   "html": "Gato macho que tenta e não consegue fazer xixi pode estar com a uretra obstruída. Isso é emergência: em poucas horas, pode ficar grave. Não espere o dia seguinte. Fora do horário da Pink Vet, procure um hospital veterinário 24 horas."
+  },
+  {
+   "type": "h2",
+   "text": "Por que acontece"
+  },
+  {
+   "type": "p",
+   "html": "Pouca água na dieta, estresse, obesidade e cristais na urina estão entre as causas mais comuns. Mudanças na casa, como visita, obra ou outro animal novo, também podem desencadear."
+  },
+  {
+   "type": "h2",
+   "text": "Prevenção em casa"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Água em vários pontos, longe da comida.",
+    "Sachê todo dia, para colocar água na dieta.",
+    "Fonte de água, se o gato gostar.",
+    "Caixa de areia limpa, uma por gato mais uma.",
+    "Peso controlado.",
+    "Rotina estável, com lugar para ele se esconder."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Ração urinária"
+  },
+  {
+   "type": "p",
+   "html": "Existem rações específicas para o trato urinário. Algumas são de uso terapêutico e devem ser usadas só com indicação da veterinária. Se ela indicar, mande o nome pelo WhatsApp (11) 97460-5359 e a gente confere o estoque na loja, no número 33B."
+  }
+ ],
+ "faq": [
+  {
+   "q": "O Pet Shop Palmira atende gatos doentes?",
+   "a": "Não. A loja não é clínica. Indicamos a Pink Vet."
+  },
+  {
+   "q": "Gato sem conseguir fazer xixi pode esperar?",
+   "a": "Não. Principalmente em macho, é emergência."
+  },
+  {
+   "q": "Posso dar ração urinária por conta própria?",
+   "a": "Algumas são terapêuticas. Use só com indicação da veterinária."
+  }
+ ],
+ "humanizado": true
 }

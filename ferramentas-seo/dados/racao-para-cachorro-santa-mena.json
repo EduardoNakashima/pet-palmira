@@ -1,5 +1,107 @@
 {
  "slug": "racao-para-cachorro-santa-mena",
  "keyword": "ração para cachorro Jardim Santa Mena",
- "slides": []
+ "slides": [],
+ "title": "Ração para Cachorro no Jardim Santa Mena | Pet Shop Palmira",
+ "description": "Quanto de ração dar ao cachorro adulto, no Jardim Santa Mena: tabela, medida, número de refeições e ajuste pelo corpo do cão.",
+ "ogDescription": "Quanto de ração dar ao cachorro adulto, no Jardim Santa Mena: tabela, medida, número de refeições e ajuste pelo corpo do cão.",
+ "badge": "Quanto dar por dia",
+ "h1": "Ração para cachorro no <span class=\"acc\">Jardim Santa Mena</span>",
+ "intro": [
+  "Uma conchinha de manhã, outra à noite. Muita gente alimenta o cachorro assim, sem saber quanto vai em cada concha. Às vezes está certo. Muitas vezes, está sobrando.",
+  "O Pet Shop Palmira fica a 3,4 km do Jardim Santa Mena e ajuda o tutor a acertar a medida."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Três passos"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Pese o cachorro. Balança de banheiro funciona: você se pesa com ele no colo e desconta o seu peso.",
+    "Veja na tabela da embalagem a porção diária para esse peso.",
+    "Meça essa quantidade em gramas com uma balança de cozinha uma vez. Marque no copo ou na concha até onde vai."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Pronto. A partir daí, você sabe quanto está dando."
+  },
+  {
+   "type": "h2",
+   "text": "Quantas refeições"
+  },
+  {
+   "type": "p",
+   "html": "Cachorro adulto costuma ir bem com duas refeições por dia, de manhã e no fim da tarde. Divida a porção diária ao meio. Cães grandes, de peito fundo, se beneficiam de duas ou até três refeições menores."
+  },
+  {
+   "type": "h2",
+   "text": "Ajuste pelo corpo"
+  },
+  {
+   "type": "p",
+   "html": "A tabela é um começo. O corpo do cachorro dá a resposta final."
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Costelas fáceis de sentir, cintura visível: porção certa.",
+    "Costelas difíceis de sentir, sem cintura: diminua um pouco.",
+    "Costelas, coluna e ossos do quadril muito aparentes: aumente e procure a veterinária."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Reavalie a cada duas ou três semanas depois de mudar a quantidade."
+  },
+  {
+   "type": "h2",
+   "text": "Cada ração tem sua tabela"
+  },
+  {
+   "type": "p",
+   "html": "Trocou de marca ou de linha, a porção muda. Uma ração super premium costuma pedir menos gramas por dia do que uma standard. Sempre confira a tabela da ração nova."
+  },
+  {
+   "type": "h2",
+   "text": "O que entra na conta"
+  },
+  {
+   "type": "p",
+   "html": "Petisco, ossinho, biscoito, resto de comida. Tudo isso conta. Se o cachorro ganha muitos extras, a ração precisa diminuir."
+  },
+  {
+   "type": "h2",
+   "text": "Marcas"
+  },
+  {
+   "type": "p",
+   "html": "Golden, Premier, Special Dog, Pedigree, Magnus, Premiatta, Max e Royal Canin, conforme o estoque. Copo medidor também temos."
+  },
+  {
+   "type": "h2",
+   "text": "Compra e entrega"
+  },
+  {
+   "type": "p",
+   "html": "Segunda a sábado, das 9h às 18h, na Av. Pedro de Souza Lopes, 33B. Pedido pelo WhatsApp (11) 97460-5359. Entrega no Jardim Santa Mena combinada por ligação antes. Para avaliar o peso ideal, indicamos a Pink Vet, no número 33."
+  }
+ ],
+ "faq": [
+  {
+   "q": "Posso dar ração uma vez por dia só?",
+   "a": "Para a maioria dos cães adultos, duas refeições são melhores."
+  },
+  {
+   "q": "A tabela da embalagem é exata?",
+   "a": "É um ponto de partida. Ajuste pelo corpo do cachorro."
+  },
+  {
+   "q": "Entregam no Jardim Santa Mena?",
+   "a": "Entregamos, combinando o local por ligação antes."
+  }
+ ],
+ "humanizado": true
 }

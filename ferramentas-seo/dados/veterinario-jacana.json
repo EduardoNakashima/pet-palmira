@@ -1,5 +1,105 @@
 {
  "slug": "veterinario-jacana",
  "keyword": "veterinário Jaçanã",
- "slides": []
+ "slides": [],
+ "title": "Veterinário Perto do Jaçanã, São Paulo | Pink Vet parceira",
+ "description": "Veterinário a cerca de 3,7 km do Jaçanã: Pink Vet, na Av. Pedro de Souza Lopes, 33, Guarulhos. Consulta, vacinas e check-up com hora marcada.",
+ "ogDescription": "Veterinário a cerca de 3,7 km do Jaçanã: Pink Vet, na Av. Pedro de Souza Lopes, 33, Guarulhos. Consulta, vacinas e check-up com hora marcada.",
+ "badge": "Consulta com hora marcada",
+ "h1": "Veterinário perto do <span class=\"acc\">Jaçanã</span>",
+ "intro": [
+  "Para quem mora no Jaçanã, a Pink Vet Consultório Veterinário fica a cerca de 3,7 km em linha reta, já em Guarulhos, na Av. Pedro de Souza Lopes, 33, no Jardim Palmira. É a veterinária parceira que o Pet Shop Palmira indica.",
+  "Vale dizer logo: a nossa loja não é clínica. A gente vende ração, produtos e remédios com receita. Consulta, vacinas e check-up são com a Pink Vet."
+ ],
+ "body": [
+  {
+   "type": "h2",
+   "text": "Informações da Pink Vet"
+  },
+  {
+   "type": "cards",
+   "items": [
+    {
+     "title": "Serviços",
+     "text": "Consulta, vacinas e check-up."
+    },
+    {
+     "title": "Horário",
+     "text": "Segunda a sexta, das 9h às 17h. Sábado, das 9h às 16h."
+    },
+    {
+     "title": "Avaliação",
+     "text": "Nota 5,0 no Google."
+    },
+    {
+     "title": "Agendamento",
+     "text": "WhatsApp (11) 93317-1589, pelo botão desta página."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Marque antes de sair de casa"
+  },
+  {
+   "type": "p",
+   "html": "Vindo do Jaçanã, o ideal é chegar com horário marcado. Assim você não perde a viagem e o animal passa menos tempo esperando, o que conta muito para gato e para cão ansioso. A mensagem do botão desta página já avisa que você veio pelo site do Pet Shop Palmira."
+  },
+  {
+   "type": "h2",
+   "text": "Uma ida, várias coisas resolvidas"
+  },
+  {
+   "type": "p",
+   "html": "A Pink Vet e o Pet Shop Palmira ficam na mesma avenida. Depois da consulta, se a veterinária receitar remédio, antipulgas, vermífugo ou uma ração específica, você passa na loja, no número 33B. Para garantir, mande a foto da receita pelo WhatsApp (11) 97460-5359 enquanto ainda estiver na clínica, e a gente separa."
+  },
+  {
+   "type": "h2",
+   "text": "Transporte"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Gato sempre em caixa de transporte, coberta com uma toalha.",
+    "Cachorro com guia e peitoral, mesmo dentro do carro.",
+    "Água para o caminho em dia quente.",
+    "Animal enjoado em carro: não dê comida pouco antes de sair."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "O que levar"
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Carteirinha de vacinas.",
+    "Nome da ração e dos remédios em uso.",
+    "Anotações e vídeos do que você notou de diferente."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Urgência"
+  },
+  {
+   "type": "p",
+   "html": "Em caso de falta de ar, trauma, convulsão, suspeita de envenenamento ou gato macho sem conseguir urinar, procure o atendimento mais perto de você na hora. Fora do horário da Pink Vet, um hospital veterinário 24 horas."
+  }
+ ],
+ "faq": [
+  {
+   "q": "O Pet Shop Palmira tem veterinário?",
+   "a": "Não. A loja não é clínica. Indicamos a Pink Vet."
+  },
+  {
+   "q": "Preciso marcar horário na Pink Vet?",
+   "a": "O ideal é agendar pelo WhatsApp (11) 93317-1589 antes de sair de casa."
+  },
+  {
+   "q": "A Pink Vet abre aos sábados?",
+   "a": "Abre, das 9h às 16h."
+  }
+ ],
+ "humanizado": true
 }
