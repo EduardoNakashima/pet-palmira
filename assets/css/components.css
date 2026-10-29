@@ -911,3 +911,43 @@
   }
   .main-nav.open ul { flex-direction: column; padding: 16px 5%; gap: 18px; }
 }
+
+/* ---- SOBRE NÓS (página) ---- */
+.about-hero { padding-top: 140px; }
+.about-photo { margin: 0; position: relative; }
+.about-photo img {
+  display: block; width: 100%; height: auto; border-radius: var(--rl);
+  box-shadow: 0 16px 40px rgba(26,92,46,.16);
+}
+.about-photo figcaption {
+  position: absolute; left: 16px; bottom: 16px; background: rgba(255,255,255,.92);
+  color: var(--gd); font-weight: 800; font-size: 13px; padding: 8px 14px; border-radius: var(--rp);
+}
+.about-actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 8px; }
+.about-grid-rev .about-photo { order: -1; }
+.about-text h2 .acc { color: var(--gm); }
+.about-services { grid-template-columns: repeat(3, 1fr); }
+
+.about-stats { background: var(--gd); padding: 36px var(--gutter); }
+.stats-list { display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; list-style: none; margin: 0; padding: 0; text-align: center; }
+.stats-list strong { display: block; font-family: 'Fredoka One', cursive; font-size: 38px; color: var(--go); line-height: 1.1; }
+.stats-list span { display: block; color: rgba(255,255,255,.88); font-weight: 700; font-size: 14px; margin-top: 6px; }
+
+.about-gallery { display: grid; grid-template-columns: repeat(4, 1fr); gap: 18px; list-style: none; margin: 0; padding: 0; }
+.about-gallery li { position: relative; border-radius: var(--rl); overflow: hidden; }
+.about-gallery img { display: block; width: 100%; height: auto; aspect-ratio: 1; object-fit: cover; transition: transform .4s ease; }
+.about-gallery li:hover img { transform: scale(1.04); }
+.about-gallery span {
+  position: absolute; left: 0; right: 0; bottom: 0; padding: 28px 14px 12px;
+  background: linear-gradient(transparent, rgba(26,45,32,.82)); color: #fff; font-weight: 800; font-size: 14px;
+}
+
+@media (max-width: 900px) {
+  .about-hero { padding-top: 110px; }
+  .about-grid-rev .about-photo { order: 0; }
+  .stats-list, .about-gallery { grid-template-columns: repeat(2, 1fr); }
+  .about-services { grid-template-columns: 1fr; }
+}
+@media (max-width: 480px) {
+  .stats-list strong { font-size: 30px; }
+}
