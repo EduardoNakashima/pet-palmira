@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://petshoppalmira.com.br/sitemap.xml
+Sitemap: https://petshoppalmira.com.br/sitemaps/sitemap-seo.xml

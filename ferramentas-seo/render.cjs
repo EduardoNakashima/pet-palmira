@@ -442,3 +442,20 @@ const urls = list.map(it => `  <url>
   </url>`).join('\n');
 fs.writeFileSync(smFile, sm.replace('</urlset>', urls + '\n</urlset>'));
 console.log('índice e sitemap atualizados:', list.length, 'páginas');
+
+// Sitemap só das páginas SEO, para enviar à indexação: sitemaps/sitemap-seo.xml
+const hoje = new Date().toISOString().slice(0, 10);
+fs.mkdirSync(path.join(PROJ, 'sitemaps'), { recursive: true });
+fs.writeFileSync(path.join(PROJ, 'sitemaps', 'sitemap-seo.xml'), `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>${SITE}/informacoes/</loc>
+    <lastmod>${hoje}</lastmod>
+  </url>
+${list.map(it => `  <url>
+    <loc>${SITE}/informacoes/${it.slug}</loc>
+    <lastmod>${hoje}</lastmod>
+  </url>`).join('\n')}
+</urlset>
+`);
+console.log('sitemaps/sitemap-seo.xml:', list.length + 1, 'URLs');

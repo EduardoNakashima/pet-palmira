@@ -17,6 +17,7 @@ Não edite o HTML das páginas à mão: edite o texto em `textos/` e gere de nov
 | `lista.cjs` | Monta `lista-paginas.json`: 50 guias gerais + 5 palavras x 20 bairros |
 | `lista-paginas.json` | Lista das 150 páginas usada pelo render |
 | `render.cjs` | Gera `Informacoes/<slug>.html` a partir de `dados/`, o índice de Informações e as URLs do sitemap |
+| `../sitemaps/sitemap-seo.xml` | Sitemap só das páginas SEO (gerado pelo render), para enviar à indexação |
 | `checar.cjs` | Confere as páginas por bairro: tamanho, títulos repetidos e semelhança entre bairros |
 | `planejamento-100-paginas-seo.json` | Planejamento original das 100 páginas |
 | `extract.cjs`, `new-pages.cjs`, `fix-data.cjs`, `fix.cjs` | Etapas antigas (extração das páginas antigas e correções de fatos), mantidas como referência |
