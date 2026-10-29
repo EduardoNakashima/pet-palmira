@@ -442,3 +442,4 @@ const urls = list.map(it => `  <url>
   </url>`).join('\n');
 fs.writeFileSync(smFile, sm.replace('</urlset>', urls + '\n</urlset>'));
 console.log('índice e sitemap atualizados:', list.length, 'páginas');
+

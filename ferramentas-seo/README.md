@@ -17,6 +17,7 @@ Não edite o HTML das páginas à mão: edite o texto em `textos/` e gere de nov
 | `lista.cjs` | Monta `lista-paginas.json`: 50 guias gerais + 5 palavras x 20 bairros |
 | `lista-paginas.json` | Lista das 150 páginas usada pelo render |
 | `render.cjs` | Gera `Informacoes/<slug>.html` a partir de `dados/`, o índice de Informações e as URLs do sitemap |
+| `sitemap-seo.cjs` | Gera o XML só das páginas SEO em `sitemaps/<Nome>-<dd-mm-aaaa>.xml`, para enviar à indexação |
 | `checar.cjs` | Confere as páginas por bairro: tamanho, títulos repetidos e semelhança entre bairros |
 | `planejamento-100-paginas-seo.json` | Planejamento original das 100 páginas |
 | `extract.cjs`, `new-pages.cjs`, `fix-data.cjs`, `fix.cjs` | Etapas antigas (extração das páginas antigas e correções de fatos), mantidas como referência |
@@ -30,6 +31,18 @@ node ferramentas-seo/humanize.cjs ferramentas-seo/textos ferramentas-seo/dados
 node ferramentas-seo/checar.cjs ferramentas-seo/dados ferramentas-seo/lista-paginas.json
 NODE_PATH=ferramentas-seo/node_modules node ferramentas-seo/render.cjs . ferramentas-seo/dados ferramentas-seo/lista-paginas.json
 ```
+
+## XML para indexação
+
+Todo XML pedido para indexação leva o nome e a data no nome do arquivo, na pasta `sitemaps/`
+(ex.: `sitemaps/Sitemaps-28-10-2026.xml`). Para gerar um novo:
+
+```bash
+node ferramentas-seo/sitemap-seo.cjs . Sitemaps            # data de hoje
+node ferramentas-seo/sitemap-seo.cjs . Sitemaps 2026-10-28 # data escolhida
+```
+
+Depois, cite o arquivo novo no `robots.txt`.
 
 ## Páginas por bairro
 
