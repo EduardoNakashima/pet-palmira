@@ -73,7 +73,7 @@ h1, h2, h3 { font-family: var(--display); font-weight: 800; line-height: 1.12; c
 img { display: block; max-width: 100%; height: auto; }
 a { color: inherit; }
 .miolo { width: min(1080px, 100% - 32px); margin-inline: auto; }
-.estreito { max-width: 640px; }
+.estreito > * { max-width: 640px; }
 .bloco { padding: 72px 0; }
 .bloco h2 { font-size: var(--t-2xl); margin-bottom: 12px; }
 .bloco .apoio { font-size: var(--t-md); max-width: 34em; margin-bottom: 32px; }
@@ -123,7 +123,6 @@ a { color: inherit; }
 .citacoes blockquote p { font-family: var(--display); font-weight: 600; font-size: var(--t-md); line-height: 1.35; margin-bottom: 12px; }
 .citacoes blockquote:first-child p { font-size: var(--t-xl); color: var(--petroleo); }
 .citacoes cite { font-style: normal; font-weight: 700; font-size: var(--t-sm); }
-.fonte { margin-top: 32px; font-size: var(--t-sm); }
 
 /* Como agendar: é uma sequência, então leva números */
 .passos { list-style: none; counter-reset: p; display: grid; grid-template-columns: repeat(3, 1fr); gap: 32px; }
@@ -259,7 +258,7 @@ a { color: inherit; }
   <section class="bloco avaliacoes">
     <div class="miolo">
       <h2>O que dizem os tutores</h2>
-      <p class="apoio">Nota 5,0 no Google.</p>
+      <p class="apoio">Avaliações publicadas no Google Maps, onde a Pink Vet tem nota 5,0.</p>
       <div class="citacoes">
         <blockquote>
           <p>"Ótima clínica veterinária, tudo limpinho e organizado, profissionais cuidadosos. Super aprovado!"</p>
@@ -274,7 +273,6 @@ a { color: inherit; }
           <cite>Rone C.</cite>
         </blockquote>
       </div>
-      <p class="fonte">Avaliações publicadas no Google Maps.</p>
     </div>
   </section>
 
