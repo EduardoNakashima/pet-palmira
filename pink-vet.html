@@ -447,9 +447,11 @@ var LP = {
   // Botão fixo do celular: só aparece depois que o botão da abertura sai da tela
   var fixo = document.querySelector('.fixo');
   var principal = document.querySelector('.abertura .zap');
-  if ('IntersectionObserver' in window && fixo && principal) {
-    new IntersectionObserver(function (e) { fixo.classList.toggle('ver', !e[0].isIntersecting && e[0].boundingClientRect.top < 0); }).observe(principal);
-  } else if (fixo) { fixo.classList.add('ver'); }
+  function mostraFixo() { fixo.classList.toggle('ver', principal.getBoundingClientRect().bottom < 0); }
+  if (fixo && principal) {
+    window.addEventListener('scroll', mostraFixo, { passive: true });
+    mostraFixo();
+  }
 
   // Aberto ou fechado agora, pelo horário de Brasília
   try {
