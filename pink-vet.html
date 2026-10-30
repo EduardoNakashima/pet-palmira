@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-18543349339"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-18543349339');
+</script>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Veterinário no Jardim Palmira, Guarulhos | Pink Vet Consultório Veterinário</title>
@@ -475,25 +484,16 @@ footer strong { color: var(--ink); }
    ========================================================================== */
 var LP = {
   whatsapp: '5511933171589',
-  googleAdsId: '',
+  googleAdsId: 'AW-18543349339',
   conversionLabel: '',
   ga4Id: ''
 };
 
 (function () {
-  // Carrega a tag do Google só quando houver ID configurado
-  var tagId = LP.googleAdsId || LP.ga4Id;
+  // A tag do Google Ads já é carregada no <head>. Aqui só entra o GA4, se configurado.
   window.dataLayer = window.dataLayer || [];
-  window.gtag = function () { dataLayer.push(arguments); };
-  if (tagId) {
-    var s = document.createElement('script');
-    s.async = true;
-    s.src = 'https://www.googletagmanager.com/gtag/js?id=' + tagId;
-    document.head.appendChild(s);
-    gtag('js', new Date());
-    if (LP.googleAdsId) gtag('config', LP.googleAdsId);
-    if (LP.ga4Id) gtag('config', LP.ga4Id);
-  }
+  window.gtag = window.gtag || function () { dataLayer.push(arguments); };
+  if (LP.ga4Id) gtag('config', LP.ga4Id);
 
   function waUrl(msg) {
     return 'https://api.whatsapp.com/send?phone=' + LP.whatsapp + '&text=' + encodeURIComponent(msg);
