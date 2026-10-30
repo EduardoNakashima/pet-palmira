@@ -191,6 +191,9 @@ footer strong { color: var(--ink); }
 .float-wa svg { width: 30px; height: 30px; fill: var(--wh); }
 .float-wa:hover { background: var(--pk-dk); }
 
+/* Ocultar selo do Netlify, que ficava por cima do botão flutuante */
+#nl-badge-frame, .nl-badge { display: none !important; }
+
 @media (max-width: 860px) {
   .hero .wrap { grid-template-columns: 1fr; gap: 32px; }
   .place { grid-template-columns: 1fr; gap: 28px; }
