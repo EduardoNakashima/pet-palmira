@@ -120,9 +120,21 @@ section { padding: 72px 0; }
 
 /* Onde estamos (foto da fachada) */
 .place { display: grid; grid-template-columns: .9fr 1.1fr; gap: 48px; align-items: center; }
-.place figure { position: relative; }
-.place img { width: 100%; height: auto; aspect-ratio: 750 / 759; object-fit: cover; border-radius: 28px; box-shadow: var(--sh); display: block; }
-.place figcaption { position: absolute; left: 16px; bottom: 16px; background: rgba(255, 255, 255, .94); color: var(--ink); font-weight: 800; font-size: 14px; padding: 8px 14px; border-radius: 999px; }
+.place figure { position: relative; flex: 0 0 100%; scroll-snap-align: start; margin: 0; }
+.place img { width: 100%; height: auto; aspect-ratio: 1 / 1; object-fit: cover; display: block; }
+.place figcaption { position: absolute; left: 16px; bottom: 16px; right: 16px; width: fit-content; background: rgba(255, 255, 255, .94); color: var(--ink); font-weight: 800; font-size: 14px; padding: 8px 14px; border-radius: 999px; }
+
+/* Carrossel de fotos */
+.carousel { position: relative; min-width: 0; }
+.carousel-track { display: flex; overflow-x: auto; scroll-snap-type: x mandatory; scroll-behavior: smooth; border-radius: 28px; box-shadow: var(--sh); scrollbar-width: none; }
+.carousel-track::-webkit-scrollbar { display: none; }
+.carousel-btn { position: absolute; top: 50%; transform: translateY(-50%); width: 40px; height: 40px; border: 0; border-radius: 50%; background: rgba(255, 255, 255, .92); color: var(--pk); font-size: 22px; font-weight: 800; line-height: 1; cursor: pointer; box-shadow: 0 4px 14px rgba(0, 0, 0, .15); }
+.carousel-btn.prev { left: 12px; }
+.carousel-btn.next { right: 12px; }
+.carousel-btn:hover { background: var(--wh); }
+.carousel-dots { display: flex; justify-content: center; gap: 8px; margin-top: 14px; }
+.carousel-dots button { width: 10px; height: 10px; padding: 0; border: 0; border-radius: 50%; background: var(--pk-bd); cursor: pointer; transition: width .2s ease, background .2s ease; }
+.carousel-dots button[aria-current="true"] { width: 26px; border-radius: 999px; background: var(--pk); }
 .place h2 { font-size: clamp(26px, 4vw, 36px); margin: 14px 0 12px; }
 .place p { font-size: 17px; margin-bottom: 14px; }
 .place .info { margin: 22px 0 26px; }
@@ -314,10 +326,25 @@ footer strong { color: var(--ink); }
   <!-- ONDE ESTAMOS: foto real da fachada -->
   <section id="onde-estamos">
     <div class="wrap place">
-      <figure>
-        <img src="assets/images/pink-vet/fachada-pink-vet.webp" alt="Fachada rosa da Pink Vet, com o cachorro e o gato pintados no portão" width="750" height="759" loading="lazy">
-        <figcaption>📍 Av. Pedro de Souza Lopes, 33</figcaption>
-      </figure>
+      <div class="carousel" aria-roledescription="carrossel" aria-label="Fotos da Pink Vet">
+        <div class="carousel-track">
+          <figure>
+            <img src="assets/images/pink-vet/atendimento-cachorro-pink-vet.webp" alt="Veterinária da Pink Vet fazendo carinho em um cachorro idoso" width="1086" height="1448" loading="lazy" style="object-position: center 45%">
+            <figcaption>🐶 Atendimento com carinho</figcaption>
+          </figure>
+          <figure>
+            <img src="assets/images/pink-vet/atendimento-gato-pink-vet.webp" alt="Veterinária da Pink Vet abraçando um gato persa no consultório" width="1200" height="1600" loading="lazy" style="object-position: center 40%">
+            <figcaption>🐱 Cães e gatos</figcaption>
+          </figure>
+          <figure>
+            <img src="assets/images/pink-vet/fachada-pink-vet.webp" alt="Fachada rosa da Pink Vet, com o cachorro e o gato pintados no portão" width="750" height="759" loading="lazy">
+            <figcaption>📍 Av. Pedro de Souza Lopes, 33</figcaption>
+          </figure>
+        </div>
+        <button class="carousel-btn prev" type="button" aria-label="Foto anterior">‹</button>
+        <button class="carousel-btn next" type="button" aria-label="Próxima foto">›</button>
+        <div class="carousel-dots"></div>
+      </div>
       <div>
         <span class="eyebrow">Onde estamos</span>
         <h2>É só procurar a fachada rosa</h2>
@@ -532,6 +559,29 @@ var LP = {
     if (f.mensagem.value.trim()) linhas.push('Detalhes: ' + f.mensagem.value.trim());
     track('formulario');
     window.open(waUrl(linhas.join('\n')), '_blank', 'noopener');
+  });
+
+  // Carrossel de fotos: setas, bolinhas e rolagem com o dedo
+  document.querySelectorAll('.carousel').forEach(function (c) {
+    var track = c.querySelector('.carousel-track');
+    var slides = track.children;
+    var dots = c.querySelector('.carousel-dots');
+    function atual() { return Math.round(track.scrollLeft / track.clientWidth); }
+    function ir(i) { track.scrollTo({ left: ((i + slides.length) % slides.length) * track.clientWidth }); }
+    Array.prototype.forEach.call(slides, function (s, i) {
+      var b = document.createElement('button');
+      b.type = 'button';
+      b.setAttribute('aria-label', 'Foto ' + (i + 1));
+      b.addEventListener('click', function () { ir(i); });
+      dots.appendChild(b);
+    });
+    function marcar() {
+      Array.prototype.forEach.call(dots.children, function (b, i) { b.setAttribute('aria-current', i === atual() ? 'true' : 'false'); });
+    }
+    track.addEventListener('scroll', marcar, { passive: true });
+    c.querySelector('.prev').addEventListener('click', function () { ir(atual() - 1); });
+    c.querySelector('.next').addEventListener('click', function () { ir(atual() + 1); });
+    marcar();
   });
 
   // Mostra se o consultório está aberto agora (horário de Brasília)
