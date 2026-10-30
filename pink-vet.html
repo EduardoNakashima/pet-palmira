@@ -566,8 +566,12 @@ var LP = {
     var track = c.querySelector('.carousel-track');
     var slides = track.children;
     var dots = c.querySelector('.carousel-dots');
-    function atual() { return Math.round(track.scrollLeft / track.clientWidth); }
-    function ir(i) { track.scrollTo({ left: ((i + slides.length) % slides.length) * track.clientWidth }); }
+    var pos = 0, fim;
+    function ir(i) {
+      pos = (i + slides.length) % slides.length;
+      track.scrollTo({ left: pos * track.clientWidth });
+      marcar();
+    }
     Array.prototype.forEach.call(slides, function (s, i) {
       var b = document.createElement('button');
       b.type = 'button';
@@ -576,11 +580,15 @@ var LP = {
       dots.appendChild(b);
     });
     function marcar() {
-      Array.prototype.forEach.call(dots.children, function (b, i) { b.setAttribute('aria-current', i === atual() ? 'true' : 'false'); });
+      Array.prototype.forEach.call(dots.children, function (b, i) { b.setAttribute('aria-current', i === pos ? 'true' : 'false'); });
     }
-    track.addEventListener('scroll', marcar, { passive: true });
-    c.querySelector('.prev').addEventListener('click', function () { ir(atual() - 1); });
-    c.querySelector('.next').addEventListener('click', function () { ir(atual() + 1); });
+    // Quando a pessoa arrasta com o dedo, atualiza a posição só depois que a rolagem para
+    track.addEventListener('scroll', function () {
+      clearTimeout(fim);
+      fim = setTimeout(function () { pos = Math.round(track.scrollLeft / track.clientWidth); marcar(); }, 150);
+    }, { passive: true });
+    c.querySelector('.prev').addEventListener('click', function () { ir(pos - 1); });
+    c.querySelector('.next').addEventListener('click', function () { ir(pos + 1); });
     marcar();
   });
 
